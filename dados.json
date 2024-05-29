@@ -1,0 +1,48 @@
+[
+    {
+        "data": "28-01-2024",
+        "pi": "teste",
+        "inv": "8002183",
+        "moeda": "USD",
+        "montante": "429.866,00",
+        "saldo": "429.866,00",
+        "nome": "KONGSBERG MARITIME AS",
+        "cod": "teste2"
+    },
+    {
+        "data": "28-01-2024",
+        "pi": "teste",
+        "inv": "2022685",
+        "moeda": "EUR",
+        "montante": "6.015,00",
+        "saldo": "6.015,00",
+        "nome": "TSCHUDI SHIP MANAGEMENT AS",
+        "cod": "teste2"
+    },
+    {
+        "data": "31-01-2024",
+        "pi": "3836881",
+        "inv": "31122023",
+        "moeda": "EUR",
+        "montante": "-440140.00",
+        "saldo": "29580.64",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "pi": "",
+        "inv": "000747431",
+        "moeda": "NOK",
+        "valor": "1000",
+        "nome": "",
+        "cod": ""
+    },
+    {
+        "pi": "",
+        "inv": "01401514",
+        "moeda": "GBP",
+        "valor": "2000",
+        "nome": "",
+        "cod": ""
+    }
+]

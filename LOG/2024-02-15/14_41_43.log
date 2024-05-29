@@ -1,0 +1,42 @@
+2024-02-15 14:41:51.928Z;functions.bot_text_art;      ____   
+2024-02-15 14:41:51.928Z;functions.bot_text_art;     [____]    
+2024-02-15 14:41:51.928Z;functions.bot_text_art;   |=]()()[=|  
+2024-02-15 14:41:51.928Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-15 14:41:51.928Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-15 14:41:51.928Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-15 14:41:51.928Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-15 14:41:51.928Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-15 14:41:51.928Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-15 14:41:51.928Z;functions.bot_text_art;     |_||_|                                                     
+2024-02-15 14:41:51.928Z;functions.bot_text_art;     | ||_|_   
+2024-02-15 14:41:51.928Z;functions.bot_text_art;   |___||___|  
+2024-02-15 14:41:51.928Z;functions.bot_text_art;               
+2024-02-15 14:41:51.928Z;functions.headerExcel;  Criando EXCEL
+2024-02-15 14:41:51.928Z;functions.headerExcel;  EXCEL iniciado
+2024-02-15 14:41:52.169Z;functions.open_RM;  OPEN PROGRAM RM
+2024-02-15 14:50:35.067Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'double_click'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 13, in <module>
+    loggin_RM()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 63, in loggin_RM
+    user_rm.double_click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'double_click'
+2024-02-15 14:50:43.504Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+2024-02-15 14:50:43.520Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+2024-02-15 14:50:43.529Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+2024-02-15 14:50:43.530Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+2024-02-15 14:50:43.532Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+2024-02-15 14:50:43.533Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+2024-02-15 14:50:43.587Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+2024-02-15 14:50:43.615Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+2024-02-15 14:50:43.617Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+2024-02-15 14:50:43.619Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+2024-02-15 14:50:43.620Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+2024-02-15 14:50:43.621Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+2024-02-15 14:50:43.622Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+2024-02-15 14:50:43.636Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+2024-02-15 14:50:43.641Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+2024-02-15 14:50:43.641Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+2024-02-15 14:50:43.642Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+2024-02-15 14:50:43.653Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

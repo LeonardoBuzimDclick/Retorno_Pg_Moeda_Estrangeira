@@ -1,0 +1,10 @@
+07-12-2023 11:30:42.691Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+07-12-2023 11:30:57.334Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 494 registros?
+07-12-2023 11:30:59.338Z;functions.check_table_record;  NUMERO DE TUPLAS: 494
+07-12-2023 11:30:59.340Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+07-12-2023 11:31:08.428Z;functions.check_table_record;  CLICK NÃO
+07-12-2023 11:31:14.834Z;functions.check_inv;  SELECIONA A PRIMEIRA LINHA REF LANÇAMENTO
+07-12-2023 11:31:16.473Z;functions.check_inv;  16 PASSOS PARA DIREITA

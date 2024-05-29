@@ -1,0 +1,40 @@
+21-11-2023 14:54:35.493Z;functions.bot_text_art;      ____   
+21-11-2023 14:54:35.494Z;functions.bot_text_art;     [____]    
+21-11-2023 14:54:35.495Z;functions.bot_text_art;   |=]()()[=|  
+21-11-2023 14:54:35.495Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+21-11-2023 14:54:35.495Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+21-11-2023 14:54:35.496Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+21-11-2023 14:54:35.496Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+21-11-2023 14:54:35.497Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+21-11-2023 14:54:35.499Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+21-11-2023 14:54:35.500Z;functions.bot_text_art;     |_||_|                                                     
+21-11-2023 14:54:35.501Z;functions.bot_text_art;     | ||_|_   
+21-11-2023 14:54:35.502Z;functions.bot_text_art;   |___||___|  
+21-11-2023 14:54:35.502Z;functions.bot_text_art;               
+21-11-2023 14:54:35.510Z;functions.open_RM;  OPEN PROGRAM RM
+21-11-2023 14:55:02.519Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'double_click'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 12, in <module>
+    loggin_RM()
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 60, in loggin_RM
+    user_rm.double_click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'double_click'
+21-11-2023 14:55:05.682Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+21-11-2023 14:55:05.745Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+21-11-2023 14:55:05.810Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+21-11-2023 14:55:05.842Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+21-11-2023 14:55:05.881Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+21-11-2023 14:55:05.903Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+21-11-2023 14:55:06.027Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+21-11-2023 14:55:06.087Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+21-11-2023 14:55:06.090Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+21-11-2023 14:55:06.092Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+21-11-2023 14:55:06.094Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+21-11-2023 14:55:06.096Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+21-11-2023 14:55:06.098Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+21-11-2023 14:55:06.121Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+21-11-2023 14:55:06.128Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+21-11-2023 14:55:06.130Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+21-11-2023 14:55:06.131Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+21-11-2023 14:55:06.134Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

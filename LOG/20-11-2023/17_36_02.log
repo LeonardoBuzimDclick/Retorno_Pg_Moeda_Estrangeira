@@ -1,0 +1,46 @@
+20-11-2023 17:36:17.774Z;functions.check_pix;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+20-11-2023 17:36:19.880Z;functions.check_pix;  CLICK ENTER
+20-11-2023 17:36:19.882Z;functions.check_pix;  NUMERO DE TUPLAS: 8
+20-11-2023 17:36:22.290Z;functions.check_pix;  CHECA TODOS OS LANÇAMENTOS PIX
+20-11-2023 17:36:22.396Z;functions.check_pix;  REF. LANÇAMENTO: 547293
+20-11-2023 17:36:22.501Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 17:36:29.612Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 17:36:31.727Z;functions.check_pix;  CLICA EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 17:36:33.911Z;functions.waitForImage;  PIX image found.
+20-11-2023 17:36:36.045Z;functions.check_pix;  CLICA EM PIX
+20-11-2023 17:36:36.047Z;functions.check_pix;  VERIFICANDO INFORMAÇÕES
+20-11-2023 17:36:37.843Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+20-11-2023 17:36:39.844Z;functions.check_pix;  FORMA DE PAGAMENTO TRANSFERÊNCIA PIX
+20-11-2023 17:36:39.845Z;functions.check_data_pix;  CHECANDO DADOS CHAVE PIX
+20-11-2023 17:36:40.057Z;functions.waitForImage;  TIPO DE CHAVE PIX image found.
+20-11-2023 17:36:42.059Z;functions.check_data_pix;  TIPO DE CHAVE PIX PREENCHIDA
+20-11-2023 17:36:42.060Z;functions.check_data_pix;  CHECANDO A CHAVE PIX
+20-11-2023 17:36:42.261Z;functions.waitForImage;  CHAVE PIX image found.
+20-11-2023 17:36:44.262Z;functions.check_data_pix;  CHAVE PIX PREENCHIDA
+20-11-2023 17:36:44.475Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-11-2023 17:36:46.597Z;functions.check_pix;  PRESS BUTTON OK
+20-11-2023 17:36:48.817Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+20-11-2023 17:36:50.930Z;functions.check_pix;  PRESS BUTTON OK 2
+20-11-2023 17:36:55.933Z;functions.check_pix;  CHECA TODOS OS LANÇAMENTOS PIX
+20-11-2023 17:36:56.038Z;functions.check_pix;  REF. LANÇAMENTO: 547293
+20-11-2023 17:36:56.142Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 17:37:02.440Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 17:37:04.594Z;functions.check_pix;  CLICA EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 17:37:06.788Z;functions.waitForImage;  PIX image found.
+20-11-2023 17:37:08.921Z;functions.check_pix;  CLICA EM PIX
+20-11-2023 17:37:08.922Z;functions.check_pix;  VERIFICANDO INFORMAÇÕES
+20-11-2023 17:37:10.574Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+20-11-2023 17:37:12.575Z;functions.check_pix;  FORMA DE PAGAMENTO TRANSFERÊNCIA PIX
+20-11-2023 17:37:12.576Z;functions.check_data_pix;  CHECANDO DADOS CHAVE PIX
+20-11-2023 17:37:12.776Z;functions.waitForImage;  TIPO DE CHAVE PIX image found.
+20-11-2023 17:37:14.778Z;functions.check_data_pix;  TIPO DE CHAVE PIX PREENCHIDA
+20-11-2023 17:37:14.779Z;functions.check_data_pix;  CHECANDO A CHAVE PIX
+20-11-2023 17:37:14.977Z;functions.waitForImage;  CHAVE PIX image found.
+20-11-2023 17:37:16.979Z;functions.check_data_pix;  CHAVE PIX PREENCHIDA
+20-11-2023 17:37:17.188Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-11-2023 17:37:19.315Z;functions.check_pix;  PRESS BUTTON OK
+20-11-2023 17:37:21.504Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+20-11-2023 17:37:23.621Z;functions.check_pix;  PRESS BUTTON OK 2

@@ -1,0 +1,15 @@
+07-12-2023 17:49:21.790Z;functions.waitForImage;  FILTER CLEAN image found.
+07-12-2023 17:49:21.911Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+07-12-2023 17:49:27.467Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+07-12-2023 17:49:29.303Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+07-12-2023 17:49:29.540Z;functions.show_exception_and_exit;  PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 18, in <module>
+    select_tipo_documento()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 183, in select_tipo_documento
+    pyautogui.moveTo(x,y)
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyautogui\__init__.py", line 593, in wrapper
+    failSafeCheck()
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyautogui\__init__.py", line 1734, in failSafeCheck
+    raise FailSafeException(
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.

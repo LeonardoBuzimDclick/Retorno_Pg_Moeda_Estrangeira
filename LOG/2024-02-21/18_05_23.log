@@ -1,0 +1,33 @@
+2024-02-21 18:05:23,632; INFO; functions.getPid.919: Dentro função GetPid
+
+2024-02-21 18:05:23,974; INFO; functions.bot_text_art.7:     ____   
+2024-02-21 18:05:23,974; INFO; functions.bot_text_art.8:    [____]    
+2024-02-21 18:05:23,974; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-21 18:05:23,975; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-21 18:05:23,975; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-21 18:05:23,975; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-21 18:05:23,975; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-21 18:05:23,976; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-21 18:05:23,977; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-21 18:05:23,977; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-21 18:05:23,977; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-21 18:05:23,977; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-21 18:05:23,977; INFO; functions.bot_text_art.19:              
+2024-02-21 18:05:23,977; INFO; functions.headerExcel.874: Criando EXCEL
+2024-02-21 18:05:23,979; INFO; functions.headerExcel.893: EXCEL iniciado
+2024-02-21 18:05:23,981; INFO; main.process.13: SERÃO TRATADOS 2 ARQUIVOS.
+2024-02-21 18:05:23,981; INFO; main.process.18: ARQUIVO A SER TRATADO: \
+2024-02-21 18:05:23,982; ERROR; functions.show_exception_and_exit.24: [Errno 2] No such file or directory: '\\'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 143, in <module>
+    process()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 26, in process
+    extrato_list_nao_tratado, erro_invoice = informacoes_extraidas(arquivo)
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 523, in informacoes_extraidas
+    with pdfplumber.open(arquivo_extrato) as pdf:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pdfplumber\pdf.py", line 84, in open
+    stream = open(path_or_fp, "rb")
+             ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '\\'

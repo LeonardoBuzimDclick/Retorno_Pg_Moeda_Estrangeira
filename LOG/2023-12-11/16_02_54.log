@@ -1,0 +1,36 @@
+2023-12-11 16:02:55.884Z;functions.bot_text_art;      ____   
+2023-12-11 16:02:55.885Z;functions.bot_text_art;     [____]    
+2023-12-11 16:02:55.886Z;functions.bot_text_art;   |=]()()[=|  
+2023-12-11 16:02:55.887Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2023-12-11 16:02:55.889Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2023-12-11 16:02:55.891Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2023-12-11 16:02:55.893Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2023-12-11 16:02:55.895Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2023-12-11 16:02:55.898Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2023-12-11 16:02:55.900Z;functions.bot_text_art;     |_||_|                                                     
+2023-12-11 16:02:55.902Z;functions.bot_text_art;     | ||_|_   
+2023-12-11 16:02:55.903Z;functions.bot_text_art;   |___||___|  
+2023-12-11 16:02:55.904Z;functions.bot_text_art;               
+2023-12-11 16:02:55.905Z;functions.headerExcel;  Criando EXCEL
+2023-12-11 16:02:55.913Z;functions.headerExcel;  EXCEL iniciado
+2023-12-11 16:02:55.923Z;functions.open_RM;  OPEN PROGRAM RM
+2023-12-11 16:03:11.008Z;functions.loggin_RM;  ENTER USER_NAME
+2023-12-11 16:03:12.454Z;functions.loggin_RM;  ENTER PASSWORD
+2023-12-11 16:03:13.630Z;functions.loggin_RM;  ENTER RM
+2023-12-11 16:03:50.568Z;functions.enter_coligada;  CLICK CONTEXTO
+2023-12-11 16:03:55.748Z;functions.enter_coligada;  CLICK COLIGADA 2
+2023-12-11 16:03:59.778Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+2023-12-11 16:03:59.920Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2023-12-11 16:04:01.473Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+2023-12-11 16:04:04.766Z;functions.enter_coligada;  CLICK CONCLUIR
+2023-12-11 16:04:29.841Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+2023-12-11 16:04:33.700Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+2023-12-11 16:04:36.680Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+2023-12-11 16:04:39.510Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+2023-12-11 16:04:46.965Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+2023-12-11 16:04:47.239Z;functions.waitForImage;  LANÇAMENTOS image found.
+2023-12-11 16:04:47.346Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+2023-12-11 16:04:58.943Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+2023-12-11 16:04:59.791Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+2023-12-11 16:05:01.909Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+2023-12-11 16:05:02.799Z;functions.filter_lancamento;  CLICK - BUTÃO DE EXECUTAR O FILTRO

@@ -1,0 +1,62 @@
+30-10-2023 17:10:33.801Z;functions.bot_text_art;      ____   
+30-10-2023 17:10:33.802Z;functions.bot_text_art;     [____]    
+30-10-2023 17:10:33.802Z;functions.bot_text_art;   |=]()()[=|  
+30-10-2023 17:10:33.802Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+30-10-2023 17:10:33.803Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+30-10-2023 17:10:33.803Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+30-10-2023 17:10:33.803Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+30-10-2023 17:10:33.804Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+30-10-2023 17:10:33.805Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+30-10-2023 17:10:33.805Z;functions.bot_text_art;     |_||_|                                                     
+30-10-2023 17:10:33.806Z;functions.bot_text_art;     | ||_|_   
+30-10-2023 17:10:33.806Z;functions.bot_text_art;   |___||___|  
+30-10-2023 17:10:33.806Z;functions.bot_text_art;               
+30-10-2023 17:10:33.816Z;functions.open_RM;  OPEN PROGRAM RM
+30-10-2023 17:10:41.285Z;functions.loggin_RM;  ENTER USER_NAME
+30-10-2023 17:10:42.102Z;functions.loggin_RM;  ENTER PASSWORD
+30-10-2023 17:10:42.783Z;functions.loggin_RM;  ENTER RM
+30-10-2023 17:11:03.706Z;functions.enter_coligada;  CLICK CONTEXTO
+30-10-2023 17:11:07.748Z;functions.enter_coligada;  CLICK COLIGADA 1
+30-10-2023 17:11:09.206Z;functions.enter_coligada;  CLICK AVANÇAR
+30-10-2023 17:11:11.038Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+30-10-2023 17:11:11.139Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+30-10-2023 17:11:12.144Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+30-10-2023 17:11:13.051Z;functions.enter_coligada;  CLICK CONCLUIR
+30-10-2023 17:11:23.589Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+30-10-2023 17:11:24.221Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+30-10-2023 17:11:25.311Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+30-10-2023 17:11:26.033Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+30-10-2023 17:11:31.333Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+30-10-2023 17:11:31.450Z;functions.waitForImage;  LANÇAMENTOS image found.
+30-10-2023 17:11:33.551Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+30-10-2023 17:11:35.553Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+30-10-2023 17:11:35.553Z;functions.data_filter;  QUARTA-FEIRA: 01-11-2023
+30-10-2023 17:11:35.553Z;functions.data_filter;  TERCA-FEIRA: 07-11-2023
+30-10-2023 17:11:41.736Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+30-10-2023 17:11:42.354Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+30-10-2023 17:11:44.520Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 01-11-2023
+30-10-2023 17:11:46.139Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 07-11-2023
+30-10-2023 17:11:46.785Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+30-10-2023 17:13:21.978Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+30-10-2023 17:13:23.212Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+30-10-2023 17:13:23.345Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+30-10-2023 17:13:23.665Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+30-10-2023 17:13:24.718Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+30-10-2023 17:13:31.755Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+30-10-2023 17:13:33.030Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+30-10-2023 17:13:33.875Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+30-10-2023 17:13:34.752Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+30-10-2023 17:13:35.707Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+30-10-2023 17:13:36.637Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+30-10-2023 17:13:37.499Z;functions.filter_IPTE;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+30-10-2023 17:13:48.095Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 18, in <module>
+    filter_IPTE()
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 277, in filter_IPTE
+    pyautogui.hotkey('right')
+  File "C:\Projetos\Remessas_Pix\venv\Lib\site-packages\pyautogui\__init__.py", line 595, in wrapper
+    _handlePause(kwargs.get("_pause", True))
+  File "C:\Projetos\Remessas_Pix\venv\Lib\site-packages\pyautogui\__init__.py", line 639, in _handlePause
+    time.sleep(PAUSE)
+KeyboardInterrupt

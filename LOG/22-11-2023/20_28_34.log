@@ -1,0 +1,358 @@
+22-11-2023 20:28:35.323Z;functions.bot_text_art;      ____   
+22-11-2023 20:28:35.323Z;functions.bot_text_art;     [____]    
+22-11-2023 20:28:35.323Z;functions.bot_text_art;   |=]()()[=|  
+22-11-2023 20:28:35.324Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+22-11-2023 20:28:35.324Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+22-11-2023 20:28:35.325Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+22-11-2023 20:28:35.326Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+22-11-2023 20:28:35.327Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+22-11-2023 20:28:35.329Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+22-11-2023 20:28:35.330Z;functions.bot_text_art;     |_||_|                                                     
+22-11-2023 20:28:35.330Z;functions.bot_text_art;     | ||_|_   
+22-11-2023 20:28:35.331Z;functions.bot_text_art;   |___||___|  
+22-11-2023 20:28:35.331Z;functions.bot_text_art;               
+22-11-2023 20:28:35.341Z;functions.open_RM;  OPEN PROGRAM RM
+22-11-2023 20:28:48.168Z;functions.loggin_RM;  ENTER USER_NAME
+22-11-2023 20:28:49.578Z;functions.loggin_RM;  ENTER PASSWORD
+22-11-2023 20:28:50.782Z;functions.loggin_RM;  ENTER RM
+22-11-2023 20:29:25.150Z;functions.enter_coligada;  CLICK CONTEXTO
+22-11-2023 20:29:30.274Z;functions.enter_coligada;  CLICK COLIGADA 1
+22-11-2023 20:29:32.523Z;functions.enter_coligada;  CLICK AVANÇAR
+22-11-2023 20:29:35.249Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+22-11-2023 20:29:35.459Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+22-11-2023 20:29:36.816Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+22-11-2023 20:29:38.186Z;functions.enter_coligada;  CLICK CONCLUIR
+22-11-2023 20:30:02.283Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+22-11-2023 20:30:03.125Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+22-11-2023 20:30:04.961Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+22-11-2023 20:30:07.748Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+22-11-2023 20:30:14.585Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+22-11-2023 20:30:15.470Z;functions.waitForImage;  LANÇAMENTOS image found.
+22-11-2023 20:30:17.575Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+22-11-2023 20:30:19.577Z;functions.data_filter;  DATA INICIO 22-11-2023
+22-11-2023 20:30:19.578Z;functions.data_filter;  DATA FIM 28-11-2023
+22-11-2023 20:30:19.580Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+22-11-2023 20:30:19.581Z;functions.data_filter;  QUARTA-FEIRA: 22-11-2023
+22-11-2023 20:30:19.582Z;functions.data_filter;  TERCA-FEIRA: 28-11-2023
+22-11-2023 20:30:30.205Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+22-11-2023 20:30:31.024Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+22-11-2023 20:30:34.305Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 22-11-2023
+22-11-2023 20:30:36.716Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 28-11-2023
+22-11-2023 20:30:37.648Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+22-11-2023 20:30:48.574Z;functions.waitForImage;  FILTER CLEAN image found.
+22-11-2023 20:30:50.687Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+22-11-2023 20:30:54.432Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+22-11-2023 20:30:56.192Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+22-11-2023 20:30:56.335Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+22-11-2023 20:30:56.664Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+22-11-2023 20:30:58.994Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+22-11-2023 20:31:06.284Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+22-11-2023 20:31:06.288Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+22-11-2023 20:31:19.237Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 10 registros?
+22-11-2023 20:31:21.241Z;functions.check_table_record;  NUMERO DE TUPLAS: 10
+22-11-2023 20:31:21.242Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+22-11-2023 20:31:30.227Z;functions.check_table_record;  CLICK NÃO
+22-11-2023 20:31:36.386Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+22-11-2023 20:31:42.525Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+22-11-2023 20:31:43.926Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+22-11-2023 20:31:45.248Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+22-11-2023 20:31:47.651Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+22-11-2023 20:31:48.786Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+22-11-2023 20:31:50.040Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+22-11-2023 20:31:51.147Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+22-11-2023 20:32:51.419Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+22-11-2023 20:32:53.421Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM ERRO.
+22-11-2023 20:32:56.547Z;functions.process_lancamentos;  CLICK NO LOG.
+22-11-2023 20:32:56.656Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+22-11-2023 20:32:56.763Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+22-11-2023 20:32:56.764Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+22-11-2023 20:32:56.768Z;functions.process_lancamentos;  Não foi possível alterar o lançamento 1-861567:
+Campo 'CodCxa' do lançamento '1-861567' não pode ser alterado em:
+- Lançamentos Faturados
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-861585:
+Campo 'CodCxa' do lançamento '1-861585' não pode ser alterado em:
+- Lançamentos Faturados
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-861590:
+Campo 'CodCxa' do lançamento '1-861590' não pode ser alterado em:
+- Lançamentos Faturados
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-861597:
+Campo 'CodCxa' do lançamento '1-861597' não pode ser alterado em:
+- Lançamentos Faturados
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-863038:
+Campo 'CodCxa' do lançamento '1-863038' não pode ser alterado em:
+- Lançamentos Faturados
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-863049:
+Campo 'CodCxa' do lançamento '1-863049' não pode ser alterado em:
+- Lançamentos Faturados
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-863060:
+Campo 'CodCxa' do lançamento '1-863060' não pode ser alterado em:
+- Lançamentos Faturados
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-863079:
+Campo 'CodCxa' do lançamento '1-863079' não pode ser alterado em:
+- Lançamentos Faturados
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-863094:
+Campo 'CodCxa' do lançamento '1-863094' não pode ser alterado em:
+- Lançamentos Faturados
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-863110:
+Campo 'CodCxa' do lançamento '1-863110' não pode ser alterado em:
+- Lançamentos Faturados
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+22-11-2023 20:32:57.714Z;functions.process_lancamentos;  CLICK EM FECHAR.
+22-11-2023 20:32:57.716Z;functions.process_lancamentos;  CORRESPONDENCIA ['861567', '861585', '861590', '861597', '863038', '863049', '863060', '863079', '863094', '863110']
+22-11-2023 20:33:05.935Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+22-11-2023 20:33:14.043Z;functions.check_pix;  REF. LANÇAMENTO: 861567
+22-11-2023 20:33:14.044Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 861567
+22-11-2023 20:33:16.893Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border: none;'. [1:174: {]
+22-11-2023 20:33:16.896Z;errorhandler.__handle;  Property: Unknown Property name. [1:204: -ms-interpolation-mode]
+22-11-2023 20:33:16.902Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:267: }]
+22-11-2023 20:33:16.907Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #f6f6f6;'. [1:281: {]
+22-11-2023 20:33:16.921Z;errorhandler.__handle;  Property: Unknown Property name. [1:356: -webkit-font-smoothing]
+22-11-2023 20:33:16.945Z;errorhandler.__handle;  Property: Unknown Property name. [1:486: -ms-text-size-adjust]
+22-11-2023 20:33:16.949Z;errorhandler.__handle;  Property: Unknown Property name. [1:521: -webkit-text-size-adjust]
+22-11-2023 20:33:16.951Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:559: }]
+22-11-2023 20:33:16.955Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border-collapse: separate;'. [1:574: {]
+22-11-2023 20:33:16.958Z;errorhandler.__handle;  Property: Unknown Property name. [1:617: mso-table-lspace]
+22-11-2023 20:33:16.963Z;errorhandler.__handle;  Property: Unknown Property name. [1:647: mso-table-rspace]
+22-11-2023 20:33:16.972Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:690: }]
+22-11-2023 20:33:16.976Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          font-family: sans-serif;'. [1:710: {]
+22-11-2023 20:33:16.986Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:808: }]
+22-11-2023 20:33:16.989Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #f6f6f6;'. [1:941: {]
+22-11-2023 20:33:16.992Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1003: }]
+22-11-2023 20:33:16.997Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        display: block;'. [1:1178: {]
+22-11-2023 20:33:17.003Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1342: }]
+22-11-2023 20:33:17.007Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:1452: {]
+22-11-2023 20:33:17.028Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1584: }]
+22-11-2023 20:33:17.032Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background: #ffffff;'. [1:1721: {]
+22-11-2023 20:33:17.040Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1804: }]
+22-11-2023 20:33:17.043Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:1822: {]
+22-11-2023 20:33:17.046Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1883: }]
+22-11-2023 20:33:17.049Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        padding-bottom: 10px;'. [1:1907: {]
+22-11-2023 20:33:17.054Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1969: }]
+22-11-2023 20:33:17.068Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        clear: both;'. [1:1986: {]
+22-11-2023 20:33:17.075Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2086: }]
+22-11-2023 20:33:17.078Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          color: #999999;'. [1:2165: {]
+22-11-2023 20:33:17.083Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2253: }]
+22-11-2023 20:33:17.086Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: #000000;'. [1:2404: {]
+22-11-2023 20:33:17.092Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2563: }]
+22-11-2023 20:33:17.095Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        font-size: 35px;'. [1:2575: {]
+22-11-2023 20:33:17.105Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2694: }]
+22-11-2023 20:33:17.109Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        font-family: sans-serif;'. [1:2723: {]
+22-11-2023 20:33:17.114Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2861: }]
+22-11-2023 20:33:17.144Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          list-style-position: inside;'. [1:2905: {]
+22-11-2023 20:33:17.152Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2978: }]
+22-11-2023 20:33:17.155Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: #3498db;'. [1:2989: {]
+22-11-2023 20:33:17.173Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3055: }]
+22-11-2023 20:33:17.178Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:3178: {]
+22-11-2023 20:33:17.182Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3231: }]
+22-11-2023 20:33:17.185Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          padding-bottom: 15px;'. [1:3265: {]
+22-11-2023 20:33:17.189Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3298: }]
+22-11-2023 20:33:17.192Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          width: auto;'. [1:3320: {]
+22-11-2023 20:33:17.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3350: }]
+22-11-2023 20:33:17.198Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          background-color: #ffffff;'. [1:3375: {]
+22-11-2023 20:33:17.203Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3477: }]
+22-11-2023 20:33:17.208Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          background-color: #ffffff;'. [1:3495: {]
+22-11-2023 20:33:17.387Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3892: }]
+22-11-2023 20:33:17.390Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #3498db;'. [1:3923: {]
+22-11-2023 20:33:17.392Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3965: }]
+22-11-2023 20:33:17.394Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #3498db;'. [1:3989: {]
+22-11-2023 20:33:17.427Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4084: }]
+22-11-2023 20:33:17.429Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-bottom: 0;'. [1:4234: {]
+22-11-2023 20:33:17.431Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4267: }]
+22-11-2023 20:33:17.433Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-top: 0;'. [1:4283: {]
+22-11-2023 20:33:17.435Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4313: }]
+22-11-2023 20:33:17.437Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: center;'. [1:4336: {]
+22-11-2023 20:33:17.439Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4371: }]
+22-11-2023 20:33:17.441Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: right;'. [1:4393: {]
+22-11-2023 20:33:17.443Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4427: }]
+22-11-2023 20:33:17.447Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: left;'. [1:4448: {]
+22-11-2023 20:33:17.450Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4481: }]
+22-11-2023 20:33:17.452Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        clear: both;'. [1:4497: {]
+22-11-2023 20:33:17.454Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4525: }]
+22-11-2023 20:33:17.457Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-top: 0;'. [1:4539: {]
+22-11-2023 20:33:17.459Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4569: }]
+22-11-2023 20:33:17.461Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-bottom: 0;'. [1:4583: {]
+22-11-2023 20:33:17.463Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4616: }]
+22-11-2023 20:33:17.466Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: transparent;'. [1:4636: {]
+22-11-2023 20:33:17.471Z;errorhandler.__handle;  Property: Unknown Property name. [1:4799: mso-hide]
+22-11-2023 20:33:17.474Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4864: }]
+22-11-2023 20:33:17.477Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-decoration: none;'. [1:4887: {]
+22-11-2023 20:33:17.479Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4925: }]
+22-11-2023 20:33:17.482Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border: 0;'. [1:4937: {]
+22-11-2023 20:33:17.485Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:5027: }]
+22-11-2023 20:33:17.490Z;errorhandler.__handle;  CSSStyleRule: No selector found: '{        table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}      }'. [1:5217: {]
+22-11-2023 20:33:17.501Z;errorhandler.__handle;  SelectorList: Unknown Syntax: ''
+22-11-2023 20:33:17.502Z;errorhandler.__handle;  Property: No ":" after name found: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}       [1:6259:       ]
+22-11-2023 20:33:17.511Z;errorhandler.__handle;  Property: No property value found: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}       [1:6259:       ]
+22-11-2023 20:33:17.520Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}      
+22-11-2023 20:33:17.531Z;errorhandler.__handle;  CSSStyleRule: No selector found: '{        .ExternalClass {{          width: 100%;         }}        .ExternalClass,        .ExternalClass p,        .ExternalClass span,        .ExternalClass font,        .ExternalClass td,        .ExternalClass div {{          line-height: 100%;         }}        .apple-link a {{          color: inherit !important;          font-family: inherit !important;          font-size: inherit !important;          font-weight: inherit !important;          line-height: inherit !important;          text-decoration: none !important;         }}        #MessageViewBody a {{          color: inherit;          text-decoration: none;          font-size: inherit;          font-family: inherit;          font-weight: inherit;          line-height: inherit;        }}        .btn-primary table td:hover {{          background-color: #34495e !important;         }}        .btn-primary a:hover {{          background-color: #34495e !important;          border-color: #34495e !important;         }}       }'. [1:6420: {]
+22-11-2023 20:33:17.540Z;errorhandler.__handle;  SelectorList: Unknown Syntax: ''
+22-11-2023 20:33:17.543Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '.ExternalClass {{          width: 100%;         }}        .ExternalClass,        .ExternalClass p,        .ExternalClass span,        .ExternalClass font,        .ExternalClass td,        .ExternalClass div {{          line-height: 100%;         }}        .apple-link a {{          color: inherit !important;          font-family: inherit !important;          font-size: inherit !important;          font-weight: inherit !important;          line-height: inherit !important;          text-decoration: none !important;         }}        #MessageViewBody a {{          color: inherit;          text-decoration: none;          font-size: inherit;          font-family: inherit;          font-weight: inherit;          line-height: inherit;        }}        .btn-primary table td:hover {{          background-color: #34495e !important;         }}        .btn-primary a:hover {{          background-color: #34495e !important;          border-color: #34495e !important;         }}       '. [1:6429: .]
+22-11-2023 20:33:17.564Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:33:17.567Z;errorhandler.__handle;  Property: Unknown Property name. [1:24: -webkit-font-smoothing]
+22-11-2023 20:33:17.571Z;errorhandler.__handle;  Property: Unknown Property name. [1:109: -ms-text-size-adjust]
+22-11-2023 20:33:17.574Z;errorhandler.__handle;  Property: Unknown Property name. [1:135: -webkit-text-size-adjust]
+22-11-2023 20:33:17.578Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: mso-table-lspace]
+22-11-2023 20:33:17.580Z;errorhandler.__handle;  Property: Unknown Property name. [1:20: mso-table-rspace]
+22-11-2023 20:33:17.600Z;errorhandler.__handle;  Property: Unknown Property name. [1:74: mso-hide]
+22-11-2023 20:33:17.609Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+22-11-2023 20:33:17.611Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+22-11-2023 20:33:17.613Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+22-11-2023 20:33:17.616Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:33:19.565Z;functions.emailErro;  Success e-mail sent.
+22-11-2023 20:33:29.772Z;functions.check_pix;  REF. LANÇAMENTO: 861585
+22-11-2023 20:33:29.773Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 861585
+22-11-2023 20:33:31.798Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:33:33.833Z;functions.emailErro;  Success e-mail sent.
+22-11-2023 20:33:44.041Z;functions.check_pix;  REF. LANÇAMENTO: 861590
+22-11-2023 20:33:44.042Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 861590
+22-11-2023 20:33:45.103Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:33:47.271Z;functions.emailErro;  Success e-mail sent.
+22-11-2023 20:33:57.478Z;functions.check_pix;  REF. LANÇAMENTO: 861597
+22-11-2023 20:33:57.479Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 861597
+22-11-2023 20:33:59.066Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:34:01.136Z;functions.emailErro;  Success e-mail sent.
+22-11-2023 20:34:11.344Z;functions.check_pix;  REF. LANÇAMENTO: 863038
+22-11-2023 20:34:11.345Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 863038
+22-11-2023 20:34:12.399Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:34:14.406Z;functions.emailErro;  Success e-mail sent.
+22-11-2023 20:34:24.613Z;functions.check_pix;  REF. LANÇAMENTO: 863049
+22-11-2023 20:34:24.615Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 863049
+22-11-2023 20:34:25.692Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:34:27.707Z;functions.emailErro;  Success e-mail sent.
+22-11-2023 20:34:37.914Z;functions.check_pix;  REF. LANÇAMENTO: 863060
+22-11-2023 20:34:37.915Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 863060
+22-11-2023 20:34:38.992Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:34:41.109Z;functions.emailErro;  Success e-mail sent.
+22-11-2023 20:34:51.317Z;functions.check_pix;  REF. LANÇAMENTO: 863079
+22-11-2023 20:34:51.318Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 863079
+22-11-2023 20:34:52.401Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:34:54.423Z;functions.emailErro;  Success e-mail sent.
+22-11-2023 20:35:04.630Z;functions.check_pix;  REF. LANÇAMENTO: 863094
+22-11-2023 20:35:04.631Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 863094
+22-11-2023 20:35:06.235Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:35:08.379Z;functions.emailErro;  Success e-mail sent.
+22-11-2023 20:35:18.586Z;functions.check_pix;  REF. LANÇAMENTO: 863110
+22-11-2023 20:35:18.587Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 863110
+22-11-2023 20:35:19.654Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:35:21.749Z;functions.emailErro;  Success e-mail sent.
+22-11-2023 20:35:23.853Z;functions.proccess_bordero;  VERIFICANDO SE TEM REMESSAS A SEREM LANÇADAS
+22-11-2023 20:35:25.854Z;functions.proccess_bordero;  SEM REMESSAS PIX
+22-11-2023 20:35:28.904Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+22-11-2023 20:35:30.982Z;functions.emailSuccess;  Success e-mail sent.
+22-11-2023 20:35:30.983Z;functions.proccess_bordero;  ENCERRANDO O PROGRAMA
+22-11-2023 20:35:33.089Z;functions.encerra_prog;  FECHA A TABELA
+22-11-2023 20:35:35.193Z;functions.encerra_prog;  FECHA O PROGRAMA
+22-11-2023 20:35:37.311Z;functions.encerra_prog;  RM ENCERRADO

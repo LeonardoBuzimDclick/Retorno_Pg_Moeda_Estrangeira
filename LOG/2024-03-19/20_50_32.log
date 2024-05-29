@@ -1,0 +1,244 @@
+2024-03-19 20:50:32,473; INFO; parameters.<module>.102: Pasta local: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março
+2024-03-19 20:50:32,489; INFO; functions.getPid.974: Dentro função GetPid
+
+2024-03-19 20:50:33,286; INFO; functions.bot_text_art.7:     ____   
+2024-03-19 20:50:33,286; INFO; functions.bot_text_art.8:    [____]    
+2024-03-19 20:50:33,286; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-03-19 20:50:33,286; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-03-19 20:50:33,286; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-03-19 20:50:33,286; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-03-19 20:50:33,286; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-03-19 20:50:33,286; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-03-19 20:50:33,286; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-03-19 20:50:33,299; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-03-19 20:50:33,300; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-03-19 20:50:33,303; INFO; functions.bot_text_art.18:  |___||___|  
+2024-03-19 20:50:33,305; INFO; functions.bot_text_art.19:              
+2024-03-19 20:50:33,306; INFO; functions.headerExcel.907: Criando EXCEL
+2024-03-19 20:50:33,311; INFO; functions.headerExcel.927: EXCEL iniciado
+2024-03-19 20:50:33,315; INFO; main.process.15: TODOS ARQUIVOS NA PASTA ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\202403-Extrato mensal-EBPCLI541626 (16).pdf', '\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\parcial_1.pdf'].
+2024-03-19 20:50:33,318; INFO; main.process.23: SERÃO TRATADOS 1 ARQUIVOS.
+2024-03-19 20:50:33,327; INFO; main.process.24: ARQUIVOS: ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\parcial_1.pdf']
+2024-03-19 20:50:33,328; INFO; main.process.33: INICIO DO PROCESSAMENTO DO ARQUIVO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março\parcial_1.pdf
+2024-03-19 20:50:38,238; INFO; functions.excelProcessoCompleto.1052: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-03-19 20:50:38,238; INFO; functions.excelProcessoCompleto.1066: Aba de ERRO adicionada ao EXCEL existente
+2024-03-19 20:50:38,266; INFO; main.process.42: PROCESSOS EXTRAIDOS COM ERRO: 5
+2024-03-19 20:50:38,268; INFO; main.process.43: PROCESSOS COM ERRO: [{'data': '03-03-2024', 'pi': '3905741', 'inv': None, 'moeda': 'USD', 'montante': '-33929.36', 'saldo': '466029.25', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '01-03-2024', 'pi': '3904397', 'inv': None, 'moeda': 'ASP', 'montante': '-36300.00', 'saldo': '499958.61', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '08-03-2024', 'pi': '3924566', 'inv': None, 'moeda': 'USD', 'montante': '-46437.69', 'saldo': '1152127.58', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '03-03-2024', 'pi': '3905741', 'inv': None, 'moeda': 'USD', 'montante': '-33929.36', 'saldo': '466029.25', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '01-03-2024', 'pi': '3904397', 'inv': None, 'moeda': 'ASP', 'montante': '-36300.00', 'saldo': '499958.61', 'nome': 'ASP Crew Management', 'cod': None}]
+2024-03-19 20:50:38,274; INFO; functions.excelErro.1002: Adicionando aba de ERRO ao EXCEL existente
+2024-03-19 20:50:38,277; INFO; functions.excelErro.1018: Aba de ERRO adicionada ao EXCEL existente
+2024-03-19 20:50:38,281; INFO; main.process.46: PROCESSOS EXTRAIDOS CORRETAMENTE: 91
+2024-03-19 20:50:38,283; INFO; main.process.47: PROCESSOS A SEREM TRATADOS: [{'data': '18-03-2024', 'pi': '3943751', 'inv': '2024013', 'moeda': 'USD', 'montante': '-253062.35', 'saldo': '97875.01', 'nome': 'ENAV Asia Pte. Ltd.', 'cod': None}, {'data': '17-03-2024', 'pi': '3941404', 'inv': '2024013', 'moeda': 'EUR', 'montante': '-12100.00', 'saldo': '2914.14', 'nome': 'Ayolt M. Zoer', 'cod': None}, {'data': '17-03-2024', 'pi': '3941402', 'inv': '3635', 'moeda': 'EUR', 'montante': '-6663.26', 'saldo': '15014.14', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '17-03-2024', 'pi': '3937532', 'inv': '3635', 'moeda': 'NOK', 'montante': '-270473.47', 'saldo': '9796.62', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '17-03-2024', 'pi': '3941406', 'inv': '90324394', 'moeda': 'USD', 'montante': '-101366.50', 'saldo': '350937.36', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}, {'data': '14-03-2024', 'pi': '3937507', 'inv': '27574', 'moeda': 'USD', 'montante': '-2975.00', 'saldo': '496201.61', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '14-03-2024', 'pi': '3937496', 'inv': '3252024', 'moeda': 'CSS', 'montante': '-9308.00', 'saldo': '499176.61', 'nome': 'CSS Kingston Logistics FZC', 'cod': None}, {'data': '14-03-2024', 'pi': '3937258', 'inv': '500714', 'moeda': 'GBP', 'montante': '-27560.00', 'saldo': '2440.12', 'nome': 'European Management Marine Corp', 'cod': None}, {'data': '13-03-2024', 'pi': '3934484', 'inv': '10023', 'moeda': 'NOK', 'montante': '-225321.84', 'saldo': '30270.09', 'nome': 'Navatech AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934462', 'inv': '361904', 'moeda': 'NOK', 'montante': '-5500000.00', 'saldo': '255591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934791', 'inv': '3704', 'moeda': 'USD', 'montante': '-5000.00', 'saldo': '1104655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934790', 'inv': '3705', 'moeda': 'USD', 'montante': '-2500.00', 'saldo': '1109655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934743', 'inv': '27574', 'moeda': 'USD', 'montante': '-20000.00', 'saldo': '1112155.72', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '13-03-2024', 'pi': '3934476', 'inv': '27574', 'moeda': 'USD', 'montante': '-8661.21', 'saldo': '1132155.72', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '12-03-2024', 'pi': '3931576', 'inv': '361911', 'moeda': 'NOK', 'montante': '-101893.00', 'saldo': '5591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '12-03-2024', 'pi': '3931573', 'inv': '1000118', 'moeda': 'USD', 'montante': '-55.00', 'saldo': '37816.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931572', 'inv': '1000119', 'moeda': 'USD', 'montante': '-4762.18', 'saldo': '37871.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931566', 'inv': '22024', 'moeda': 'LLC', 'montante': '-404.25', 'saldo': '42634.11', 'nome': 'Winner LLC', 'cod': None}, {'data': '11-03-2024', 'pi': '3928507', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-882735.55', 'saldo': '3677.40', 'nome': 'SISTAC B.V', 'cod': None}, {'data': '11-03-2024', 'pi': '3927938', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-16955.00', 'saldo': '3412.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927933', 'inv': '2023875', 'moeda': 'EUR', 'montante': '-5057.50', 'saldo': '20367.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927929', 'inv': '2024012', 'moeda': 'EUR', 'montante': '-21898.55', 'saldo': '25425.45', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927874', 'inv': '2024087', 'moeda': 'EUR', 'montante': '-18840.00', 'saldo': '47324.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927855', 'inv': '2023746', 'moeda': 'EUR', 'montante': '-17590.00', 'saldo': '66164.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927845', 'inv': '10713472', 'moeda': 'DNV', 'montante': '-1650.00', 'saldo': '83754.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927824', 'inv': '10702689', 'moeda': 'DNV', 'montante': '-7920.46', 'saldo': '85404.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927817', 'inv': '10706379', 'moeda': 'DNV', 'montante': '-3073.15', 'saldo': '93324.46', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927810', 'inv': '10691423', 'moeda': 'DNV', 'montante': '-2100.00', 'saldo': '96397.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927800', 'inv': '10706682', 'moeda': 'DNV', 'montante': '-1142.60', 'saldo': '98497.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927783', 'inv': '10706380', 'moeda': 'DNV', 'montante': '-3523.08', 'saldo': '99640.21', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927731', 'inv': '1705', 'moeda': 'ASP', 'montante': '-5050.00', 'saldo': '1142875.32', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '08-03-2024', 'pi': '3925171', 'inv': '22305981', 'moeda': 'USD', 'montante': '-1370.00', 'saldo': '1147925.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925159', 'inv': '22306236', 'moeda': 'USD', 'montante': '-200.00', 'saldo': '1149295.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925112', 'inv': '26766', 'moeda': 'USD', 'montante': '-2632.26', 'saldo': '1149495.32', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '08-03-2024', 'pi': '3924566', 'inv': '1625977', 'moeda': 'USD', 'montante': '-46437.69', 'saldo': '1152127.58', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '08-03-2024', 'pi': '3924503', 'inv': '1625977', 'moeda': 'EUR', 'montante': '-49025.14', 'saldo': '3163.29', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '07-03-2024', 'pi': '3920082', 'inv': '2342', 'moeda': 'NOK', 'montante': '-102850.10', 'saldo': '5484.93', 'nome': 'Tyrholm and Farstad AS', 'cod': None}, {'data': '07-03-2024', 'pi': '3920051', 'inv': '3555', 'moeda': 'NOK', 'montante': '-498030.00', 'saldo': '5335.03', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '06-03-2024', 'pi': '3917990', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-1165.00', 'saldo': '1188.43', 'nome': 'Tufton Corporate Services Limited', 'cod': None}, {'data': '05-03-2024', 'pi': '3913737', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-13205.65', 'saldo': '2353.43', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '05-03-2024', 'pi': '3913755', 'inv': '5233081', 'moeda': 'EUR', 'montante': '-1042.89', 'saldo': '559.08', 'nome': 'Meijers Vitaal B.V', 'cod': None}, {'data': '04-03-2024', 'pi': '3910113', 'inv': '20230507', 'moeda': 'EUR', 'montante': '-3501.74', 'saldo': '1601.97', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910125', 'inv': '1028061', 'moeda': 'NOK', 'montante': '-36636.00', 'saldo': '3365.03', 'nome': 'DIMO', 'cod': None}, {'data': '04-03-2024', 'pi': '3910112', 'inv': '20230330', 'moeda': 'EUR', 'montante': '-11077.55', 'saldo': '5103.71', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910103', 'inv': '10694228', 'moeda': 'DNV', 'montante': '-7950.00', 'saldo': '16181.26', 'nome': 'DNV AS', 'cod': None}, {'data': '04-03-2024', 'pi': '3910101', 'inv': '10703572', 'moeda': 'DNV', 'montante': '-75869.06', 'saldo': '24131.26', 'nome': 'DNV AS', 'cod': None}, {'data': '17-03-2024', 'pi': '3937532', 'inv': '3635', 'moeda': 'NOK', 'montante': '-270473.47', 'saldo': '9796.62', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934484', 'inv': '10023', 'moeda': 'NOK', 'montante': '-225321.84', 'saldo': '30270.09', 'nome': 'Navatech AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934462', 'inv': '361904', 'moeda': 'NOK', 'montante': '-5500000.00', 'saldo': '255591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '12-03-2024', 'pi': '3931576', 'inv': '361911', 'moeda': 'NOK', 'montante': '-101893.00', 'saldo': '5591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '07-03-2024', 'pi': '3920082', 'inv': '2342', 'moeda': 'NOK', 'montante': '-102850.10', 'saldo': '5484.93', 'nome': 'Tyrholm and Farstad AS', 'cod': None}, {'data': '07-03-2024', 'pi': '3920051', 'inv': '3555', 'moeda': 'NOK', 'montante': '-498030.00', 'saldo': '5335.03', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '04-03-2024', 'pi': '3910125', 'inv': '1028061', 'moeda': 'NOK', 'montante': '-36636.00', 'saldo': '3365.03', 'nome': 'DIMO', 'cod': None}, {'data': '18-03-2024', 'pi': '3943751', 'inv': '90324394', 'moeda': 'USD', 'montante': '-253062.35', 'saldo': '97875.01', 'nome': 'ENAV Asia Pte. Ltd.', 'cod': None}, {'data': '17-03-2024', 'pi': '3941406', 'inv': '90324394', 'moeda': 'USD', 'montante': '-101366.50', 'saldo': '350937.36', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}, {'data': '14-03-2024', 'pi': '3937507', 'inv': '27574', 'moeda': 'USD', 'montante': '-2975.00', 'saldo': '496201.61', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '14-03-2024', 'pi': '3937496', 'inv': '3252024', 'moeda': 'CSS', 'montante': '-9308.00', 'saldo': '499176.61', 'nome': 'CSS Kingston Logistics FZC', 'cod': None}, {'data': '13-03-2024', 'pi': '3934791', 'inv': '3704', 'moeda': 'USD', 'montante': '-5000.00', 'saldo': '1104655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934790', 'inv': '3705', 'moeda': 'USD', 'montante': '-2500.00', 'saldo': '1109655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934743', 'inv': '27574', 'moeda': 'USD', 'montante': '-20000.00', 'saldo': '1112155.72', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '13-03-2024', 'pi': '3934476', 'inv': '27574', 'moeda': 'USD', 'montante': '-8661.21', 'saldo': '1132155.72', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '12-03-2024', 'pi': '3931573', 'inv': '1000118', 'moeda': 'USD', 'montante': '-55.00', 'saldo': '37816.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931572', 'inv': '1000119', 'moeda': 'USD', 'montante': '-4762.18', 'saldo': '37871.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931566', 'inv': '22024', 'moeda': 'LLC', 'montante': '-404.25', 'saldo': '42634.11', 'nome': 'Winner LLC', 'cod': None}, {'data': '11-03-2024', 'pi': '3927731', 'inv': '1705', 'moeda': 'ASP', 'montante': '-5050.00', 'saldo': '1142875.32', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '08-03-2024', 'pi': '3925171', 'inv': '22305981', 'moeda': 'USD', 'montante': '-1370.00', 'saldo': '1147925.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925159', 'inv': '22306236', 'moeda': 'USD', 'montante': '-200.00', 'saldo': '1149295.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925112', 'inv': '26766', 'moeda': 'USD', 'montante': '-2632.26', 'saldo': '1149495.32', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '14-03-2024', 'pi': '3937258', 'inv': '500714', 'moeda': 'GBP', 'montante': '-27560.00', 'saldo': '2440.12', 'nome': 'European Management Marine Corp', 'cod': None}, {'data': '17-03-2024', 'pi': '3941404', 'inv': '2024013', 'moeda': 'EUR', 'montante': '-12100.00', 'saldo': '2914.14', 'nome': 'Ayolt M. Zoer', 'cod': None}, {'data': '17-03-2024', 'pi': '3941402', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-6663.26', 'saldo': '15014.14', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '11-03-2024', 'pi': '3928507', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-882735.55', 'saldo': '3677.40', 'nome': 'SISTAC B.V', 'cod': None}, {'data': '11-03-2024', 'pi': '3927938', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-16955.00', 'saldo': '3412.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927933', 'inv': '2023875', 'moeda': 'EUR', 'montante': '-5057.50', 'saldo': '20367.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927929', 'inv': '2024012', 'moeda': 'EUR', 'montante': '-21898.55', 'saldo': '25425.45', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927874', 'inv': '2024087', 'moeda': 'EUR', 'montante': '-18840.00', 'saldo': '47324.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927855', 'inv': '2023746', 'moeda': 'EUR', 'montante': '-17590.00', 'saldo': '66164.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927845', 'inv': '10713472', 'moeda': 'DNV', 'montante': '-1650.00', 'saldo': '83754.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927824', 'inv': '10702689', 'moeda': 'DNV', 'montante': '-7920.46', 'saldo': '85404.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927817', 'inv': '10706379', 'moeda': 'DNV', 'montante': '-3073.15', 'saldo': '93324.46', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927810', 'inv': '10691423', 'moeda': 'DNV', 'montante': '-2100.00', 'saldo': '96397.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927800', 'inv': '10706682', 'moeda': 'DNV', 'montante': '-1142.60', 'saldo': '98497.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927783', 'inv': '10706380', 'moeda': 'DNV', 'montante': '-3523.08', 'saldo': '99640.21', 'nome': 'DNV AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3924503', 'inv': '1625977', 'moeda': 'EUR', 'montante': '-49025.14', 'saldo': '3163.29', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '06-03-2024', 'pi': '3917990', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-1165.00', 'saldo': '1188.43', 'nome': 'Tufton Corporate Services Limited', 'cod': None}, {'data': '05-03-2024', 'pi': '3913737', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-13205.65', 'saldo': '2353.43', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '05-03-2024', 'pi': '3913755', 'inv': '5233081', 'moeda': 'EUR', 'montante': '-1042.89', 'saldo': '559.08', 'nome': 'Meijers Vitaal B.V', 'cod': None}, {'data': '04-03-2024', 'pi': '3910113', 'inv': '20230507', 'moeda': 'EUR', 'montante': '-3501.74', 'saldo': '1601.97', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910112', 'inv': '20230330', 'moeda': 'EUR', 'montante': '-11077.55', 'saldo': '5103.71', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910103', 'inv': '10694228', 'moeda': 'DNV', 'montante': '-7950.00', 'saldo': '16181.26', 'nome': 'DNV AS', 'cod': None}, {'data': '04-03-2024', 'pi': '3910101', 'inv': '10703572', 'moeda': 'DNV', 'montante': '-75869.06', 'saldo': '24131.26', 'nome': 'DNV AS', 'cod': None}]
+2024-03-19 20:50:38,336; INFO; functions.mover_para_lidos.1118: MOVENDO ARQUIVO parcial_1.pdf.
+2024-03-19 20:50:38,339; INFO; functions.mover_para_lidos.1126: Pasta "Lidos" já existe
+2024-03-19 20:50:38,344; INFO; functions.mover_para_lidos.1137: Novo nome: parcial_1_1.pdf
+2024-03-19 20:50:38,347; INFO; functions.mover_para_lidos.1138: teste_caminho_destino: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março\Lidos\parcial_1_1.pdf
+2024-03-19 20:50:38,376; INFO; functions.mover_para_lidos.1143: ARQUIVO parcial_1_1.pdf MOVIDO PARA LIDOS.
+2024-03-19 20:50:38,386; INFO; functions.open_RM.50: OPEN PROGRAM RM
+2024-03-19 20:51:05,662; INFO; functions.loggin_RM.60: ENTER USER_NAME
+2024-03-19 20:51:07,195; INFO; functions.loggin_RM.65: ENTER PASSWORD
+2024-03-19 20:51:08,488; INFO; functions.loggin_RM.69: ENTER RM
+2024-03-19 20:53:10,865; INFO; functions.enter_coligada.75: CLICK CONTEXTO
+2024-03-19 20:53:17,238; INFO; functions.enter_coligada.78: CLICK COLIGADA 2
+2024-03-19 20:53:24,222; INFO; functions.enter_coligada.82: INSERE O COLIGADA CODE = 2
+2024-03-19 20:53:24,466; INFO; functions.enter_coligada.84: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-03-19 20:53:26,925; INFO; functions.enter_coligada.87: CLICK AVANÇAR NOVAMENTE
+2024-03-19 20:53:30,897; INFO; functions.enter_coligada.91: CLICK CONCLUIR
+2024-03-19 20:53:59,722; INFO; functions.enter_coligada.94: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-03-19 20:54:00,613; INFO; functions.enter_contas_a_pagar.105: CLICK - TOTVS - LINHA RM
+2024-03-19 20:54:03,644; INFO; functions.enter_contas_a_pagar.110: CLICK - BACK OFFICE
+2024-03-19 20:54:06,519; INFO; functions.enter_contas_a_pagar.115: CLICK - GESTAO FINANCEIRA
+2024-03-19 20:54:15,769; INFO; functions.enter_contas_a_pagar.120: CLICK - CONTAS A PAGAR
+2024-03-19 20:54:16,269; INFO; functions.waitForImage.867: LANÇAMENTOS image found.
+2024-03-19 20:54:41,644; INFO; functions.waitForImage.876: LICENCAS EXCEDIDAS image not found.
+2024-03-19 20:54:41,644; INFO; main.process.67: PROCESSO 1 de 91 A SER TRATADO: {'data': '18-03-2024', 'pi': '3943751', 'inv': '2024013', 'moeda': 'USD', 'montante': '-253062.35', 'saldo': '97875.01', 'nome': 'ENAV Asia Pte. Ltd.', 'cod': None}
+2024-03-19 20:54:41,644; INFO; main.process.78: inv original 2024013. tamanho 7
+2024-03-19 20:54:41,657; INFO; main.process.83: inv TRATADA 00202401301. tamanho 11
+2024-03-19 20:54:41,658; INFO; main.process.95: data: 18032024 <class 'str'>
+
+                        pi: 3943751 <class 'str'>
+
+                        inv: 00202401301 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 253062,35 <class 'str'>
+
+                        saldo: 97875.01 <class 'str'>
+
+                        nome: ENAV Asia Pte. Ltd. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-19 20:54:47,472; INFO; functions.filter_lancamento.183: ESCREVE Número do documento NO FILTRO
+2024-03-19 20:54:49,332; INFO; functions.filter_lancamento.189: CLICK - BOTÃO DE SELECAO DE FILTRO
+2024-03-19 20:54:51,899; INFO; functions.filter_lancamento.213: VALOR DE 00202401301 FILTRO
+2024-03-19 20:54:52,863; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-19 20:55:01,144; INFO; functions.desmark_filter.274: CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2024-03-19 20:55:02,956; INFO; functions.desmark_filter.278: CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2024-03-19 20:55:05,050; INFO; functions.desmark_filter.282: CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2024-03-19 20:55:07,259; INFO; functions.desmark_filter.286: CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2024-03-19 20:55:09,486; INFO; functions.desmark_filter.290: ATUALIZA O FILTRO
+2024-03-19 20:55:19,666; INFO; functions.waitForImage.876: FILTER CLEAN image not found.
+2024-03-19 20:55:19,677; INFO; functions.filter_clean.228: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 1
+2024-03-19 20:55:29,878; INFO; functions.waitForImage.876: FILTER CLEAN image not found.
+2024-03-19 20:55:29,878; INFO; functions.filter_clean.228: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 2
+2024-03-19 20:55:39,956; INFO; functions.waitForImage.876: FILTER CLEAN image not found.
+2024-03-19 20:55:39,972; INFO; functions.filter_clean.228: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 3
+2024-03-19 20:55:41,941; INFO; functions.select_tipo_documento.235: NOME DA COLUNA: Tipo de Documento
+2024-03-19 20:55:43,800; INFO; functions.select_tipo_documento.239: HOVER NOME DA COLUNA: Tipo de Documento
+2024-03-19 20:55:45,586; INFO; functions.select_tipo_documento.251: CLICA NO FILTRO PERSONALIZAR
+2024-03-19 20:55:47,987; INFO; functions.select_tipo_documento.255: CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2024-03-19 20:55:55,331; INFO; functions.select_tipo_documento.267: CLICK BUTTON CONFIRMAR FILTRO
+2024-03-19 20:55:55,331; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-19 20:55:57,487; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-19 20:55:58,732; INFO; functions.check_table_record.305: CTRL+G
+2024-03-19 20:55:59,801; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-19 20:56:01,804; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-19 20:56:03,801; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-19 20:56:06,440; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-19 20:56:07,967; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-19 20:56:11,610; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-19 20:56:13,469; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-19 20:56:15,471; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-19 20:56:15,471; INFO; functions.check_inv.455: ctrl c
+2024-03-19 20:56:16,077; INFO; functions.check_inv.459: Historico completo: INV - 02024013 - AYOLT M. ZOER 
+2024-03-19 20:56:16,081; INFO; functions.check_inv.496: ULTIMA INV, COLIGADA OU VALOR INCORRETAS ENCONTRADAS: 02024013 - AYOLT M. ZOER 
+2024-03-19 20:56:16,081; INFO; functions.check_inv.499: PROCESSO NÃO ENCONTRADO EM LISTA DE RESULTADOS
+2024-03-19 20:56:16,081; INFO; main.process.130: PROCESSO NÃO ENCONTRADO EM LISTA DE RESULTADOS
+2024-03-19 20:56:16,081; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-19 20:56:16,081; INFO; main.process.67: PROCESSO 2 de 91 A SER TRATADO: {'data': '17-03-2024', 'pi': '3941404', 'inv': '2024013', 'moeda': 'EUR', 'montante': '-12100.00', 'saldo': '2914.14', 'nome': 'Ayolt M. Zoer', 'cod': None}
+2024-03-19 20:56:16,091; INFO; main.process.78: inv original 2024013. tamanho 7
+2024-03-19 20:56:16,093; INFO; main.process.83: inv TRATADA 00202401301. tamanho 11
+2024-03-19 20:56:16,095; INFO; main.process.95: data: 17032024 <class 'str'>
+
+                        pi: 3941404 <class 'str'>
+
+                        inv: 00202401301 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 12100,00 <class 'str'>
+
+                        saldo: 2914.14 <class 'str'>
+
+                        nome: Ayolt M. Zoer <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-19 20:56:18,691; INFO; functions.waitForImage.845: NOVO FILTRO image found.
+2024-03-19 20:56:18,810; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-19 20:56:20,975; INFO; functions.filter_lancamento.213: VALOR DE 00202401301 FILTRO
+2024-03-19 20:56:21,925; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-19 20:56:21,925; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-19 20:56:25,066; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-19 20:56:26,312; INFO; functions.check_table_record.305: CTRL+G
+2024-03-19 20:56:27,316; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-19 20:56:29,327; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-19 20:56:31,356; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-19 20:56:33,893; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-19 20:56:35,417; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-19 20:56:39,003; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-19 20:56:40,885; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-19 20:56:42,888; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-19 20:56:42,888; INFO; functions.check_inv.455: ctrl c
+2024-03-19 20:56:43,494; INFO; functions.check_inv.459: Historico completo: INV - 02024013 - AYOLT M. ZOER 
+2024-03-19 20:56:43,494; INFO; functions.check_inv.496: ULTIMA INV, COLIGADA OU VALOR INCORRETAS ENCONTRADAS: 02024013 - AYOLT M. ZOER 
+2024-03-19 20:56:43,494; INFO; functions.check_inv.499: PROCESSO NÃO ENCONTRADO EM LISTA DE RESULTADOS
+2024-03-19 20:56:43,494; INFO; main.process.130: PROCESSO NÃO ENCONTRADO EM LISTA DE RESULTADOS
+2024-03-19 20:56:43,494; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-19 20:56:43,494; INFO; main.process.67: PROCESSO 3 de 91 A SER TRATADO: {'data': '17-03-2024', 'pi': '3941402', 'inv': '3635', 'moeda': 'EUR', 'montante': '-6663.26', 'saldo': '15014.14', 'nome': 'Leonardo Duran', 'cod': None}
+2024-03-19 20:56:43,494; INFO; main.process.78: inv original 3635. tamanho 4
+2024-03-19 20:56:43,494; INFO; main.process.83: inv TRATADA 00000363501. tamanho 11
+2024-03-19 20:56:43,503; INFO; main.process.95: data: 17032024 <class 'str'>
+
+                        pi: 3941402 <class 'str'>
+
+                        inv: 00000363501 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 6663,26 <class 'str'>
+
+                        saldo: 15014.14 <class 'str'>
+
+                        nome: Leonardo Duran <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-19 20:56:46,081; INFO; functions.waitForImage.845: NOVO FILTRO image found.
+2024-03-19 20:56:46,241; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-19 20:56:48,418; INFO; functions.filter_lancamento.213: VALOR DE 00000363501 FILTRO
+2024-03-19 20:56:49,413; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-19 20:56:49,415; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-19 20:56:52,096; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-19 20:56:53,331; INFO; functions.check_table_record.305: CTRL+G
+2024-03-19 20:56:54,307; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-19 20:56:56,309; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-19 20:56:58,301; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-19 20:57:01,081; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-19 20:57:02,776; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-19 20:57:06,338; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-19 20:57:08,171; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-19 20:57:10,173; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-19 20:57:10,173; INFO; functions.check_inv.455: ctrl c
+2024-03-19 20:57:10,778; INFO; functions.check_inv.459: Historico completo: INV - 00003635 - Motus Technology AS 
+2024-03-19 20:57:10,778; INFO; functions.check_inv.496: ULTIMA INV, COLIGADA OU VALOR INCORRETAS ENCONTRADAS: 00003635 - Motus Technology AS 
+2024-03-19 20:57:10,778; INFO; functions.check_inv.499: PROCESSO NÃO ENCONTRADO EM LISTA DE RESULTADOS
+2024-03-19 20:57:10,778; INFO; main.process.130: PROCESSO NÃO ENCONTRADO EM LISTA DE RESULTADOS
+2024-03-19 20:57:10,778; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-19 20:57:10,778; INFO; main.process.67: PROCESSO 4 de 91 A SER TRATADO: {'data': '17-03-2024', 'pi': '3937532', 'inv': '3635', 'moeda': 'NOK', 'montante': '-270473.47', 'saldo': '9796.62', 'nome': 'Motus Technology AS', 'cod': None}
+2024-03-19 20:57:10,778; INFO; main.process.78: inv original 3635. tamanho 4
+2024-03-19 20:57:10,778; INFO; main.process.83: inv TRATADA 00000363501. tamanho 11
+2024-03-19 20:57:10,778; INFO; main.process.95: data: 17032024 <class 'str'>
+
+                        pi: 3937532 <class 'str'>
+
+                        inv: 00000363501 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 270473,47 <class 'str'>
+
+                        saldo: 9796.62 <class 'str'>
+
+                        nome: Motus Technology AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-19 20:57:13,253; INFO; functions.waitForImage.845: NOVO FILTRO image found.
+2024-03-19 20:57:13,373; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-19 20:57:15,507; INFO; functions.filter_lancamento.213: VALOR DE 00000363501 FILTRO
+2024-03-19 20:57:16,475; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-19 20:57:16,475; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-19 20:57:19,003; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-19 20:57:20,265; INFO; functions.check_table_record.305: CTRL+G
+2024-03-19 20:57:21,253; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-19 20:57:23,266; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-19 20:57:25,268; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-19 20:57:28,003; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-19 20:57:29,588; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-19 20:57:33,135; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-19 20:57:34,963; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-19 20:57:36,965; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-19 20:57:36,965; INFO; functions.check_inv.455: ctrl c
+2024-03-19 20:57:37,569; INFO; functions.check_inv.459: Historico completo: INV - 00003635 - Motus Technology AS 
+2024-03-19 20:57:38,071; INFO; functions.check_inv.474: INV E COLIGADA CORRETA ENCONTRADA: 00003635 - Motus Technology AS 
+2024-03-19 20:57:38,480; INFO; functions.check_inv.478: 4 PASSOS PARA ESQUERDA
+2024-03-19 20:57:38,621; INFO; functions.check_inv.481: ctrl c
+2024-03-19 20:57:39,157; INFO; functions.check_inv.487: VALOR PROCESSO: 270473,47
+2024-03-19 20:57:39,157; INFO; functions.check_inv.488: VALOR PROCESSO2: <class 'str'>
+2024-03-19 20:57:39,157; INFO; functions.check_inv.491: VALOR CORRETO ENCONTRADO.
+2024-03-19 20:57:39,157; INFO; main.process.130: None
+2024-03-19 20:57:41,263; INFO; functions.define_moeda.514: ctrl + enter
+2024-03-19 20:58:05,612; INFO; functions.waitForImage.867: INTEGRAÇÃO BANCÁRIA image found.
+2024-03-19 20:58:07,745; INFO; functions.define_moeda.520: CLICK EM VALOR
+2024-03-19 20:58:08,196; INFO; functions.define_moeda.524: 4 TAB
+2024-03-19 20:58:11,408; INFO; functions.define_moeda.529: MOEDA PREENCHIDA COM NOK

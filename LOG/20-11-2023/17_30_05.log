@@ -1,0 +1,18 @@
+20-11-2023 17:30:20.593Z;functions.check_pix;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+20-11-2023 17:30:22.698Z;functions.check_pix;  CLICK ENTER
+20-11-2023 17:30:22.699Z;functions.check_pix;  NUMERO DE TUPLAS: 8
+20-11-2023 17:30:24.101Z;functions.check_pix;  CHECA TODOS OS LANÇAMENTOS PIX
+20-11-2023 17:30:24.212Z;functions.check_pix;  REF. LANÇAMENTO: ---------------------------
+RM
+---------------------------
+ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+---------------------------
+Sim   Não   
+---------------------------
+

@@ -1,0 +1,41 @@
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.16:     ____   
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.17:    [____]    
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-19 11:47:26,817; INFO; functions.bot_text_art.28:              
+2024-02-19 11:47:26,817; DEBUG; functions.headerExcel.712: Criando EXCEL
+2024-02-19 11:47:26,817; DEBUG; functions.headerExcel.730: EXCEL iniciado
+2024-02-19 11:47:26,834; DEBUG; functions.open_RM.48: OPEN PROGRAM RM
+2024-02-19 11:47:33,770; DEBUG; functions.loggin_RM.58: ENTER USER_NAME
+2024-02-19 11:47:34,687; DEBUG; functions.loggin_RM.63: ENTER PASSWORD
+2024-02-19 11:47:35,426; DEBUG; functions.loggin_RM.67: ENTER RM
+2024-02-19 11:48:01,832; DEBUG; functions.enter_coligada.73: CLICK CONTEXTO
+2024-02-19 11:48:05,864; DEBUG; functions.enter_coligada.76: CLICK COLIGADA 2
+2024-02-19 11:48:08,473; DEBUG; functions.enter_coligada.80: INSERE O COLIGADA CODE = 2
+2024-02-19 11:48:08,574; DEBUG; functions.enter_coligada.82: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-02-19 11:48:09,707; DEBUG; functions.enter_coligada.85: CLICK AVANÇAR NOVAMENTE
+2024-02-19 11:48:12,692; DEBUG; functions.enter_coligada.89: CLICK CONCLUIR
+2024-02-19 11:48:22,895; DEBUG; functions.enter_coligada.92: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-02-19 11:48:23,520; DEBUG; functions.enter_contas_a_pagar.103: CLICK - TOTVS - LINHA RM
+2024-02-19 11:48:26,270; DEBUG; functions.enter_contas_a_pagar.108: CLICK - BACK OFFICE
+2024-02-19 11:48:28,895; DEBUG; functions.enter_contas_a_pagar.113: CLICK - GESTAO FINANCEIRA
+2024-02-19 11:48:34,707; DEBUG; functions.enter_contas_a_pagar.118: CLICK - CONTAS A PAGAR
+2024-02-19 11:48:34,880; INFO; functions.waitForImage.673: LANÇAMENTOS image found.
+2024-02-19 11:48:34,992; DEBUG; functions.enter_contas_a_pagar.124: CLICA EM LANÇAMENTOS
+2024-02-19 11:48:41,942; DEBUG; functions.filter_lancamento.152: ESCREVE Histórico NO FILTRO
+2024-02-19 11:48:43,051; DEBUG; functions.filter_lancamento.158: CLICK - BOTÃO DE SELECAO DE FILTRO
+2024-02-19 11:48:44,879; DEBUG; functions.filter_lancamento.165: VALOR DE 3.571,51 FILTRO
+2024-02-19 11:48:45,551; DEBUG; functions.filter_lancamento.170: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 11:48:51,426; DEBUG; functions.desmark_filter.230: CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2024-02-19 11:48:52,426; DEBUG; functions.desmark_filter.234: CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2024-02-19 11:48:53,489; DEBUG; functions.desmark_filter.238: CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2024-02-19 11:48:54,833; DEBUG; functions.desmark_filter.242: CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2024-02-19 11:48:55,957; DEBUG; functions.desmark_filter.246: ATUALIZA O FILTRO

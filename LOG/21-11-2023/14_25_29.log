@@ -1,0 +1,19 @@
+21-11-2023 14:25:30.473Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+21-11-2023 14:25:45.057Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 2 registros?
+21-11-2023 14:25:47.161Z;functions.check_table_record;  CLICK ENTER
+21-11-2023 14:25:47.162Z;functions.check_table_record;  NUMERO DE TUPLAS: 2
+21-11-2023 14:25:47.162Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+21-11-2023 14:25:52.239Z;functions.check_table_record;  CLICK NÃO
+21-11-2023 14:25:58.392Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+21-11-2023 14:26:03.407Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+21-11-2023 14:26:04.755Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+21-11-2023 14:26:06.081Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+21-11-2023 14:26:08.619Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+21-11-2023 14:26:09.703Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+21-11-2023 14:26:10.909Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+21-11-2023 14:26:12.037Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+21-11-2023 14:26:49.426Z;functions.waitForImage;  PRESS BUTTON OK image found.
+21-11-2023 14:26:51.429Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.

@@ -1,0 +1,9 @@
+21-11-2023 13:44:45.434Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+21-11-2023 13:45:00.073Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 2 registros?
+21-11-2023 13:45:02.176Z;functions.check_table_record;  CLICK ENTER
+21-11-2023 13:45:02.177Z;functions.check_table_record;  NUMERO DE TUPLAS: 2
+21-11-2023 13:45:02.177Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+21-11-2023 13:45:06.977Z;functions.check_table_record;  CLICK NÃO

@@ -1,0 +1,1905 @@
+2024-05-13 10:35:06,300; INFO; parameters.<module>.103: Pasta local: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\05 - Maio
+2024-05-13 10:35:06,300; INFO; functions.getPid.1086: Dentro função GetPid
+
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.7:     ____   
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.8:    [____]    
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-05-13 10:35:06,487; INFO; functions.bot_text_art.18:  |___||___|  
+2024-05-13 10:35:06,503; INFO; functions.bot_text_art.19:              
+2024-05-13 10:35:06,503; INFO; functions.headerExcel.1019: Criando EXCEL
+2024-05-13 10:35:06,503; INFO; functions.headerExcel.1039: EXCEL iniciado
+2024-05-13 10:35:06,503; INFO; main.process.15: TODOS ARQUIVOS NA PASTA ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\05 - Maio\\Ebury - Parcial até 09-05.pdf'].
+2024-05-13 10:35:06,503; INFO; main.process.23: SERÃO TRATADOS 1 ARQUIVOS.
+2024-05-13 10:35:06,503; INFO; main.process.24: ARQUIVOS: ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\05 - Maio\\Ebury - Parcial até 09-05.pdf']
+2024-05-13 10:35:06,503; INFO; main.process.33: INICIO DO PROCESSAMENTO DO ARQUIVO 1: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\05 - Maio\Ebury - Parcial até 09-05.pdf
+2024-05-13 10:35:06,612; INFO; functions.informacoes_extraidas.657: texto: Oceanica Netherlands B.V.
+Mr. Andre Ponce de Leon Arruda
+Apollolaan 151
+Extracto de Conta
+Período do extrato: 01-05-2024 00:00 - 31-05-2024 23:59
+Registo de instrução: 09-05-2024 13:02
+Moeda: Todos
+Resumo
+Conta de Moeda
+Saldo Inicial Fundos recebidos A sair Saldo final
+Estrangeira
+USD 480311.89 1000000.00 -592229.19 888082.70
+NOK 48958.66 1029000.00 -1074000.00 3958.66
+MXN 0.00 0.00 0.00 0.00
+GBP 0.00 16000.00 -15270.00 730.00
+SGD 362.78 53000.00 -52144.58 1218.20
+EUR 7059.90 325000.00 -326315.89 5744.01
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 1 de 12
+2024-05-13 10:35:06,691; INFO; functions.informacoes_extraidas.657: texto: Movimentos: Todas as moedas
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI4066307 DNV AS
+07-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -900.00 EUR 5744.01
+20:04
+PI4066307 10736430
+Pagamento PI4066306 DNV AS
+07-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -6075.00 EUR 6644.01
+20:04
+PI4066306 10716137
+Pagamento PI4062216 ISLE OF MAN - GOVERNMENT
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -5090.00 GBP 730.00
+20:25
+PI4062216 483684
+Pagamento PI4062213 ISLE OF MAN - GOVERNMENT
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -5090.00 GBP 5820.00
+20:25
+PI4062213 483683
+Pagamento PI4062227 Ocean Electronics AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -204000.00 NOK 3958.66
+20:25
+PI4062227 20068
+Pagamento PI4062237 PT. LABROY SHIPBUILDING ENGINEERING
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. SGD -3750.00 SGD 1218.20
+20:25
+PI4062237 20240405
+Pagamento PI4062211 ISLE OF MAN - GOVERNMENT
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -5090.00 GBP 10910.00
+20:25
+PI4062211 483682
+Pagamento PI4062219 Marin Teknikk AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -580000.00 NOK 207958.66
+20:25
+PI4062219 10857
+Pagamento PI4062236 PT. LABROY SHIPBUILDING ENGINEERING
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. SGD -33053.58 SGD 4968.20
+20:25
+PI4062236 20240404
+Pagamento PI4062209 Holland Accommodation Rentals VOF
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -21038.31 EUR 12719.01
+20:25
+PI4062209 241450007
+06-05-2024 Comprado SGD EBPOTR3421669
+SGD 37000.00 SGD 38021.78
+20:25 USDSGD1.330414Compra/Venda de moeda
+06-05-2024 Comprado GBP EBPOTR3421658
+GBP 16000.00 GBP 16000.00
+20:25 GBPUSD1.275599Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 2 de 12
+2024-05-13 10:35:06,785; INFO; functions.informacoes_extraidas.657: texto: 06-05-2024 Comprado NOK EBPOTR3421665
+NOK 784000.00 NOK 787958.66
+20:25 USDNOK10.661644Compra/Venda de moeda.
+06-05-2024 Comprado EUR EBPOTR3421654
+EUR 30000.00 EUR 33757.32
+20:25 EURUSD1.093690Compra/Venda de moeda
+Pagamento PI4062232 PT. SNEPAC SHIPPING
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -390.00 USD 888082.70
+20:06
+PI4062232 10001602
+Pagamento PI4062231 PT. SNEPAC SHIPPING
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -3542.65 USD 888472.70
+20:06
+PI4062231 1000185
+Pagamento PI4062229 INCHCAPE SHIPPING SERVICES
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -23143.48 USD 892015.35
+20:06
+PI4062229 11042024
+Pagamento PI4062228 Alatas Americas, Inc.
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -10734.60 USD 915158.83
+20:06
+PI4062228 1545901
+06-05-2024 Vendido USD EBPOTR3421669
+USD -27810.89 USD 925893.43
+20:06 USDSGD1.330414Compra/Venda de moeda
+06-05-2024 Vendido USD EBPOTR3421665
+USD -73534.63 USD 953704.32
+20:06 USDNOK10.661644Compra/Venda de moeda.
+06-05-2024 Vendido USD EBPOTR3421658
+USD -20409.58 USD 1027238.95
+20:06 GBPUSD1.275599Compra/Venda de moeda
+06-05-2024 Vendido USD EBPOTR3421654
+USD -32810.70 USD 1047648.53
+20:06 EURUSD1.093690Compra/Venda de moeda
+Pagamento PI4062210 Wesmans AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -6000.00 EUR 3757.32
+20:05
+PI4062210 133291
+Fundos OCEANICA ENGENHARIA E CONSULTO
+06-05-2024
+BR6960701190032120000026755C1 - - NL66EBUR2845860862 - USD 1000000.00 USD 1080459.23
+12:48
+2024050600409807
+Pagamento PI4058154 Tschudi Ship Management AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -32413.79 EUR 9757.32
+07:49
+PI4058154 2024237
+Pagamento PI4058153 Tschudi Ship Management AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -32413.79 EUR 42171.11
+07:49
+PI4058153 2024236
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 3 de 12
+2024-05-13 10:35:06,862; INFO; functions.informacoes_extraidas.657: texto: Pagamento PI4058151 Tschudi Ship Management AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -18635.00 EUR 74584.90
+07:49
+PI4058151 2024235
+Pagamento PI4058150 Tschudi Ship Management AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -29450.00 EUR 93219.90
+07:49
+PI4058150 2024234
+06-05-2024 Comprado EUR EBPOTR3420712
+EUR 115000.00 EUR 122669.90
+07:49 EURUSD1.093325Compra/Venda de moeda
+06-05-2024 Vendido USD EBPOTR3420712
+USD -125732.38 USD 80459.23
+07:49 EURUSD1.093325Compra/Venda de moeda
+Pagamento PI4057536 PT. LABROY SHIPBUILDING ENGINEERING
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. SGD -1500.00 SGD 1021.78
+20:22
+PI4057536 2402014
+Pagamento PI4057521 Marin Teknikk AS
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -290000.00 NOK 3958.66
+20:22
+PI4057521 10858
+Pagamento PI4057533 PT. LABROY SHIPBUILDING ENGINEERING
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. SGD -13841.00 SGD 2521.78
+20:22
+PI4057533 2402013
+05-05-2024 Comprado NOK EBPOTR3419224
+NOK 245000.00 NOK 293958.66
+20:22 USDNOK10.683678Compra/Venda de moeda.
+05-05-2024 Comprado SGD EBPOTR3419226
+SGD 16000.00 SGD 16362.78
+20:22 USDSGD1.328451Compra/venda de moeda
+Pagamento PI4058159 SOLANA AGENCIA MARITIMA LTDA.
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -7049.00 USD 206191.61
+20:03
+PI4058159 124
+05-05-2024 Vendido USD EBPOTR3419226
+USD -12044.10 USD 213240.61
+20:03 USDSGD1.328451Compra/venda de moeda
+05-05-2024 Vendido USD EBPOTR3419224
+USD -22932.18 USD 225284.71
+20:03 USDNOK10.683678Compra/Venda de moeda.
+Pagamento PI4057480 SKF MARINE SINGAPORE PTE. LTD.
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -81350.00 EUR 7669.90
+20:03
+PI4057480 9814765/121080 - FAR SCIMITAR
+Pagamento PI4057474 SKF MARINE SINGAPORE PTE. LTD.
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -81350.00 EUR 89019.90
+20:03
+PI4057474 9814764/121080
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 4 de 12
+2024-05-13 10:35:06,894; INFO; functions.informacoes_extraidas.657: texto: 03-05-2024 Comprado EUR EBPOTR3419176
+EUR 163000.00 EUR 170369.90
+10:29 EURUSD1.094662Compra/Venda de moeda
+03-05-2024 Vendido USD EBPOTR3419176
+USD -178429.91 USD 248216.89
+10:29 EURUSD1.094662Compra/Venda de moeda
+Pagamento PI4054212 ASP Crew Management
+02-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -35242.80 USD 426646.80
+10:31
+PI4054212 001824
+Pagamento PI4049572 Leonardo Duran
+01-05-2024
+Salário / folha de pagamentos - Oceanica Netherlands B.V. EUR -16690.00 EUR 7369.90
+20:24
+PI4049572 pgto. Abril-24
+01-05-2024 Comprado EUR EBPOTR3414442
+EUR 17000.00 EUR 24059.90
+20:24 EURUSD1.083664Compra/Venda de moeda
+01-05-2024 Vendido USD EBPOTR3414442
+USD -18422.29 USD 461889.60
+20:05 EURUSD1.083664Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 5 de 12
+2024-05-13 10:35:06,972; INFO; functions.informacoes_extraidas.657: texto: Movimentos: USD Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI4062232 PT. SNEPAC SHIPPING
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -390.00 USD 888082.70
+20:06
+PI4062232 10001602
+Pagamento PI4062231 PT. SNEPAC SHIPPING
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -3542.65 USD 888472.70
+20:06
+PI4062231 1000185
+Pagamento PI4062229 INCHCAPE SHIPPING SERVICES
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -23143.48 USD 892015.35
+20:06
+PI4062229 11042024
+Pagamento PI4062228 Alatas Americas, Inc.
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -10734.60 USD 915158.83
+20:06
+PI4062228 1545901
+06-05-2024 Vendido USD EBPOTR3421669
+USD -27810.89 USD 925893.43
+20:06 USDSGD1.330414Compra/Venda de moeda
+06-05-2024 Vendido USD EBPOTR3421665
+USD -73534.63 USD 953704.32
+20:06 USDNOK10.661644Compra/Venda de moeda.
+06-05-2024 Vendido USD EBPOTR3421658
+USD -20409.58 USD 1027238.95
+20:06 GBPUSD1.275599Compra/Venda de moeda
+06-05-2024 Vendido USD EBPOTR3421654
+USD -32810.70 USD 1047648.53
+20:06 EURUSD1.093690Compra/Venda de moeda
+Fundos OCEANICA ENGENHARIA E CONSULTO
+06-05-2024
+BR6960701190032120000026755C1 - - NL66EBUR2845860862 - USD 1000000.00 USD 1080459.23
+12:48
+2024050600409807
+06-05-2024 Vendido USD EBPOTR3420712
+USD -125732.38 USD 80459.23
+07:49 EURUSD1.093325Compra/Venda de moeda
+Pagamento PI4058159 SOLANA AGENCIA MARITIMA LTDA.
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -7049.00 USD 206191.61
+20:03
+PI4058159 124
+05-05-2024 Vendido USD EBPOTR3419226
+USD -12044.10 USD 213240.61
+20:03 USDSGD1.328451Compra/venda de moeda
+05-05-2024 Vendido USD EBPOTR3419224
+USD -22932.18 USD 225284.71
+20:03 USDNOK10.683678Compra/Venda de moeda.
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 6 de 12
+2024-05-13 10:35:06,987; INFO; functions.informacoes_extraidas.657: texto: 03-05-2024 Vendido USD EBPOTR3419176
+USD -178429.91 USD 248216.89
+10:29 EURUSD1.094662Compra/Venda de moeda
+Pagamento PI4054212 ASP Crew Management
+02-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -35242.80 USD 426646.80
+10:31
+PI4054212 001824
+01-05-2024 Vendido USD EBPOTR3414442
+USD -18422.29 USD 461889.60
+20:05 EURUSD1.083664Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 7 de 12
+2024-05-13 10:35:07,034; INFO; functions.informacoes_extraidas.657: texto: Movimentos: NOK Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI4062227 Ocean Electronics AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -204000.00 NOK 3958.66
+20:25
+PI4062227 20068
+Pagamento PI4062219 Marin Teknikk AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -580000.00 NOK 207958.66
+20:25
+PI4062219 10857
+06-05-2024 Comprado NOK EBPOTR3421665
+NOK 784000.00 NOK 787958.66
+20:25 USDNOK10.661644Compra/Venda de moeda.
+Pagamento PI4057521 Marin Teknikk AS
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -290000.00 NOK 3958.66
+20:22
+PI4057521 10858
+05-05-2024 Comprado NOK EBPOTR3419224
+NOK 245000.00 NOK 293958.66
+20:22 USDNOK10.683678Compra/Venda de moeda.
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 8 de 12
+2024-05-13 10:35:07,081; INFO; functions.informacoes_extraidas.657: texto: Movimentos: GBP Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI4062216 ISLE OF MAN - GOVERNMENT
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -5090.00 GBP 730.00
+20:25
+PI4062216 483684
+Pagamento PI4062213 ISLE OF MAN - GOVERNMENT
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -5090.00 GBP 5820.00
+20:25
+PI4062213 483683
+Pagamento PI4062211 ISLE OF MAN - GOVERNMENT
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -5090.00 GBP 10910.00
+20:25
+PI4062211 483682
+06-05-2024 Comprado GBP EBPOTR3421658
+GBP 16000.00 GBP 16000.00
+20:25 GBPUSD1.275599Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 9 de 12
+2024-05-13 10:35:07,128; INFO; functions.informacoes_extraidas.657: texto: Movimentos: SGD Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI4062237 PT. LABROY SHIPBUILDING ENGINEERING
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. SGD -3750.00 SGD 1218.20
+20:25
+PI4062237 20240405
+Pagamento PI4062236 PT. LABROY SHIPBUILDING ENGINEERING
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. SGD -33053.58 SGD 4968.20
+20:25
+PI4062236 20240404
+06-05-2024 Comprado SGD EBPOTR3421669
+SGD 37000.00 SGD 38021.78
+20:25 USDSGD1.330414Compra/Venda de moeda
+Pagamento PI4057536 PT. LABROY SHIPBUILDING ENGINEERING
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. SGD -1500.00 SGD 1021.78
+20:22
+PI4057536 2402014
+Pagamento PI4057533 PT. LABROY SHIPBUILDING ENGINEERING
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. SGD -13841.00 SGD 2521.78
+20:22
+PI4057533 2402013
+05-05-2024 Comprado SGD EBPOTR3419226
+SGD 16000.00 SGD 16362.78
+20:22 USDSGD1.328451Compra/venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 10 de 12
+2024-05-13 10:35:07,206; INFO; functions.informacoes_extraidas.657: texto: Movimentos: EUR Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI4066307 DNV AS
+07-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -900.00 EUR 5744.01
+20:04
+PI4066307 10736430
+Pagamento PI4066306 DNV AS
+07-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -6075.00 EUR 6644.01
+20:04
+PI4066306 10716137
+Pagamento PI4062209 Holland Accommodation Rentals VOF
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -21038.31 EUR 12719.01
+20:25
+PI4062209 241450007
+06-05-2024 Comprado EUR EBPOTR3421654
+EUR 30000.00 EUR 33757.32
+20:25 EURUSD1.093690Compra/Venda de moeda
+Pagamento PI4062210 Wesmans AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -6000.00 EUR 3757.32
+20:05
+PI4062210 133291
+Pagamento PI4058154 Tschudi Ship Management AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -32413.79 EUR 9757.32
+07:49
+PI4058154 2024237
+Pagamento PI4058153 Tschudi Ship Management AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -32413.79 EUR 42171.11
+07:49
+PI4058153 2024236
+Pagamento PI4058151 Tschudi Ship Management AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -18635.00 EUR 74584.90
+07:49
+PI4058151 2024235
+Pagamento PI4058150 Tschudi Ship Management AS
+06-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -29450.00 EUR 93219.90
+07:49
+PI4058150 2024234
+06-05-2024 Comprado EUR EBPOTR3420712
+EUR 115000.00 EUR 122669.90
+07:49 EURUSD1.093325Compra/Venda de moeda
+Pagamento PI4057480 SKF MARINE SINGAPORE PTE. LTD.
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -81350.00 EUR 7669.90
+20:03
+PI4057480 9814765/121080 - FAR SCIMITAR
+Pagamento PI4057474 SKF MARINE SINGAPORE PTE. LTD.
+05-05-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -81350.00 EUR 89019.90
+20:03
+PI4057474 9814764/121080
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 11 de 12
+2024-05-13 10:35:07,222; INFO; functions.informacoes_extraidas.657: texto: 03-05-2024 Comprado EUR EBPOTR3419176
+EUR 163000.00 EUR 170369.90
+10:29 EURUSD1.094662Compra/Venda de moeda
+Pagamento PI4049572 Leonardo Duran
+01-05-2024
+Salário / folha de pagamentos - Oceanica Netherlands B.V. EUR -16690.00 EUR 7369.90
+20:24
+PI4049572 pgto. Abril-24
+01-05-2024 Comprado EUR EBPOTR3414442
+EUR 17000.00 EUR 24059.90
+20:24 EURUSD1.083664Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 12 de 12
+2024-05-13 10:35:07,222; INFO; functions.excelProcessoCompleto.1164: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-05-13 10:35:07,222; INFO; functions.excelProcessoCompleto.1178: Aba de TODOS EXTRAÍDOS ao EXCEL existente
+2024-05-13 10:35:07,237; INFO; main.process.42: PROCESSOS EXTRAIDOS COM ERRO: 10
+2024-05-13 10:35:07,237; INFO; main.process.43: PROCESSOS COM ERRO: [{'data': '06-05-2024', 'pi': '4062237', 'inv': '20240405', 'moeda': 'SGD', 'montante': '-3750.00', 'saldo': '1218.20', 'nome': 'PT. LABROY SHIPBUILDING ENGINEERING', 'cod': None}, {'data': '06-05-2024', 'pi': '4062236', 'inv': '20240404', 'moeda': 'SGD', 'montante': '-33053.58', 'saldo': '4968.20', 'nome': 'PT. LABROY SHIPBUILDING ENGINEERING', 'cod': None}, {'data': '05-05-2024', 'pi': '4057536', 'inv': '2402014', 'moeda': 'SGD', 'montante': '-1500.00', 'saldo': '1021.78', 'nome': 'PT. LABROY SHIPBUILDING ENGINEERING', 'cod': None}, {'data': '05-05-2024', 'pi': '4057533', 'inv': '2402013', 'moeda': 'SGD', 'montante': '-13841.00', 'saldo': '2521.78', 'nome': 'PT. LABROY SHIPBUILDING ENGINEERING', 'cod': None}, {'data': '01-05-2024', 'pi': '4049572', 'inv': None, 'moeda': 'EUR', 'montante': '-16690.00', 'saldo': '7369.90', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '06-05-2024', 'pi': '4062237', 'inv': '20240405', 'moeda': 'SGD', 'montante': '-3750.00', 'saldo': '1218.20', 'nome': 'PT. LABROY SHIPBUILDING ENGINEERING', 'cod': None}, {'data': '06-05-2024', 'pi': '4062236', 'inv': '20240404', 'moeda': 'SGD', 'montante': '-33053.58', 'saldo': '4968.20', 'nome': 'PT. LABROY SHIPBUILDING ENGINEERING', 'cod': None}, {'data': '05-05-2024', 'pi': '4057536', 'inv': '2402014', 'moeda': 'SGD', 'montante': '-1500.00', 'saldo': '1021.78', 'nome': 'PT. LABROY SHIPBUILDING ENGINEERING', 'cod': None}, {'data': '05-05-2024', 'pi': '4057533', 'inv': '2402013', 'moeda': 'SGD', 'montante': '-13841.00', 'saldo': '2521.78', 'nome': 'PT. LABROY SHIPBUILDING ENGINEERING', 'cod': None}, {'data': '01-05-2024', 'pi': '4049572', 'inv': None, 'moeda': 'EUR', 'montante': '-16690.00', 'saldo': '7369.90', 'nome': 'Leonardo Duran', 'cod': None}]
+2024-05-13 10:35:07,237; INFO; functions.excelErro.1114: Adicionando aba de ERRO ao EXCEL existente
+2024-05-13 10:35:07,237; INFO; functions.excelErro.1130: Aba de ERRO adicionada ao EXCEL existente
+2024-05-13 10:35:07,237; INFO; main.process.46: PROCESSOS EXTRAIDOS CORRETAMENTE: 44
+2024-05-13 10:35:07,237; INFO; main.process.47: PROCESSOS A SEREM TRATADOS: [{'data': '07-05-2024', 'pi': '4066307', 'inv': '10736430', 'moeda': 'EUR', 'montante': '-900.00', 'saldo': '5744.01', 'nome': 'DNV AS', 'cod': None}, {'data': '07-05-2024', 'pi': '4066306', 'inv': '10716137', 'moeda': 'EUR', 'montante': '-6075.00', 'saldo': '6644.01', 'nome': 'DNV AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4062216', 'inv': '483684', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '730.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '06-05-2024', 'pi': '4062213', 'inv': '483683', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '5820.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '06-05-2024', 'pi': '4062227', 'inv': '20068', 'moeda': 'NOK', 'montante': '-204000.00', 'saldo': '3958.66', 'nome': 'Ocean Electronics AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4062211', 'inv': '483682', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '10910.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '06-05-2024', 'pi': '4062219', 'inv': '10857', 'moeda': 'NOK', 'montante': '-580000.00', 'saldo': '207958.66', 'nome': 'Marin Teknikk AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4062209', 'inv': '241450007', 'moeda': 'EUR', 'montante': '-21038.31', 'saldo': '12719.01', 'nome': 'Holland Accommodation Rentals VOF', 'cod': None}, {'data': '06-05-2024', 'pi': '4062232', 'inv': '10001602', 'moeda': 'USD', 'montante': '-390.00', 'saldo': '888082.70', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '06-05-2024', 'pi': '4062231', 'inv': '1000185', 'moeda': 'USD', 'montante': '-3542.65', 'saldo': '888472.70', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '06-05-2024', 'pi': '4062229', 'inv': '11042024', 'moeda': 'USD', 'montante': '-23143.48', 'saldo': '892015.35', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '06-05-2024', 'pi': '4062228', 'inv': '1545901', 'moeda': 'USD', 'montante': '-10734.60', 'saldo': '915158.83', 'nome': 'Alatas Americas, Inc.', 'cod': None}, {'data': '06-05-2024', 'pi': '4062210', 'inv': '133291', 'moeda': 'EUR', 'montante': '-6000.00', 'saldo': '3757.32', 'nome': 'Wesmans AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4058154', 'inv': '2024237', 'moeda': 'EUR', 'montante': '-32413.79', 'saldo': '9757.32', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4058153', 'inv': '2024236', 'moeda': 'EUR', 'montante': '-32413.79', 'saldo': '42171.11', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4058151', 'inv': '2024235', 'moeda': 'EUR', 'montante': '-18635.00', 'saldo': '74584.90', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4058150', 'inv': '2024234', 'moeda': 'EUR', 'montante': '-29450.00', 'saldo': '93219.90', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '05-05-2024', 'pi': '4057521', 'inv': '10858', 'moeda': 'NOK', 'montante': '-290000.00', 'saldo': '3958.66', 'nome': 'Marin Teknikk AS', 'cod': None}, {'data': '05-05-2024', 'pi': '4058159', 'inv': '124', 'moeda': 'USD', 'montante': '-7049.00', 'saldo': '206191.61', 'nome': 'SOLANA AGENCIA MARITIMA LTDA.', 'cod': None}, {'data': '05-05-2024', 'pi': '4057480', 'inv': '9814765', 'moeda': 'EUR', 'montante': '-81350.00', 'saldo': '7669.90', 'nome': 'SKF MARINE SINGAPORE PTE. LTD.', 'cod': None}, {'data': '05-05-2024', 'pi': '4057474', 'inv': '9814764', 'moeda': 'EUR', 'montante': '-81350.00', 'saldo': '89019.90', 'nome': 'SKF MARINE SINGAPORE PTE. LTD.', 'cod': None}, {'data': '02-05-2024', 'pi': '4054212', 'inv': '001824', 'moeda': 'USD', 'montante': '-35242.80', 'saldo': '426646.80', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '06-05-2024', 'pi': '4062232', 'inv': '10001602', 'moeda': 'USD', 'montante': '-390.00', 'saldo': '888082.70', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '06-05-2024', 'pi': '4062231', 'inv': '1000185', 'moeda': 'USD', 'montante': '-3542.65', 'saldo': '888472.70', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '06-05-2024', 'pi': '4062229', 'inv': '11042024', 'moeda': 'USD', 'montante': '-23143.48', 'saldo': '892015.35', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '06-05-2024', 'pi': '4062228', 'inv': '1545901', 'moeda': 'USD', 'montante': '-10734.60', 'saldo': '915158.83', 'nome': 'Alatas Americas, Inc.', 'cod': None}, {'data': '05-05-2024', 'pi': '4058159', 'inv': '124', 'moeda': 'USD', 'montante': '-7049.00', 'saldo': '206191.61', 'nome': 'SOLANA AGENCIA MARITIMA LTDA.', 'cod': None}, {'data': '02-05-2024', 'pi': '4054212', 'inv': '001824', 'moeda': 'USD', 'montante': '-35242.80', 'saldo': '426646.80', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '06-05-2024', 'pi': '4062227', 'inv': '20068', 'moeda': 'NOK', 'montante': '-204000.00', 'saldo': '3958.66', 'nome': 'Ocean Electronics AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4062219', 'inv': '10857', 'moeda': 'NOK', 'montante': '-580000.00', 'saldo': '207958.66', 'nome': 'Marin Teknikk AS', 'cod': None}, {'data': '05-05-2024', 'pi': '4057521', 'inv': '10858', 'moeda': 'NOK', 'montante': '-290000.00', 'saldo': '3958.66', 'nome': 'Marin Teknikk AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4062216', 'inv': '483684', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '730.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '06-05-2024', 'pi': '4062213', 'inv': '483683', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '5820.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '06-05-2024', 'pi': '4062211', 'inv': '483682', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '10910.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '07-05-2024', 'pi': '4066307', 'inv': '10736430', 'moeda': 'EUR', 'montante': '-900.00', 'saldo': '5744.01', 'nome': 'DNV AS', 'cod': None}, {'data': '07-05-2024', 'pi': '4066306', 'inv': '10716137', 'moeda': 'EUR', 'montante': '-6075.00', 'saldo': '6644.01', 'nome': 'DNV AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4062209', 'inv': '241450007', 'moeda': 'EUR', 'montante': '-21038.31', 'saldo': '12719.01', 'nome': 'Holland Accommodation Rentals VOF', 'cod': None}, {'data': '06-05-2024', 'pi': '4062210', 'inv': '133291', 'moeda': 'EUR', 'montante': '-6000.00', 'saldo': '3757.32', 'nome': 'Wesmans AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4058154', 'inv': '2024237', 'moeda': 'EUR', 'montante': '-32413.79', 'saldo': '9757.32', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4058153', 'inv': '2024236', 'moeda': 'EUR', 'montante': '-32413.79', 'saldo': '42171.11', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4058151', 'inv': '2024235', 'moeda': 'EUR', 'montante': '-18635.00', 'saldo': '74584.90', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '06-05-2024', 'pi': '4058150', 'inv': '2024234', 'moeda': 'EUR', 'montante': '-29450.00', 'saldo': '93219.90', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '05-05-2024', 'pi': '4057480', 'inv': '9814765', 'moeda': 'EUR', 'montante': '-81350.00', 'saldo': '7669.90', 'nome': 'SKF MARINE SINGAPORE PTE. LTD.', 'cod': None}, {'data': '05-05-2024', 'pi': '4057474', 'inv': '9814764', 'moeda': 'EUR', 'montante': '-81350.00', 'saldo': '89019.90', 'nome': 'SKF MARINE SINGAPORE PTE. LTD.', 'cod': None}]
+2024-05-13 10:35:07,237; INFO; functions.mover_para_lidos.1230: MOVENDO ARQUIVO Ebury - Parcial até 09-05.pdf.
+2024-05-13 10:35:07,237; INFO; functions.mover_para_lidos.1238: Pasta "Lidos" já existe
+2024-05-13 10:35:07,237; INFO; functions.mover_para_lidos.1255: ARQUIVO Ebury - Parcial até 09-05.pdf MOVIDO PARA LIDOS.
+2024-05-13 10:35:07,237; INFO; functions.open_RM.50: OPEN PROGRAM RM
+2024-05-13 10:35:13,797; INFO; functions.loggin_RM.65: ENTER USER_NAME
+2024-05-13 10:35:14,624; INFO; functions.loggin_RM.70: ENTER PASSWORD
+2024-05-13 10:35:15,296; INFO; functions.loggin_RM.74: ENTER RM
+2024-05-13 10:35:55,471; INFO; functions.waitForImage.982: LICENCAS EXCEDIDAS image not found.
+2024-05-13 10:35:56,159; INFO; functions.enter_coligada.96: CLICK CONTEXTO
+2024-05-13 10:35:57,589; INFO; functions.enter_coligada.99: CLICK COLIGADA 2
+2024-05-13 10:35:59,917; INFO; functions.enter_coligada.103: INSERE O COLIGADA CODE = 2
+2024-05-13 10:36:00,019; INFO; functions.enter_coligada.105: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-05-13 10:36:00,883; INFO; functions.enter_coligada.108: CLICK AVANÇAR NOVAMENTE
+2024-05-13 10:36:03,702; INFO; functions.enter_coligada.112: CLICK CONCLUIR
+2024-05-13 10:36:20,406; INFO; functions.enter_coligada.115: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-05-13 10:36:21,016; INFO; functions.enter_contas_a_pagar.126: CLICK - TOTVS - LINHA RM
+2024-05-13 10:36:23,707; INFO; functions.enter_contas_a_pagar.131: CLICK - BACK OFFICE
+2024-05-13 10:36:26,287; INFO; functions.enter_contas_a_pagar.136: CLICK - GESTAO FINANCEIRA
+2024-05-13 10:36:28,960; INFO; functions.enter_contas_a_pagar.141: CLICK - CONTAS A PAGAR
+2024-05-13 10:36:29,126; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:36:29,230; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:36:34,357; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:36:34,357; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:36:34,357; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 1
+2024-05-13 10:36:56,555; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:36:56,687; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:37:01,781; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:37:01,781; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:37:01,781; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 2
+2024-05-13 10:37:23,998; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:37:24,110; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:37:29,226; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:37:29,226; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:37:29,226; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 3
+2024-05-13 10:37:51,422; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:37:51,554; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:37:56,664; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:37:56,664; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:37:56,664; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 4
+2024-05-13 10:38:18,870; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:38:19,002; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:38:24,133; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:38:24,133; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:38:24,133; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 5
+2024-05-13 10:38:46,329; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:38:46,446; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:38:51,540; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:38:51,540; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:38:51,540; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 6
+2024-05-13 10:39:13,747; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:39:13,864; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:39:18,967; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:39:18,967; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:39:18,967; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 7
+2024-05-13 10:39:41,167; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:39:41,300; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:39:46,394; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:39:46,394; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:39:46,394; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 8
+2024-05-13 10:40:08,601; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:40:08,718; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:40:13,812; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:40:13,812; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:40:13,812; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 9
+2024-05-13 10:40:36,019; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:40:36,136; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:40:41,230; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:40:41,230; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:40:41,230; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 10
+2024-05-13 10:41:03,436; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:41:03,569; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:41:08,663; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:41:08,663; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:41:08,663; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 11
+2024-05-13 10:41:30,869; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:41:30,986; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:41:36,080; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:41:36,080; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:41:36,080; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 12
+2024-05-13 10:41:58,287; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:41:58,403; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:42:03,498; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:42:03,498; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:42:03,498; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 13
+2024-05-13 10:42:25,704; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:42:25,820; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:42:30,914; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:42:30,914; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:42:30,914; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 14
+2024-05-13 10:42:53,122; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:42:53,239; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:42:58,334; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:42:58,334; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:42:58,334; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 15
+2024-05-13 10:43:20,541; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:43:20,674; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:43:25,768; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:43:25,768; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:43:25,768; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 16
+2024-05-13 10:43:47,974; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:43:48,091; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:43:53,185; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:43:53,185; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:43:53,185; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 17
+2024-05-13 10:44:15,393; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:44:15,509; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:44:20,604; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:44:20,604; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:44:20,604; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 18
+2024-05-13 10:44:42,813; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:44:42,930; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:44:48,024; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:44:48,024; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:44:48,024; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 19
+2024-05-13 10:45:10,231; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:45:10,363; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:45:15,458; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:45:15,458; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:45:15,458; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 20
+2024-05-13 10:45:37,665; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:45:37,796; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:45:42,906; INFO; functions.waitForImage.951: LICENCAS EXCEDIDAS image found.
+2024-05-13 10:45:42,906; INFO; functions.enter_contas_a_pagar.161: LICENCAS EXCEDIDAS
+2024-05-13 10:45:42,906; INFO; functions.enter_contas_a_pagar.162: TENTANDO NOVAMENTE - 21
+2024-05-13 10:46:05,102; INFO; functions.waitForImage.951: LANÇAMENTOS image found.
+2024-05-13 10:46:05,235; INFO; functions.enter_contas_a_pagar.156: CLICA EM LANÇAMENTOS
+2024-05-13 10:46:30,406; INFO; functions.waitForImage.982: LICENCAS EXCEDIDAS image not found.
+2024-05-13 10:46:30,406; INFO; main.process.64: extrato_list_nao_tratado processo 0
+2024-05-13 10:46:30,406; INFO; main.process.71: PROCESSO 1 de 44 A SER TRATADO: {'data': '07-05-2024', 'pi': '4066307', 'inv': '10736430', 'moeda': 'EUR', 'montante': '-900.00', 'saldo': '5744.01', 'nome': 'DNV AS', 'cod': None}
+2024-05-13 10:46:30,406; INFO; main.process.82: inv original 10736430. tamanho 8
+2024-05-13 10:46:30,406; INFO; main.process.87: inv TRATADA 01073643001. tamanho 11
+2024-05-13 10:46:30,406; INFO; main.process.99: data: 07052024 <class 'str'>
+
+                        pi: 4066307 <class 'str'>
+
+                        inv: 01073643001 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 900,00 <class 'str'>
+
+                        saldo: 5744.01 <class 'str'>
+
+                        nome: DNV AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:46:30,421; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:46:30,421; INFO; main.process.64: extrato_list_nao_tratado processo 1
+2024-05-13 10:46:30,421; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:46:30,421; INFO; main.process.71: PROCESSO 2 de 44 A SER TRATADO: {'data': '07-05-2024', 'pi': '4066306', 'inv': '10716137', 'moeda': 'EUR', 'montante': '-6075.00', 'saldo': '6644.01', 'nome': 'DNV AS', 'cod': None}
+2024-05-13 10:46:30,421; INFO; main.process.82: inv original 10716137. tamanho 8
+2024-05-13 10:46:30,421; INFO; main.process.87: inv TRATADA 01071613701. tamanho 11
+2024-05-13 10:46:30,421; INFO; main.process.99: data: 07052024 <class 'str'>
+
+                        pi: 4066306 <class 'str'>
+
+                        inv: 01071613701 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 6075,00 <class 'str'>
+
+                        saldo: 6644.01 <class 'str'>
+
+                        nome: DNV AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:46:30,421; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:46:30,421; INFO; main.process.64: extrato_list_nao_tratado processo 2
+2024-05-13 10:46:30,421; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:46:30,421; INFO; main.process.71: PROCESSO 3 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062216', 'inv': '483684', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '730.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}
+2024-05-13 10:46:30,421; INFO; main.process.82: inv original 483684. tamanho 6
+2024-05-13 10:46:30,421; INFO; main.process.87: inv TRATADA 00048368401. tamanho 11
+2024-05-13 10:46:30,421; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062216 <class 'str'>
+
+                        inv: 00048368401 <class 'str'>
+
+                        moeda: GBP <class 'str'>
+
+                        montante: 5090,00 <class 'str'>
+
+                        saldo: 730.00 <class 'str'>
+
+                        nome: ISLE OF MAN - GOVERNMENT <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:46:30,421; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:46:30,421; INFO; main.process.64: extrato_list_nao_tratado processo 3
+2024-05-13 10:46:30,421; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:46:30,421; INFO; main.process.71: PROCESSO 4 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062213', 'inv': '483683', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '5820.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}
+2024-05-13 10:46:30,421; INFO; main.process.82: inv original 483683. tamanho 6
+2024-05-13 10:46:30,421; INFO; main.process.87: inv TRATADA 00048368301. tamanho 11
+2024-05-13 10:46:30,421; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062213 <class 'str'>
+
+                        inv: 00048368301 <class 'str'>
+
+                        moeda: GBP <class 'str'>
+
+                        montante: 5090,00 <class 'str'>
+
+                        saldo: 5820.00 <class 'str'>
+
+                        nome: ISLE OF MAN - GOVERNMENT <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:46:30,421; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:46:30,421; INFO; main.process.64: extrato_list_nao_tratado processo 4
+2024-05-13 10:46:30,421; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:46:30,421; INFO; main.process.71: PROCESSO 5 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062227', 'inv': '20068', 'moeda': 'NOK', 'montante': '-204000.00', 'saldo': '3958.66', 'nome': 'Ocean Electronics AS', 'cod': None}
+2024-05-13 10:46:30,421; INFO; main.process.82: inv original 20068. tamanho 5
+2024-05-13 10:46:30,421; INFO; main.process.87: inv TRATADA 00002006801. tamanho 11
+2024-05-13 10:46:30,421; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062227 <class 'str'>
+
+                        inv: 00002006801 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 204000,00 <class 'str'>
+
+                        saldo: 3958.66 <class 'str'>
+
+                        nome: Ocean Electronics AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:46:30,421; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:46:30,421; INFO; main.process.64: extrato_list_nao_tratado processo 5
+2024-05-13 10:46:30,421; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:46:30,421; INFO; main.process.71: PROCESSO 6 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062211', 'inv': '483682', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '10910.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}
+2024-05-13 10:46:30,421; INFO; main.process.82: inv original 483682. tamanho 6
+2024-05-13 10:46:30,421; INFO; main.process.87: inv TRATADA 00048368201. tamanho 11
+2024-05-13 10:46:30,421; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062211 <class 'str'>
+
+                        inv: 00048368201 <class 'str'>
+
+                        moeda: GBP <class 'str'>
+
+                        montante: 5090,00 <class 'str'>
+
+                        saldo: 10910.00 <class 'str'>
+
+                        nome: ISLE OF MAN - GOVERNMENT <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:46:30,421; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:46:30,421; INFO; main.process.64: extrato_list_nao_tratado processo 6
+2024-05-13 10:46:30,421; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:46:30,421; INFO; main.process.71: PROCESSO 7 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062219', 'inv': '10857', 'moeda': 'NOK', 'montante': '-580000.00', 'saldo': '207958.66', 'nome': 'Marin Teknikk AS', 'cod': None}
+2024-05-13 10:46:30,421; INFO; main.process.82: inv original 10857. tamanho 5
+2024-05-13 10:46:30,421; INFO; main.process.87: inv TRATADA 00001085701. tamanho 11
+2024-05-13 10:46:30,421; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062219 <class 'str'>
+
+                        inv: 00001085701 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 580000,00 <class 'str'>
+
+                        saldo: 207958.66 <class 'str'>
+
+                        nome: Marin Teknikk AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:46:30,421; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:46:30,421; INFO; main.process.64: extrato_list_nao_tratado processo 7
+2024-05-13 10:46:30,421; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:46:30,421; INFO; main.process.71: PROCESSO 8 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062209', 'inv': '241450007', 'moeda': 'EUR', 'montante': '-21038.31', 'saldo': '12719.01', 'nome': 'Holland Accommodation Rentals VOF', 'cod': None}
+2024-05-13 10:46:30,421; INFO; main.process.82: inv original 241450007. tamanho 9
+2024-05-13 10:46:30,421; INFO; main.process.87: inv TRATADA 24145000701. tamanho 11
+2024-05-13 10:46:30,421; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062209 <class 'str'>
+
+                        inv: 24145000701 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 21038,31 <class 'str'>
+
+                        saldo: 12719.01 <class 'str'>
+
+                        nome: Holland Accommodation Rentals VOF <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:46:30,421; INFO; functions.filter_lancamento.196: filter_lancamento : 1
+2024-05-13 10:46:40,646; INFO; functions.filter_lancamento.223: ESCREVE Número do documento NO FILTRO
+2024-05-13 10:46:42,272; INFO; functions.filter_lancamento.228: CLICK - BOTÃO DE SELECAO DE FILTRO
+2024-05-13 10:46:44,274; INFO; functions.filter_lancamento.253: VALOR DE 24145000701 FILTRO
+2024-05-13 10:46:44,904; INFO; functions.filter_lancamento.258: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-05-13 10:46:48,172; INFO; functions.desmark_filter.315: CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2024-05-13 10:46:48,942; INFO; functions.desmark_filter.319: CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2024-05-13 10:46:49,752; INFO; functions.desmark_filter.323: CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2024-05-13 10:46:50,614; INFO; functions.desmark_filter.327: CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2024-05-13 10:46:51,481; INFO; functions.desmark_filter.331: ATUALIZA O FILTRO
+2024-05-13 10:46:51,632; INFO; functions.waitForImage.951: FILTER CLEAN image found.
+2024-05-13 10:46:51,742; INFO; functions.filter_clean.266: CLICA NO BOTÃO X DO LIMPA FILTRO - TENTATIVA 1
+2024-05-13 10:47:03,802; INFO; functions.waitForImage.982: FILTER CLEAN image not found.
+2024-05-13 10:47:03,802; INFO; functions.filter_clean.269: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 2
+2024-05-13 10:47:13,866; INFO; functions.waitForImage.982: FILTER CLEAN image not found.
+2024-05-13 10:47:13,882; INFO; functions.filter_clean.269: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 3
+2024-05-13 10:47:14,713; INFO; functions.select_tipo_documento.276: NOME DA COLUNA: Tipo de Documento
+2024-05-13 10:47:15,916; INFO; functions.select_tipo_documento.280: HOVER NOME DA COLUNA: Tipo de Documento
+2024-05-13 10:47:17,507; INFO; functions.select_tipo_documento.292: CLICA NO FILTRO PERSONALIZAR
+2024-05-13 10:47:18,373; INFO; functions.select_tipo_documento.296: CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2024-05-13 10:47:25,382; INFO; functions.select_tipo_documento.308: CLICK BUTTON CONFIRMAR FILTRO
+2024-05-13 10:47:25,382; INFO; functions.check_table_record.336: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-05-13 10:47:26,192; INFO; functions.check_table_record.340: VERIFICAdo
+2024-05-13 10:47:34,302; INFO; functions.check_table_record.346: CTRL+G
+2024-05-13 10:47:34,880; INFO; functions.check_table_record.350: Para este processo é necessário que existam registros na visão.
+2024-05-13 10:47:37,888; INFO; functions.check_table_record.357: SEM REGISTROS ENCONTRADOS
+2024-05-13 10:47:37,989; INFO; main.process.134: Nenhuma INV encontrada
+2024-05-13 10:47:37,989; INFO; main.process.64: extrato_list_nao_tratado processo 8
+2024-05-13 10:47:37,989; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:47:37,989; INFO; main.process.71: PROCESSO 9 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062232', 'inv': '10001602', 'moeda': 'USD', 'montante': '-390.00', 'saldo': '888082.70', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}
+2024-05-13 10:47:37,989; INFO; main.process.82: inv original 10001602. tamanho 8
+2024-05-13 10:47:37,989; INFO; main.process.87: inv TRATADA 01000160201. tamanho 11
+2024-05-13 10:47:37,989; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062232 <class 'str'>
+
+                        inv: 01000160201 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 390,00 <class 'str'>
+
+                        saldo: 888082.70 <class 'str'>
+
+                        nome: PT. SNEPAC SHIPPING <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:47:37,989; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:47:37,989; INFO; main.process.64: extrato_list_nao_tratado processo 9
+2024-05-13 10:47:37,989; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:47:37,989; INFO; main.process.71: PROCESSO 10 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062231', 'inv': '1000185', 'moeda': 'USD', 'montante': '-3542.65', 'saldo': '888472.70', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}
+2024-05-13 10:47:37,989; INFO; main.process.82: inv original 1000185. tamanho 7
+2024-05-13 10:47:37,989; INFO; main.process.87: inv TRATADA 00100018501. tamanho 11
+2024-05-13 10:47:37,989; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062231 <class 'str'>
+
+                        inv: 00100018501 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 3542,65 <class 'str'>
+
+                        saldo: 888472.70 <class 'str'>
+
+                        nome: PT. SNEPAC SHIPPING <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:47:37,989; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:47:37,989; INFO; main.process.64: extrato_list_nao_tratado processo 10
+2024-05-13 10:47:37,989; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:47:37,989; INFO; main.process.71: PROCESSO 11 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062229', 'inv': '11042024', 'moeda': 'USD', 'montante': '-23143.48', 'saldo': '892015.35', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}
+2024-05-13 10:47:37,989; INFO; main.process.82: inv original 11042024. tamanho 8
+2024-05-13 10:47:37,989; INFO; main.process.87: inv TRATADA 01104202401. tamanho 11
+2024-05-13 10:47:37,989; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062229 <class 'str'>
+
+                        inv: 01104202401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 23143,48 <class 'str'>
+
+                        saldo: 892015.35 <class 'str'>
+
+                        nome: INCHCAPE SHIPPING SERVICES <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:47:37,989; INFO; functions.filter_lancamento.231: filter_lancamento : 2
+2024-05-13 10:47:39,762; INFO; functions.waitForImage.951: NOVO FILTRO image found.
+2024-05-13 10:47:39,895; INFO; functions.filter_lancamento.240: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-05-13 10:47:41,618; INFO; functions.filter_lancamento.253: VALOR DE 01104202401 FILTRO
+2024-05-13 10:47:42,227; INFO; functions.filter_lancamento.258: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-05-13 10:47:42,227; INFO; functions.check_table_record.336: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-05-13 10:47:44,140; INFO; functions.check_table_record.340: VERIFICAdo
+2024-05-13 10:47:44,905; INFO; functions.check_table_record.346: CTRL+G
+2024-05-13 10:47:45,483; INFO; functions.check_table_record.350: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-05-13 10:47:47,498; INFO; functions.check_table_record.364: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-05-13 10:47:49,199; INFO; functions.check_table_record.370: CLICK NÃO
+2024-05-13 10:47:51,216; INFO; functions.check_inv.468: MOVIDO PRA CIMA 1 VEZES
+2024-05-13 10:47:52,142; INFO; functions.check_inv.475: PRIMEIRA CELULA CLICADA
+2024-05-13 10:47:55,675; INFO; functions.check_inv.479: 35 PASSOS PARA ESQUERDA
+2024-05-13 10:47:57,491; INFO; functions.check_inv.484: 18 PASSOS PARA DIREITA
+2024-05-13 10:47:59,491; INFO; functions.check_inv.490: BUSCA NA LINHA: 1
+2024-05-13 10:47:59,491; INFO; functions.check_inv.496: ctrl c
+2024-05-13 10:48:00,094; INFO; functions.check_inv.500: Buscando: 01104202401 - INCHCAPE SHIPPING SERVICES
+2024-05-13 10:48:00,094; INFO; functions.check_inv.501: Historico completo encontrado: INV - 11042024 - INCHCAPE SHIPPING SERVICE 
+2024-05-13 10:48:00,595; INFO; functions.check_inv.575: INV E COLIGADA CORRETA ENCONTRADA: 11042024 - INCHCAPE SHIPPING SERVICE 
+2024-05-13 10:48:00,998; INFO; functions.check_inv.579: 4 PASSOS PARA ESQUERDA
+2024-05-13 10:48:01,100; INFO; functions.check_inv.582: ctrl c
+2024-05-13 10:48:01,601; INFO; functions.check_inv.588: VALOR PROCESSO: 23143,48
+2024-05-13 10:48:01,601; INFO; functions.check_inv.589: VALOR PROCESSO2: <class 'str'>
+2024-05-13 10:48:01,601; INFO; functions.check_inv.592: VALOR CORRETO ENCONTRADO.
+2024-05-13 10:48:03,703; INFO; functions.define_moeda.615: ctrl + enter
+2024-05-13 10:48:08,219; INFO; functions.waitForImage.973: INTEGRAÇÃO BANCÁRIA image found.
+2024-05-13 10:48:10,344; INFO; functions.define_moeda.621: CLICK EM VALOR
+2024-05-13 10:48:10,748; INFO; functions.define_moeda.625: 4 TAB
+2024-05-13 10:48:43,953; INFO; functions.define_moeda.632: MOEDA PREENCHIDA COM USD
+2024-05-13 10:48:48,284; INFO; functions.waitForImage.951: PRESS BUTTON OK image found.
+2024-05-13 10:48:50,418; INFO; functions.define_moeda.644: APERTA OK
+2024-05-13 10:48:52,520; INFO; functions.baixa_inv.791: CHECK LINHA
+2024-05-13 10:48:54,136; INFO; functions.baixa_inv.795: SELECIONA BOTÃO BAIXA
+2024-05-13 10:48:56,838; INFO; functions.baixa_inv.800: CLICA OK
+2024-05-13 10:48:59,316; INFO; functions.baixa_inv.807: CLICA AVANÇAR
+2024-05-13 10:49:04,996; INFO; functions.baixa_inv.813: SELECIONA SIMPLIFICADA
+2024-05-13 10:49:05,925; INFO; functions.baixa_inv.817: DATA AUTOMÁTICA: 11/05/2024
+2024-05-13 10:49:05,925; INFO; functions.baixa_inv.826: DATAS DIFERENTES, FAZENDO ALTERAÇÃO
+2024-05-13 10:49:16,781; INFO; functions.baixa_inv.852: CONTA CAIXA: USD - BANCO EBURY C/C 284586086
+2024-05-13 10:49:16,781; INFO; functions.baixa_inv.855: CONTA CAIXA PREENCHIDA CORRETAMENTE
+2024-05-13 10:49:17,415; INFO; functions.baixa_inv.863: AVANÇAR
+2024-05-13 10:49:19,288; INFO; functions.baixa_inv.869: VALOR INV: 23143,48
+2024-05-13 10:49:19,915; INFO; functions.baixa_inv.882: AVANÇAR
+2024-05-13 10:49:23,822; INFO; functions.baixa_inv.886: AVANÇAR
+2024-05-13 10:49:24,490; INFO; functions.baixa_inv.890: EXECUTAR
+2024-05-13 10:49:42,236; INFO; functions.waitForImage.973: PRESS BUTTON OK image found.
+2024-05-13 10:49:44,238; INFO; functions.baixa_inv.895: OK SUCESSO
+2024-05-13 10:49:47,034; INFO; functions.baixa_inv.907: O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 13/05/2024 10:49:35
+  | Fim    : 13/05/2024 10:49:41
+  | Duração: 00:00:05:403
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 13/05/2024 10:49:35
+  |  | Fim    : 13/05/2024 10:49:35
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 13/05/2024 10:49:35
+  |  | Fim    : 13/05/2024 10:49:35
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 13/05/2024 10:49:35
+  |  | Fim    : 13/05/2024 10:49:35
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 13/05/2024 10:49:35
+  |  | Fim    : 13/05/2024 10:49:35
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 13/05/2024 10:49:35
+  |  | Fim    : 13/05/2024 10:49:35
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 13/05/2024 10:49:35
+  |  | Fim    : 13/05/2024 10:49:36
+  |  | Duração: 00:00:00:125
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 13/05/2024 10:49:35
+  |  |  | Fim    : 13/05/2024 10:49:36
+  |  |  | Duração: 00:00:00:125
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 2978)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 13/05/2024 10:49:35
+  |  |  |  | Fim    : 13/05/2024 10:49:36
+  |  |  |  | Duração: 00:00:00:109
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 13/05/2024 10:49:36
+  |  | Fim    : 13/05/2024 10:49:36
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 13/05/2024 10:49:36
+  |  | Fim    : 13/05/2024 10:49:36
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 13/05/2024 10:49:36
+  |  | Fim    : 13/05/2024 10:49:36
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------
+2024-05-13 10:49:47,660; INFO; functions.baixa_inv.911: FECHAR
+2024-05-13 10:49:47,661; INFO; main.process.160: Baixado
+2024-05-13 10:49:47,664; INFO; main.process.64: extrato_list_nao_tratado processo 11
+2024-05-13 10:49:47,664; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:49:47,665; INFO; main.process.71: PROCESSO 12 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062228', 'inv': '1545901', 'moeda': 'USD', 'montante': '-10734.60', 'saldo': '915158.83', 'nome': 'Alatas Americas, Inc.', 'cod': None}
+2024-05-13 10:49:47,665; INFO; main.process.82: inv original 1545901. tamanho 7
+2024-05-13 10:49:47,665; INFO; main.process.87: inv TRATADA 00154590101. tamanho 11
+2024-05-13 10:49:47,666; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062228 <class 'str'>
+
+                        inv: 00154590101 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 10734,60 <class 'str'>
+
+                        saldo: 915158.83 <class 'str'>
+
+                        nome: Alatas Americas, Inc. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:49:47,677; INFO; functions.filter_lancamento.231: filter_lancamento : 2
+2024-05-13 10:49:50,627; INFO; functions.waitForImage.951: NOVO FILTRO image found.
+2024-05-13 10:49:50,757; INFO; functions.filter_lancamento.240: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-05-13 10:49:52,481; INFO; functions.filter_lancamento.253: VALOR DE 00154590101 FILTRO
+2024-05-13 10:49:53,091; INFO; functions.filter_lancamento.258: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-05-13 10:49:53,091; INFO; functions.check_table_record.336: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-05-13 10:49:54,538; INFO; functions.check_table_record.340: VERIFICAdo
+2024-05-13 10:49:55,289; INFO; functions.check_table_record.346: CTRL+G
+2024-05-13 10:49:55,883; INFO; functions.check_table_record.350: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-05-13 10:49:57,884; INFO; functions.check_table_record.364: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-05-13 10:49:59,572; INFO; functions.check_table_record.370: CLICK NÃO
+2024-05-13 10:50:01,568; INFO; functions.check_inv.468: MOVIDO PRA CIMA 1 VEZES
+2024-05-13 10:50:02,509; INFO; functions.check_inv.475: PRIMEIRA CELULA CLICADA
+2024-05-13 10:50:06,042; INFO; functions.check_inv.479: 35 PASSOS PARA ESQUERDA
+2024-05-13 10:50:07,860; INFO; functions.check_inv.484: 18 PASSOS PARA DIREITA
+2024-05-13 10:50:09,861; INFO; functions.check_inv.490: BUSCA NA LINHA: 1
+2024-05-13 10:50:09,861; INFO; functions.check_inv.496: ctrl c
+2024-05-13 10:50:10,463; INFO; functions.check_inv.500: Buscando: 00154590101 - Alatas Americas, Inc.
+2024-05-13 10:50:10,463; INFO; functions.check_inv.501: Historico completo encontrado: INV - 001545901 - ALATAS AMERICAS INC
+2024-05-13 10:50:10,964; INFO; functions.check_inv.575: INV E COLIGADA CORRETA ENCONTRADA: 001545901 - ALATAS AMERICAS INC
+2024-05-13 10:50:11,367; INFO; functions.check_inv.579: 4 PASSOS PARA ESQUERDA
+2024-05-13 10:50:11,470; INFO; functions.check_inv.582: ctrl c
+2024-05-13 10:50:11,971; INFO; functions.check_inv.588: VALOR PROCESSO: 10734,60
+2024-05-13 10:50:11,971; INFO; functions.check_inv.589: VALOR PROCESSO2: <class 'str'>
+2024-05-13 10:50:11,972; INFO; functions.check_inv.592: VALOR CORRETO ENCONTRADO.
+2024-05-13 10:50:14,074; INFO; functions.define_moeda.615: ctrl + enter
+2024-05-13 10:50:16,281; INFO; functions.waitForImage.973: INTEGRAÇÃO BANCÁRIA image found.
+2024-05-13 10:50:18,404; INFO; functions.define_moeda.621: CLICK EM VALOR
+2024-05-13 10:50:18,807; INFO; functions.define_moeda.625: 4 TAB
+2024-05-13 10:50:52,013; INFO; functions.define_moeda.632: MOEDA PREENCHIDA COM USD
+2024-05-13 10:50:56,339; INFO; functions.waitForImage.951: PRESS BUTTON OK image found.
+2024-05-13 10:50:58,462; INFO; functions.define_moeda.644: APERTA OK
+2024-05-13 10:51:00,563; INFO; functions.baixa_inv.791: CHECK LINHA
+2024-05-13 10:51:01,491; INFO; functions.baixa_inv.795: SELECIONA BOTÃO BAIXA
+2024-05-13 10:51:03,593; INFO; functions.baixa_inv.800: CLICA OK
+2024-05-13 10:51:05,826; INFO; functions.baixa_inv.807: CLICA AVANÇAR
+2024-05-13 10:51:11,513; INFO; functions.baixa_inv.813: SELECIONA SIMPLIFICADA
+2024-05-13 10:51:12,479; INFO; functions.baixa_inv.817: DATA AUTOMÁTICA: 08/05/2024
+2024-05-13 10:51:12,480; INFO; functions.baixa_inv.826: DATAS DIFERENTES, FAZENDO ALTERAÇÃO
+2024-05-13 10:51:23,297; INFO; functions.baixa_inv.852: CONTA CAIXA: USD - BANCO EBURY C/C 284586086
+2024-05-13 10:51:23,297; INFO; functions.baixa_inv.855: CONTA CAIXA PREENCHIDA CORRETAMENTE
+2024-05-13 10:51:23,940; INFO; functions.baixa_inv.863: AVANÇAR
+2024-05-13 10:51:25,604; INFO; functions.baixa_inv.869: VALOR INV: 10734,60
+2024-05-13 10:51:26,237; INFO; functions.baixa_inv.882: AVANÇAR
+2024-05-13 10:51:29,275; INFO; functions.baixa_inv.886: AVANÇAR
+2024-05-13 10:51:29,944; INFO; functions.baixa_inv.890: EXECUTAR
+2024-05-13 10:51:52,894; INFO; functions.waitForImage.973: PRESS BUTTON OK image found.
+2024-05-13 10:51:54,896; INFO; functions.baixa_inv.895: OK SUCESSO
+2024-05-13 10:51:57,686; INFO; functions.baixa_inv.907: O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 13/05/2024 10:51:45
+  | Fim    : 13/05/2024 10:51:51
+  | Duração: 00:00:05:518
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 13/05/2024 10:51:45
+  |  | Fim    : 13/05/2024 10:51:45
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 13/05/2024 10:51:45
+  |  | Fim    : 13/05/2024 10:51:45
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 13/05/2024 10:51:45
+  |  | Fim    : 13/05/2024 10:51:45
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 13/05/2024 10:51:45
+  |  | Fim    : 13/05/2024 10:51:45
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 13/05/2024 10:51:45
+  |  | Fim    : 13/05/2024 10:51:45
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 13/05/2024 10:51:45
+  |  | Fim    : 13/05/2024 10:51:46
+  |  | Duração: 00:00:00:140
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 13/05/2024 10:51:45
+  |  |  | Fim    : 13/05/2024 10:51:46
+  |  |  | Duração: 00:00:00:140
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 2987)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 13/05/2024 10:51:45
+  |  |  |  | Fim    : 13/05/2024 10:51:46
+  |  |  |  | Duração: 00:00:00:125
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 13/05/2024 10:51:46
+  |  | Fim    : 13/05/2024 10:51:46
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 13/05/2024 10:51:46
+  |  | Fim    : 13/05/2024 10:51:46
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 13/05/2024 10:51:46
+  |  | Fim    : 13/05/2024 10:51:46
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------
+2024-05-13 10:51:58,310; INFO; functions.baixa_inv.911: FECHAR
+2024-05-13 10:51:58,310; INFO; main.process.160: Baixado
+2024-05-13 10:51:58,313; INFO; main.process.64: extrato_list_nao_tratado processo 12
+2024-05-13 10:51:58,313; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:51:58,313; INFO; main.process.71: PROCESSO 13 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062210', 'inv': '133291', 'moeda': 'EUR', 'montante': '-6000.00', 'saldo': '3757.32', 'nome': 'Wesmans AS', 'cod': None}
+2024-05-13 10:51:58,313; INFO; main.process.82: inv original 133291. tamanho 6
+2024-05-13 10:51:58,314; INFO; main.process.87: inv TRATADA 00013329101. tamanho 11
+2024-05-13 10:51:58,315; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062210 <class 'str'>
+
+                        inv: 00013329101 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 6000,00 <class 'str'>
+
+                        saldo: 3757.32 <class 'str'>
+
+                        nome: Wesmans AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:51:58,322; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:51:58,322; INFO; main.process.64: extrato_list_nao_tratado processo 13
+2024-05-13 10:51:58,322; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:51:58,322; INFO; main.process.71: PROCESSO 14 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4058154', 'inv': '2024237', 'moeda': 'EUR', 'montante': '-32413.79', 'saldo': '9757.32', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-05-13 10:51:58,322; INFO; main.process.82: inv original 2024237. tamanho 7
+2024-05-13 10:51:58,322; INFO; main.process.87: inv TRATADA 00202423701. tamanho 11
+2024-05-13 10:51:58,322; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4058154 <class 'str'>
+
+                        inv: 00202423701 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 32413,79 <class 'str'>
+
+                        saldo: 9757.32 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:51:58,323; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:51:58,323; INFO; main.process.64: extrato_list_nao_tratado processo 14
+2024-05-13 10:51:58,323; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:51:58,323; INFO; main.process.71: PROCESSO 15 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4058153', 'inv': '2024236', 'moeda': 'EUR', 'montante': '-32413.79', 'saldo': '42171.11', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-05-13 10:51:58,323; INFO; main.process.82: inv original 2024236. tamanho 7
+2024-05-13 10:51:58,323; INFO; main.process.87: inv TRATADA 00202423601. tamanho 11
+2024-05-13 10:51:58,323; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4058153 <class 'str'>
+
+                        inv: 00202423601 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 32413,79 <class 'str'>
+
+                        saldo: 42171.11 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:51:58,324; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:51:58,324; INFO; main.process.64: extrato_list_nao_tratado processo 15
+2024-05-13 10:51:58,324; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:51:58,324; INFO; main.process.71: PROCESSO 16 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4058151', 'inv': '2024235', 'moeda': 'EUR', 'montante': '-18635.00', 'saldo': '74584.90', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-05-13 10:51:58,324; INFO; main.process.82: inv original 2024235. tamanho 7
+2024-05-13 10:51:58,324; INFO; main.process.87: inv TRATADA 00202423501. tamanho 11
+2024-05-13 10:51:58,324; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4058151 <class 'str'>
+
+                        inv: 00202423501 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 18635,00 <class 'str'>
+
+                        saldo: 74584.90 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:51:58,325; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:51:58,325; INFO; main.process.64: extrato_list_nao_tratado processo 16
+2024-05-13 10:51:58,325; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:51:58,326; INFO; main.process.71: PROCESSO 17 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4058150', 'inv': '2024234', 'moeda': 'EUR', 'montante': '-29450.00', 'saldo': '93219.90', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-05-13 10:51:58,326; INFO; main.process.82: inv original 2024234. tamanho 7
+2024-05-13 10:51:58,327; INFO; main.process.87: inv TRATADA 00202423401. tamanho 11
+2024-05-13 10:51:58,327; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4058150 <class 'str'>
+
+                        inv: 00202423401 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 29450,00 <class 'str'>
+
+                        saldo: 93219.90 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:51:58,327; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:51:58,327; INFO; main.process.64: extrato_list_nao_tratado processo 17
+2024-05-13 10:51:58,327; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:51:58,327; INFO; main.process.71: PROCESSO 18 de 44 A SER TRATADO: {'data': '05-05-2024', 'pi': '4057521', 'inv': '10858', 'moeda': 'NOK', 'montante': '-290000.00', 'saldo': '3958.66', 'nome': 'Marin Teknikk AS', 'cod': None}
+2024-05-13 10:51:58,327; INFO; main.process.82: inv original 10858. tamanho 5
+2024-05-13 10:51:58,327; INFO; main.process.87: inv TRATADA 00001085801. tamanho 11
+2024-05-13 10:51:58,327; INFO; main.process.99: data: 05052024 <class 'str'>
+
+                        pi: 4057521 <class 'str'>
+
+                        inv: 00001085801 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 290000,00 <class 'str'>
+
+                        saldo: 3958.66 <class 'str'>
+
+                        nome: Marin Teknikk AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:51:58,328; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:51:58,328; INFO; main.process.64: extrato_list_nao_tratado processo 18
+2024-05-13 10:51:58,328; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:51:58,328; INFO; main.process.71: PROCESSO 19 de 44 A SER TRATADO: {'data': '05-05-2024', 'pi': '4058159', 'inv': '124', 'moeda': 'USD', 'montante': '-7049.00', 'saldo': '206191.61', 'nome': 'SOLANA AGENCIA MARITIMA LTDA.', 'cod': None}
+2024-05-13 10:51:58,328; INFO; main.process.82: inv original 124. tamanho 3
+2024-05-13 10:51:58,328; INFO; main.process.87: inv TRATADA 00000012401. tamanho 11
+2024-05-13 10:51:58,328; INFO; main.process.99: data: 05052024 <class 'str'>
+
+                        pi: 4058159 <class 'str'>
+
+                        inv: 00000012401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 7049,00 <class 'str'>
+
+                        saldo: 206191.61 <class 'str'>
+
+                        nome: SOLANA AGENCIA MARITIMA LTDA. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:51:58,329; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:51:58,329; INFO; main.process.64: extrato_list_nao_tratado processo 19
+2024-05-13 10:51:58,329; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:51:58,329; INFO; main.process.71: PROCESSO 20 de 44 A SER TRATADO: {'data': '05-05-2024', 'pi': '4057480', 'inv': '9814765', 'moeda': 'EUR', 'montante': '-81350.00', 'saldo': '7669.90', 'nome': 'SKF MARINE SINGAPORE PTE. LTD.', 'cod': None}
+2024-05-13 10:51:58,329; INFO; main.process.82: inv original 9814765. tamanho 7
+2024-05-13 10:51:58,329; INFO; main.process.87: inv TRATADA 00981476501. tamanho 11
+2024-05-13 10:51:58,329; INFO; main.process.99: data: 05052024 <class 'str'>
+
+                        pi: 4057480 <class 'str'>
+
+                        inv: 00981476501 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 81350,00 <class 'str'>
+
+                        saldo: 7669.90 <class 'str'>
+
+                        nome: SKF MARINE SINGAPORE PTE. LTD. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:51:58,330; INFO; functions.filter_lancamento.231: filter_lancamento : 2
+2024-05-13 10:52:01,029; INFO; functions.waitForImage.951: NOVO FILTRO image found.
+2024-05-13 10:52:01,147; INFO; functions.filter_lancamento.240: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-05-13 10:52:02,850; INFO; functions.filter_lancamento.253: VALOR DE 00981476501 FILTRO
+2024-05-13 10:52:03,452; INFO; functions.filter_lancamento.258: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-05-13 10:52:03,452; INFO; functions.check_table_record.336: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-05-13 10:52:04,811; INFO; functions.check_table_record.340: VERIFICAdo
+2024-05-13 10:52:12,870; INFO; functions.check_table_record.346: CTRL+G
+2024-05-13 10:52:13,466; INFO; functions.check_table_record.350: Para este processo é necessário que existam registros na visão.
+2024-05-13 10:52:16,467; INFO; functions.check_table_record.357: SEM REGISTROS ENCONTRADOS
+2024-05-13 10:52:16,568; INFO; main.process.134: Nenhuma INV encontrada
+2024-05-13 10:52:16,568; INFO; main.process.64: extrato_list_nao_tratado processo 20
+2024-05-13 10:52:16,568; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:16,568; INFO; main.process.71: PROCESSO 21 de 44 A SER TRATADO: {'data': '05-05-2024', 'pi': '4057474', 'inv': '9814764', 'moeda': 'EUR', 'montante': '-81350.00', 'saldo': '89019.90', 'nome': 'SKF MARINE SINGAPORE PTE. LTD.', 'cod': None}
+2024-05-13 10:52:16,568; INFO; main.process.82: inv original 9814764. tamanho 7
+2024-05-13 10:52:16,568; INFO; main.process.87: inv TRATADA 00981476401. tamanho 11
+2024-05-13 10:52:16,568; INFO; main.process.99: data: 05052024 <class 'str'>
+
+                        pi: 4057474 <class 'str'>
+
+                        inv: 00981476401 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 81350,00 <class 'str'>
+
+                        saldo: 89019.90 <class 'str'>
+
+                        nome: SKF MARINE SINGAPORE PTE. LTD. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:16,569; INFO; functions.filter_lancamento.231: filter_lancamento : 2
+2024-05-13 10:52:18,370; INFO; functions.waitForImage.951: NOVO FILTRO image found.
+2024-05-13 10:52:18,513; INFO; functions.filter_lancamento.240: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-05-13 10:52:20,216; INFO; functions.filter_lancamento.253: VALOR DE 00981476401 FILTRO
+2024-05-13 10:52:20,818; INFO; functions.filter_lancamento.258: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-05-13 10:52:20,818; INFO; functions.check_table_record.336: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-05-13 10:52:22,032; INFO; functions.check_table_record.340: VERIFICAdo
+2024-05-13 10:52:30,055; INFO; functions.check_table_record.346: CTRL+G
+2024-05-13 10:52:30,849; INFO; functions.check_table_record.350: Para este processo é necessário que existam registros na visão.
+2024-05-13 10:52:33,850; INFO; functions.check_table_record.357: SEM REGISTROS ENCONTRADOS
+2024-05-13 10:52:33,952; INFO; main.process.134: Nenhuma INV encontrada
+2024-05-13 10:52:33,952; INFO; main.process.64: extrato_list_nao_tratado processo 21
+2024-05-13 10:52:33,952; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,952; INFO; main.process.71: PROCESSO 22 de 44 A SER TRATADO: {'data': '02-05-2024', 'pi': '4054212', 'inv': '001824', 'moeda': 'USD', 'montante': '-35242.80', 'saldo': '426646.80', 'nome': 'ASP Crew Management', 'cod': None}
+2024-05-13 10:52:33,952; INFO; main.process.82: inv original 001824. tamanho 6
+2024-05-13 10:52:33,952; INFO; main.process.87: inv TRATADA 00000182401. tamanho 11
+2024-05-13 10:52:33,952; INFO; main.process.99: data: 02052024 <class 'str'>
+
+                        pi: 4054212 <class 'str'>
+
+                        inv: 00000182401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 35242,80 <class 'str'>
+
+                        saldo: 426646.80 <class 'str'>
+
+                        nome: ASP Crew Management <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,953; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,953; INFO; main.process.64: extrato_list_nao_tratado processo 22
+2024-05-13 10:52:33,953; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,953; INFO; main.process.71: PROCESSO 23 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062232', 'inv': '10001602', 'moeda': 'USD', 'montante': '-390.00', 'saldo': '888082.70', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}
+2024-05-13 10:52:33,953; INFO; main.process.82: inv original 10001602. tamanho 8
+2024-05-13 10:52:33,953; INFO; main.process.87: inv TRATADA 01000160201. tamanho 11
+2024-05-13 10:52:33,953; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062232 <class 'str'>
+
+                        inv: 01000160201 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 390,00 <class 'str'>
+
+                        saldo: 888082.70 <class 'str'>
+
+                        nome: PT. SNEPAC SHIPPING <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,954; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,954; INFO; main.process.64: extrato_list_nao_tratado processo 23
+2024-05-13 10:52:33,954; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,954; INFO; main.process.71: PROCESSO 24 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062231', 'inv': '1000185', 'moeda': 'USD', 'montante': '-3542.65', 'saldo': '888472.70', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}
+2024-05-13 10:52:33,954; INFO; main.process.82: inv original 1000185. tamanho 7
+2024-05-13 10:52:33,954; INFO; main.process.87: inv TRATADA 00100018501. tamanho 11
+2024-05-13 10:52:33,954; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062231 <class 'str'>
+
+                        inv: 00100018501 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 3542,65 <class 'str'>
+
+                        saldo: 888472.70 <class 'str'>
+
+                        nome: PT. SNEPAC SHIPPING <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,954; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,955; INFO; main.process.64: extrato_list_nao_tratado processo 24
+2024-05-13 10:52:33,955; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,955; INFO; main.process.71: PROCESSO 25 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062229', 'inv': '11042024', 'moeda': 'USD', 'montante': '-23143.48', 'saldo': '892015.35', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}
+2024-05-13 10:52:33,955; INFO; main.process.82: inv original 11042024. tamanho 8
+2024-05-13 10:52:33,955; INFO; main.process.87: inv TRATADA 01104202401. tamanho 11
+2024-05-13 10:52:33,955; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062229 <class 'str'>
+
+                        inv: 01104202401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 23143,48 <class 'str'>
+
+                        saldo: 892015.35 <class 'str'>
+
+                        nome: INCHCAPE SHIPPING SERVICES <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,955; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,955; INFO; main.process.64: extrato_list_nao_tratado processo 25
+2024-05-13 10:52:33,956; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,956; INFO; main.process.71: PROCESSO 26 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062228', 'inv': '1545901', 'moeda': 'USD', 'montante': '-10734.60', 'saldo': '915158.83', 'nome': 'Alatas Americas, Inc.', 'cod': None}
+2024-05-13 10:52:33,956; INFO; main.process.82: inv original 1545901. tamanho 7
+2024-05-13 10:52:33,956; INFO; main.process.87: inv TRATADA 00154590101. tamanho 11
+2024-05-13 10:52:33,956; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062228 <class 'str'>
+
+                        inv: 00154590101 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 10734,60 <class 'str'>
+
+                        saldo: 915158.83 <class 'str'>
+
+                        nome: Alatas Americas, Inc. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,956; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,956; INFO; main.process.64: extrato_list_nao_tratado processo 26
+2024-05-13 10:52:33,956; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,956; INFO; main.process.71: PROCESSO 27 de 44 A SER TRATADO: {'data': '05-05-2024', 'pi': '4058159', 'inv': '124', 'moeda': 'USD', 'montante': '-7049.00', 'saldo': '206191.61', 'nome': 'SOLANA AGENCIA MARITIMA LTDA.', 'cod': None}
+2024-05-13 10:52:33,956; INFO; main.process.82: inv original 124. tamanho 3
+2024-05-13 10:52:33,956; INFO; main.process.87: inv TRATADA 00000012401. tamanho 11
+2024-05-13 10:52:33,957; INFO; main.process.99: data: 05052024 <class 'str'>
+
+                        pi: 4058159 <class 'str'>
+
+                        inv: 00000012401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 7049,00 <class 'str'>
+
+                        saldo: 206191.61 <class 'str'>
+
+                        nome: SOLANA AGENCIA MARITIMA LTDA. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,957; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,957; INFO; main.process.64: extrato_list_nao_tratado processo 27
+2024-05-13 10:52:33,957; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,957; INFO; main.process.71: PROCESSO 28 de 44 A SER TRATADO: {'data': '02-05-2024', 'pi': '4054212', 'inv': '001824', 'moeda': 'USD', 'montante': '-35242.80', 'saldo': '426646.80', 'nome': 'ASP Crew Management', 'cod': None}
+2024-05-13 10:52:33,957; INFO; main.process.82: inv original 001824. tamanho 6
+2024-05-13 10:52:33,957; INFO; main.process.87: inv TRATADA 00000182401. tamanho 11
+2024-05-13 10:52:33,957; INFO; main.process.99: data: 02052024 <class 'str'>
+
+                        pi: 4054212 <class 'str'>
+
+                        inv: 00000182401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 35242,80 <class 'str'>
+
+                        saldo: 426646.80 <class 'str'>
+
+                        nome: ASP Crew Management <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,958; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,958; INFO; main.process.64: extrato_list_nao_tratado processo 28
+2024-05-13 10:52:33,958; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,958; INFO; main.process.71: PROCESSO 29 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062227', 'inv': '20068', 'moeda': 'NOK', 'montante': '-204000.00', 'saldo': '3958.66', 'nome': 'Ocean Electronics AS', 'cod': None}
+2024-05-13 10:52:33,958; INFO; main.process.82: inv original 20068. tamanho 5
+2024-05-13 10:52:33,958; INFO; main.process.87: inv TRATADA 00002006801. tamanho 11
+2024-05-13 10:52:33,958; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062227 <class 'str'>
+
+                        inv: 00002006801 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 204000,00 <class 'str'>
+
+                        saldo: 3958.66 <class 'str'>
+
+                        nome: Ocean Electronics AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,958; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,959; INFO; main.process.64: extrato_list_nao_tratado processo 29
+2024-05-13 10:52:33,959; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,959; INFO; main.process.71: PROCESSO 30 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062219', 'inv': '10857', 'moeda': 'NOK', 'montante': '-580000.00', 'saldo': '207958.66', 'nome': 'Marin Teknikk AS', 'cod': None}
+2024-05-13 10:52:33,959; INFO; main.process.82: inv original 10857. tamanho 5
+2024-05-13 10:52:33,959; INFO; main.process.87: inv TRATADA 00001085701. tamanho 11
+2024-05-13 10:52:33,959; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062219 <class 'str'>
+
+                        inv: 00001085701 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 580000,00 <class 'str'>
+
+                        saldo: 207958.66 <class 'str'>
+
+                        nome: Marin Teknikk AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,959; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,959; INFO; main.process.64: extrato_list_nao_tratado processo 30
+2024-05-13 10:52:33,960; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,960; INFO; main.process.71: PROCESSO 31 de 44 A SER TRATADO: {'data': '05-05-2024', 'pi': '4057521', 'inv': '10858', 'moeda': 'NOK', 'montante': '-290000.00', 'saldo': '3958.66', 'nome': 'Marin Teknikk AS', 'cod': None}
+2024-05-13 10:52:33,960; INFO; main.process.82: inv original 10858. tamanho 5
+2024-05-13 10:52:33,960; INFO; main.process.87: inv TRATADA 00001085801. tamanho 11
+2024-05-13 10:52:33,960; INFO; main.process.99: data: 05052024 <class 'str'>
+
+                        pi: 4057521 <class 'str'>
+
+                        inv: 00001085801 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 290000,00 <class 'str'>
+
+                        saldo: 3958.66 <class 'str'>
+
+                        nome: Marin Teknikk AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,960; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,960; INFO; main.process.64: extrato_list_nao_tratado processo 31
+2024-05-13 10:52:33,960; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,960; INFO; main.process.71: PROCESSO 32 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062216', 'inv': '483684', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '730.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}
+2024-05-13 10:52:33,960; INFO; main.process.82: inv original 483684. tamanho 6
+2024-05-13 10:52:33,960; INFO; main.process.87: inv TRATADA 00048368401. tamanho 11
+2024-05-13 10:52:33,961; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062216 <class 'str'>
+
+                        inv: 00048368401 <class 'str'>
+
+                        moeda: GBP <class 'str'>
+
+                        montante: 5090,00 <class 'str'>
+
+                        saldo: 730.00 <class 'str'>
+
+                        nome: ISLE OF MAN - GOVERNMENT <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,961; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,961; INFO; main.process.64: extrato_list_nao_tratado processo 32
+2024-05-13 10:52:33,961; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,961; INFO; main.process.71: PROCESSO 33 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062213', 'inv': '483683', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '5820.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}
+2024-05-13 10:52:33,961; INFO; main.process.82: inv original 483683. tamanho 6
+2024-05-13 10:52:33,961; INFO; main.process.87: inv TRATADA 00048368301. tamanho 11
+2024-05-13 10:52:33,961; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062213 <class 'str'>
+
+                        inv: 00048368301 <class 'str'>
+
+                        moeda: GBP <class 'str'>
+
+                        montante: 5090,00 <class 'str'>
+
+                        saldo: 5820.00 <class 'str'>
+
+                        nome: ISLE OF MAN - GOVERNMENT <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,962; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,962; INFO; main.process.64: extrato_list_nao_tratado processo 33
+2024-05-13 10:52:33,962; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,962; INFO; main.process.71: PROCESSO 34 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062211', 'inv': '483682', 'moeda': 'GBP', 'montante': '-5090.00', 'saldo': '10910.00', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}
+2024-05-13 10:52:33,962; INFO; main.process.82: inv original 483682. tamanho 6
+2024-05-13 10:52:33,963; INFO; main.process.87: inv TRATADA 00048368201. tamanho 11
+2024-05-13 10:52:33,964; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062211 <class 'str'>
+
+                        inv: 00048368201 <class 'str'>
+
+                        moeda: GBP <class 'str'>
+
+                        montante: 5090,00 <class 'str'>
+
+                        saldo: 10910.00 <class 'str'>
+
+                        nome: ISLE OF MAN - GOVERNMENT <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,964; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,964; INFO; main.process.64: extrato_list_nao_tratado processo 34
+2024-05-13 10:52:33,965; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,965; INFO; main.process.71: PROCESSO 35 de 44 A SER TRATADO: {'data': '07-05-2024', 'pi': '4066307', 'inv': '10736430', 'moeda': 'EUR', 'montante': '-900.00', 'saldo': '5744.01', 'nome': 'DNV AS', 'cod': None}
+2024-05-13 10:52:33,965; INFO; main.process.82: inv original 10736430. tamanho 8
+2024-05-13 10:52:33,965; INFO; main.process.87: inv TRATADA 01073643001. tamanho 11
+2024-05-13 10:52:33,965; INFO; main.process.99: data: 07052024 <class 'str'>
+
+                        pi: 4066307 <class 'str'>
+
+                        inv: 01073643001 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 900,00 <class 'str'>
+
+                        saldo: 5744.01 <class 'str'>
+
+                        nome: DNV AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,965; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,965; INFO; main.process.64: extrato_list_nao_tratado processo 35
+2024-05-13 10:52:33,965; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,965; INFO; main.process.71: PROCESSO 36 de 44 A SER TRATADO: {'data': '07-05-2024', 'pi': '4066306', 'inv': '10716137', 'moeda': 'EUR', 'montante': '-6075.00', 'saldo': '6644.01', 'nome': 'DNV AS', 'cod': None}
+2024-05-13 10:52:33,966; INFO; main.process.82: inv original 10716137. tamanho 8
+2024-05-13 10:52:33,966; INFO; main.process.87: inv TRATADA 01071613701. tamanho 11
+2024-05-13 10:52:33,966; INFO; main.process.99: data: 07052024 <class 'str'>
+
+                        pi: 4066306 <class 'str'>
+
+                        inv: 01071613701 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 6075,00 <class 'str'>
+
+                        saldo: 6644.01 <class 'str'>
+
+                        nome: DNV AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,966; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:33,966; INFO; main.process.64: extrato_list_nao_tratado processo 36
+2024-05-13 10:52:33,966; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:33,966; INFO; main.process.71: PROCESSO 37 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062209', 'inv': '241450007', 'moeda': 'EUR', 'montante': '-21038.31', 'saldo': '12719.01', 'nome': 'Holland Accommodation Rentals VOF', 'cod': None}
+2024-05-13 10:52:33,966; INFO; main.process.82: inv original 241450007. tamanho 9
+2024-05-13 10:52:33,966; INFO; main.process.87: inv TRATADA 24145000701. tamanho 11
+2024-05-13 10:52:33,967; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062209 <class 'str'>
+
+                        inv: 24145000701 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 21038,31 <class 'str'>
+
+                        saldo: 12719.01 <class 'str'>
+
+                        nome: Holland Accommodation Rentals VOF <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:33,967; INFO; functions.filter_lancamento.231: filter_lancamento : 2
+2024-05-13 10:52:35,758; INFO; functions.waitForImage.951: NOVO FILTRO image found.
+2024-05-13 10:52:35,871; INFO; functions.filter_lancamento.240: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-05-13 10:52:37,589; INFO; functions.filter_lancamento.253: VALOR DE 24145000701 FILTRO
+2024-05-13 10:52:38,193; INFO; functions.filter_lancamento.258: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-05-13 10:52:38,193; INFO; functions.check_table_record.336: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-05-13 10:52:39,421; INFO; functions.check_table_record.340: VERIFICAdo
+2024-05-13 10:52:47,454; INFO; functions.check_table_record.346: CTRL+G
+2024-05-13 10:52:48,034; INFO; functions.check_table_record.350: Para este processo é necessário que existam registros na visão.
+2024-05-13 10:52:51,035; INFO; functions.check_table_record.357: SEM REGISTROS ENCONTRADOS
+2024-05-13 10:52:51,136; INFO; main.process.134: Nenhuma INV encontrada
+2024-05-13 10:52:51,136; INFO; main.process.64: extrato_list_nao_tratado processo 37
+2024-05-13 10:52:51,136; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:51,136; INFO; main.process.71: PROCESSO 38 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4062210', 'inv': '133291', 'moeda': 'EUR', 'montante': '-6000.00', 'saldo': '3757.32', 'nome': 'Wesmans AS', 'cod': None}
+2024-05-13 10:52:51,136; INFO; main.process.82: inv original 133291. tamanho 6
+2024-05-13 10:52:51,136; INFO; main.process.87: inv TRATADA 00013329101. tamanho 11
+2024-05-13 10:52:51,136; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4062210 <class 'str'>
+
+                        inv: 00013329101 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 6000,00 <class 'str'>
+
+                        saldo: 3757.32 <class 'str'>
+
+                        nome: Wesmans AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:51,137; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:51,137; INFO; main.process.64: extrato_list_nao_tratado processo 38
+2024-05-13 10:52:51,137; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:51,137; INFO; main.process.71: PROCESSO 39 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4058154', 'inv': '2024237', 'moeda': 'EUR', 'montante': '-32413.79', 'saldo': '9757.32', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-05-13 10:52:51,137; INFO; main.process.82: inv original 2024237. tamanho 7
+2024-05-13 10:52:51,137; INFO; main.process.87: inv TRATADA 00202423701. tamanho 11
+2024-05-13 10:52:51,137; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4058154 <class 'str'>
+
+                        inv: 00202423701 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 32413,79 <class 'str'>
+
+                        saldo: 9757.32 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:51,138; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:51,138; INFO; main.process.64: extrato_list_nao_tratado processo 39
+2024-05-13 10:52:51,138; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:51,138; INFO; main.process.71: PROCESSO 40 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4058153', 'inv': '2024236', 'moeda': 'EUR', 'montante': '-32413.79', 'saldo': '42171.11', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-05-13 10:52:51,138; INFO; main.process.82: inv original 2024236. tamanho 7
+2024-05-13 10:52:51,138; INFO; main.process.87: inv TRATADA 00202423601. tamanho 11
+2024-05-13 10:52:51,138; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4058153 <class 'str'>
+
+                        inv: 00202423601 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 32413,79 <class 'str'>
+
+                        saldo: 42171.11 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:51,139; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:51,139; INFO; main.process.64: extrato_list_nao_tratado processo 40
+2024-05-13 10:52:51,139; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:51,139; INFO; main.process.71: PROCESSO 41 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4058151', 'inv': '2024235', 'moeda': 'EUR', 'montante': '-18635.00', 'saldo': '74584.90', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-05-13 10:52:51,139; INFO; main.process.82: inv original 2024235. tamanho 7
+2024-05-13 10:52:51,140; INFO; main.process.87: inv TRATADA 00202423501. tamanho 11
+2024-05-13 10:52:51,140; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4058151 <class 'str'>
+
+                        inv: 00202423501 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 18635,00 <class 'str'>
+
+                        saldo: 74584.90 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:51,141; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:51,141; INFO; main.process.64: extrato_list_nao_tratado processo 41
+2024-05-13 10:52:51,142; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:51,142; INFO; main.process.71: PROCESSO 42 de 44 A SER TRATADO: {'data': '06-05-2024', 'pi': '4058150', 'inv': '2024234', 'moeda': 'EUR', 'montante': '-29450.00', 'saldo': '93219.90', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-05-13 10:52:51,142; INFO; main.process.82: inv original 2024234. tamanho 7
+2024-05-13 10:52:51,142; INFO; main.process.87: inv TRATADA 00202423401. tamanho 11
+2024-05-13 10:52:51,142; INFO; main.process.99: data: 06052024 <class 'str'>
+
+                        pi: 4058150 <class 'str'>
+
+                        inv: 00202423401 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 29450,00 <class 'str'>
+
+                        saldo: 93219.90 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:51,142; INFO; main.process.111: Tratado em execução anterior do BOT
+2024-05-13 10:52:51,142; INFO; main.process.64: extrato_list_nao_tratado processo 42
+2024-05-13 10:52:51,142; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:52:51,143; INFO; main.process.71: PROCESSO 43 de 44 A SER TRATADO: {'data': '05-05-2024', 'pi': '4057480', 'inv': '9814765', 'moeda': 'EUR', 'montante': '-81350.00', 'saldo': '7669.90', 'nome': 'SKF MARINE SINGAPORE PTE. LTD.', 'cod': None}
+2024-05-13 10:52:51,143; INFO; main.process.82: inv original 9814765. tamanho 7
+2024-05-13 10:52:51,143; INFO; main.process.87: inv TRATADA 00981476501. tamanho 11
+2024-05-13 10:52:51,143; INFO; main.process.99: data: 05052024 <class 'str'>
+
+                        pi: 4057480 <class 'str'>
+
+                        inv: 00981476501 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 81350,00 <class 'str'>
+
+                        saldo: 7669.90 <class 'str'>
+
+                        nome: SKF MARINE SINGAPORE PTE. LTD. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:52:51,143; INFO; functions.filter_lancamento.231: filter_lancamento : 2
+2024-05-13 10:52:52,945; INFO; functions.waitForImage.951: NOVO FILTRO image found.
+2024-05-13 10:52:53,058; INFO; functions.filter_lancamento.240: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-05-13 10:52:54,778; INFO; functions.filter_lancamento.253: VALOR DE 00981476501 FILTRO
+2024-05-13 10:52:55,385; INFO; functions.filter_lancamento.258: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-05-13 10:52:55,385; INFO; functions.check_table_record.336: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-05-13 10:52:56,629; INFO; functions.check_table_record.340: VERIFICAdo
+2024-05-13 10:53:04,682; INFO; functions.check_table_record.346: CTRL+G
+2024-05-13 10:53:05,261; INFO; functions.check_table_record.350: Para este processo é necessário que existam registros na visão.
+2024-05-13 10:53:08,263; INFO; functions.check_table_record.357: SEM REGISTROS ENCONTRADOS
+2024-05-13 10:53:08,364; INFO; main.process.134: Nenhuma INV encontrada
+2024-05-13 10:53:08,364; INFO; main.process.64: extrato_list_nao_tratado processo 43
+2024-05-13 10:53:08,364; INFO; main.process.68: PASSANDO PARA PROXIMO PROCESSO
+2024-05-13 10:53:08,364; INFO; main.process.71: PROCESSO 44 de 44 A SER TRATADO: {'data': '05-05-2024', 'pi': '4057474', 'inv': '9814764', 'moeda': 'EUR', 'montante': '-81350.00', 'saldo': '89019.90', 'nome': 'SKF MARINE SINGAPORE PTE. LTD.', 'cod': None}
+2024-05-13 10:53:08,364; INFO; main.process.82: inv original 9814764. tamanho 7
+2024-05-13 10:53:08,364; INFO; main.process.87: inv TRATADA 00981476401. tamanho 11
+2024-05-13 10:53:08,364; INFO; main.process.99: data: 05052024 <class 'str'>
+
+                        pi: 4057474 <class 'str'>
+
+                        inv: 00981476401 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 81350,00 <class 'str'>
+
+                        saldo: 89019.90 <class 'str'>
+
+                        nome: SKF MARINE SINGAPORE PTE. LTD. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-05-13 10:53:08,365; INFO; functions.filter_lancamento.231: filter_lancamento : 2
+2024-05-13 10:53:10,159; INFO; functions.waitForImage.951: NOVO FILTRO image found.
+2024-05-13 10:53:10,287; INFO; functions.filter_lancamento.240: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-05-13 10:53:11,994; INFO; functions.filter_lancamento.253: VALOR DE 00981476401 FILTRO
+2024-05-13 10:53:12,603; INFO; functions.filter_lancamento.258: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-05-13 10:53:12,603; INFO; functions.check_table_record.336: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-05-13 10:53:13,825; INFO; functions.check_table_record.340: VERIFICAdo
+2024-05-13 10:53:21,850; INFO; functions.check_table_record.346: CTRL+G
+2024-05-13 10:53:22,446; INFO; functions.check_table_record.350: Para este processo é necessário que existam registros na visão.
+2024-05-13 10:53:25,447; INFO; functions.check_table_record.357: SEM REGISTROS ENCONTRADOS
+2024-05-13 10:53:25,548; INFO; main.process.134: Nenhuma INV encontrada
+2024-05-13 10:53:25,548; INFO; main.process.164: ARQUIVO FINALIZADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\05 - Maio\Ebury - Parcial até 09-05.pdf
+2024-05-13 10:53:25,548; INFO; functions.encerra_prog.383: Fechando Excel...
+2024-05-13 10:53:25,639; INFO; functions.getPid.1086: Dentro função GetPid
+
+2024-05-13 10:53:25,804; INFO; functions.getPid.1096: Process RM.exe / PID: 16232 found.
+2024-05-13 10:53:25,805; INFO; functions.pidKillFinish.1107: Process RM.exe / PID: 16232 killed.
+2024-05-13 10:53:25,805; INFO; functions.encerra_prog.389: RM ENCERRADO
+2024-05-13 10:53:27,293; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+2024-05-13 10:53:27,301; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+2024-05-13 10:53:27,304; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+2024-05-13 10:53:27,304; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+2024-05-13 10:53:27,305; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:612: mso-table-lspace]
+2024-05-13 10:53:27,305; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:642: mso-table-rspace]
+2024-05-13 10:53:27,351; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:4734: mso-hide]
+2024-05-13 10:53:27,375; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+2024-05-13 10:53:27,376; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+2024-05-13 10:53:27,377; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+2024-05-13 10:53:27,377; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+2024-05-13 10:53:27,378; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:26: mso-table-lspace]
+2024-05-13 10:53:27,378; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:45: mso-table-rspace]
+2024-05-13 10:53:27,388; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:92: mso-hide]
+2024-05-13 10:53:27,392; ERROR; errorhandler.__handle.104: Property: No ":" after name found: align-center [1:1: align-center]
+2024-05-13 10:53:27,392; ERROR; errorhandler.__handle.104: Property: No property value found: align-center [1:1: align-center]
+2024-05-13 10:53:27,393; ERROR; errorhandler.__handle.104: CSSStyleDeclaration: Syntax Error in Property: align-center
+2024-05-13 10:53:27,394; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+2024-05-13 10:53:30,888; INFO; functions.emailSuccess.997: Success e-mail sent.

@@ -1,0 +1,24 @@
+20-11-2023 17:28:21.737Z;functions.check_pix;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+20-11-2023 17:28:23.841Z;functions.check_pix;  CLICK ENTER
+20-11-2023 17:28:23.842Z;functions.check_pix;  NUMERO DE TUPLAS: 8
+20-11-2023 17:28:25.280Z;functions.check_pix;  CHECA TODOS OS LANÇAMENTOS PIX
+20-11-2023 17:28:25.386Z;functions.check_pix;  REF. LANÇAMENTO: ---------------------------
+RM
+---------------------------
+ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+---------------------------
+Sim   Não   
+---------------------------
+
+20-11-2023 17:28:36.191Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image not found.
+20-11-2023 17:28:48.211Z;functions.waitForImage;  PIX image not found.
+20-11-2023 17:28:49.318Z;functions.check_pix;  APERTA TAB 0
+20-11-2023 17:28:50.424Z;functions.check_pix;  APERTA TAB 1
+20-11-2023 17:28:51.527Z;functions.check_pix;  APERTA TAB 2
+20-11-2023 17:28:51.629Z;functions.check_pix;  APERTA ENTER EM ...

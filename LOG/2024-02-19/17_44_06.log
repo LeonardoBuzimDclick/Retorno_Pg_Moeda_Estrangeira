@@ -1,0 +1,545 @@
+2024-02-19 17:44:06,782; INFO; functions.getPid.848: Dentro função GetPid
+
+2024-02-19 17:44:06,952; INFO; functions.getPid.858: Process RM.exe / PID: 5616 found.
+2024-02-19 17:44:07,071; INFO; functions.pidKillFinish.869: Process RM.exe / PID: 5616 killed.
+2024-02-19 17:44:07,072; INFO; functions.bot_text_art.16:     ____   
+2024-02-19 17:44:07,072; INFO; functions.bot_text_art.17:    [____]    
+2024-02-19 17:44:07,072; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-19 17:44:07,072; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-19 17:44:07,072; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-19 17:44:07,073; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-19 17:44:07,074; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-19 17:44:07,074; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-19 17:44:07,074; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-19 17:44:07,074; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-19 17:44:07,074; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-19 17:44:07,076; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-19 17:44:07,076; INFO; functions.bot_text_art.28:              
+2024-02-19 17:44:07,076; INFO; functions.headerExcel.806: Criando EXCEL
+2024-02-19 17:44:07,084; INFO; functions.headerExcel.824: EXCEL iniciado
+2024-02-19 17:44:09,297; INFO; main.process.15: PROCESSOS EXTRAIDOS COM ERRO: 11
+2024-02-19 17:44:09,297; INFO; main.process.16: PROCESSOS COM ERRO: [{'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}, {'pi': '3802255', 'inv': None, 'moeda': 'LLC', 'montante': '-40000.00', 'saldo': '1497580.32', 'nome': 'Harvey Gulf International Marine, LLC.', 'cod': None}, {'pi': '3802244', 'inv': None, 'moeda': 'USD', 'montante': '-6538.64', 'saldo': '1537580.32', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'pi': '3802236', 'inv': None, 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1544118.96', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}, {'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}]
+2024-02-19 17:44:09,299; INFO; main.process.18: PROCESSOS EXTRAIDOS CORRETAMENTE: 185
+2024-02-19 17:44:09,300; INFO; main.process.19: PROCESSOS A SEREM TRATADOS: [{'pi': '3836881', 'inv': '31122023', 'moeda': 'EUR', 'montante': '-440140.00', 'saldo': '29580.64', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'pi': '3836878', 'inv': '31122023', 'moeda': 'EUR', 'montante': '-111680.00', 'saldo': '469720.64', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'pi': '3827624', 'inv': '3541', 'moeda': 'NOK', 'montante': '-106200.00', 'saldo': '1058.46', 'nome': 'Motus Technology AS', 'cod': None}, {'pi': '3827623', 'inv': '1190301', 'moeda': 'GBP', 'montante': '-15160.00', 'saldo': '2355.15', 'nome': 'European Management Marine Corp', 'cod': None}, {'pi': '3827620', 'inv': '2400287', 'moeda': 'EUR', 'montante': '-10256.63', 'saldo': '31400.64', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'pi': '3827619', 'inv': '2400287', 'moeda': 'EUR', 'montante': '-16316.82', 'saldo': '41657.27', 'nome': 'Simplex - Turbulo Co Ltd', 'cod': None}, {'pi': '3827615', 'inv': '3539', 'moeda': 'NOK', 'montante': '-1992120.00', 'saldo': '52258.46', 'nome': 'Motus Technology AS', 'cod': None}, {'pi': '3827617', 'inv': '20058', 'moeda': 'GBP', 'montante': '-15246.26', 'saldo': '2515.15', 'nome': 'Lebus International', 'cod': None}, {'pi': '3827625', 'inv': '22306109', 'moeda': 'USD', 'montante': '-7200.00', 'saldo': '1055855.41', 'nome': 'Alatas Americas, Inc.', 'cod': None}, {'pi': '3827621', 'inv': '22306109', 'moeda': 'USD', 'montante': '-81450.00', 'saldo': '1063055.41', 'nome': 'Fugro Norway AS', 'cod': None}, {'pi': '3827618', 'inv': '2400299', 'moeda': 'EUR', 'montante': '-14658.73', 'saldo': '974.09', 'nome': 'Simplex - Turbulo Co Ltd', 'cod': None}, {'pi': '3814741', 'inv': '2210894', 'moeda': 'USD', 'montante': '-1629.71', 'saldo': '1465880.61', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'pi': '3814736', 'inv': '2210894', 'moeda': 'USD', 'montante': '-34420.00', 'saldo': '1467510.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'pi': '3814733', 'inv': '22306209', 'moeda': 'USD', 'montante': '-150.00', 'saldo': '1501930.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'pi': '3814731', 'inv': '004', 'moeda': 'EUR', 'montante': '-3369.69', 'saldo': '10778.82', 'nome': 'Leonardo Duran', 'cod': None}, {'pi': '3803229', 'inv': '10166948', 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1497580.32', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}, {'pi': '3803227', 'inv': '10166948', 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1497580.32', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}, {'pi': '3802255', 'inv': '23800125', 'moeda': 'LLC', 'montante': '-40000.00', 'saldo': '1497580.32', 'nome': 'Harvey Gulf International Marine, LLC.', 'cod': None}, {'pi': '3802244', 'inv': '23800125', 'moeda': 'USD', 'montante': '-6538.64', 'saldo': '1537580.32', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'pi': '3802236', 'inv': '23800125', 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1544118.96', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}, {'pi': '3794171', 'inv': '23800125', 'moeda': 'NOK', 'montante': '-1202284.80', 'saldo': '49378.46', 'nome': 'Brunvoll AS', 'cod': None}, {'pi': '3788647', 'inv': '433546', 'moeda': 'MAN', 'montante': '-495.00', 'saldo': '2561.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788646', 'inv': '439484', 'moeda': 'MAN', 'montante': '-4605.00', 'saldo': '3056.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788645', 'inv': '445085', 'moeda': 'MAN', 'montante': '-43.00', 'saldo': '7661.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788644', 'inv': '430719', 'moeda': 'MAN', 'montante': '-495.00', 'saldo': '7704.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788643', 'inv': '449315', 'moeda': 'MAN', 'montante': '-256.00', 'saldo': '8199.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788641', 'inv': '449314', 'moeda': 'MAN', 'montante': '-256.00', 'saldo': '8455.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788640', 'inv': '449527', 'moeda': 'MAN', 'montante': '-2669.57', 'saldo': '8711.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788639', 'inv': '449526', 'moeda': 'MAN', 'montante': '-3203.71', 'saldo': '11380.98', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788638', 'inv': '449528', 'moeda': 'MAN', 'montante': '-512.00', 'saldo': '14584.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788636', 'inv': '449987', 'moeda': 'MAN', 'montante': '-506.00', 'saldo': '15096.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788624', 'inv': '451837', 'moeda': 'MAN', 'montante': '-506.00', 'saldo': '15602.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788623', 'inv': '433547', 'moeda': 'MAN', 'montante': '-495.00', 'saldo': '16108.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788622', 'inv': '459386', 'moeda': 'MAN', 'montante': '-4840.00', 'saldo': '16603.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788621', 'inv': '459384', 'moeda': 'MAN', 'montante': '-4840.00', 'saldo': '21443.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788620', 'inv': '459385', 'moeda': 'MAN', 'montante': '-4840.00', 'saldo': '26283.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788619', 'inv': '459468', 'moeda': 'MAN', 'montante': '-4678.00', 'saldo': '31123.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788617', 'inv': '459466', 'moeda': 'MAN', 'montante': '-4230.00', 'saldo': '35801.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788616', 'inv': '459467', 'moeda': 'MAN', 'montante': '-4230.00', 'saldo': '40031.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788615', 'inv': '459653', 'moeda': 'MAN', 'montante': '-4840.00', 'saldo': '44261.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788614', 'inv': '459651', 'moeda': 'MAN', 'montante': '-4240.00', 'saldo': '49101.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788613', 'inv': '459652', 'moeda': 'MAN', 'montante': '-4240.00', 'saldo': '53341.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788611', 'inv': '469181', 'moeda': 'MAN', 'montante': '-101.00', 'saldo': '57581.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788610', 'inv': '439485', 'moeda': 'MAN', 'montante': '-4605.00', 'saldo': '57682.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788608', 'inv': '468314', 'moeda': 'MAN', 'montante': '-1222.14', 'saldo': '62287.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788607', 'inv': '470668', 'moeda': 'MAN', 'montante': '-533.00', 'saldo': '63509.83', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788567', 'inv': '2120023432', 'moeda': 'EUR', 'montante': '-185159.40', 'saldo': '14148.51', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}, {'pi': '3788562', 'inv': '2120023432', 'moeda': 'EUR', 'montante': '-90.75', 'saldo': '14307.91', 'nome': 'Intertrust B.V.', 'cod': None}, {'pi': '3788560', 'inv': '2120019900', 'moeda': 'EUR', 'montante': '-166.38', 'saldo': '14398.66', 'nome': 'Intertrust B.V.', 'cod': None}, {'pi': '3788609', 'inv': '466960', 'moeda': 'MAN', 'montante': '-101.00', 'saldo': '42.83', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788603', 'inv': '470834', 'moeda': 'MAN', 'montante': '-270.00', 'saldo': '143.83', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788602', 'inv': '470835', 'moeda': 'MAN', 'montante': '-270.00', 'saldo': '413.83', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788601', 'inv': '474618', 'moeda': 'MAN', 'montante': '-3819.72', 'saldo': '683.83', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3785674', 'inv': '023800126', 'moeda': 'NOK', 'montante': '-918750.00', 'saldo': '41663.26', 'nome': 'Brunvoll AS', 'cod': None}, {'pi': '3785683', 'inv': '13724', 'moeda': 'USD', 'montante': '-3806.00', 'saldo': '967831.37', 'nome': 'AXESS Networks Solutions Germany GmbH', 'cod': None}, {'pi': '3784486', 'inv': '14240038', 'moeda': 'EUR', 'montante': '-1624.84', 'saldo': '14565.04', 'nome': 'AG Barista IV B.V.', 'cod': None}, {'pi': '3782176', 'inv': '2120023151', 'moeda': 'EUR', 'montante': '-13107.62', 'saldo': '11189.88', 'nome': 'Intertrust B.V.', 'cod': None}, {'pi': '3779076', 'inv': '6207483', 'moeda': 'NOK', 'montante': '-857316.23', 'saldo': '30413.26', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3779073', 'inv': '6207488', 'moeda': 'NOK', 'montante': '-1351540.30', 'saldo': '887729.49', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3779068', 'inv': '6207480', 'moeda': 'NOK', 'montante': '-1836000.00', 'saldo': '2239269.79', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3779063', 'inv': '6207486', 'moeda': 'NOK', 'montante': '-1836000.00', 'saldo': '4075269.79', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3779061', 'inv': '6207475', 'moeda': 'NOK', 'montante': '-1836000.00', 'saldo': '5911269.79', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3778834', 'inv': '6207560', 'moeda': 'NOK', 'montante': '-364784.48', 'saldo': '22269.79', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3778831', 'inv': '6207563', 'moeda': 'NOK', 'montante': '-456380.96', 'saldo': '387054.27', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3778829', 'inv': '6207565', 'moeda': 'NOK', 'montante': '-621458.50', 'saldo': '843435.23', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3778827', 'inv': '6207573', 'moeda': 'NOK', 'montante': '-140007.07', 'saldo': '1464893.73', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3779070', 'inv': '6207453', 'moeda': 'NOK', 'montante': '-8944.32', 'saldo': '24900.80', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3776948', 'inv': '004', 'moeda': 'EUR', 'montante': '-361830.00', 'saldo': '24297.50', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'pi': '3776769', 'inv': '004', 'moeda': 'LLC', 'montante': '-4500.00', 'saldo': '1396987.50', 'nome': 'Blue Gimbals Consultancy FZ-LLC', 'cod': None}, {'pi': '3776751', 'inv': '8001759', 'moeda': 'USD', 'montante': '-36252.00', 'saldo': '1401487.50', 'nome': 'Kongsberg Discovery AS', 'cod': None}, {'pi': '3774216', 'inv': '361844', 'moeda': 'NOK', 'montante': '-2305504.00', 'saldo': '33845.12', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'pi': '3774214', 'inv': '361845', 'moeda': 'NOK', 'montante': '-7143684.98', 'saldo': '2339349.12', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'pi': '3774208', 'inv': '6207211', 'moeda': 'NOK', 'montante': '-604810.00', 'saldo': '183034.10', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3774204', 'inv': '1027781', 'moeda': 'NOK', 'montante': '-125960.90', 'saldo': '787844.10', 'nome': 'DIMO', 'cod': None}, {'pi': '3774202', 'inv': '6207389', 'moeda': 'NOK', 'montante': '-150210.00', 'saldo': '913805.00', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3774158', 'inv': '10787', 'moeda': 'NOK', 'montante': '-20738.00', 'saldo': '1064015.00', 'nome': 'Marin Teknikk AS', 'cod': None}, {'pi': '3774156', 'inv': '10785', 'moeda': 'NOK', 'montante': '-81000.00', 'saldo': '1084753.00', 'nome': 'Marin Teknikk AS', 'cod': None}, {'pi': '3774210', 'inv': '10721', 'moeda': 'USD', 'montante': '-600.00', 'saldo': '1437739.50', 'nome': 'Mackay Communication Inc', 'cod': None}, {'pi': '3774207', 'inv': '10721', 'moeda': 'USD', 'montante': '-90512.02', 'saldo': '1438339.50', 'nome': 'UNISEA', 'cod': None}, {'pi': '3774197', 'inv': '10790', 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'pi': '3774196', 'inv': '10790', 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'pi': '3774195', 'inv': '10790', 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '4208851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'pi': '3774175', 'inv': '10790', 'moeda': 'USD', 'montante': '-12850.00', 'saldo': '5858851.52', 'nome': 'MARIN TEKNIKK', 'cod': None}, {'pi': '3774199', 'inv': '410010690223', 'moeda': 'DNV', 'montante': '-7510.67', 'saldo': '16127.50', 'nome': 'DNV AS', 'cod': None}, {'pi': '3771660', 'inv': '1189863', 'moeda': 'GBP', 'montante': '-155169.00', 'saldo': '4503.55', 'nome': 'European Management Marine Corp', 'cod': None}, {'pi': '3771632', 'inv': '6207287', 'moeda': 'NOK', 'montante': '-1110419.00', 'saldo': '1165753.00', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771627', 'inv': '6207285', 'moeda': 'NOK', 'montante': '-1110419.00', 'saldo': '2276172.00', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771620', 'inv': '6207397', 'moeda': 'NOK', 'montante': '-707339.15', 'saldo': '3386591.00', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771613', 'inv': '6207395', 'moeda': 'NOK', 'montante': '-465748.00', 'saldo': '4093930.15', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771611', 'inv': '6207393', 'moeda': 'NOK', 'montante': '-428786.00', 'saldo': '4559678.15', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771608', 'inv': '6207390', 'moeda': 'NOK', 'montante': '-538963.75', 'saldo': '4988464.15', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771624', 'inv': '6207283', 'moeda': 'NOK', 'montante': '-67619.00', 'saldo': '27427.90', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771652', 'inv': '410010680855', 'moeda': 'DNV', 'montante': '-11494.80', 'saldo': '11638.17', 'nome': 'DNV AS', 'cod': None}, {'pi': '3771658', 'inv': '6300085845', 'moeda': 'USD', 'montante': '-3325.88', 'saldo': '7538868.48', 'nome': 'Marlink SA', 'cod': None}, {'pi': '3771656', 'inv': '6300088124', 'moeda': 'USD', 'montante': '-3323.00', 'saldo': '7542194.36', 'nome': 'Marlink SA', 'cod': None}, {'pi': '3827624', 'inv': '3541', 'moeda': 'NOK', 'montante': '-106200.00', 'saldo': '1058.46', 'nome': 'Motus Technology AS', 'cod': None}, {'pi': '3827615', 'inv': '3539', 'moeda': 'NOK', 'montante': '-1992120.00', 'saldo': '52258.46', 'nome': 'Motus Technology AS', 'cod': None}, {'pi': '3794171', 'inv': '23800125', 'moeda': 'NOK', 'montante': '-1202284.80', 'saldo': '49378.46', 'nome': 'Brunvoll AS', 'cod': None}, {'pi': '3785674', 'inv': '023800126', 'moeda': 'NOK', 'montante': '-918750.00', 'saldo': '41663.26', 'nome': 'Brunvoll AS', 'cod': None}, {'pi': '3779076', 'inv': '6207483', 'moeda': 'NOK', 'montante': '-857316.23', 'saldo': '30413.26', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3779073', 'inv': '6207488', 'moeda': 'NOK', 'montante': '-1351540.30', 'saldo': '887729.49', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3779068', 'inv': '6207480', 'moeda': 'NOK', 'montante': '-1836000.00', 'saldo': '2239269.79', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3779063', 'inv': '6207486', 'moeda': 'NOK', 'montante': '-1836000.00', 'saldo': '4075269.79', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3779061', 'inv': '6207475', 'moeda': 'NOK', 'montante': '-1836000.00', 'saldo': '5911269.79', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3778834', 'inv': '6207560', 'moeda': 'NOK', 'montante': '-364784.48', 'saldo': '22269.79', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3778831', 'inv': '6207563', 'moeda': 'NOK', 'montante': '-456380.96', 'saldo': '387054.27', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3778829', 'inv': '6207565', 'moeda': 'NOK', 'montante': '-621458.50', 'saldo': '843435.23', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3778827', 'inv': '6207573', 'moeda': 'NOK', 'montante': '-140007.07', 'saldo': '1464893.73', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3779070', 'inv': '6207453', 'moeda': 'NOK', 'montante': '-8944.32', 'saldo': '24900.80', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3774216', 'inv': '361844', 'moeda': 'NOK', 'montante': '-2305504.00', 'saldo': '33845.12', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'pi': '3774214', 'inv': '361845', 'moeda': 'NOK', 'montante': '-7143684.98', 'saldo': '2339349.12', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'pi': '3774208', 'inv': '6207211', 'moeda': 'NOK', 'montante': '-604810.00', 'saldo': '183034.10', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3774204', 'inv': '1027781', 'moeda': 'NOK', 'montante': '-125960.90', 'saldo': '787844.10', 'nome': 'DIMO', 'cod': None}, {'pi': '3774202', 'inv': '6207389', 'moeda': 'NOK', 'montante': '-150210.00', 'saldo': '913805.00', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3774158', 'inv': '10787', 'moeda': 'NOK', 'montante': '-20738.00', 'saldo': '1064015.00', 'nome': 'Marin Teknikk AS', 'cod': None}, {'pi': '3774156', 'inv': '10785', 'moeda': 'NOK', 'montante': '-81000.00', 'saldo': '1084753.00', 'nome': 'Marin Teknikk AS', 'cod': None}, {'pi': '3771632', 'inv': '6207287', 'moeda': 'NOK', 'montante': '-1110419.00', 'saldo': '1165753.00', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771627', 'inv': '6207285', 'moeda': 'NOK', 'montante': '-1110419.00', 'saldo': '2276172.00', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771620', 'inv': '6207397', 'moeda': 'NOK', 'montante': '-707339.15', 'saldo': '3386591.00', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771613', 'inv': '6207395', 'moeda': 'NOK', 'montante': '-465748.00', 'saldo': '4093930.15', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771611', 'inv': '6207393', 'moeda': 'NOK', 'montante': '-428786.00', 'saldo': '4559678.15', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771608', 'inv': '6207390', 'moeda': 'NOK', 'montante': '-538963.75', 'saldo': '4988464.15', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3771624', 'inv': '6207283', 'moeda': 'NOK', 'montante': '-67619.00', 'saldo': '27427.90', 'nome': 'Ulmatec Skipservice AS', 'cod': None}, {'pi': '3827625', 'inv': '22306109', 'moeda': 'USD', 'montante': '-7200.00', 'saldo': '1055855.41', 'nome': 'Alatas Americas, Inc.', 'cod': None}, {'pi': '3827621', 'inv': '22306109', 'moeda': 'USD', 'montante': '-81450.00', 'saldo': '1063055.41', 'nome': 'Fugro Norway AS', 'cod': None}, {'pi': '3814741', 'inv': '2210894', 'moeda': 'USD', 'montante': '-1629.71', 'saldo': '1465880.61', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'pi': '3814736', 'inv': '2210894', 'moeda': 'USD', 'montante': '-34420.00', 'saldo': '1467510.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'pi': '3814733', 'inv': '22306209', 'moeda': 'USD', 'montante': '-150.00', 'saldo': '1501930.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'pi': '3803229', 'inv': '10166948', 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1497580.32', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}, {'pi': '3803227', 'inv': '10166948', 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1497580.32', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}, {'pi': '3785683', 'inv': '13724', 'moeda': 'USD', 'montante': '-3806.00', 'saldo': '967831.37', 'nome': 'AXESS Networks Solutions Germany GmbH', 'cod': None}, {'pi': '3776769', 'inv': '004', 'moeda': 'LLC', 'montante': '-4500.00', 'saldo': '1396987.50', 'nome': 'Blue Gimbals Consultancy FZ-LLC', 'cod': None}, {'pi': '3776751', 'inv': '8001759', 'moeda': 'USD', 'montante': '-36252.00', 'saldo': '1401487.50', 'nome': 'Kongsberg Discovery AS', 'cod': None}, {'pi': '3774210', 'inv': '10721', 'moeda': 'USD', 'montante': '-600.00', 'saldo': '1437739.50', 'nome': 'Mackay Communication Inc', 'cod': None}, {'pi': '3774207', 'inv': '10721', 'moeda': 'USD', 'montante': '-90512.02', 'saldo': '1438339.50', 'nome': 'UNISEA', 'cod': None}, {'pi': '3774195', 'inv': '10790', 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '4208851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'pi': '3774175', 'inv': '10790', 'moeda': 'USD', 'montante': '-12850.00', 'saldo': '5858851.52', 'nome': 'MARIN TEKNIKK', 'cod': None}, {'pi': '3771658', 'inv': '6300085845', 'moeda': 'USD', 'montante': '-3325.88', 'saldo': '7538868.48', 'nome': 'Marlink SA', 'cod': None}, {'pi': '3771656', 'inv': '6300088124', 'moeda': 'USD', 'montante': '-3323.00', 'saldo': '7542194.36', 'nome': 'Marlink SA', 'cod': None}, {'pi': '3827623', 'inv': '1190301', 'moeda': 'GBP', 'montante': '-15160.00', 'saldo': '2355.15', 'nome': 'European Management Marine Corp', 'cod': None}, {'pi': '3827617', 'inv': '20058', 'moeda': 'GBP', 'montante': '-15246.26', 'saldo': '2515.15', 'nome': 'Lebus International', 'cod': None}, {'pi': '3788647', 'inv': '433546', 'moeda': 'MAN', 'montante': '-495.00', 'saldo': '2561.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788646', 'inv': '439484', 'moeda': 'MAN', 'montante': '-4605.00', 'saldo': '3056.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788645', 'inv': '445085', 'moeda': 'MAN', 'montante': '-43.00', 'saldo': '7661.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788644', 'inv': '430719', 'moeda': 'MAN', 'montante': '-495.00', 'saldo': '7704.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788643', 'inv': '449315', 'moeda': 'MAN', 'montante': '-256.00', 'saldo': '8199.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788641', 'inv': '449314', 'moeda': 'MAN', 'montante': '-256.00', 'saldo': '8455.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788640', 'inv': '449527', 'moeda': 'MAN', 'montante': '-2669.57', 'saldo': '8711.41', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788639', 'inv': '449526', 'moeda': 'MAN', 'montante': '-3203.71', 'saldo': '11380.98', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788638', 'inv': '449528', 'moeda': 'MAN', 'montante': '-512.00', 'saldo': '14584.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788636', 'inv': '449987', 'moeda': 'MAN', 'montante': '-506.00', 'saldo': '15096.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788624', 'inv': '451837', 'moeda': 'MAN', 'montante': '-506.00', 'saldo': '15602.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788623', 'inv': '433547', 'moeda': 'MAN', 'montante': '-495.00', 'saldo': '16108.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788622', 'inv': '459386', 'moeda': 'MAN', 'montante': '-4840.00', 'saldo': '16603.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788621', 'inv': '459384', 'moeda': 'MAN', 'montante': '-4840.00', 'saldo': '21443.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788620', 'inv': '459385', 'moeda': 'MAN', 'montante': '-4840.00', 'saldo': '26283.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788619', 'inv': '459468', 'moeda': 'MAN', 'montante': '-4678.00', 'saldo': '31123.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788617', 'inv': '459466', 'moeda': 'MAN', 'montante': '-4230.00', 'saldo': '35801.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788616', 'inv': '459467', 'moeda': 'MAN', 'montante': '-4230.00', 'saldo': '40031.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788615', 'inv': '459653', 'moeda': 'MAN', 'montante': '-4840.00', 'saldo': '44261.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788614', 'inv': '459651', 'moeda': 'MAN', 'montante': '-4240.00', 'saldo': '49101.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788613', 'inv': '459652', 'moeda': 'MAN', 'montante': '-4240.00', 'saldo': '53341.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788611', 'inv': '469181', 'moeda': 'MAN', 'montante': '-101.00', 'saldo': '57581.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788610', 'inv': '439485', 'moeda': 'MAN', 'montante': '-4605.00', 'saldo': '57682.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788608', 'inv': '468314', 'moeda': 'MAN', 'montante': '-1222.14', 'saldo': '62287.69', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788607', 'inv': '470668', 'moeda': 'MAN', 'montante': '-533.00', 'saldo': '63509.83', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788609', 'inv': '466960', 'moeda': 'MAN', 'montante': '-101.00', 'saldo': '42.83', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788603', 'inv': '470834', 'moeda': 'MAN', 'montante': '-270.00', 'saldo': '143.83', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788602', 'inv': '470835', 'moeda': 'MAN', 'montante': '-270.00', 'saldo': '413.83', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3788601', 'inv': '474618', 'moeda': 'MAN', 'montante': '-3819.72', 'saldo': '683.83', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'pi': '3771660', 'inv': '1189863', 'moeda': 'GBP', 'montante': '-155169.00', 'saldo': '4503.55', 'nome': 'European Management Marine Corp', 'cod': None}, {'pi': '3836881', 'inv': '31122023', 'moeda': 'EUR', 'montante': '-440140.00', 'saldo': '29580.64', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'pi': '3836878', 'inv': '31122023', 'moeda': 'EUR', 'montante': '-111680.00', 'saldo': '469720.64', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'pi': '3827620', 'inv': '2400287', 'moeda': 'EUR', 'montante': '-10256.63', 'saldo': '31400.64', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'pi': '3827619', 'inv': '2400287', 'moeda': 'EUR', 'montante': '-16316.82', 'saldo': '41657.27', 'nome': 'Simplex - Turbulo Co Ltd', 'cod': None}, {'pi': '3827618', 'inv': '2400299', 'moeda': 'EUR', 'montante': '-14658.73', 'saldo': '974.09', 'nome': 'Simplex - Turbulo Co Ltd', 'cod': None}, {'pi': '3814731', 'inv': '2120023432', 'moeda': 'EUR', 'montante': '-3369.69', 'saldo': '10778.82', 'nome': 'Leonardo Duran', 'cod': None}, {'pi': '3788567', 'inv': '2120023432', 'moeda': 'EUR', 'montante': '-185159.40', 'saldo': '14148.51', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}, {'pi': '3788562', 'inv': '2120023432', 'moeda': 'EUR', 'montante': '-90.75', 'saldo': '14307.91', 'nome': 'Intertrust B.V.', 'cod': None}, {'pi': '3788560', 'inv': '2120019900', 'moeda': 'EUR', 'montante': '-166.38', 'saldo': '14398.66', 'nome': 'Intertrust B.V.', 'cod': None}, {'pi': '3784486', 'inv': '14240038', 'moeda': 'EUR', 'montante': '-1624.84', 'saldo': '14565.04', 'nome': 'AG Barista IV B.V.', 'cod': None}, {'pi': '3782176', 'inv': '2120023151', 'moeda': 'EUR', 'montante': '-13107.62', 'saldo': '11189.88', 'nome': 'Intertrust B.V.', 'cod': None}, {'pi': '3776948', 'inv': '410010690223', 'moeda': 'EUR', 'montante': '-361830.00', 'saldo': '24297.50', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'pi': '3774199', 'inv': '410010690223', 'moeda': 'DNV', 'montante': '-7510.67', 'saldo': '16127.50', 'nome': 'DNV AS', 'cod': None}, {'pi': '3771652', 'inv': '410010680855', 'moeda': 'DNV', 'montante': '-11494.80', 'saldo': '11638.17', 'nome': 'DNV AS', 'cod': None}]
+2024-02-19 17:44:09,324; INFO; functions.open_RM.48: OPEN PROGRAM RM
+2024-02-19 17:44:16,160; INFO; functions.loggin_RM.58: ENTER USER_NAME
+2024-02-19 17:44:17,103; INFO; functions.loggin_RM.63: ENTER PASSWORD
+2024-02-19 17:44:17,864; INFO; functions.loggin_RM.67: ENTER RM
+2024-02-19 17:44:44,676; INFO; functions.enter_coligada.73: CLICK CONTEXTO
+2024-02-19 17:44:48,707; INFO; functions.enter_coligada.76: CLICK COLIGADA 2
+2024-02-19 17:44:51,410; INFO; functions.enter_coligada.80: INSERE O COLIGADA CODE = 2
+2024-02-19 17:44:51,513; INFO; functions.enter_coligada.82: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-02-19 17:44:52,645; INFO; functions.enter_coligada.85: CLICK AVANÇAR NOVAMENTE
+2024-02-19 17:44:55,678; INFO; functions.enter_coligada.89: CLICK CONCLUIR
+2024-02-19 17:45:05,942; INFO; functions.enter_coligada.92: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-02-19 17:45:06,583; INFO; functions.enter_contas_a_pagar.103: CLICK - TOTVS - LINHA RM
+2024-02-19 17:45:09,301; INFO; functions.enter_contas_a_pagar.108: CLICK - BACK OFFICE
+2024-02-19 17:45:11,926; INFO; functions.enter_contas_a_pagar.113: CLICK - GESTAO FINANCEIRA
+2024-02-19 17:45:17,926; INFO; functions.enter_contas_a_pagar.118: CLICK - CONTAS A PAGAR
+2024-02-19 17:45:18,026; INFO; functions.waitForImage.745: LANÇAMENTOS image found.
+2024-02-19 17:45:18,128; INFO; functions.enter_contas_a_pagar.124: CLICA EM LANÇAMENTOS
+2024-02-19 17:45:20,129; INFO; main.process.28: PROCESSO 1 A SER TRATADO: {'pi': '3836881', 'inv': '31122023', 'moeda': 'EUR', 'montante': '-440140.00', 'saldo': '29580.64', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-02-19 17:45:20,129; INFO; main.process.38: pi: 3836881 <class 'str'>
+
+                    inv: 31122023 <class 'str'>
+
+                    moeda: EUR <class 'str'>
+
+                    montante: -440140.00 <class 'str'>
+
+                    saldo: 29580.64 <class 'str'>
+
+                    nome: Tschudi Ship Management AS <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:45:24,879; INFO; functions.filter_lancamento.152: ESCREVE Histórico NO FILTRO
+2024-02-19 17:45:26,020; INFO; functions.filter_lancamento.158: CLICK - BOTÃO DE SELECAO DE FILTRO
+2024-02-19 17:45:28,030; INFO; functions.filter_lancamento.180: VALOR DE 31122023 FILTRO
+2024-02-19 17:45:28,707; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:45:32,332; INFO; functions.desmark_filter.244: CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2024-02-19 17:45:33,265; INFO; functions.desmark_filter.248: CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2024-02-19 17:45:34,226; INFO; functions.desmark_filter.252: CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2024-02-19 17:45:35,254; INFO; functions.desmark_filter.256: CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2024-02-19 17:45:36,300; INFO; functions.desmark_filter.260: ATUALIZA O FILTRO
+2024-02-19 17:45:36,404; INFO; functions.waitForImage.745: FILTER CLEAN image found.
+2024-02-19 17:45:36,506; INFO; functions.filter_clean.193: CLICA NO BOTÃO X DO LIMPA FILTRO - TENTATIVA 1
+2024-02-19 17:45:48,567; INFO; functions.waitForImage.776: FILTER CLEAN image not found.
+2024-02-19 17:45:48,567; INFO; functions.filter_clean.196: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 2
+2024-02-19 17:45:58,692; INFO; functions.waitForImage.776: FILTER CLEAN image not found.
+2024-02-19 17:45:58,692; INFO; functions.filter_clean.196: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 3
+2024-02-19 17:45:59,660; INFO; functions.select_tipo_documento.203: NOME DA COLUNA: Tipo de Documento
+2024-02-19 17:46:00,973; INFO; functions.select_tipo_documento.207: HOVER NOME DA COLUNA: Tipo de Documento
+2024-02-19 17:46:01,580; INFO; functions.select_tipo_documento.222: CLICA NO FILTRO PERSONALIZAR
+2024-02-19 17:46:02,520; INFO; functions.select_tipo_documento.226: CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2024-02-19 17:46:09,582; INFO; functions.select_tipo_documento.238: CLICK BUTTON CONFIRMAR FILTRO
+2024-02-19 17:46:09,582; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:46:10,489; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:46:18,687; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:46:19,332; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:46:22,333; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:46:22,435; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:46:22,435; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3836881 - 31122023 - EUR - 29580.64 - Tschudi Ship Management AS - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:46:22,437; INFO; main.process.28: PROCESSO 2 A SER TRATADO: {'pi': '3836878', 'inv': '31122023', 'moeda': 'EUR', 'montante': '-111680.00', 'saldo': '469720.64', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-02-19 17:46:22,437; INFO; main.process.38: pi: 3836878 <class 'str'>
+
+                    inv: 31122023 <class 'str'>
+
+                    moeda: EUR <class 'str'>
+
+                    montante: -111680.00 <class 'str'>
+
+                    saldo: 469720.64 <class 'str'>
+
+                    nome: Tschudi Ship Management AS <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:46:55,692; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:46:55,812; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:46:57,530; INFO; functions.filter_lancamento.180: VALOR DE 31122023 FILTRO
+2024-02-19 17:46:58,176; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:46:58,176; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:46:59,520; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:47:07,736; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:47:08,367; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:47:11,369; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:47:11,470; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:47:11,470; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3836878 - 31122023 - EUR - 469720.64 - Tschudi Ship Management AS - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:47:11,471; INFO; main.process.28: PROCESSO 3 A SER TRATADO: {'pi': '3827624', 'inv': '3541', 'moeda': 'NOK', 'montante': '-106200.00', 'saldo': '1058.46', 'nome': 'Motus Technology AS', 'cod': None}
+2024-02-19 17:47:11,471; INFO; main.process.38: pi: 3827624 <class 'str'>
+
+                    inv: 3541 <class 'str'>
+
+                    moeda: NOK <class 'str'>
+
+                    montante: -106200.00 <class 'str'>
+
+                    saldo: 1058.46 <class 'str'>
+
+                    nome: Motus Technology AS <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:47:42,098; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:47:42,215; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:47:43,935; INFO; functions.filter_lancamento.180: VALOR DE 3541 FILTRO
+2024-02-19 17:47:44,582; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:47:44,582; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:47:46,035; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:47:54,238; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:47:54,871; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:47:57,873; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:47:57,975; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:47:57,975; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3827624 - 3541 - NOK - 1058.46 - Motus Technology AS - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:47:57,976; INFO; main.process.28: PROCESSO 4 A SER TRATADO: {'pi': '3827623', 'inv': '1190301', 'moeda': 'GBP', 'montante': '-15160.00', 'saldo': '2355.15', 'nome': 'European Management Marine Corp', 'cod': None}
+2024-02-19 17:47:57,977; INFO; main.process.38: pi: 3827623 <class 'str'>
+
+                    inv: 1190301 <class 'str'>
+
+                    moeda: GBP <class 'str'>
+
+                    montante: -15160.00 <class 'str'>
+
+                    saldo: 2355.15 <class 'str'>
+
+                    nome: European Management Marine Corp <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:48:28,567; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:48:28,686; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:48:30,436; INFO; functions.filter_lancamento.180: VALOR DE 1190301 FILTRO
+2024-02-19 17:48:31,099; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:48:31,099; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:48:32,395; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:48:40,624; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:48:41,265; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:48:44,267; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:48:44,368; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:48:44,369; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3827623 - 1190301 - GBP - 2355.15 - European Management Marine Corp - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:48:44,369; INFO; main.process.28: PROCESSO 5 A SER TRATADO: {'pi': '3827620', 'inv': '2400287', 'moeda': 'EUR', 'montante': '-10256.63', 'saldo': '31400.64', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}
+2024-02-19 17:48:44,370; INFO; main.process.38: pi: 3827620 <class 'str'>
+
+                    inv: 2400287 <class 'str'>
+
+                    moeda: EUR <class 'str'>
+
+                    montante: -10256.63 <class 'str'>
+
+                    saldo: 31400.64 <class 'str'>
+
+                    nome: Kongsberg Maritime Netherlands BV <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:49:17,817; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:49:17,939; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:49:19,686; INFO; functions.filter_lancamento.180: VALOR DE 2400287 FILTRO
+2024-02-19 17:49:20,349; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:49:20,349; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:49:21,739; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:49:29,942; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:49:30,574; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:49:33,576; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:49:33,677; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:49:33,677; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3827620 - 2400287 - EUR - 31400.64 - Kongsberg Maritime Netherlands BV - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:49:33,678; INFO; main.process.28: PROCESSO 6 A SER TRATADO: {'pi': '3827619', 'inv': '2400287', 'moeda': 'EUR', 'montante': '-16316.82', 'saldo': '41657.27', 'nome': 'Simplex - Turbulo Co Ltd', 'cod': None}
+2024-02-19 17:49:33,678; INFO; main.process.38: pi: 3827619 <class 'str'>
+
+                    inv: 2400287 <class 'str'>
+
+                    moeda: EUR <class 'str'>
+
+                    montante: -16316.82 <class 'str'>
+
+                    saldo: 41657.27 <class 'str'>
+
+                    nome: Simplex - Turbulo Co Ltd <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:50:07,067; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:50:07,186; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:50:08,905; INFO; functions.filter_lancamento.180: VALOR DE 2400287 FILTRO
+2024-02-19 17:50:09,551; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:50:09,551; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:50:10,989; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:50:19,204; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:50:19,825; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:50:22,827; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:50:22,929; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:50:22,930; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3827619 - 2400287 - EUR - 41657.27 - Simplex - Turbulo Co Ltd - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:50:22,931; INFO; main.process.28: PROCESSO 7 A SER TRATADO: {'pi': '3827615', 'inv': '3539', 'moeda': 'NOK', 'montante': '-1992120.00', 'saldo': '52258.46', 'nome': 'Motus Technology AS', 'cod': None}
+2024-02-19 17:50:22,932; INFO; main.process.38: pi: 3827615 <class 'str'>
+
+                    inv: 3539 <class 'str'>
+
+                    moeda: NOK <class 'str'>
+
+                    montante: -1992120.00 <class 'str'>
+
+                    saldo: 52258.46 <class 'str'>
+
+                    nome: Motus Technology AS <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:50:56,535; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:50:56,652; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:50:58,405; INFO; functions.filter_lancamento.180: VALOR DE 3539 FILTRO
+2024-02-19 17:50:59,051; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:50:59,051; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:51:00,410; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:51:08,652; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:51:09,287; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:51:12,289; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:51:12,390; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:51:12,391; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3827615 - 3539 - NOK - 52258.46 - Motus Technology AS - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:51:12,391; INFO; main.process.28: PROCESSO 8 A SER TRATADO: {'pi': '3827617', 'inv': '20058', 'moeda': 'GBP', 'montante': '-15246.26', 'saldo': '2515.15', 'nome': 'Lebus International', 'cod': None}
+2024-02-19 17:51:12,392; INFO; main.process.38: pi: 3827617 <class 'str'>
+
+                    inv: 20058 <class 'str'>
+
+                    moeda: GBP <class 'str'>
+
+                    montante: -15246.26 <class 'str'>
+
+                    saldo: 2515.15 <class 'str'>
+
+                    nome: Lebus International <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:51:45,598; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:51:45,715; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:51:47,436; INFO; functions.filter_lancamento.180: VALOR DE 20058 FILTRO
+2024-02-19 17:51:48,082; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:51:48,082; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:51:49,817; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:51:58,042; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:51:58,669; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:52:01,670; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:52:01,772; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:52:01,772; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3827617 - 20058 - GBP - 2515.15 - Lebus International - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:52:01,772; INFO; main.process.28: PROCESSO 9 A SER TRATADO: {'pi': '3827625', 'inv': '22306109', 'moeda': 'USD', 'montante': '-7200.00', 'saldo': '1055855.41', 'nome': 'Alatas Americas, Inc.', 'cod': None}
+2024-02-19 17:52:01,773; INFO; main.process.38: pi: 3827625 <class 'str'>
+
+                    inv: 22306109 <class 'str'>
+
+                    moeda: USD <class 'str'>
+
+                    montante: -7200.00 <class 'str'>
+
+                    saldo: 1055855.41 <class 'str'>
+
+                    nome: Alatas Americas, Inc. <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:52:34,660; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:52:34,781; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:52:36,499; INFO; functions.filter_lancamento.180: VALOR DE 22306109 FILTRO
+2024-02-19 17:52:37,175; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:52:37,175; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:52:38,551; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:52:46,761; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:52:47,393; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:52:50,394; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:52:50,496; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:52:50,496; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3827625 - 22306109 - USD - 1055855.41 - Alatas Americas, Inc. - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:52:50,497; INFO; main.process.28: PROCESSO 10 A SER TRATADO: {'pi': '3827621', 'inv': '22306109', 'moeda': 'USD', 'montante': '-81450.00', 'saldo': '1063055.41', 'nome': 'Fugro Norway AS', 'cod': None}
+2024-02-19 17:52:50,497; INFO; main.process.38: pi: 3827621 <class 'str'>
+
+                    inv: 22306109 <class 'str'>
+
+                    moeda: USD <class 'str'>
+
+                    montante: -81450.00 <class 'str'>
+
+                    saldo: 1063055.41 <class 'str'>
+
+                    nome: Fugro Norway AS <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:53:23,442; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:53:23,561; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:53:25,281; INFO; functions.filter_lancamento.180: VALOR DE 22306109 FILTRO
+2024-02-19 17:53:25,926; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:53:25,926; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:53:27,301; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:53:35,531; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:53:36,152; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:53:39,153; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:53:39,255; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:53:39,255; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3827621 - 22306109 - USD - 1063055.41 - Fugro Norway AS - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:53:39,256; INFO; main.process.28: PROCESSO 11 A SER TRATADO: {'pi': '3827618', 'inv': '2400299', 'moeda': 'EUR', 'montante': '-14658.73', 'saldo': '974.09', 'nome': 'Simplex - Turbulo Co Ltd', 'cod': None}
+2024-02-19 17:53:39,257; INFO; main.process.38: pi: 3827618 <class 'str'>
+
+                    inv: 2400299 <class 'str'>
+
+                    moeda: EUR <class 'str'>
+
+                    montante: -14658.73 <class 'str'>
+
+                    saldo: 974.09 <class 'str'>
+
+                    nome: Simplex - Turbulo Co Ltd <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:54:12,442; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:54:12,559; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:54:14,311; INFO; functions.filter_lancamento.180: VALOR DE 2400299 FILTRO
+2024-02-19 17:54:14,957; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:54:14,957; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:54:16,285; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:54:24,527; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:54:25,157; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:54:28,159; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:54:28,260; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:54:28,260; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3827618 - 2400299 - EUR - 974.09 - Simplex - Turbulo Co Ltd - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:54:28,261; INFO; main.process.28: PROCESSO 12 A SER TRATADO: {'pi': '3814741', 'inv': '2210894', 'moeda': 'USD', 'montante': '-1629.71', 'saldo': '1465880.61', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}
+2024-02-19 17:54:28,261; INFO; main.process.38: pi: 3814741 <class 'str'>
+
+                    inv: 2210894 <class 'str'>
+
+                    moeda: USD <class 'str'>
+
+                    montante: -1629.71 <class 'str'>
+
+                    saldo: 1465880.61 <class 'str'>
+
+                    nome: Kongsberg Maritime Netherlands BV <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:54:58,911; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:54:59,030; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:55:00,780; INFO; functions.filter_lancamento.180: VALOR DE 2210894 FILTRO
+2024-02-19 17:55:01,426; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:55:01,426; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:55:02,848; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:55:11,074; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:55:11,702; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:55:14,704; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:55:14,805; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:55:14,805; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3814741 - 2210894 - USD - 1465880.61 - Kongsberg Maritime Netherlands BV - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:55:14,806; INFO; main.process.28: PROCESSO 13 A SER TRATADO: {'pi': '3814736', 'inv': '2210894', 'moeda': 'USD', 'montante': '-34420.00', 'saldo': '1467510.32', 'nome': 'Fugro Norway AS', 'cod': None}
+2024-02-19 17:55:14,807; INFO; main.process.38: pi: 3814736 <class 'str'>
+
+                    inv: 2210894 <class 'str'>
+
+                    moeda: USD <class 'str'>
+
+                    montante: -34420.00 <class 'str'>
+
+                    saldo: 1467510.32 <class 'str'>
+
+                    nome: Fugro Norway AS <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:55:48,098; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:55:48,215; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:55:49,937; INFO; functions.filter_lancamento.180: VALOR DE 2210894 FILTRO
+2024-02-19 17:55:50,582; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:55:50,582; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:55:51,864; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:56:00,077; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:56:00,706; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:56:03,707; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:56:03,808; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:56:03,808; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3814736 - 2210894 - USD - 1467510.32 - Fugro Norway AS - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:56:03,809; INFO; main.process.28: PROCESSO 14 A SER TRATADO: {'pi': '3814733', 'inv': '22306209', 'moeda': 'USD', 'montante': '-150.00', 'saldo': '1501930.32', 'nome': 'Fugro Norway AS', 'cod': None}
+2024-02-19 17:56:03,809; INFO; main.process.38: pi: 3814733 <class 'str'>
+
+                    inv: 22306209 <class 'str'>
+
+                    moeda: USD <class 'str'>
+
+                    montante: -150.00 <class 'str'>
+
+                    saldo: 1501930.32 <class 'str'>
+
+                    nome: Fugro Norway AS <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:56:37,161; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:56:37,280; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:56:39,062; INFO; functions.filter_lancamento.180: VALOR DE 22306209 FILTRO
+2024-02-19 17:56:39,707; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:56:39,707; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:56:41,020; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:56:49,246; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:56:49,876; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:56:52,878; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:56:52,979; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:56:52,979; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3814733 - 22306209 - USD - 1501930.32 - Fugro Norway AS - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:56:52,980; INFO; main.process.28: PROCESSO 15 A SER TRATADO: {'pi': '3814731', 'inv': '004', 'moeda': 'EUR', 'montante': '-3369.69', 'saldo': '10778.82', 'nome': 'Leonardo Duran', 'cod': None}
+2024-02-19 17:56:52,980; INFO; main.process.38: pi: 3814731 <class 'str'>
+
+                    inv: 004 <class 'str'>
+
+                    moeda: EUR <class 'str'>
+
+                    montante: -3369.69 <class 'str'>
+
+                    saldo: 10778.82 <class 'str'>
+
+                    nome: Leonardo Duran <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:57:26,098; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:57:26,215; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:57:27,936; INFO; functions.filter_lancamento.180: VALOR DE 004 FILTRO
+2024-02-19 17:57:28,582; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:57:28,582; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:57:29,895; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:57:38,121; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:57:38,748; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:57:41,750; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:57:41,851; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:57:41,851; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3814731 - 004 - EUR - 10778.82 - Leonardo Duran - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:57:41,852; INFO; main.process.28: PROCESSO 16 A SER TRATADO: {'pi': '3803229', 'inv': '10166948', 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1497580.32', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}
+2024-02-19 17:57:41,852; INFO; main.process.38: pi: 3803229 <class 'str'>
+
+                    inv: 10166948 <class 'str'>
+
+                    moeda: USD <class 'str'>
+
+                    montante: -17069.97 <class 'str'>
+
+                    saldo: 1497580.32 <class 'str'>
+
+                    nome: KONGSBERG MARITIME AS <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:58:12,473; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:58:12,594; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:58:14,718; INFO; functions.filter_lancamento.180: VALOR DE 10166948 FILTRO
+2024-02-19 17:58:15,364; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:58:15,364; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:58:16,660; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:58:24,886; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:58:25,512; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:58:28,514; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:58:28,652; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:58:28,654; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3803229 - 10166948 - USD - 1497580.32 - KONGSBERG MARITIME AS - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:58:28,659; INFO; main.process.28: PROCESSO 17 A SER TRATADO: {'pi': '3803227', 'inv': '10166948', 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1497580.32', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}
+2024-02-19 17:58:28,660; INFO; main.process.38: pi: 3803227 <class 'str'>
+
+                    inv: 10166948 <class 'str'>
+
+                    moeda: USD <class 'str'>
+
+                    montante: -17069.97 <class 'str'>
+
+                    saldo: 1497580.32 <class 'str'>
+
+                    nome: KONGSBBERG MARITIME AS <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:58:59,254; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:58:59,375; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:59:01,126; INFO; functions.filter_lancamento.180: VALOR DE 10166948 FILTRO
+2024-02-19 17:59:01,770; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:59:01,770; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:59:03,067; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:59:11,292; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:59:11,919; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 17:59:14,920; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 17:59:15,022; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 17:59:15,022; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3803227 - 10166948 - USD - 1497580.32 - KONGSBBERG MARITIME AS - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 17:59:15,023; INFO; main.process.28: PROCESSO 18 A SER TRATADO: {'pi': '3802255', 'inv': '23800125', 'moeda': 'LLC', 'montante': '-40000.00', 'saldo': '1497580.32', 'nome': 'Harvey Gulf International Marine, LLC.', 'cod': None}
+2024-02-19 17:59:15,023; INFO; main.process.38: pi: 3802255 <class 'str'>
+
+                    inv: 23800125 <class 'str'>
+
+                    moeda: LLC <class 'str'>
+
+                    montante: -40000.00 <class 'str'>
+
+                    saldo: 1497580.32 <class 'str'>
+
+                    nome: Harvey Gulf International Marine, LLC. <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 17:59:45,598; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 17:59:45,716; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 17:59:47,467; INFO; functions.filter_lancamento.180: VALOR DE 23800125 FILTRO
+2024-02-19 17:59:48,131; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 17:59:48,131; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 17:59:49,426; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 17:59:57,653; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 17:59:58,283; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 18:00:01,286; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 18:00:01,387; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 18:00:01,387; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3802255 - 23800125 - LLC - 1497580.32 - Harvey Gulf International Marine, LLC. - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 18:00:01,388; INFO; main.process.28: PROCESSO 19 A SER TRATADO: {'pi': '3802244', 'inv': '23800125', 'moeda': 'USD', 'montante': '-6538.64', 'saldo': '1537580.32', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}
+2024-02-19 18:00:01,388; INFO; main.process.38: pi: 3802244 <class 'str'>
+
+                    inv: 23800125 <class 'str'>
+
+                    moeda: USD <class 'str'>
+
+                    montante: -6538.64 <class 'str'>
+
+                    saldo: 1537580.32 <class 'str'>
+
+                    nome: Kongsberg Maritime Netherlands BV <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 18:00:34,598; INFO; functions.waitForImage.745: NOVO FILTRO image found.
+2024-02-19 18:00:34,716; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 18:00:36,436; INFO; functions.filter_lancamento.180: VALOR DE 23800125 FILTRO
+2024-02-19 18:00:37,098; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 18:00:37,098; INFO; functions.check_table_record.264: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 18:00:38,457; INFO; functions.check_table_record.268: VERIFICAdo
+2024-02-19 18:00:46,661; INFO; functions.check_table_record.274: CTRL+G
+2024-02-19 18:00:47,279; INFO; functions.check_table_record.278: Para este processo é necessário que existam registros na visão.
+2024-02-19 18:00:50,281; INFO; functions.check_table_record.285: SEM REGISTROS ENCONTRADOS
+2024-02-19 18:00:50,382; INFO; main.process.60: SEM RETORNO BAIXA MOEDA ESTRANGEIRA
+2024-02-19 18:00:50,382; INFO; functions.createRowExcel.828: Criando linha do EXCEL 3802244 - 23800125 - USD - 1537580.32 - Kongsberg Maritime Netherlands BV - None - SEM RETORNO BAIXA MOEDA ESTRANGEIRA - NÃO FINALIZADO
+2024-02-19 18:00:50,383; INFO; main.process.28: PROCESSO 20 A SER TRATADO: {'pi': '3802236', 'inv': '23800125', 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1544118.96', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}
+2024-02-19 18:00:50,384; INFO; main.process.38: pi: 3802236 <class 'str'>
+
+                    inv: 23800125 <class 'str'>
+
+                    moeda: USD <class 'str'>
+
+                    montante: -17069.97 <class 'str'>
+
+                    saldo: 1544118.96 <class 'str'>
+
+                    nome: KONGSBBERG MARITIME AS <class 'str'>
+
+                    cod: None <class 'NoneType'>

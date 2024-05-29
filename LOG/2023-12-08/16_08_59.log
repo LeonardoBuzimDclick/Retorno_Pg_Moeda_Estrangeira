@@ -1,0 +1,55 @@
+2023-12-08 16:09:00.350Z;functions.bot_text_art;      ____   
+2023-12-08 16:09:00.352Z;functions.bot_text_art;     [____]    
+2023-12-08 16:09:00.353Z;functions.bot_text_art;   |=]()()[=|  
+2023-12-08 16:09:00.355Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2023-12-08 16:09:00.357Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2023-12-08 16:09:00.360Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2023-12-08 16:09:00.363Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2023-12-08 16:09:00.365Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2023-12-08 16:09:00.368Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2023-12-08 16:09:00.374Z;functions.bot_text_art;     |_||_|                                                     
+2023-12-08 16:09:00.376Z;functions.bot_text_art;     | ||_|_   
+2023-12-08 16:09:00.377Z;functions.bot_text_art;   |___||___|  
+2023-12-08 16:09:00.379Z;functions.bot_text_art;               
+2023-12-08 16:09:00.380Z;functions.headerExcel;  Criando EXCEL
+2023-12-08 16:09:00.386Z;functions.headerExcel;  EXCEL iniciado
+2023-12-08 16:09:00.400Z;functions.open_RM;  OPEN PROGRAM RM
+2023-12-08 16:09:16.311Z;functions.loggin_RM;  ENTER USER_NAME
+2023-12-08 16:09:17.722Z;functions.loggin_RM;  ENTER PASSWORD
+2023-12-08 16:09:18.896Z;functions.loggin_RM;  ENTER RM
+2023-12-08 16:10:08.029Z;functions.enter_coligada;  CLICK CONTEXTO
+2023-12-08 16:10:13.736Z;functions.enter_coligada;  CLICK COLIGADA 2
+2023-12-08 16:10:18.546Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+2023-12-08 16:10:18.684Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2023-12-08 16:10:21.148Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+2023-12-08 16:10:25.316Z;functions.enter_coligada;  CLICK CONCLUIR
+2023-12-08 16:11:00.961Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+2023-12-08 16:11:04.847Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+2023-12-08 16:11:07.814Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+2023-12-08 16:11:10.676Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+2023-12-08 16:11:18.858Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+2023-12-08 16:11:18.935Z;functions.show_exception_and_exit;  The confidence keyword argument is only available if OpenCV is installed.
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 15, in <module>
+    enter_contas_a_pagar()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 123, in enter_contas_a_pagar
+    select_lancamentos = waitForImage(image = lancamentos, timeout=20, name = 'LANÇAMENTOS')
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 594, in waitForImage
+    location = pyautogui.locateOnScreen(image, confidence=0.9)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyautogui\__init__.py", line 210, in locateOnScreen
+    return pyscreeze.locateOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyscreeze\__init__.py", line 273, in _locateAll_pillow
+    raise NotImplementedError('The confidence keyword argument is only available if OpenCV is installed.')
+NotImplementedError: The confidence keyword argument is only available if OpenCV is installed.

@@ -1,0 +1,39 @@
+2024-03-19 20:16:28,215; INFO; parameters.<module>.102: Pasta local: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março
+2024-03-19 20:16:28,230; INFO; functions.getPid.974: Dentro função GetPid
+
+2024-03-19 20:16:29,103; INFO; functions.bot_text_art.7:     ____   
+2024-03-19 20:16:29,104; INFO; functions.bot_text_art.8:    [____]    
+2024-03-19 20:16:29,105; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-03-19 20:16:29,106; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-03-19 20:16:29,107; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-03-19 20:16:29,108; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-03-19 20:16:29,110; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-03-19 20:16:29,111; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-03-19 20:16:29,112; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-03-19 20:16:29,113; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-03-19 20:16:29,114; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-03-19 20:16:29,114; INFO; functions.bot_text_art.18:  |___||___|  
+2024-03-19 20:16:29,115; INFO; functions.bot_text_art.19:              
+2024-03-19 20:16:29,116; INFO; functions.headerExcel.907: Criando EXCEL
+2024-03-19 20:16:29,120; INFO; functions.headerExcel.927: EXCEL iniciado
+2024-03-19 20:16:29,127; INFO; main.process.15: TODOS ARQUIVOS NA PASTA ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\202403-Extrato mensal-EBPCLI541626 (16).pdf'].
+2024-03-19 20:16:29,128; INFO; main.process.23: SERÃO TRATADOS 0 ARQUIVOS.
+2024-03-19 20:16:29,130; INFO; main.process.24: ARQUIVOS: []
+2024-03-19 20:16:29,131; INFO; main.process.27: NENHUM ARQUIVO DISPONÍVEL
+2024-03-19 20:16:30,081; ERROR; functions.show_exception_and_exit.24: C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL/2024-03-19/20_16_28.xlsx must be a valid filepath or file handle (instance of io.IOBase). C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL/2024-03-19/20_16_28.xlsx is of type <class 'str'>
+Traceback (most recent call last):
+  File "c:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 161, in <module>
+    process()
+  File "c:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 28, in process
+    emailErro()
+  File "c:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 897, in emailErro
+    yag.send(to=str(email_receivers).split(','), subject=f"TESTES - ERRO - BOT RETORNO PAGAMENTO EM MOEDA ESTRANGEIRA - BV",
+  File "C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\sender.py", line 157, in send
+    recipients, msg_strings = self.prepare_send(
+                              ^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\sender.py", line 122, in prepare_send
+    msg = prepare_message(
+          ^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\message.py", line 69, in prepare_message
+    raise TypeError(msg.format(a=a, tp=type(a)))
+TypeError: C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL/2024-03-19/20_16_28.xlsx must be a valid filepath or file handle (instance of io.IOBase). C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL/2024-03-19/20_16_28.xlsx is of type <class 'str'>

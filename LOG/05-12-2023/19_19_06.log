@@ -1,0 +1,26 @@
+05-12-2023 19:19:08.345Z;functions.bot_text_art;      ____   
+05-12-2023 19:19:08.346Z;functions.bot_text_art;     [____]    
+05-12-2023 19:19:08.347Z;functions.bot_text_art;   |=]()()[=|  
+05-12-2023 19:19:08.348Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+05-12-2023 19:19:08.348Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+05-12-2023 19:19:08.349Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+05-12-2023 19:19:08.350Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+05-12-2023 19:19:08.351Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+05-12-2023 19:19:08.353Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+05-12-2023 19:19:08.355Z;functions.bot_text_art;     |_||_|                                                     
+05-12-2023 19:19:08.356Z;functions.bot_text_art;     | ||_|_   
+05-12-2023 19:19:08.357Z;functions.bot_text_art;   |___||___|  
+05-12-2023 19:19:08.358Z;functions.bot_text_art;               
+05-12-2023 19:19:08.368Z;functions.open_RM;  OPEN PROGRAM RM
+05-12-2023 19:19:23.558Z;functions.loggin_RM;  ENTER USER_NAME
+05-12-2023 19:19:24.967Z;functions.loggin_RM;  ENTER PASSWORD
+05-12-2023 19:19:26.226Z;functions.loggin_RM;  ENTER RM
+05-12-2023 19:20:04.226Z;functions.enter_coligada;  CLICK CONTEXTO
+05-12-2023 19:20:19.904Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa_Pix - Copia\main.py", line 13, in <module>
+    enter_coligada()
+  File "c:\Projetos\Remessa_Pix - Copia\SUBPROGRAMS\functions.py", line 77, in enter_coligada
+    click_coligada.click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

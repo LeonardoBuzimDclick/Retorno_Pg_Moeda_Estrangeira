@@ -1,0 +1,4 @@
+2024-02-15 15:14:01.140Z;functions.getPid;  Dentro função GetPid
+
+2024-02-15 15:14:01.379Z;functions.getPid;  Process RM.exe / PID: 15028 found.
+2024-02-15 15:14:01.379Z;functions.pidKillFinish;  Process RM.exe / PID: 15028 killed.

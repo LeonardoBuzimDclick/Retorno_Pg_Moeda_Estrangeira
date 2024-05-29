@@ -1,0 +1,892 @@
+[
+    {
+        "data": "26-03-2024",
+        "pi": "3965610",
+        "inv": "300957",
+        "moeda": "NOK",
+        "montante": "-618500.00",
+        "saldo": "12017.67",
+        "nome": "LOS Marine AS",
+        "cod": null
+    },
+    {
+        "data": "26-03-2024",
+        "pi": "3965469",
+        "inv": "2024156",
+        "moeda": "EUR",
+        "montante": "-36630.00",
+        "saldo": "12367.59",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "26-03-2024",
+        "pi": "3965468",
+        "inv": "2024155",
+        "moeda": "EUR",
+        "montante": "-66500.00",
+        "saldo": "48997.59",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "26-03-2024",
+        "pi": "3965466",
+        "inv": "1403242",
+        "moeda": "EUR",
+        "montante": "-57760.00",
+        "saldo": "115497.59",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "26-03-2024",
+        "pi": "3965465",
+        "inv": "1403241",
+        "moeda": "EUR",
+        "montante": "-60240.00",
+        "saldo": "173257.59",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "26-03-2024",
+        "pi": "3965456",
+        "inv": "301004",
+        "moeda": "NOK",
+        "montante": "-315000.00",
+        "saldo": "11517.67",
+        "nome": "LOS Marine AS",
+        "cod": null
+    },
+    {
+        "data": "26-03-2024",
+        "pi": "3965461",
+        "inv": "5241660",
+        "moeda": "EUR",
+        "montante": "-38.96",
+        "saldo": "973.34",
+        "nome": "Meijers Vitaal B.V",
+        "cod": null
+    },
+    {
+        "data": "21-03-2024",
+        "pi": "3953726",
+        "inv": "1754",
+        "moeda": "USD",
+        "montante": "-16040.03",
+        "saldo": "7080.56",
+        "nome": "ASP Crew Management",
+        "cod": null
+    },
+    {
+        "data": "20-03-2024",
+        "pi": "3950552",
+        "inv": "933",
+        "moeda": "EUR",
+        "montante": "-1165.00",
+        "saldo": "584.14",
+        "nome": "Tufton Corporate Services Limited",
+        "cod": null
+    },
+    {
+        "data": "20-03-2024",
+        "pi": "3950550",
+        "inv": "932",
+        "moeda": "EUR",
+        "montante": "-1165.00",
+        "saldo": "1749.14",
+        "nome": "Tufton Corporate Services Limited",
+        "cod": null
+    },
+    {
+        "data": "20-03-2024",
+        "pi": "3950548",
+        "inv": "1221523",
+        "moeda": "USD",
+        "montante": "-300.00",
+        "saldo": "90401.82",
+        "nome": "THE TRUST COMPANY OF THE MARSHALL",
+        "cod": null
+    },
+    {
+        "data": "07-04-2024",
+        "pi": "3991205",
+        "inv": "10167246",
+        "moeda": "NOK",
+        "montante": "-166155.00",
+        "saldo": "6147.67",
+        "nome": "Kongsberg Maritime AS",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983616",
+        "inv": "137224",
+        "moeda": "USD",
+        "montante": "-1050.00",
+        "saldo": "104894.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983615",
+        "inv": "137124",
+        "moeda": "USD",
+        "montante": "-2324.00",
+        "saldo": "105944.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983613",
+        "inv": "137024",
+        "moeda": "USD",
+        "montante": "-315.00",
+        "saldo": "108268.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983612",
+        "inv": "136924",
+        "moeda": "USD",
+        "montante": "-315.00",
+        "saldo": "108583.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983610",
+        "inv": "136724",
+        "moeda": "USD",
+        "montante": "-5960.00",
+        "saldo": "108898.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983608",
+        "inv": "136824",
+        "moeda": "USD",
+        "montante": "-315.00",
+        "saldo": "114858.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983606",
+        "inv": "136624",
+        "moeda": "USD",
+        "montante": "-5960.00",
+        "saldo": "115173.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983602",
+        "inv": "136524",
+        "moeda": "USD",
+        "montante": "-5960.00",
+        "saldo": "121133.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983600",
+        "inv": "136324",
+        "moeda": "USD",
+        "montante": "-43520.00",
+        "saldo": "127093.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983598",
+        "inv": "136424",
+        "moeda": "USD",
+        "montante": "-5960.00",
+        "saldo": "170613.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983596",
+        "inv": "136224",
+        "moeda": "USD",
+        "montante": "-43520.00",
+        "saldo": "176573.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "03-04-2024",
+        "pi": "3983595",
+        "inv": "137324",
+        "moeda": "USD",
+        "montante": "-5960.00",
+        "saldo": "220093.41",
+        "nome": "Sigmasat USA Inc",
+        "cod": null
+    },
+    {
+        "data": "01-04-2024",
+        "pi": "3974527",
+        "inv": "1029039",
+        "moeda": "NOK",
+        "montante": "-5870.00",
+        "saldo": "6147.67",
+        "nome": "DIMO",
+        "cod": null
+    },
+    {
+        "data": "01-04-2024",
+        "pi": "3974550",
+        "inv": "3748",
+        "moeda": "USD",
+        "montante": "-7000.00",
+        "saldo": "299695.95",
+        "nome": "ARGO COMMUNICATIONS",
+        "cod": null
+    },
+    {
+        "data": "07-04-2024",
+        "pi": "3991194",
+        "inv": "477026",
+        "moeda": "GBP",
+        "montante": "-3293.34",
+        "saldo": "576.78",
+        "nome": "ISLE OF MAN - GOVERNMENT",
+        "cod": null
+    },
+    {
+        "data": "07-04-2024",
+        "pi": "3991105",
+        "inv": "1622766",
+        "moeda": "EUR",
+        "montante": "-7695.60",
+        "saldo": "6458.64",
+        "nome": "Loyens and Loeff N.V",
+        "cod": null
+    },
+    {
+        "data": "07-04-2024",
+        "pi": "3991191",
+        "inv": "476414",
+        "moeda": "GBP",
+        "montante": "-650.00",
+        "saldo": "870.12",
+        "nome": "ISLE OF MAN - GOVERNMENT",
+        "cod": null
+    },
+    {
+        "data": "07-04-2024",
+        "pi": "3991188",
+        "inv": "476415",
+        "moeda": "GBP",
+        "montante": "-650.00",
+        "saldo": "1520.12",
+        "nome": "ISLE OF MAN - GOVERNMENT",
+        "cod": null
+    },
+    {
+        "data": "07-04-2024",
+        "pi": "3991184",
+        "inv": "476446",
+        "moeda": "GBP",
+        "montante": "-270.00",
+        "saldo": "2170.12",
+        "nome": "ISLE OF MAN - GOVERNMENT",
+        "cod": null
+    },
+    {
+        "data": "01-04-2024",
+        "pi": "3974513",
+        "inv": "1000128",
+        "moeda": "USD",
+        "montante": "-165.00",
+        "saldo": "384152.87",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "01-04-2024",
+        "pi": "3974498",
+        "inv": "10014",
+        "moeda": "USD",
+        "montante": "-12600.00",
+        "saldo": "384317.87",
+        "nome": "PICOLO E ASSOCIADOS LTDA INC",
+        "cod": null
+    },
+    {
+        "data": "01-04-2024",
+        "pi": "3974497",
+        "inv": "9991",
+        "moeda": "USD",
+        "montante": "-3246.00",
+        "saldo": "396917.87",
+        "nome": "PICOLO E ASSOCIADOS LTDA INC",
+        "cod": null
+    },
+    {
+        "data": "21-04-2024",
+        "pi": "4024254",
+        "inv": "2024021",
+        "moeda": "EUR",
+        "montante": "-6050.00",
+        "saldo": "9694.95",
+        "nome": "Ayolt M. Zoer",
+        "cod": null
+    },
+    {
+        "data": "17-04-2024",
+        "pi": "4017686",
+        "inv": "10167582",
+        "moeda": "NOK",
+        "montante": "-7621251.35",
+        "saldo": "784896.32",
+        "nome": "Kongsberg Maritime AS",
+        "cod": null
+    },
+    {
+        "data": "14-04-2024",
+        "pi": "4007619",
+        "inv": "1622259",
+        "moeda": "EUR",
+        "montante": "-5173.69",
+        "saldo": "297184.95",
+        "nome": "Loyens and Loeff N.V",
+        "cod": null
+    },
+    {
+        "data": "07-05-2024",
+        "pi": "4066307",
+        "inv": "10736430",
+        "moeda": "EUR",
+        "montante": "-900.00",
+        "saldo": "5744.01",
+        "nome": "DNV AS",
+        "cod": null
+    },
+    {
+        "data": "07-05-2024",
+        "pi": "4066306",
+        "inv": "10716137",
+        "moeda": "EUR",
+        "montante": "-6075.00",
+        "saldo": "6644.01",
+        "nome": "DNV AS",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4062216",
+        "inv": "483684",
+        "moeda": "GBP",
+        "montante": "-5090.00",
+        "saldo": "730.00",
+        "nome": "ISLE OF MAN - GOVERNMENT",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4062213",
+        "inv": "483683",
+        "moeda": "GBP",
+        "montante": "-5090.00",
+        "saldo": "5820.00",
+        "nome": "ISLE OF MAN - GOVERNMENT",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4062227",
+        "inv": "20068",
+        "moeda": "NOK",
+        "montante": "-204000.00",
+        "saldo": "3958.66",
+        "nome": "Ocean Electronics AS",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4062211",
+        "inv": "483682",
+        "moeda": "GBP",
+        "montante": "-5090.00",
+        "saldo": "10910.00",
+        "nome": "ISLE OF MAN - GOVERNMENT",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4062219",
+        "inv": "10857",
+        "moeda": "NOK",
+        "montante": "-580000.00",
+        "saldo": "207958.66",
+        "nome": "Marin Teknikk AS",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4062232",
+        "inv": "10001602",
+        "moeda": "USD",
+        "montante": "-390.00",
+        "saldo": "888082.70",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4062231",
+        "inv": "1000185",
+        "moeda": "USD",
+        "montante": "-3542.65",
+        "saldo": "888472.70",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4062210",
+        "inv": "133291",
+        "moeda": "EUR",
+        "montante": "-6000.00",
+        "saldo": "3757.32",
+        "nome": "Wesmans AS",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4058154",
+        "inv": "2024237",
+        "moeda": "EUR",
+        "montante": "-32413.79",
+        "saldo": "9757.32",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4058153",
+        "inv": "2024236",
+        "moeda": "EUR",
+        "montante": "-32413.79",
+        "saldo": "42171.11",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4058151",
+        "inv": "2024235",
+        "moeda": "EUR",
+        "montante": "-18635.00",
+        "saldo": "74584.90",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4058150",
+        "inv": "2024234",
+        "moeda": "EUR",
+        "montante": "-29450.00",
+        "saldo": "93219.90",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "05-05-2024",
+        "pi": "4057521",
+        "inv": "10858",
+        "moeda": "NOK",
+        "montante": "-290000.00",
+        "saldo": "3958.66",
+        "nome": "Marin Teknikk AS",
+        "cod": null
+    },
+    {
+        "data": "05-05-2024",
+        "pi": "4058159",
+        "inv": "124",
+        "moeda": "USD",
+        "montante": "-7049.00",
+        "saldo": "206191.61",
+        "nome": "SOLANA AGENCIA MARITIMA LTDA.",
+        "cod": null
+    },
+    {
+        "data": "02-05-2024",
+        "pi": "4054212",
+        "inv": "001824",
+        "moeda": "USD",
+        "montante": "-35242.80",
+        "saldo": "426646.80",
+        "nome": "ASP Crew Management",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4062229",
+        "inv": "11042024",
+        "moeda": "USD",
+        "montante": "-23143.48",
+        "saldo": "892015.35",
+        "nome": "INCHCAPE SHIPPING SERVICES",
+        "cod": null
+    },
+    {
+        "data": "06-05-2024",
+        "pi": "4062228",
+        "inv": "1545901",
+        "moeda": "USD",
+        "montante": "-10734.60",
+        "saldo": "915158.83",
+        "nome": "Alatas Americas, Inc.",
+        "cod": null
+    },
+    {
+        "data": "21-05-2024",
+        "pi": "4098494",
+        "inv": "1000221",
+        "moeda": "USD",
+        "montante": "-220.00",
+        "saldo": "45754.76",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "21-05-2024",
+        "pi": "4098492",
+        "inv": "1000226",
+        "moeda": "USD",
+        "montante": "-110.00",
+        "saldo": "45974.76",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "21-05-2024",
+        "pi": "4098489",
+        "inv": "1000232",
+        "moeda": "USD",
+        "montante": "-2873.36",
+        "saldo": "46084.76",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "21-05-2024",
+        "pi": "4098488",
+        "inv": "1000225",
+        "moeda": "USD",
+        "montante": "-2431.89",
+        "saldo": "48958.12",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "21-05-2024",
+        "pi": "4098487",
+        "inv": "1000231",
+        "moeda": "USD",
+        "montante": "-1628.95",
+        "saldo": "51390.01",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "21-05-2024",
+        "pi": "4098483",
+        "inv": "15052024",
+        "moeda": "EUR",
+        "montante": "-4570.00",
+        "saldo": "26276.08",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "21-05-2024",
+        "pi": "4098481",
+        "inv": "20240515",
+        "moeda": "EUR",
+        "montante": "-1250.00",
+        "saldo": "30846.08",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "21-05-2024",
+        "pi": "4098480",
+        "inv": "20240502",
+        "moeda": "EUR",
+        "montante": "-15200.00",
+        "saldo": "32096.08",
+        "nome": "Tschudi Ship Management AS",
+        "cod": null
+    },
+    {
+        "data": "21-05-2024",
+        "pi": "4098476",
+        "inv": "941",
+        "moeda": "EUR",
+        "montante": "-1165.00",
+        "saldo": "47296.08",
+        "nome": "Tufton Corporate Services Limited",
+        "cod": null
+    },
+    {
+        "data": "20-05-2024",
+        "pi": "4092644",
+        "inv": "10189",
+        "moeda": "NOK",
+        "montante": "-11324.00",
+        "saldo": "432842.99",
+        "nome": "Navatech AS",
+        "cod": null
+    },
+    {
+        "data": "20-05-2024",
+        "pi": "4092642",
+        "inv": "10188",
+        "moeda": "NOK",
+        "montante": "-32939.00",
+        "saldo": "444166.99",
+        "nome": "Navatech AS",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092620",
+        "inv": "5375",
+        "moeda": "SGD",
+        "montante": "-56432.10",
+        "saldo": "2306.59",
+        "nome": "BEN LINE AGENCIES",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092640",
+        "inv": "482545",
+        "moeda": "GBP",
+        "montante": "-650.00",
+        "saldo": "741.66",
+        "nome": "ISLE OF MAN - GOVERNMENT",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092639",
+        "inv": "484055",
+        "moeda": "GBP",
+        "montante": "-4988.34",
+        "saldo": "1391.66",
+        "nome": "ISLE OF MAN - GOVERNMENT",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092630",
+        "inv": "1000215",
+        "moeda": "USD",
+        "montante": "-1400.00",
+        "saldo": "218877.08",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092629",
+        "inv": "1000214",
+        "moeda": "USD",
+        "montante": "-1850.51",
+        "saldo": "220277.08",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092628",
+        "inv": "1000213",
+        "moeda": "USD",
+        "montante": "-3901.70",
+        "saldo": "222127.59",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092627",
+        "inv": "1000212",
+        "moeda": "USD",
+        "montante": "-950.00",
+        "saldo": "226029.29",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092626",
+        "inv": "1000211",
+        "moeda": "USD",
+        "montante": "-110.00",
+        "saldo": "226979.29",
+        "nome": "PT. SNEPAC SHIPPING",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092622",
+        "inv": "5649",
+        "moeda": "USD",
+        "montante": "-2966.07",
+        "saldo": "227089.29",
+        "nome": "BEN LINE AGENCIES",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092621",
+        "inv": "5647",
+        "moeda": "USD",
+        "montante": "-13278.00",
+        "saldo": "230055.36",
+        "nome": "BEN LINE AGENCIES",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092557",
+        "inv": "5645",
+        "moeda": "USD",
+        "montante": "-13279.82",
+        "saldo": "243333.36",
+        "nome": "BEN LINE AGENCIES",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092556",
+        "inv": "5644",
+        "moeda": "USD",
+        "montante": "-2966.07",
+        "saldo": "256613.18",
+        "nome": "BEN LINE AGENCIES",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092634",
+        "inv": "10744377",
+        "moeda": "EUR",
+        "montante": "-2101.74",
+        "saldo": "461.08",
+        "nome": "DNV AS",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092633",
+        "inv": "10744344",
+        "moeda": "EUR",
+        "montante": "-3600.00",
+        "saldo": "2562.82",
+        "nome": "DNV AS",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092632",
+        "inv": "10713210",
+        "moeda": "EUR",
+        "montante": "-41961.43",
+        "saldo": "6162.82",
+        "nome": "DNV AS",
+        "cod": null
+    },
+    {
+        "data": "19-05-2024",
+        "pi": "4092638",
+        "inv": "482544",
+        "moeda": "GBP",
+        "montante": "-650.00",
+        "saldo": "80.00",
+        "nome": "ISLE OF MAN - GOVERNMENT",
+        "cod": null
+    },
+    {
+        "data": "16-05-2024",
+        "pi": "4089086",
+        "inv": "20240505",
+        "moeda": "SGD",
+        "montante": "-11560.00",
+        "saldo": "12658.20",
+        "nome": "PT. LABROY SHIPBUILDING ENGINEERING",
+        "cod": null
+    },
+    {
+        "data": "16-05-2024",
+        "pi": "4089013",
+        "inv": "24145006",
+        "moeda": "EUR",
+        "montante": "-50590.10",
+        "saldo": "15333.08",
+        "nome": "Holland Accommodation Rentals VOF",
+        "cod": null
+    },
+    {
+        "data": "16-05-2024",
+        "pi": "4089193",
+        "inv": "1223768",
+        "moeda": "USD",
+        "montante": "-1400.00",
+        "saldo": "287904.00",
+        "nome": "THE TRUST COMPANY OF THE MARSHALL",
+        "cod": null
+    },
+    {
+        "data": "14-05-2024",
+        "pi": "4083014",
+        "inv": "564404000",
+        "moeda": "USD",
+        "montante": "-590249.84",
+        "saldo": "290990.63",
+        "nome": "Bunker One",
+        "cod": null
+    },
+    {
+        "data": "14-05-2024",
+        "pi": "4081917",
+        "inv": "121052",
+        "moeda": "USD",
+        "montante": "-1510.63",
+        "saldo": "881240.47",
+        "nome": "BLUE MARINE TRANSPORTATION, INC.",
+        "cod": null
+    },
+    {
+        "data": "13-05-2024",
+        "pi": "4079606",
+        "inv": "1545902",
+        "moeda": "USD",
+        "montante": "-5331.60",
+        "saldo": "882751.10",
+        "nome": "Alatas Americas, Inc.",
+        "cod": null
+    }
+]

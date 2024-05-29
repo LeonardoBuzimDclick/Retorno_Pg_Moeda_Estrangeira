@@ -1,0 +1,5 @@
+2024-02-16 10:35:56,207; DEBUG; functions.select_tipo_documento.189: NOME DA COLUNA: Tipo de Documento
+2024-02-16 10:35:57,473; DEBUG; functions.select_tipo_documento.193: HOVER NOME DA COLUNA: Tipo de Documento
+2024-02-16 10:35:58,050; DEBUG; functions.select_tipo_documento.208: CLICA NO FILTRO PERSONALIZAR
+2024-02-16 10:35:58,801; DEBUG; functions.select_tipo_documento.212: CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2024-02-16 10:36:05,864; DEBUG; functions.select_tipo_documento.224: CLICK BUTTON CONFIRMAR FILTRO

@@ -1,0 +1,64 @@
+19-11-2023 13:58:19.853Z;functions.bot_text_art;      ____   
+19-11-2023 13:58:19.854Z;functions.bot_text_art;     [____]    
+19-11-2023 13:58:19.856Z;functions.bot_text_art;   |=]()()[=|  
+19-11-2023 13:58:19.856Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+19-11-2023 13:58:19.857Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+19-11-2023 13:58:19.857Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+19-11-2023 13:58:19.858Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+19-11-2023 13:58:19.859Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+19-11-2023 13:58:19.861Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+19-11-2023 13:58:19.862Z;functions.bot_text_art;     |_||_|                                                     
+19-11-2023 13:58:19.863Z;functions.bot_text_art;     | ||_|_   
+19-11-2023 13:58:19.864Z;functions.bot_text_art;   |___||___|  
+19-11-2023 13:58:19.865Z;functions.bot_text_art;               
+19-11-2023 13:58:19.877Z;functions.open_RM;  OPEN PROGRAM RM
+19-11-2023 13:58:32.853Z;functions.loggin_RM;  ENTER USER_NAME
+19-11-2023 13:58:34.282Z;functions.loggin_RM;  ENTER PASSWORD
+19-11-2023 13:58:35.487Z;functions.loggin_RM;  ENTER RM
+19-11-2023 13:59:11.673Z;functions.enter_coligada;  CLICK CONTEXTO
+19-11-2023 13:59:17.067Z;functions.enter_coligada;  CLICK COLIGADA 1
+19-11-2023 13:59:19.008Z;functions.enter_coligada;  CLICK AVANÇAR
+19-11-2023 13:59:21.483Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+19-11-2023 13:59:21.633Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+19-11-2023 13:59:23.077Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+19-11-2023 13:59:24.345Z;functions.enter_coligada;  CLICK CONCLUIR
+19-11-2023 13:59:47.820Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+19-11-2023 13:59:48.666Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+19-11-2023 13:59:50.578Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+19-11-2023 13:59:51.556Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+19-11-2023 13:59:58.555Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+19-11-2023 13:59:59.518Z;functions.waitForImage;  LANÇAMENTOS image found.
+19-11-2023 14:00:01.622Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+19-11-2023 14:00:03.624Z;functions.data_filter;  DATA INICIO 08-11-2023
+19-11-2023 14:00:03.625Z;functions.data_filter;  DATA FIM 14-11-2023
+19-11-2023 14:00:03.626Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+19-11-2023 14:00:03.628Z;functions.data_filter;  QUARTA-FEIRA: 08-11-2023
+19-11-2023 14:00:03.629Z;functions.data_filter;  TERCA-FEIRA: 14-11-2023
+19-11-2023 14:00:13.993Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+19-11-2023 14:00:14.840Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+19-11-2023 14:00:17.740Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 08-11-2023
+19-11-2023 14:00:19.796Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 14-11-2023
+19-11-2023 14:00:20.731Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+19-11-2023 14:00:25.899Z;functions.waitForImage;  FILTER CLEAN image found.
+19-11-2023 14:00:28.027Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+19-11-2023 14:00:31.813Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+19-11-2023 14:00:33.583Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+19-11-2023 14:00:33.715Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+19-11-2023 14:00:34.041Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+19-11-2023 14:00:36.230Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+19-11-2023 14:00:43.529Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+19-11-2023 14:00:43.532Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+19-11-2023 14:00:56.481Z;functions.check_table_record;  Para este processo é necessário que existam registros na visão.
+19-11-2023 14:01:00.587Z;functions.check_table_record;  SEM REMESSAS PIX
+19-11-2023 14:01:02.589Z;main.<module>;  SEM REMESSAS PIX
+19-11-2023 14:01:04.694Z;functions.encerra_prog;  FECHA A TABELA
+19-11-2023 14:01:06.798Z;functions.encerra_prog;  FECHA O PROGRAMA
+19-11-2023 14:01:08.903Z;functions.encerra_prog;  RM ENCERRADO
+19-11-2023 14:01:24.747Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 22, in <module>
+    process_lancamentos()
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 298, in process_lancamentos
+    click_all.click()
+    ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

@@ -1,0 +1,9 @@
+20-11-2023 22:50:43.569Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+20-11-2023 22:50:58.066Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 7 registros?
+20-11-2023 22:51:00.240Z;functions.check_table_record;  CLICK ENTER
+20-11-2023 22:51:00.312Z;functions.check_table_record;  NUMERO DE TUPLAS: 7
+20-11-2023 22:51:00.373Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+20-11-2023 22:51:02.481Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS

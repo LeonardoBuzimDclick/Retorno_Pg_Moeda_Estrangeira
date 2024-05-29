@@ -1,0 +1,83 @@
+07-12-2023 11:07:01.348Z;functions.enter_coligada;  CLICK CONTEXTO
+07-12-2023 11:07:03.159Z;functions.enter_coligada;  CLICK COLIGADA 2
+07-12-2023 11:07:06.585Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+07-12-2023 11:07:06.697Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+07-12-2023 11:07:08.000Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+07-12-2023 11:07:11.286Z;functions.enter_coligada;  CLICK CONCLUIR
+07-12-2023 11:07:35.050Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+07-12-2023 11:07:38.883Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+07-12-2023 11:07:41.841Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+07-12-2023 11:07:42.792Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+07-12-2023 11:07:50.290Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+07-12-2023 11:07:51.214Z;functions.waitForImage;  LANÇAMENTOS image found.
+07-12-2023 11:07:53.337Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+07-12-2023 11:07:58.340Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+07-12-2023 11:07:59.199Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+07-12-2023 11:08:01.303Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+07-12-2023 11:08:02.217Z;functions.filter_lancamento;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+07-12-2023 11:08:25.952Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+07-12-2023 11:08:27.933Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+07-12-2023 11:08:29.933Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+07-12-2023 11:08:32.205Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+07-12-2023 11:08:34.536Z;functions.desmark_filter;  ATUALIZA O FILTRO
+07-12-2023 11:08:34.733Z;functions.waitForImage;  FILTER CLEAN image found.
+07-12-2023 11:08:37.838Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+07-12-2023 11:08:41.495Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+07-12-2023 11:08:43.231Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+07-12-2023 11:08:43.366Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+07-12-2023 11:08:43.696Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+07-12-2023 11:08:45.113Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+07-12-2023 11:08:52.391Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+07-12-2023 11:08:52.394Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+07-12-2023 11:09:05.348Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 52 registros?
+07-12-2023 11:09:07.352Z;functions.check_table_record;  NUMERO DE TUPLAS: 52
+07-12-2023 11:09:07.354Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+07-12-2023 11:09:16.276Z;functions.check_table_record;  CLICK NÃO
+07-12-2023 11:09:22.656Z;functions.check_inv;  SELECIONA A PRIMEIRA LINHA REF LANÇAMENTO
+07-12-2023 11:09:24.318Z;functions.check_inv;  16 PASSOS PARA DIREITA
+07-12-2023 11:09:26.320Z;functions.check_inv;  ctrl c
+07-12-2023 11:09:28.456Z;functions.check_inv;  INV: INV - 00525829 - DNV AS 
+07-12-2023 11:09:28.680Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:09:32.733Z;functions.check_inv;  ctrl c
+07-12-2023 11:09:34.839Z;functions.check_inv;  INV:     filter_clean()
+
+07-12-2023 11:09:34.943Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:09:38.981Z;functions.check_inv;  ctrl c
+07-12-2023 11:09:41.152Z;functions.check_inv;  INV: def check_table_record():
+
+07-12-2023 11:09:41.257Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:09:45.261Z;functions.check_inv;  ctrl c
+07-12-2023 11:09:47.367Z;functions.check_inv;  INV: 
+
+07-12-2023 11:09:47.472Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:09:51.476Z;functions.check_inv;  ctrl c
+07-12-2023 11:09:53.582Z;functions.check_inv;  INV:         pyautogui.press('enter')
+
+07-12-2023 11:09:53.686Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:09:57.688Z;functions.check_inv;  ctrl c
+07-12-2023 11:09:59.792Z;functions.check_inv;  INV: def select_tipo_documento():
+
+07-12-2023 11:09:59.896Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:10:03.899Z;functions.check_inv;  ctrl c
+07-12-2023 11:10:06.013Z;functions.check_inv;  INV: 
+
+07-12-2023 11:10:06.118Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:10:10.120Z;functions.check_inv;  ctrl c
+07-12-2023 11:10:12.254Z;functions.check_inv;  INV:     tipo_doc = cc.wait_appear(locator.rm.header_tipo_de_documento, wait_timeout=600)
+
+07-12-2023 11:10:12.361Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:10:16.364Z;functions.check_inv;  ctrl c
+07-12-2023 11:10:18.470Z;functions.check_inv;  INV:     colunm_name = tipo_doc.get_text()
+
+07-12-2023 11:10:18.575Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:10:22.578Z;functions.check_inv;  ctrl c
+07-12-2023 11:10:24.688Z;functions.check_inv;  INV:     logging.debug(f'NOME DA COLUNA: {colunm_name}')
+
+07-12-2023 11:10:24.794Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:10:28.797Z;functions.check_inv;  ctrl c
+07-12-2023 11:10:30.936Z;functions.check_inv;  INV: INV - 020558915 - KONGSBERG MARITIME AS
+07-12-2023 11:10:31.040Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 11:10:35.043Z;functions.check_inv;  ctrl c

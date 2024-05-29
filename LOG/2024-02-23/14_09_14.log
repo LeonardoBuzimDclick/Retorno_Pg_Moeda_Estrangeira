@@ -1,0 +1,48 @@
+2024-02-23 14:09:14,906; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:09:15,176; INFO; functions.bot_text_art.19:              
+2024-02-23 14:09:15,176; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 14:09:15,176; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 14:09:15,193; INFO; main.process.15: SERÃO TRATADOS 1 ARQUIVOS.
+2024-02-23 14:09:15,194; INFO; main.process.20: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\Parcial até 11-01.pdf
+2024-02-23 14:09:16,770; INFO; functions.excelProcessoCompleto.1103: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 14:09:16,770; INFO; functions.excelProcessoCompleto.1119: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:09:16,770; INFO; main.process.30: PROCESSOS EXTRAIDOS COM ERRO: 3
+2024-02-23 14:09:16,770; INFO; main.process.31: PROCESSOS COM ERRO: [{'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774210', 'inv': None, 'moeda': 'USD', 'montante': '-600.00', 'saldo': '1437739.50', 'nome': 'Mackay Communication Inc', 'cod': None}]
+2024-02-23 14:09:16,770; INFO; functions.excelErro.1008: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 14:09:16,782; ERROR; functions.show_exception_and_exit.24: Invalid character / found in sheet title
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 146, in <module>
+    process()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 32, in process
+    excelErro(erro_invoice)
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 1011, in excelErro
+    sheet = workbook.create_sheet(title="EXTRAÍDOS C/ ERRO DE FORMATAÇÃO")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\openpyxl\workbook\workbook.py", line 199, in create_sheet
+    new_ws = Worksheet(parent=self, title=title)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\openpyxl\worksheet\worksheet.py", line 107, in __init__
+    _WorkbookChild.__init__(self, parent, title)
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\openpyxl\workbook\child.py", line 47, in __init__
+    self.title = title or self._default_title
+    ^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\openpyxl\workbook\child.py", line 93, in title
+    raise ValueError(msg)
+ValueError: Invalid character / found in sheet title
+2024-02-23 14:09:17,923; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:09:17,995; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:09:18,319; INFO; functions.encerra_prog.325: RM ENCERRADO

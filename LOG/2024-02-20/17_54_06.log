@@ -1,0 +1,17 @@
+2024-02-20 17:54:06,207; INFO; functions.getPid.882: Dentro função GetPid
+
+2024-02-20 17:54:06,442; INFO; functions.bot_text_art.7:     ____   
+2024-02-20 17:54:06,442; INFO; functions.bot_text_art.8:    [____]    
+2024-02-20 17:54:06,442; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-20 17:54:06,442; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-20 17:54:06,442; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-20 17:54:06,442; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-20 17:54:06,442; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-20 17:54:06,457; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-20 17:54:06,457; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-20 17:54:06,457; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-20 17:54:06,457; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-20 17:54:06,457; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-20 17:54:06,457; INFO; functions.bot_text_art.19:              
+2024-02-20 17:54:06,457; INFO; functions.headerExcel.837: Criando EXCEL
+2024-02-20 17:54:06,457; INFO; functions.headerExcel.856: EXCEL iniciado

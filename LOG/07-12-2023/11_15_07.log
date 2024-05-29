@@ -1,0 +1,11 @@
+07-12-2023 11:15:11.990Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+07-12-2023 11:15:13.816Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+07-12-2023 11:15:14.590Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+07-12-2023 11:15:33.562Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 18, in <module>
+    select_tipo_documento()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 196, in select_tipo_documento
+    into_filter_personalizar.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

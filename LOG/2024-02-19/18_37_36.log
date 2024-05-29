@@ -1,0 +1,19 @@
+2024-02-19 18:37:37,113; INFO; functions.getPid.853: Dentro função GetPid
+
+2024-02-19 18:37:37,163; INFO; functions.getPid.863: Process RM.exe / PID: 1068 found.
+2024-02-19 18:37:37,407; INFO; functions.pidKillFinish.874: Process RM.exe / PID: 1068 killed.
+2024-02-19 18:37:37,408; INFO; functions.bot_text_art.16:     ____   
+2024-02-19 18:37:37,409; INFO; functions.bot_text_art.17:    [____]    
+2024-02-19 18:37:37,409; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-19 18:37:37,410; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-19 18:37:37,412; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-19 18:37:37,413; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-19 18:37:37,435; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-19 18:37:37,444; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-19 18:37:37,445; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-19 18:37:37,446; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-19 18:37:37,447; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-19 18:37:37,447; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-19 18:37:37,448; INFO; functions.bot_text_art.28:              
+2024-02-19 18:37:37,448; INFO; functions.headerExcel.811: Criando EXCEL
+2024-02-19 18:37:37,450; INFO; functions.headerExcel.829: EXCEL iniciado

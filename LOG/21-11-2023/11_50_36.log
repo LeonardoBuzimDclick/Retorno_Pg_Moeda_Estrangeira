@@ -1,0 +1,16 @@
+21-11-2023 11:50:55.459Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+21-11-2023 11:50:57.839Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+21-11-2023 11:50:59.600Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+21-11-2023 11:51:01.706Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+21-11-2023 11:51:03.810Z;functions.proccess_bordero;  ESCREVE O ID 14
+21-11-2023 11:51:05.913Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 14 - PIX
+21-11-2023 11:51:08.016Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 14 - PIX
+21-11-2023 11:51:10.922Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+21-11-2023 11:51:21.922Z;functions.waitForImage;  PRESS BUTTON OK image found.
+21-11-2023 11:51:23.924Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+21-11-2023 11:51:26.781Z;functions.proccess_bordero;  CLICK EM FECHAR.
+21-11-2023 11:52:46.858Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+21-11-2023 11:52:48.183Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+21-11-2023 11:53:00.409Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+21-11-2023 11:53:00.653Z;functions.waitForImage;  FILTER CLEAN image found.
+21-11-2023 11:53:02.761Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO

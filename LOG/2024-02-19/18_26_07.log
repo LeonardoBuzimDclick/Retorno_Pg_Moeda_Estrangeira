@@ -1,0 +1,95 @@
+2024-02-19 18:26:08,020; INFO; functions.getPid.849: Dentro função GetPid
+
+2024-02-19 18:26:08,254; INFO; functions.getPid.859: Process RM.exe / PID: 11432 found.
+2024-02-19 18:26:08,305; INFO; functions.pidKillFinish.870: Process RM.exe / PID: 11432 killed.
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.16:     ____   
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.17:    [____]    
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-19 18:26:08,305; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-19 18:26:08,325; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-19 18:26:08,326; INFO; functions.bot_text_art.28:              
+2024-02-19 18:26:08,327; INFO; functions.headerExcel.807: Criando EXCEL
+2024-02-19 18:26:08,330; INFO; functions.headerExcel.825: EXCEL iniciado
+2024-02-19 18:26:08,332; INFO; main.process.15: PROCESSOS EXTRAIDOS COM ERRO: 0
+2024-02-19 18:26:08,332; INFO; main.process.16: PROCESSOS COM ERRO: 
+2024-02-19 18:26:08,337; INFO; main.process.18: PROCESSOS EXTRAIDOS CORRETAMENTE: 1
+2024-02-19 18:26:08,339; INFO; main.process.19: PROCESSOS A SEREM TRATADOS: [{'pi': 'teste', 'inv': '020558915', 'moeda': 'NOK', 'montante': '59.488,90', 'saldo': '59.488,90', 'nome': 'KONGSBERG MARITIME AS', 'cod': 'teste2'}]
+2024-02-19 18:26:08,346; INFO; functions.open_RM.48: OPEN PROGRAM RM
+2024-02-19 18:26:15,301; INFO; functions.loggin_RM.58: ENTER USER_NAME
+2024-02-19 18:26:16,218; INFO; functions.loggin_RM.63: ENTER PASSWORD
+2024-02-19 18:26:16,957; INFO; functions.loggin_RM.67: ENTER RM
+2024-02-19 18:26:43,645; INFO; functions.enter_coligada.73: CLICK CONTEXTO
+2024-02-19 18:26:47,676; INFO; functions.enter_coligada.76: CLICK COLIGADA 2
+2024-02-19 18:26:50,348; INFO; functions.enter_coligada.80: INSERE O COLIGADA CODE = 2
+2024-02-19 18:26:50,450; INFO; functions.enter_coligada.82: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-02-19 18:26:51,676; INFO; functions.enter_coligada.85: CLICK AVANÇAR NOVAMENTE
+2024-02-19 18:26:54,677; INFO; functions.enter_coligada.89: CLICK CONCLUIR
+2024-02-19 18:27:04,895; INFO; functions.enter_coligada.92: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-02-19 18:27:05,520; INFO; functions.enter_contas_a_pagar.103: CLICK - TOTVS - LINHA RM
+2024-02-19 18:27:08,239; INFO; functions.enter_contas_a_pagar.108: CLICK - BACK OFFICE
+2024-02-19 18:27:10,864; INFO; functions.enter_contas_a_pagar.113: CLICK - GESTAO FINANCEIRA
+2024-02-19 18:27:16,801; INFO; functions.enter_contas_a_pagar.118: CLICK - CONTAS A PAGAR
+2024-02-19 18:27:16,974; INFO; functions.waitForImage.768: LANÇAMENTOS image found.
+2024-02-19 18:27:17,083; INFO; functions.enter_contas_a_pagar.124: CLICA EM LANÇAMENTOS
+2024-02-19 18:27:19,084; INFO; main.process.28: PROCESSO 1 A SER TRATADO: {'pi': 'teste', 'inv': '020558915', 'moeda': 'NOK', 'montante': '59.488,90', 'saldo': '59.488,90', 'nome': 'KONGSBERG MARITIME AS', 'cod': 'teste2'}
+2024-02-19 18:27:19,084; INFO; main.process.38: pi: teste <class 'str'>
+
+                    inv: 020558915 <class 'str'>
+
+                    moeda: NOK <class 'str'>
+
+                    montante: 59.488,90 <class 'str'>
+
+                    saldo: 59.488,90 <class 'str'>
+
+                    nome: KONGSBERG MARITIME AS <class 'str'>
+
+                    cod: teste2 <class 'str'>
+2024-02-19 18:27:24,535; INFO; functions.filter_lancamento.153: ESCREVE Histórico NO FILTRO
+2024-02-19 18:27:25,645; INFO; functions.filter_lancamento.159: CLICK - BOTÃO DE SELECAO DE FILTRO
+2024-02-19 18:27:27,624; INFO; functions.filter_lancamento.181: VALOR DE 020558915 FILTRO
+2024-02-19 18:27:28,301; INFO; functions.filter_lancamento.186: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 18:27:32,426; INFO; functions.desmark_filter.245: CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2024-02-19 18:27:33,363; INFO; functions.desmark_filter.249: CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2024-02-19 18:27:34,318; INFO; functions.desmark_filter.253: CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2024-02-19 18:27:35,327; INFO; functions.desmark_filter.257: CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2024-02-19 18:27:36,389; INFO; functions.desmark_filter.261: ATUALIZA O FILTRO
+2024-02-19 18:27:46,473; INFO; functions.waitForImage.777: FILTER CLEAN image not found.
+2024-02-19 18:27:46,473; INFO; functions.filter_clean.197: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 1
+2024-02-19 18:27:56,536; INFO; functions.waitForImage.777: FILTER CLEAN image not found.
+2024-02-19 18:27:56,536; INFO; functions.filter_clean.197: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 2
+2024-02-19 18:28:06,598; INFO; functions.waitForImage.777: FILTER CLEAN image not found.
+2024-02-19 18:28:06,598; INFO; functions.filter_clean.197: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 3
+2024-02-19 18:28:07,551; INFO; functions.select_tipo_documento.204: NOME DA COLUNA: Tipo de Documento
+2024-02-19 18:28:08,848; INFO; functions.select_tipo_documento.208: HOVER NOME DA COLUNA: Tipo de Documento
+2024-02-19 18:28:09,455; INFO; functions.select_tipo_documento.223: CLICA NO FILTRO PERSONALIZAR
+2024-02-19 18:28:10,426; INFO; functions.select_tipo_documento.227: CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2024-02-19 18:28:17,457; INFO; functions.select_tipo_documento.239: CLICK BUTTON CONFIRMAR FILTRO
+2024-02-19 18:28:17,457; INFO; functions.check_table_record.265: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 18:28:18,551; INFO; functions.check_table_record.269: VERIFICAdo
+2024-02-19 18:28:19,377; INFO; functions.check_table_record.275: CTRL+G
+2024-02-19 18:28:20,004; INFO; functions.check_table_record.279: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-02-19 18:28:22,011; INFO; functions.check_table_record.293: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-02-19 18:28:23,733; INFO; functions.check_table_record.299: CLICK NÃO
+2024-02-19 18:28:25,817; INFO; functions.check_inv.396: MOVIDO PRA CIMA 1 VEZES
+2024-02-19 18:28:26,808; INFO; functions.check_inv.403: PRIMEIRA CELULA CLICADA
+2024-02-19 18:28:30,358; INFO; functions.check_inv.407: 35 PASSOS PARA ESQUERDA
+2024-02-19 18:28:32,174; INFO; functions.check_inv.412: 18 PASSOS PARA DIREITA
+2024-02-19 18:28:34,175; INFO; functions.check_inv.418: BUSCA NA LINHA: 1
+2024-02-19 18:28:34,175; INFO; functions.check_inv.424: ctrl c
+2024-02-19 18:28:34,777; INFO; functions.check_inv.428: Historico completo: INV - 020558915 - KONGSBERG MARITIME AS
+2024-02-19 18:28:35,285; INFO; functions.check_inv.442: INV CORRETA ENCONTRADA: 020558915
+2024-02-19 18:28:35,285; INFO; functions.check_inv.443: COLIGADA ENCONTRADA: KONGSBERG MARITIME AS
+2024-02-19 18:28:35,285; INFO; main.process.67: None
+2024-02-19 18:28:37,388; INFO; functions.baixa_inv.593: CHECK LINHA
+2024-02-19 18:28:38,176; INFO; functions.baixa_inv.597: SELECIONA BOTÃO BAIXA

@@ -1,0 +1,61 @@
+2024-02-20 15:59:37,756; INFO; functions.getPid.888: Dentro função GetPid
+
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.16:     ____   
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.17:    [____]    
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-20 15:59:37,988; INFO; functions.bot_text_art.28:              
+2024-02-20 15:59:37,988; INFO; functions.headerExcel.844: Criando EXCEL
+2024-02-20 15:59:38,004; INFO; functions.headerExcel.863: EXCEL iniciado
+2024-02-20 15:59:40,161; INFO; main.process.18: PROCESSOS EXTRAIDOS COM ERRO: 11
+2024-02-20 15:59:40,161; INFO; main.process.19: PROCESSOS COM ERRO: [{'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}, {'data': '16-01-2024', 'pi': '3802255', 'inv': None, 'moeda': 'LLC', 'montante': '-40000.00', 'saldo': '1497580.32', 'nome': 'Harvey Gulf International Marine, LLC.', 'cod': None}, {'data': '16-01-2024', 'pi': '3802244', 'inv': None, 'moeda': 'USD', 'montante': '-6538.64', 'saldo': '1537580.32', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'data': '16-01-2024', 'pi': '3802236', 'inv': None, 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1544118.96', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}]
+2024-02-20 15:59:40,161; INFO; functions.excelErro.915: Criando EXCEL ERRO
+2024-02-20 15:59:40,161; INFO; functions.excelErro.933: EXCEL ERRO iniciado
+2024-02-20 15:59:40,161; INFO; functions.excelErro.937: PROCESSO 1 A SER TRATADO: {'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}
+2024-02-20 15:59:40,161; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3820789 - 25012024 - None - EUR - 15632.82 - Tschudi Ship Management AS/ - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,161; INFO; functions.excelErro.937: PROCESSO 2 A SER TRATADO: {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}
+2024-02-20 15:59:40,167; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3820409 - 25012024 - None - EUR - 24782.82 - Leonardo Duran - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,167; INFO; functions.excelErro.937: PROCESSO 3 A SER TRATADO: {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}
+2024-02-20 15:59:40,168; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3758105 - 25012024 - None - EUR - 41995.82 - Tax Authority - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,168; INFO; functions.excelErro.937: PROCESSO 4 A SER TRATADO: {'data': '16-01-2024', 'pi': '3802255', 'inv': None, 'moeda': 'LLC', 'montante': '-40000.00', 'saldo': '1497580.32', 'nome': 'Harvey Gulf International Marine, LLC.', 'cod': None}
+2024-02-20 15:59:40,168; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3802255 - 16012024 - None - LLC - 1497580.32 - Harvey Gulf International Marine, LLC. - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,169; INFO; functions.excelErro.937: PROCESSO 5 A SER TRATADO: {'data': '16-01-2024', 'pi': '3802244', 'inv': None, 'moeda': 'USD', 'montante': '-6538.64', 'saldo': '1537580.32', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}
+2024-02-20 15:59:40,169; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3802244 - 16012024 - None - USD - 1537580.32 - Kongsberg Maritime Netherlands BV - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,170; INFO; functions.excelErro.937: PROCESSO 6 A SER TRATADO: {'data': '16-01-2024', 'pi': '3802236', 'inv': None, 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1544118.96', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}
+2024-02-20 15:59:40,170; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3802236 - 16012024 - None - USD - 1544118.96 - KONGSBBERG MARITIME AS - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,171; INFO; functions.excelErro.937: PROCESSO 7 A SER TRATADO: {'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}
+2024-02-20 15:59:40,171; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3774197 - 03012024 - None - USD - 1528851.52 - Wikborg Rein Advokatfirma AS - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,172; INFO; functions.excelErro.937: PROCESSO 8 A SER TRATADO: {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}
+2024-02-20 15:59:40,172; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3774196 - 03012024 - None - USD - 2558851.52 - Wikborg Rein Advokatfirma AS - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,172; INFO; functions.excelErro.937: PROCESSO 9 A SER TRATADO: {'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}
+2024-02-20 15:59:40,173; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3820789 - 25012024 - None - EUR - 15632.82 - Tschudi Ship Management AS/ - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,173; INFO; functions.excelErro.937: PROCESSO 10 A SER TRATADO: {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}
+2024-02-20 15:59:40,174; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3820409 - 25012024 - None - EUR - 24782.82 - Leonardo Duran - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,174; INFO; functions.excelErro.937: PROCESSO 11 A SER TRATADO: {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}
+2024-02-20 15:59:40,175; INFO; functions.excelErro.952: Criando linha do EXCEL ERRO: 3758105 - 25012024 - None - EUR - 41995.82 - Tax Authority - None - PROCESSOS EXTRAÍDOS COM ERROS - NÃO FINALIZADO
+2024-02-20 15:59:40,175; INFO; functions.excelErro.965: Fechando Excel com Erro...
+2024-02-20 15:59:40,176; ERROR; functions.show_exception_and_exit.32: [Errno 2] No such file or directory: 'C:\\Projetos\\Retornos\\Retorno_Pg_Moeda_Estrangeira/EXCEL_ERRO/2024-02-20/PROCESSOS COM ERRO - 15_59_37.xlsx'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 104, in <module>
+    process()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 20, in process
+    excelErro(erro_invoice)
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 966, in excelErro
+    workbook.save(f'{writer_erro}')
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\openpyxl\workbook\workbook.py", line 386, in save
+    save_workbook(self, filename)
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\openpyxl\writer\excel.py", line 291, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\zipfile.py", line 1284, in __init__
+    self.fp = io.open(file, filemode)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Projetos\\Retornos\\Retorno_Pg_Moeda_Estrangeira/EXCEL_ERRO/2024-02-20/PROCESSOS COM ERRO - 15_59_37.xlsx'

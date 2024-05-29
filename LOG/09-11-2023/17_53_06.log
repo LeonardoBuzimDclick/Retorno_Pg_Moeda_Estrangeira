@@ -1,0 +1,21 @@
+09-11-2023 17:53:08.150Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+09-11-2023 17:53:08.895Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+09-11-2023 17:53:21.101Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+09-11-2023 17:53:21.157Z;functions.waitForImage;  FILTER CLEAN image found.
+09-11-2023 17:53:23.288Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+09-11-2023 17:53:26.051Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+09-11-2023 17:53:27.265Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+09-11-2023 17:53:28.562Z;functions.movimentacao_bancaria;  HOVER FILTER
+09-11-2023 17:53:28.665Z;functions.movimentacao_bancaria;  CLICK FILTER
+09-11-2023 17:53:32.981Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+09-11-2023 17:53:35.083Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+09-11-2023 17:53:37.189Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+09-11-2023 17:53:39.290Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+09-11-2023 17:53:56.785Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+09-11-2023 17:53:57.522Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+09-11-2023 17:53:59.625Z;functions.movimentacao_bancaria;  CLICA EM PROCESSOS
+09-11-2023 17:54:01.728Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+09-11-2023 17:54:03.831Z;functions.movimentacao_bancaria;  APERTA ENTER
+09-11-2023 17:54:06.502Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+09-11-2023 17:54:12.869Z;functions.waitForImage;  PRESS BUTTON OK image found.
+09-11-2023 17:54:14.872Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.

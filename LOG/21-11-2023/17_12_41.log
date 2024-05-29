@@ -1,0 +1,49 @@
+21-11-2023 17:12:42.229Z;functions.bot_text_art;      ____   
+21-11-2023 17:12:42.229Z;functions.bot_text_art;     [____]    
+21-11-2023 17:12:42.230Z;functions.bot_text_art;   |=]()()[=|  
+21-11-2023 17:12:42.230Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+21-11-2023 17:12:42.231Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+21-11-2023 17:12:42.231Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+21-11-2023 17:12:42.232Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+21-11-2023 17:12:42.233Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+21-11-2023 17:12:42.235Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+21-11-2023 17:12:42.236Z;functions.bot_text_art;     |_||_|                                                     
+21-11-2023 17:12:42.237Z;functions.bot_text_art;     | ||_|_   
+21-11-2023 17:12:42.237Z;functions.bot_text_art;   |___||___|  
+21-11-2023 17:12:42.238Z;functions.bot_text_art;               
+21-11-2023 17:12:42.238Z;functions.data_filter;  DATA INICIO 15-11-2023
+21-11-2023 17:12:42.239Z;functions.data_filter;  DATA FIM 21-11-2023
+21-11-2023 17:12:42.240Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+21-11-2023 17:12:42.241Z;functions.data_filter;  QUARTA-FEIRA: 15-11-2023
+21-11-2023 17:12:42.241Z;functions.data_filter;  TERCA-FEIRA: 21-11-2023
+21-11-2023 17:13:00.277Z;functions.data_filter;  CLICK - MAXIMIZAR FAIXA DE OPÇÕES
+21-11-2023 17:13:03.732Z;functions.data_filter;  CLICK - CONTAS A PAGAR
+21-11-2023 17:13:03.945Z;functions.waitForImage;  LANÇAMENTOS image found.
+21-11-2023 17:13:06.050Z;functions.data_filter;  CLICA EM LANÇAMENTOS
+21-11-2023 17:13:08.910Z;functions.data_filter;  CLICK - SELECIONA FILTRO
+21-11-2023 17:13:24.808Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 15, in <module>
+    data_filter()
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 189, in data_filter
+    execute.click()
+    ^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+21-11-2023 17:13:27.013Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+21-11-2023 17:13:27.073Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+21-11-2023 17:13:27.092Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+21-11-2023 17:13:27.096Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+21-11-2023 17:13:27.103Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+21-11-2023 17:13:27.106Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+21-11-2023 17:13:27.460Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+21-11-2023 17:13:27.589Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+21-11-2023 17:13:27.594Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+21-11-2023 17:13:27.599Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+21-11-2023 17:13:27.602Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+21-11-2023 17:13:27.609Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+21-11-2023 17:13:27.612Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+21-11-2023 17:13:27.650Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+21-11-2023 17:13:27.662Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+21-11-2023 17:13:27.664Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+21-11-2023 17:13:27.667Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+21-11-2023 17:13:27.673Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

@@ -1,0 +1,2 @@
+22-11-2023 14:07:45.725Z;teste.<module>;  BANCO: pyautogui.press('tab')
+    time.sleep(1)

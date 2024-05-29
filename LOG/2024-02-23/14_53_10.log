@@ -1,0 +1,2074 @@
+2024-02-23 14:53:10,161; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:53:10,481; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:53:10,481; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:53:10,482; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:53:10,482; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:53:10,483; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:53:10,483; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:53:10,484; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:53:10,485; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:53:10,485; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:53:10,485; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:53:10,486; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:53:10,486; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:53:10,486; INFO; functions.bot_text_art.19:              
+2024-02-23 14:53:10,486; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 14:53:10,488; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 14:53:10,490; INFO; teste2.process.433: SERÃO TRATADOS 1 ARQUIVOS.
+2024-02-23 14:53:10,490; INFO; teste2.process.438: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\TESTES\1\Ebury - Completo.pdf
+2024-02-23 14:53:12,654; INFO; functions.excelProcessoCompleto.1103: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 14:53:12,655; INFO; functions.excelProcessoCompleto.1118: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:53:12,666; INFO; teste2.process.448: PROCESSOS EXTRAIDOS COM ERRO: 11
+2024-02-23 14:53:12,666; INFO; teste2.process.449: PROCESSOS COM ERRO: [{'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}, {'data': '16-01-2024', 'pi': '3802255', 'inv': None, 'moeda': 'LLC', 'montante': '-40000.00', 'saldo': '1497580.32', 'nome': 'Harvey Gulf International Marine, LLC.', 'cod': None}, {'data': '16-01-2024', 'pi': '3802244', 'inv': None, 'moeda': 'USD', 'montante': '-6538.64', 'saldo': '1537580.32', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'data': '16-01-2024', 'pi': '3802236', 'inv': None, 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1544118.96', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}]
+2024-02-23 14:53:12,668; INFO; functions.excelErro.1008: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 14:53:12,669; INFO; functions.excelErro.1024: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:53:12,669; INFO; teste2.process.452: PROCESSOS EXTRAIDOS CORRETAMENTE: 185
+2024-02-23 14:53:12,670; INFO; teste2.process.476: inv original 31122023. tamanho 8
+2024-02-23 14:53:12,670; INFO; teste2.process.480: inv TRATADA 03112202301. tamanho 11
+2024-02-23 14:53:12,670; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,671; INFO; teste2.process.476: inv original 31122023. tamanho 8
+2024-02-23 14:53:12,671; INFO; teste2.process.480: inv TRATADA 03112202301. tamanho 11
+2024-02-23 14:53:12,671; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,671; INFO; teste2.process.476: inv original 3541. tamanho 4
+2024-02-23 14:53:12,672; INFO; teste2.process.480: inv TRATADA 00000354101. tamanho 11
+2024-02-23 14:53:12,672; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,672; INFO; teste2.process.476: inv original 1190301. tamanho 7
+2024-02-23 14:53:12,673; INFO; teste2.process.480: inv TRATADA 00119030101. tamanho 11
+2024-02-23 14:53:12,673; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,673; INFO; teste2.process.476: inv original 2400287. tamanho 7
+2024-02-23 14:53:12,673; INFO; teste2.process.480: inv TRATADA 00240028701. tamanho 11
+2024-02-23 14:53:12,674; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,674; INFO; teste2.process.476: inv original 2400287. tamanho 7
+2024-02-23 14:53:12,674; INFO; teste2.process.480: inv TRATADA 00240028701. tamanho 11
+2024-02-23 14:53:12,675; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,675; INFO; teste2.process.476: inv original 3539. tamanho 4
+2024-02-23 14:53:12,675; INFO; teste2.process.480: inv TRATADA 00000353901. tamanho 11
+2024-02-23 14:53:12,676; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,676; INFO; teste2.process.476: inv original 20058. tamanho 5
+2024-02-23 14:53:12,677; INFO; teste2.process.480: inv TRATADA 00002005801. tamanho 11
+2024-02-23 14:53:12,677; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,678; INFO; teste2.process.476: inv original 22306109. tamanho 8
+2024-02-23 14:53:12,678; INFO; teste2.process.480: inv TRATADA 02230610901. tamanho 11
+2024-02-23 14:53:12,679; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,679; INFO; teste2.process.476: inv original 22306109. tamanho 8
+2024-02-23 14:53:12,679; INFO; teste2.process.480: inv TRATADA 02230610901. tamanho 11
+2024-02-23 14:53:12,680; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,681; INFO; teste2.process.476: inv original 2400299. tamanho 7
+2024-02-23 14:53:12,681; INFO; teste2.process.480: inv TRATADA 00240029901. tamanho 11
+2024-02-23 14:53:12,681; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,682; INFO; teste2.process.476: inv original 2210894. tamanho 7
+2024-02-23 14:53:12,682; INFO; teste2.process.480: inv TRATADA 00221089401. tamanho 11
+2024-02-23 14:53:12,683; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,683; INFO; teste2.process.476: inv original 2210894. tamanho 7
+2024-02-23 14:53:12,684; INFO; teste2.process.480: inv TRATADA 00221089401. tamanho 11
+2024-02-23 14:53:12,684; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,685; INFO; teste2.process.476: inv original 22306209. tamanho 8
+2024-02-23 14:53:12,685; INFO; teste2.process.480: inv TRATADA 02230620901. tamanho 11
+2024-02-23 14:53:12,685; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,685; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:12,685; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:12,686; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,686; INFO; teste2.process.476: inv original 10166948. tamanho 8
+2024-02-23 14:53:12,686; INFO; teste2.process.480: inv TRATADA 01016694801. tamanho 11
+2024-02-23 14:53:12,687; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,687; INFO; teste2.process.476: inv original 10166948. tamanho 8
+2024-02-23 14:53:12,687; INFO; teste2.process.480: inv TRATADA 01016694801. tamanho 11
+2024-02-23 14:53:12,687; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,688; INFO; teste2.process.476: inv original 23800125. tamanho 8
+2024-02-23 14:53:12,688; INFO; teste2.process.480: inv TRATADA 02380012501. tamanho 11
+2024-02-23 14:53:12,688; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,689; INFO; teste2.process.476: inv original 23800125. tamanho 8
+2024-02-23 14:53:12,689; INFO; teste2.process.480: inv TRATADA 02380012501. tamanho 11
+2024-02-23 14:53:12,689; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,689; INFO; teste2.process.476: inv original 23800125. tamanho 8
+2024-02-23 14:53:12,690; INFO; teste2.process.480: inv TRATADA 02380012501. tamanho 11
+2024-02-23 14:53:12,690; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,690; INFO; teste2.process.476: inv original 23800125. tamanho 8
+2024-02-23 14:53:12,690; INFO; teste2.process.480: inv TRATADA 02380012501. tamanho 11
+2024-02-23 14:53:12,691; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,691; INFO; teste2.process.476: inv original 433546. tamanho 6
+2024-02-23 14:53:12,691; INFO; teste2.process.480: inv TRATADA 00043354601. tamanho 11
+2024-02-23 14:53:12,692; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,692; INFO; teste2.process.476: inv original 439484. tamanho 6
+2024-02-23 14:53:12,692; INFO; teste2.process.480: inv TRATADA 00043948401. tamanho 11
+2024-02-23 14:53:12,693; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,693; INFO; teste2.process.476: inv original 445085. tamanho 6
+2024-02-23 14:53:12,693; INFO; teste2.process.480: inv TRATADA 00044508501. tamanho 11
+2024-02-23 14:53:12,693; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,694; INFO; teste2.process.476: inv original 430719. tamanho 6
+2024-02-23 14:53:12,694; INFO; teste2.process.480: inv TRATADA 00043071901. tamanho 11
+2024-02-23 14:53:12,694; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,694; INFO; teste2.process.476: inv original 449315. tamanho 6
+2024-02-23 14:53:12,695; INFO; teste2.process.480: inv TRATADA 00044931501. tamanho 11
+2024-02-23 14:53:12,695; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,695; INFO; teste2.process.476: inv original 449314. tamanho 6
+2024-02-23 14:53:12,696; INFO; teste2.process.480: inv TRATADA 00044931401. tamanho 11
+2024-02-23 14:53:12,696; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,696; INFO; teste2.process.476: inv original 449527. tamanho 6
+2024-02-23 14:53:12,697; INFO; teste2.process.480: inv TRATADA 00044952701. tamanho 11
+2024-02-23 14:53:12,697; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,697; INFO; teste2.process.476: inv original 449526. tamanho 6
+2024-02-23 14:53:12,697; INFO; teste2.process.480: inv TRATADA 00044952601. tamanho 11
+2024-02-23 14:53:12,698; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,698; INFO; teste2.process.476: inv original 449528. tamanho 6
+2024-02-23 14:53:12,698; INFO; teste2.process.480: inv TRATADA 00044952801. tamanho 11
+2024-02-23 14:53:12,699; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,699; INFO; teste2.process.476: inv original 449987. tamanho 6
+2024-02-23 14:53:12,699; INFO; teste2.process.480: inv TRATADA 00044998701. tamanho 11
+2024-02-23 14:53:12,699; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,700; INFO; teste2.process.476: inv original 451837. tamanho 6
+2024-02-23 14:53:12,700; INFO; teste2.process.480: inv TRATADA 00045183701. tamanho 11
+2024-02-23 14:53:12,700; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,701; INFO; teste2.process.476: inv original 433547. tamanho 6
+2024-02-23 14:53:12,701; INFO; teste2.process.480: inv TRATADA 00043354701. tamanho 11
+2024-02-23 14:53:12,702; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,702; INFO; teste2.process.476: inv original 459386. tamanho 6
+2024-02-23 14:53:12,702; INFO; teste2.process.480: inv TRATADA 00045938601. tamanho 11
+2024-02-23 14:53:12,703; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,703; INFO; teste2.process.476: inv original 459384. tamanho 6
+2024-02-23 14:53:12,703; INFO; teste2.process.480: inv TRATADA 00045938401. tamanho 11
+2024-02-23 14:53:12,703; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,704; INFO; teste2.process.476: inv original 459385. tamanho 6
+2024-02-23 14:53:12,704; INFO; teste2.process.480: inv TRATADA 00045938501. tamanho 11
+2024-02-23 14:53:12,704; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,705; INFO; teste2.process.476: inv original 459468. tamanho 6
+2024-02-23 14:53:12,705; INFO; teste2.process.480: inv TRATADA 00045946801. tamanho 11
+2024-02-23 14:53:12,705; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,705; INFO; teste2.process.476: inv original 459466. tamanho 6
+2024-02-23 14:53:12,706; INFO; teste2.process.480: inv TRATADA 00045946601. tamanho 11
+2024-02-23 14:53:12,706; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,706; INFO; teste2.process.476: inv original 459467. tamanho 6
+2024-02-23 14:53:12,707; INFO; teste2.process.480: inv TRATADA 00045946701. tamanho 11
+2024-02-23 14:53:12,708; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,709; INFO; teste2.process.476: inv original 459653. tamanho 6
+2024-02-23 14:53:12,710; INFO; teste2.process.480: inv TRATADA 00045965301. tamanho 11
+2024-02-23 14:53:12,710; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,711; INFO; teste2.process.476: inv original 459651. tamanho 6
+2024-02-23 14:53:12,711; INFO; teste2.process.480: inv TRATADA 00045965101. tamanho 11
+2024-02-23 14:53:12,712; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,712; INFO; teste2.process.476: inv original 459652. tamanho 6
+2024-02-23 14:53:12,712; INFO; teste2.process.480: inv TRATADA 00045965201. tamanho 11
+2024-02-23 14:53:12,763; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,765; INFO; teste2.process.476: inv original 469181. tamanho 6
+2024-02-23 14:53:12,780; INFO; teste2.process.480: inv TRATADA 00046918101. tamanho 11
+2024-02-23 14:53:12,782; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,782; INFO; teste2.process.476: inv original 439485. tamanho 6
+2024-02-23 14:53:12,783; INFO; teste2.process.480: inv TRATADA 00043948501. tamanho 11
+2024-02-23 14:53:12,783; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,784; INFO; teste2.process.476: inv original 468314. tamanho 6
+2024-02-23 14:53:12,784; INFO; teste2.process.480: inv TRATADA 00046831401. tamanho 11
+2024-02-23 14:53:12,806; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,807; INFO; teste2.process.476: inv original 470668. tamanho 6
+2024-02-23 14:53:12,808; INFO; teste2.process.480: inv TRATADA 00047066801. tamanho 11
+2024-02-23 14:53:12,808; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,808; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:12,809; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:12,809; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,810; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:12,810; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:12,811; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,811; INFO; teste2.process.476: inv original 2120019900. tamanho 10
+2024-02-23 14:53:12,811; INFO; teste2.process.480: inv TRATADA 212001990001. tamanho 12
+2024-02-23 14:53:12,812; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,812; INFO; teste2.process.476: inv original 466960. tamanho 6
+2024-02-23 14:53:12,814; INFO; teste2.process.480: inv TRATADA 00046696001. tamanho 11
+2024-02-23 14:53:12,816; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,816; INFO; teste2.process.476: inv original 470834. tamanho 6
+2024-02-23 14:53:12,816; INFO; teste2.process.480: inv TRATADA 00047083401. tamanho 11
+2024-02-23 14:53:12,817; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,817; INFO; teste2.process.476: inv original 470835. tamanho 6
+2024-02-23 14:53:12,818; INFO; teste2.process.480: inv TRATADA 00047083501. tamanho 11
+2024-02-23 14:53:12,818; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,818; INFO; teste2.process.476: inv original 474618. tamanho 6
+2024-02-23 14:53:12,819; INFO; teste2.process.480: inv TRATADA 00047461801. tamanho 11
+2024-02-23 14:53:12,819; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,819; INFO; teste2.process.476: inv original 023800126. tamanho 9
+2024-02-23 14:53:12,820; INFO; teste2.process.480: inv TRATADA 02380012601. tamanho 11
+2024-02-23 14:53:12,820; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,820; INFO; teste2.process.476: inv original 13724. tamanho 5
+2024-02-23 14:53:12,821; INFO; teste2.process.480: inv TRATADA 00001372401. tamanho 11
+2024-02-23 14:53:12,821; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,822; INFO; teste2.process.476: inv original 14240038. tamanho 8
+2024-02-23 14:53:12,822; INFO; teste2.process.480: inv TRATADA 01424003801. tamanho 11
+2024-02-23 14:53:12,822; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,823; INFO; teste2.process.476: inv original 2120023151. tamanho 10
+2024-02-23 14:53:12,823; INFO; teste2.process.480: inv TRATADA 212002315101. tamanho 12
+2024-02-23 14:53:12,824; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,824; INFO; teste2.process.476: inv original 6207483. tamanho 7
+2024-02-23 14:53:12,824; INFO; teste2.process.480: inv TRATADA 00620748301. tamanho 11
+2024-02-23 14:53:12,825; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,825; INFO; teste2.process.476: inv original 6207488. tamanho 7
+2024-02-23 14:53:12,825; INFO; teste2.process.480: inv TRATADA 00620748801. tamanho 11
+2024-02-23 14:53:12,826; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,826; INFO; teste2.process.476: inv original 6207480. tamanho 7
+2024-02-23 14:53:12,826; INFO; teste2.process.480: inv TRATADA 00620748001. tamanho 11
+2024-02-23 14:53:12,827; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,827; INFO; teste2.process.476: inv original 6207486. tamanho 7
+2024-02-23 14:53:12,827; INFO; teste2.process.480: inv TRATADA 00620748601. tamanho 11
+2024-02-23 14:53:12,828; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,828; INFO; teste2.process.476: inv original 6207475. tamanho 7
+2024-02-23 14:53:12,829; INFO; teste2.process.480: inv TRATADA 00620747501. tamanho 11
+2024-02-23 14:53:12,829; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,829; INFO; teste2.process.476: inv original 6207560. tamanho 7
+2024-02-23 14:53:12,830; INFO; teste2.process.480: inv TRATADA 00620756001. tamanho 11
+2024-02-23 14:53:12,830; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,830; INFO; teste2.process.476: inv original 6207563. tamanho 7
+2024-02-23 14:53:12,831; INFO; teste2.process.480: inv TRATADA 00620756301. tamanho 11
+2024-02-23 14:53:12,832; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,832; INFO; teste2.process.476: inv original 6207565. tamanho 7
+2024-02-23 14:53:12,834; INFO; teste2.process.480: inv TRATADA 00620756501. tamanho 11
+2024-02-23 14:53:12,835; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,835; INFO; teste2.process.476: inv original 6207573. tamanho 7
+2024-02-23 14:53:12,836; INFO; teste2.process.480: inv TRATADA 00620757301. tamanho 11
+2024-02-23 14:53:12,836; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,837; INFO; teste2.process.476: inv original 6207453. tamanho 7
+2024-02-23 14:53:12,837; INFO; teste2.process.480: inv TRATADA 00620745301. tamanho 11
+2024-02-23 14:53:12,838; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,838; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:12,839; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:12,839; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,839; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:12,840; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:12,840; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,840; INFO; teste2.process.476: inv original 8001759. tamanho 7
+2024-02-23 14:53:12,840; INFO; teste2.process.480: inv TRATADA 00800175901. tamanho 11
+2024-02-23 14:53:12,841; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,841; INFO; teste2.process.476: inv original 361844. tamanho 6
+2024-02-23 14:53:12,842; INFO; teste2.process.480: inv TRATADA 00036184401. tamanho 11
+2024-02-23 14:53:12,842; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,842; INFO; teste2.process.476: inv original 361845. tamanho 6
+2024-02-23 14:53:12,843; INFO; teste2.process.480: inv TRATADA 00036184501. tamanho 11
+2024-02-23 14:53:12,843; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,843; INFO; teste2.process.476: inv original 6207211. tamanho 7
+2024-02-23 14:53:12,843; INFO; teste2.process.480: inv TRATADA 00620721101. tamanho 11
+2024-02-23 14:53:12,844; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,844; INFO; teste2.process.476: inv original 1027781. tamanho 7
+2024-02-23 14:53:12,844; INFO; teste2.process.480: inv TRATADA 00102778101. tamanho 11
+2024-02-23 14:53:12,844; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,845; INFO; teste2.process.476: inv original 6207389. tamanho 7
+2024-02-23 14:53:12,845; INFO; teste2.process.480: inv TRATADA 00620738901. tamanho 11
+2024-02-23 14:53:12,845; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,845; INFO; teste2.process.476: inv original 10787. tamanho 5
+2024-02-23 14:53:12,846; INFO; teste2.process.480: inv TRATADA 00001078701. tamanho 11
+2024-02-23 14:53:12,846; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,846; INFO; teste2.process.476: inv original 10785. tamanho 5
+2024-02-23 14:53:12,847; INFO; teste2.process.480: inv TRATADA 00001078501. tamanho 11
+2024-02-23 14:53:12,847; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,847; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:12,848; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:12,848; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,848; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:12,848; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:12,849; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,849; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:12,849; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:12,849; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,850; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:12,850; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:12,850; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,851; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:12,851; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:12,852; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,852; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:12,853; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:12,853; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,853; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:12,854; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:12,854; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,854; INFO; teste2.process.476: inv original 1189863. tamanho 7
+2024-02-23 14:53:12,855; INFO; teste2.process.480: inv TRATADA 00118986301. tamanho 11
+2024-02-23 14:53:12,856; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,856; INFO; teste2.process.476: inv original 6207287. tamanho 7
+2024-02-23 14:53:12,857; INFO; teste2.process.480: inv TRATADA 00620728701. tamanho 11
+2024-02-23 14:53:12,857; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,857; INFO; teste2.process.476: inv original 6207285. tamanho 7
+2024-02-23 14:53:12,857; INFO; teste2.process.480: inv TRATADA 00620728501. tamanho 11
+2024-02-23 14:53:12,858; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,858; INFO; teste2.process.476: inv original 6207397. tamanho 7
+2024-02-23 14:53:12,858; INFO; teste2.process.480: inv TRATADA 00620739701. tamanho 11
+2024-02-23 14:53:12,859; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,859; INFO; teste2.process.476: inv original 6207395. tamanho 7
+2024-02-23 14:53:12,859; INFO; teste2.process.480: inv TRATADA 00620739501. tamanho 11
+2024-02-23 14:53:12,859; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,860; INFO; teste2.process.476: inv original 6207393. tamanho 7
+2024-02-23 14:53:12,860; INFO; teste2.process.480: inv TRATADA 00620739301. tamanho 11
+2024-02-23 14:53:12,860; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,860; INFO; teste2.process.476: inv original 6207390. tamanho 7
+2024-02-23 14:53:12,861; INFO; teste2.process.480: inv TRATADA 00620739001. tamanho 11
+2024-02-23 14:53:12,861; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,861; INFO; teste2.process.476: inv original 6207283. tamanho 7
+2024-02-23 14:53:12,862; INFO; teste2.process.480: inv TRATADA 00620728301. tamanho 11
+2024-02-23 14:53:12,862; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,862; INFO; teste2.process.476: inv original 410010680855. tamanho 12
+2024-02-23 14:53:12,862; INFO; teste2.process.480: inv TRATADA 41001068085501. tamanho 14
+2024-02-23 14:53:12,863; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,863; INFO; teste2.process.476: inv original 6300085845. tamanho 10
+2024-02-23 14:53:12,863; INFO; teste2.process.480: inv TRATADA 630008584501. tamanho 12
+2024-02-23 14:53:12,864; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,864; INFO; teste2.process.476: inv original 6300088124. tamanho 10
+2024-02-23 14:53:12,864; INFO; teste2.process.480: inv TRATADA 630008812401. tamanho 12
+2024-02-23 14:53:12,865; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,866; INFO; teste2.process.476: inv original 3541. tamanho 4
+2024-02-23 14:53:12,866; INFO; teste2.process.480: inv TRATADA 00000354101. tamanho 11
+2024-02-23 14:53:12,867; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,867; INFO; teste2.process.476: inv original 3539. tamanho 4
+2024-02-23 14:53:12,868; INFO; teste2.process.480: inv TRATADA 00000353901. tamanho 11
+2024-02-23 14:53:12,868; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,868; INFO; teste2.process.476: inv original 23800125. tamanho 8
+2024-02-23 14:53:12,869; INFO; teste2.process.480: inv TRATADA 02380012501. tamanho 11
+2024-02-23 14:53:12,869; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,870; INFO; teste2.process.476: inv original 023800126. tamanho 9
+2024-02-23 14:53:12,871; INFO; teste2.process.480: inv TRATADA 02380012601. tamanho 11
+2024-02-23 14:53:12,871; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,871; INFO; teste2.process.476: inv original 6207483. tamanho 7
+2024-02-23 14:53:12,871; INFO; teste2.process.480: inv TRATADA 00620748301. tamanho 11
+2024-02-23 14:53:12,871; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,871; INFO; teste2.process.476: inv original 6207488. tamanho 7
+2024-02-23 14:53:12,871; INFO; teste2.process.480: inv TRATADA 00620748801. tamanho 11
+2024-02-23 14:53:12,871; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,871; INFO; teste2.process.476: inv original 6207480. tamanho 7
+2024-02-23 14:53:12,875; INFO; teste2.process.480: inv TRATADA 00620748001. tamanho 11
+2024-02-23 14:53:12,875; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,875; INFO; teste2.process.476: inv original 6207486. tamanho 7
+2024-02-23 14:53:12,875; INFO; teste2.process.480: inv TRATADA 00620748601. tamanho 11
+2024-02-23 14:53:12,876; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,876; INFO; teste2.process.476: inv original 6207475. tamanho 7
+2024-02-23 14:53:12,876; INFO; teste2.process.480: inv TRATADA 00620747501. tamanho 11
+2024-02-23 14:53:12,876; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,877; INFO; teste2.process.476: inv original 6207560. tamanho 7
+2024-02-23 14:53:12,877; INFO; teste2.process.480: inv TRATADA 00620756001. tamanho 11
+2024-02-23 14:53:12,877; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,878; INFO; teste2.process.476: inv original 6207563. tamanho 7
+2024-02-23 14:53:12,878; INFO; teste2.process.480: inv TRATADA 00620756301. tamanho 11
+2024-02-23 14:53:12,878; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,878; INFO; teste2.process.476: inv original 6207565. tamanho 7
+2024-02-23 14:53:12,879; INFO; teste2.process.480: inv TRATADA 00620756501. tamanho 11
+2024-02-23 14:53:12,879; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,879; INFO; teste2.process.476: inv original 6207573. tamanho 7
+2024-02-23 14:53:12,879; INFO; teste2.process.480: inv TRATADA 00620757301. tamanho 11
+2024-02-23 14:53:12,880; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,880; INFO; teste2.process.476: inv original 6207453. tamanho 7
+2024-02-23 14:53:12,880; INFO; teste2.process.480: inv TRATADA 00620745301. tamanho 11
+2024-02-23 14:53:12,881; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,881; INFO; teste2.process.476: inv original 361844. tamanho 6
+2024-02-23 14:53:12,881; INFO; teste2.process.480: inv TRATADA 00036184401. tamanho 11
+2024-02-23 14:53:12,881; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,882; INFO; teste2.process.476: inv original 361845. tamanho 6
+2024-02-23 14:53:12,882; INFO; teste2.process.480: inv TRATADA 00036184501. tamanho 11
+2024-02-23 14:53:12,882; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,883; INFO; teste2.process.476: inv original 6207211. tamanho 7
+2024-02-23 14:53:12,883; INFO; teste2.process.480: inv TRATADA 00620721101. tamanho 11
+2024-02-23 14:53:12,883; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,884; INFO; teste2.process.476: inv original 1027781. tamanho 7
+2024-02-23 14:53:12,884; INFO; teste2.process.480: inv TRATADA 00102778101. tamanho 11
+2024-02-23 14:53:12,884; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,884; INFO; teste2.process.476: inv original 6207389. tamanho 7
+2024-02-23 14:53:12,885; INFO; teste2.process.480: inv TRATADA 00620738901. tamanho 11
+2024-02-23 14:53:12,885; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,885; INFO; teste2.process.476: inv original 10787. tamanho 5
+2024-02-23 14:53:12,885; INFO; teste2.process.480: inv TRATADA 00001078701. tamanho 11
+2024-02-23 14:53:12,886; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,886; INFO; teste2.process.476: inv original 10785. tamanho 5
+2024-02-23 14:53:12,886; INFO; teste2.process.480: inv TRATADA 00001078501. tamanho 11
+2024-02-23 14:53:12,887; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,887; INFO; teste2.process.476: inv original 6207287. tamanho 7
+2024-02-23 14:53:12,887; INFO; teste2.process.480: inv TRATADA 00620728701. tamanho 11
+2024-02-23 14:53:12,888; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,888; INFO; teste2.process.476: inv original 6207285. tamanho 7
+2024-02-23 14:53:12,888; INFO; teste2.process.480: inv TRATADA 00620728501. tamanho 11
+2024-02-23 14:53:12,888; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,889; INFO; teste2.process.476: inv original 6207397. tamanho 7
+2024-02-23 14:53:12,889; INFO; teste2.process.480: inv TRATADA 00620739701. tamanho 11
+2024-02-23 14:53:12,889; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,889; INFO; teste2.process.476: inv original 6207395. tamanho 7
+2024-02-23 14:53:12,890; INFO; teste2.process.480: inv TRATADA 00620739501. tamanho 11
+2024-02-23 14:53:12,890; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,890; INFO; teste2.process.476: inv original 6207393. tamanho 7
+2024-02-23 14:53:12,890; INFO; teste2.process.480: inv TRATADA 00620739301. tamanho 11
+2024-02-23 14:53:12,891; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,891; INFO; teste2.process.476: inv original 6207390. tamanho 7
+2024-02-23 14:53:12,891; INFO; teste2.process.480: inv TRATADA 00620739001. tamanho 11
+2024-02-23 14:53:12,892; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,892; INFO; teste2.process.476: inv original 6207283. tamanho 7
+2024-02-23 14:53:12,892; INFO; teste2.process.480: inv TRATADA 00620728301. tamanho 11
+2024-02-23 14:53:12,893; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,893; INFO; teste2.process.476: inv original 22306109. tamanho 8
+2024-02-23 14:53:12,893; INFO; teste2.process.480: inv TRATADA 02230610901. tamanho 11
+2024-02-23 14:53:12,893; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,894; INFO; teste2.process.476: inv original 22306109. tamanho 8
+2024-02-23 14:53:12,894; INFO; teste2.process.480: inv TRATADA 02230610901. tamanho 11
+2024-02-23 14:53:12,894; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,894; INFO; teste2.process.476: inv original 2210894. tamanho 7
+2024-02-23 14:53:12,895; INFO; teste2.process.480: inv TRATADA 00221089401. tamanho 11
+2024-02-23 14:53:12,895; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,896; INFO; teste2.process.476: inv original 2210894. tamanho 7
+2024-02-23 14:53:12,896; INFO; teste2.process.480: inv TRATADA 00221089401. tamanho 11
+2024-02-23 14:53:12,897; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,897; INFO; teste2.process.476: inv original 22306209. tamanho 8
+2024-02-23 14:53:12,898; INFO; teste2.process.480: inv TRATADA 02230620901. tamanho 11
+2024-02-23 14:53:12,898; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,899; INFO; teste2.process.476: inv original 10166948. tamanho 8
+2024-02-23 14:53:12,899; INFO; teste2.process.480: inv TRATADA 01016694801. tamanho 11
+2024-02-23 14:53:12,900; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,900; INFO; teste2.process.476: inv original 10166948. tamanho 8
+2024-02-23 14:53:12,900; INFO; teste2.process.480: inv TRATADA 01016694801. tamanho 11
+2024-02-23 14:53:12,901; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,901; INFO; teste2.process.476: inv original 13724. tamanho 5
+2024-02-23 14:53:12,903; INFO; teste2.process.480: inv TRATADA 00001372401. tamanho 11
+2024-02-23 14:53:12,903; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,903; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:12,904; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:12,904; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,904; INFO; teste2.process.476: inv original 8001759. tamanho 7
+2024-02-23 14:53:12,905; INFO; teste2.process.480: inv TRATADA 00800175901. tamanho 11
+2024-02-23 14:53:12,905; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,905; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:12,906; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:12,906; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,906; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:12,906; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:12,907; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,907; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:12,907; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:12,908; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,908; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:12,908; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:12,908; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,909; INFO; teste2.process.476: inv original 6300085845. tamanho 10
+2024-02-23 14:53:12,909; INFO; teste2.process.480: inv TRATADA 630008584501. tamanho 12
+2024-02-23 14:53:12,909; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,909; INFO; teste2.process.476: inv original 6300088124. tamanho 10
+2024-02-23 14:53:12,910; INFO; teste2.process.480: inv TRATADA 630008812401. tamanho 12
+2024-02-23 14:53:12,910; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,910; INFO; teste2.process.476: inv original 1190301. tamanho 7
+2024-02-23 14:53:12,910; INFO; teste2.process.480: inv TRATADA 00119030101. tamanho 11
+2024-02-23 14:53:12,911; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,911; INFO; teste2.process.476: inv original 20058. tamanho 5
+2024-02-23 14:53:12,911; INFO; teste2.process.480: inv TRATADA 00002005801. tamanho 11
+2024-02-23 14:53:12,912; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,912; INFO; teste2.process.476: inv original 433546. tamanho 6
+2024-02-23 14:53:12,912; INFO; teste2.process.480: inv TRATADA 00043354601. tamanho 11
+2024-02-23 14:53:12,912; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,913; INFO; teste2.process.476: inv original 439484. tamanho 6
+2024-02-23 14:53:12,913; INFO; teste2.process.480: inv TRATADA 00043948401. tamanho 11
+2024-02-23 14:53:12,913; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,914; INFO; teste2.process.476: inv original 445085. tamanho 6
+2024-02-23 14:53:12,914; INFO; teste2.process.480: inv TRATADA 00044508501. tamanho 11
+2024-02-23 14:53:12,914; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,914; INFO; teste2.process.476: inv original 430719. tamanho 6
+2024-02-23 14:53:12,915; INFO; teste2.process.480: inv TRATADA 00043071901. tamanho 11
+2024-02-23 14:53:12,915; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,915; INFO; teste2.process.476: inv original 449315. tamanho 6
+2024-02-23 14:53:12,915; INFO; teste2.process.480: inv TRATADA 00044931501. tamanho 11
+2024-02-23 14:53:12,916; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,916; INFO; teste2.process.476: inv original 449314. tamanho 6
+2024-02-23 14:53:12,916; INFO; teste2.process.480: inv TRATADA 00044931401. tamanho 11
+2024-02-23 14:53:12,917; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,917; INFO; teste2.process.476: inv original 449527. tamanho 6
+2024-02-23 14:53:12,917; INFO; teste2.process.480: inv TRATADA 00044952701. tamanho 11
+2024-02-23 14:53:12,918; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,918; INFO; teste2.process.476: inv original 449526. tamanho 6
+2024-02-23 14:53:12,918; INFO; teste2.process.480: inv TRATADA 00044952601. tamanho 11
+2024-02-23 14:53:12,919; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,919; INFO; teste2.process.476: inv original 449528. tamanho 6
+2024-02-23 14:53:12,919; INFO; teste2.process.480: inv TRATADA 00044952801. tamanho 11
+2024-02-23 14:53:12,920; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,920; INFO; teste2.process.476: inv original 449987. tamanho 6
+2024-02-23 14:53:12,920; INFO; teste2.process.480: inv TRATADA 00044998701. tamanho 11
+2024-02-23 14:53:12,921; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,921; INFO; teste2.process.476: inv original 451837. tamanho 6
+2024-02-23 14:53:12,921; INFO; teste2.process.480: inv TRATADA 00045183701. tamanho 11
+2024-02-23 14:53:12,921; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,922; INFO; teste2.process.476: inv original 433547. tamanho 6
+2024-02-23 14:53:12,922; INFO; teste2.process.480: inv TRATADA 00043354701. tamanho 11
+2024-02-23 14:53:12,922; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,923; INFO; teste2.process.476: inv original 459386. tamanho 6
+2024-02-23 14:53:12,923; INFO; teste2.process.480: inv TRATADA 00045938601. tamanho 11
+2024-02-23 14:53:12,923; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,923; INFO; teste2.process.476: inv original 459384. tamanho 6
+2024-02-23 14:53:12,924; INFO; teste2.process.480: inv TRATADA 00045938401. tamanho 11
+2024-02-23 14:53:12,924; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,924; INFO; teste2.process.476: inv original 459385. tamanho 6
+2024-02-23 14:53:12,925; INFO; teste2.process.480: inv TRATADA 00045938501. tamanho 11
+2024-02-23 14:53:12,925; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,925; INFO; teste2.process.476: inv original 459468. tamanho 6
+2024-02-23 14:53:12,925; INFO; teste2.process.480: inv TRATADA 00045946801. tamanho 11
+2024-02-23 14:53:12,926; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,926; INFO; teste2.process.476: inv original 459466. tamanho 6
+2024-02-23 14:53:12,926; INFO; teste2.process.480: inv TRATADA 00045946601. tamanho 11
+2024-02-23 14:53:12,926; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,927; INFO; teste2.process.476: inv original 459467. tamanho 6
+2024-02-23 14:53:12,928; INFO; teste2.process.480: inv TRATADA 00045946701. tamanho 11
+2024-02-23 14:53:12,928; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,929; INFO; teste2.process.476: inv original 459653. tamanho 6
+2024-02-23 14:53:12,929; INFO; teste2.process.480: inv TRATADA 00045965301. tamanho 11
+2024-02-23 14:53:12,930; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,930; INFO; teste2.process.476: inv original 459651. tamanho 6
+2024-02-23 14:53:12,930; INFO; teste2.process.480: inv TRATADA 00045965101. tamanho 11
+2024-02-23 14:53:12,931; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,931; INFO; teste2.process.476: inv original 459652. tamanho 6
+2024-02-23 14:53:12,931; INFO; teste2.process.480: inv TRATADA 00045965201. tamanho 11
+2024-02-23 14:53:12,932; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,932; INFO; teste2.process.476: inv original 469181. tamanho 6
+2024-02-23 14:53:12,933; INFO; teste2.process.480: inv TRATADA 00046918101. tamanho 11
+2024-02-23 14:53:12,933; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,934; INFO; teste2.process.476: inv original 439485. tamanho 6
+2024-02-23 14:53:12,934; INFO; teste2.process.480: inv TRATADA 00043948501. tamanho 11
+2024-02-23 14:53:12,934; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,935; INFO; teste2.process.476: inv original 468314. tamanho 6
+2024-02-23 14:53:12,935; INFO; teste2.process.480: inv TRATADA 00046831401. tamanho 11
+2024-02-23 14:53:12,935; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,935; INFO; teste2.process.476: inv original 470668. tamanho 6
+2024-02-23 14:53:12,936; INFO; teste2.process.480: inv TRATADA 00047066801. tamanho 11
+2024-02-23 14:53:12,936; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,936; INFO; teste2.process.476: inv original 466960. tamanho 6
+2024-02-23 14:53:12,936; INFO; teste2.process.480: inv TRATADA 00046696001. tamanho 11
+2024-02-23 14:53:12,937; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,937; INFO; teste2.process.476: inv original 470834. tamanho 6
+2024-02-23 14:53:12,937; INFO; teste2.process.480: inv TRATADA 00047083401. tamanho 11
+2024-02-23 14:53:12,938; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,938; INFO; teste2.process.476: inv original 470835. tamanho 6
+2024-02-23 14:53:12,938; INFO; teste2.process.480: inv TRATADA 00047083501. tamanho 11
+2024-02-23 14:53:12,939; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,939; INFO; teste2.process.476: inv original 474618. tamanho 6
+2024-02-23 14:53:12,939; INFO; teste2.process.480: inv TRATADA 00047461801. tamanho 11
+2024-02-23 14:53:12,939; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,939; INFO; teste2.process.476: inv original 1189863. tamanho 7
+2024-02-23 14:53:12,940; INFO; teste2.process.480: inv TRATADA 00118986301. tamanho 11
+2024-02-23 14:53:12,940; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,940; INFO; teste2.process.476: inv original 31122023. tamanho 8
+2024-02-23 14:53:12,941; INFO; teste2.process.480: inv TRATADA 03112202301. tamanho 11
+2024-02-23 14:53:12,941; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,941; INFO; teste2.process.476: inv original 31122023. tamanho 8
+2024-02-23 14:53:12,941; INFO; teste2.process.480: inv TRATADA 03112202301. tamanho 11
+2024-02-23 14:53:12,942; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,942; INFO; teste2.process.476: inv original 2400287. tamanho 7
+2024-02-23 14:53:12,942; INFO; teste2.process.480: inv TRATADA 00240028701. tamanho 11
+2024-02-23 14:53:12,943; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,943; INFO; teste2.process.476: inv original 2400287. tamanho 7
+2024-02-23 14:53:12,943; INFO; teste2.process.480: inv TRATADA 00240028701. tamanho 11
+2024-02-23 14:53:12,944; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,944; INFO; teste2.process.476: inv original 2400299. tamanho 7
+2024-02-23 14:53:12,944; INFO; teste2.process.480: inv TRATADA 00240029901. tamanho 11
+2024-02-23 14:53:12,944; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,945; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:12,945; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:12,945; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,945; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:12,946; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:12,946; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,946; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:12,946; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:12,947; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,947; INFO; teste2.process.476: inv original 2120019900. tamanho 10
+2024-02-23 14:53:12,947; INFO; teste2.process.480: inv TRATADA 212001990001. tamanho 12
+2024-02-23 14:53:12,948; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,948; INFO; teste2.process.476: inv original 14240038. tamanho 8
+2024-02-23 14:53:12,948; INFO; teste2.process.480: inv TRATADA 01424003801. tamanho 11
+2024-02-23 14:53:12,948; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,949; INFO; teste2.process.476: inv original 2120023151. tamanho 10
+2024-02-23 14:53:12,949; INFO; teste2.process.480: inv TRATADA 212002315101. tamanho 12
+2024-02-23 14:53:12,949; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,950; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:12,950; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:12,950; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,951; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:12,951; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:12,951; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:12,951; INFO; teste2.process.476: inv original 410010680855. tamanho 12
+2024-02-23 14:53:12,952; INFO; teste2.process.480: inv TRATADA 41001068085501. tamanho 14
+2024-02-23 14:53:12,953; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:53:13,014; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:53:13,285; INFO; functions.encerra_prog.325: RM ENCERRADO
+2024-02-23 14:53:13,285; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:53:13,582; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:53:13,598; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:53:13,598; INFO; functions.bot_text_art.19:              
+2024-02-23 14:53:13,598; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 14:53:13,598; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 14:53:13,601; INFO; teste2.process.433: SERÃO TRATADOS 1 ARQUIVOS.
+2024-02-23 14:53:13,602; INFO; teste2.process.438: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\TESTES\2\Parcial até 11-01.pdf
+2024-02-23 14:53:15,173; INFO; functions.excelProcessoCompleto.1103: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 14:53:15,174; INFO; functions.excelProcessoCompleto.1118: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:53:15,182; INFO; teste2.process.448: PROCESSOS EXTRAIDOS COM ERRO: 3
+2024-02-23 14:53:15,183; INFO; teste2.process.449: PROCESSOS COM ERRO: [{'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774210', 'inv': None, 'moeda': 'USD', 'montante': '-600.00', 'saldo': '1437739.50', 'nome': 'Mackay Communication Inc', 'cod': None}]
+2024-02-23 14:53:15,183; INFO; functions.excelErro.1008: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 14:53:15,184; INFO; functions.excelErro.1024: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:53:15,185; INFO; teste2.process.452: PROCESSOS EXTRAIDOS CORRETAMENTE: 145
+2024-02-23 14:53:15,185; INFO; teste2.process.476: inv original 433546. tamanho 6
+2024-02-23 14:53:15,186; INFO; teste2.process.480: inv TRATADA 00043354601. tamanho 11
+2024-02-23 14:53:15,186; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,186; INFO; teste2.process.476: inv original 439484. tamanho 6
+2024-02-23 14:53:15,187; INFO; teste2.process.480: inv TRATADA 00043948401. tamanho 11
+2024-02-23 14:53:15,188; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,189; INFO; teste2.process.476: inv original 445085. tamanho 6
+2024-02-23 14:53:15,189; INFO; teste2.process.480: inv TRATADA 00044508501. tamanho 11
+2024-02-23 14:53:15,189; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,190; INFO; teste2.process.476: inv original 430719. tamanho 6
+2024-02-23 14:53:15,190; INFO; teste2.process.480: inv TRATADA 00043071901. tamanho 11
+2024-02-23 14:53:15,190; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,191; INFO; teste2.process.476: inv original 449315. tamanho 6
+2024-02-23 14:53:15,191; INFO; teste2.process.480: inv TRATADA 00044931501. tamanho 11
+2024-02-23 14:53:15,191; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,191; INFO; teste2.process.476: inv original 449314. tamanho 6
+2024-02-23 14:53:15,192; INFO; teste2.process.480: inv TRATADA 00044931401. tamanho 11
+2024-02-23 14:53:15,192; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,192; INFO; teste2.process.476: inv original 449527. tamanho 6
+2024-02-23 14:53:15,193; INFO; teste2.process.480: inv TRATADA 00044952701. tamanho 11
+2024-02-23 14:53:15,193; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,193; INFO; teste2.process.476: inv original 449526. tamanho 6
+2024-02-23 14:53:15,194; INFO; teste2.process.480: inv TRATADA 00044952601. tamanho 11
+2024-02-23 14:53:15,194; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,194; INFO; teste2.process.476: inv original 449528. tamanho 6
+2024-02-23 14:53:15,195; INFO; teste2.process.480: inv TRATADA 00044952801. tamanho 11
+2024-02-23 14:53:15,195; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,195; INFO; teste2.process.476: inv original 449987. tamanho 6
+2024-02-23 14:53:15,195; INFO; teste2.process.480: inv TRATADA 00044998701. tamanho 11
+2024-02-23 14:53:15,196; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,196; INFO; teste2.process.476: inv original 451837. tamanho 6
+2024-02-23 14:53:15,196; INFO; teste2.process.480: inv TRATADA 00045183701. tamanho 11
+2024-02-23 14:53:15,197; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,197; INFO; teste2.process.476: inv original 433547. tamanho 6
+2024-02-23 14:53:15,197; INFO; teste2.process.480: inv TRATADA 00043354701. tamanho 11
+2024-02-23 14:53:15,197; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,198; INFO; teste2.process.476: inv original 459386. tamanho 6
+2024-02-23 14:53:15,198; INFO; teste2.process.480: inv TRATADA 00045938601. tamanho 11
+2024-02-23 14:53:15,198; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,199; INFO; teste2.process.476: inv original 459384. tamanho 6
+2024-02-23 14:53:15,199; INFO; teste2.process.480: inv TRATADA 00045938401. tamanho 11
+2024-02-23 14:53:15,199; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,200; INFO; teste2.process.476: inv original 459385. tamanho 6
+2024-02-23 14:53:15,200; INFO; teste2.process.480: inv TRATADA 00045938501. tamanho 11
+2024-02-23 14:53:15,200; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,200; INFO; teste2.process.476: inv original 459468. tamanho 6
+2024-02-23 14:53:15,201; INFO; teste2.process.480: inv TRATADA 00045946801. tamanho 11
+2024-02-23 14:53:15,201; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,201; INFO; teste2.process.476: inv original 459466. tamanho 6
+2024-02-23 14:53:15,201; INFO; teste2.process.480: inv TRATADA 00045946601. tamanho 11
+2024-02-23 14:53:15,202; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,202; INFO; teste2.process.476: inv original 459467. tamanho 6
+2024-02-23 14:53:15,202; INFO; teste2.process.480: inv TRATADA 00045946701. tamanho 11
+2024-02-23 14:53:15,203; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,203; INFO; teste2.process.476: inv original 459653. tamanho 6
+2024-02-23 14:53:15,203; INFO; teste2.process.480: inv TRATADA 00045965301. tamanho 11
+2024-02-23 14:53:15,204; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,204; INFO; teste2.process.476: inv original 459651. tamanho 6
+2024-02-23 14:53:15,204; INFO; teste2.process.480: inv TRATADA 00045965101. tamanho 11
+2024-02-23 14:53:15,205; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,205; INFO; teste2.process.476: inv original 459652. tamanho 6
+2024-02-23 14:53:15,205; INFO; teste2.process.480: inv TRATADA 00045965201. tamanho 11
+2024-02-23 14:53:15,205; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,206; INFO; teste2.process.476: inv original 469181. tamanho 6
+2024-02-23 14:53:15,206; INFO; teste2.process.480: inv TRATADA 00046918101. tamanho 11
+2024-02-23 14:53:15,206; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,206; INFO; teste2.process.476: inv original 439485. tamanho 6
+2024-02-23 14:53:15,207; INFO; teste2.process.480: inv TRATADA 00043948501. tamanho 11
+2024-02-23 14:53:15,207; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,207; INFO; teste2.process.476: inv original 468314. tamanho 6
+2024-02-23 14:53:15,208; INFO; teste2.process.480: inv TRATADA 00046831401. tamanho 11
+2024-02-23 14:53:15,209; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,209; INFO; teste2.process.476: inv original 470668. tamanho 6
+2024-02-23 14:53:15,210; INFO; teste2.process.480: inv TRATADA 00047066801. tamanho 11
+2024-02-23 14:53:15,210; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,211; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:15,211; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:15,211; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,212; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:15,212; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:15,213; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,213; INFO; teste2.process.476: inv original 2120019900. tamanho 10
+2024-02-23 14:53:15,214; INFO; teste2.process.480: inv TRATADA 212001990001. tamanho 12
+2024-02-23 14:53:15,215; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,215; INFO; teste2.process.476: inv original 466960. tamanho 6
+2024-02-23 14:53:15,216; INFO; teste2.process.480: inv TRATADA 00046696001. tamanho 11
+2024-02-23 14:53:15,216; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,216; INFO; teste2.process.476: inv original 470834. tamanho 6
+2024-02-23 14:53:15,216; INFO; teste2.process.480: inv TRATADA 00047083401. tamanho 11
+2024-02-23 14:53:15,217; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,217; INFO; teste2.process.476: inv original 470835. tamanho 6
+2024-02-23 14:53:15,217; INFO; teste2.process.480: inv TRATADA 00047083501. tamanho 11
+2024-02-23 14:53:15,218; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,218; INFO; teste2.process.476: inv original 474618. tamanho 6
+2024-02-23 14:53:15,218; INFO; teste2.process.480: inv TRATADA 00047461801. tamanho 11
+2024-02-23 14:53:15,219; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,219; INFO; teste2.process.476: inv original 023800126. tamanho 9
+2024-02-23 14:53:15,219; INFO; teste2.process.480: inv TRATADA 02380012601. tamanho 11
+2024-02-23 14:53:15,220; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,220; INFO; teste2.process.476: inv original 13724. tamanho 5
+2024-02-23 14:53:15,220; INFO; teste2.process.480: inv TRATADA 00001372401. tamanho 11
+2024-02-23 14:53:15,220; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,221; INFO; teste2.process.476: inv original 14240038. tamanho 8
+2024-02-23 14:53:15,221; INFO; teste2.process.480: inv TRATADA 01424003801. tamanho 11
+2024-02-23 14:53:15,221; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,221; INFO; teste2.process.476: inv original 2120023151. tamanho 10
+2024-02-23 14:53:15,222; INFO; teste2.process.480: inv TRATADA 212002315101. tamanho 12
+2024-02-23 14:53:15,222; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,222; INFO; teste2.process.476: inv original 6207483. tamanho 7
+2024-02-23 14:53:15,223; INFO; teste2.process.480: inv TRATADA 00620748301. tamanho 11
+2024-02-23 14:53:15,223; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,223; INFO; teste2.process.476: inv original 6207488. tamanho 7
+2024-02-23 14:53:15,223; INFO; teste2.process.480: inv TRATADA 00620748801. tamanho 11
+2024-02-23 14:53:15,224; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,224; INFO; teste2.process.476: inv original 6207480. tamanho 7
+2024-02-23 14:53:15,224; INFO; teste2.process.480: inv TRATADA 00620748001. tamanho 11
+2024-02-23 14:53:15,225; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,225; INFO; teste2.process.476: inv original 6207486. tamanho 7
+2024-02-23 14:53:15,225; INFO; teste2.process.480: inv TRATADA 00620748601. tamanho 11
+2024-02-23 14:53:15,225; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,226; INFO; teste2.process.476: inv original 6207475. tamanho 7
+2024-02-23 14:53:15,226; INFO; teste2.process.480: inv TRATADA 00620747501. tamanho 11
+2024-02-23 14:53:15,226; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,226; INFO; teste2.process.476: inv original 6207560. tamanho 7
+2024-02-23 14:53:15,227; INFO; teste2.process.480: inv TRATADA 00620756001. tamanho 11
+2024-02-23 14:53:15,227; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,227; INFO; teste2.process.476: inv original 6207563. tamanho 7
+2024-02-23 14:53:15,227; INFO; teste2.process.480: inv TRATADA 00620756301. tamanho 11
+2024-02-23 14:53:15,228; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,228; INFO; teste2.process.476: inv original 6207565. tamanho 7
+2024-02-23 14:53:15,228; INFO; teste2.process.480: inv TRATADA 00620756501. tamanho 11
+2024-02-23 14:53:15,229; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,229; INFO; teste2.process.476: inv original 6207573. tamanho 7
+2024-02-23 14:53:15,229; INFO; teste2.process.480: inv TRATADA 00620757301. tamanho 11
+2024-02-23 14:53:15,230; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,230; INFO; teste2.process.476: inv original 6207453. tamanho 7
+2024-02-23 14:53:15,230; INFO; teste2.process.480: inv TRATADA 00620745301. tamanho 11
+2024-02-23 14:53:15,230; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,231; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:15,231; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:15,231; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,232; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:15,232; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:15,232; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,232; INFO; teste2.process.476: inv original 8001759. tamanho 7
+2024-02-23 14:53:15,233; INFO; teste2.process.480: inv TRATADA 00800175901. tamanho 11
+2024-02-23 14:53:15,233; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,233; INFO; teste2.process.476: inv original 361844. tamanho 6
+2024-02-23 14:53:15,234; INFO; teste2.process.480: inv TRATADA 00036184401. tamanho 11
+2024-02-23 14:53:15,234; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,234; INFO; teste2.process.476: inv original 361845. tamanho 6
+2024-02-23 14:53:15,235; INFO; teste2.process.480: inv TRATADA 00036184501. tamanho 11
+2024-02-23 14:53:15,235; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,235; INFO; teste2.process.476: inv original 6207211. tamanho 7
+2024-02-23 14:53:15,236; INFO; teste2.process.480: inv TRATADA 00620721101. tamanho 11
+2024-02-23 14:53:15,236; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,236; INFO; teste2.process.476: inv original 1027781. tamanho 7
+2024-02-23 14:53:15,236; INFO; teste2.process.480: inv TRATADA 00102778101. tamanho 11
+2024-02-23 14:53:15,237; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,237; INFO; teste2.process.476: inv original 6207389. tamanho 7
+2024-02-23 14:53:15,237; INFO; teste2.process.480: inv TRATADA 00620738901. tamanho 11
+2024-02-23 14:53:15,238; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,238; INFO; teste2.process.476: inv original 10787. tamanho 5
+2024-02-23 14:53:15,238; INFO; teste2.process.480: inv TRATADA 00001078701. tamanho 11
+2024-02-23 14:53:15,239; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,239; INFO; teste2.process.476: inv original 10785. tamanho 5
+2024-02-23 14:53:15,240; INFO; teste2.process.480: inv TRATADA 00001078501. tamanho 11
+2024-02-23 14:53:15,240; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,241; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:15,241; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:15,242; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,242; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:15,243; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:15,243; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,244; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:15,244; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:15,245; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,245; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:15,246; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:15,247; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,247; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:15,247; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:15,248; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,248; INFO; teste2.process.476: inv original 1189863. tamanho 7
+2024-02-23 14:53:15,249; INFO; teste2.process.480: inv TRATADA 00118986301. tamanho 11
+2024-02-23 14:53:15,249; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,249; INFO; teste2.process.476: inv original 6207287. tamanho 7
+2024-02-23 14:53:15,250; INFO; teste2.process.480: inv TRATADA 00620728701. tamanho 11
+2024-02-23 14:53:15,250; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,250; INFO; teste2.process.476: inv original 6207285. tamanho 7
+2024-02-23 14:53:15,251; INFO; teste2.process.480: inv TRATADA 00620728501. tamanho 11
+2024-02-23 14:53:15,251; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,251; INFO; teste2.process.476: inv original 6207397. tamanho 7
+2024-02-23 14:53:15,252; INFO; teste2.process.480: inv TRATADA 00620739701. tamanho 11
+2024-02-23 14:53:15,252; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,252; INFO; teste2.process.476: inv original 6207395. tamanho 7
+2024-02-23 14:53:15,252; INFO; teste2.process.480: inv TRATADA 00620739501. tamanho 11
+2024-02-23 14:53:15,253; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,254; INFO; teste2.process.476: inv original 6207393. tamanho 7
+2024-02-23 14:53:15,254; INFO; teste2.process.480: inv TRATADA 00620739301. tamanho 11
+2024-02-23 14:53:15,255; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,255; INFO; teste2.process.476: inv original 6207390. tamanho 7
+2024-02-23 14:53:15,255; INFO; teste2.process.480: inv TRATADA 00620739001. tamanho 11
+2024-02-23 14:53:15,255; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,256; INFO; teste2.process.476: inv original 6207283. tamanho 7
+2024-02-23 14:53:15,256; INFO; teste2.process.480: inv TRATADA 00620728301. tamanho 11
+2024-02-23 14:53:15,256; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,256; INFO; teste2.process.476: inv original 410010680855. tamanho 12
+2024-02-23 14:53:15,257; INFO; teste2.process.480: inv TRATADA 41001068085501. tamanho 14
+2024-02-23 14:53:15,257; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,257; INFO; teste2.process.476: inv original 6300085845. tamanho 10
+2024-02-23 14:53:15,257; INFO; teste2.process.480: inv TRATADA 630008584501. tamanho 12
+2024-02-23 14:53:15,258; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,258; INFO; teste2.process.476: inv original 6300088124. tamanho 10
+2024-02-23 14:53:15,258; INFO; teste2.process.480: inv TRATADA 630008812401. tamanho 12
+2024-02-23 14:53:15,259; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,259; INFO; teste2.process.476: inv original 023800126. tamanho 9
+2024-02-23 14:53:15,259; INFO; teste2.process.480: inv TRATADA 02380012601. tamanho 11
+2024-02-23 14:53:15,260; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,260; INFO; teste2.process.476: inv original 6207483. tamanho 7
+2024-02-23 14:53:15,260; INFO; teste2.process.480: inv TRATADA 00620748301. tamanho 11
+2024-02-23 14:53:15,261; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,261; INFO; teste2.process.476: inv original 6207488. tamanho 7
+2024-02-23 14:53:15,261; INFO; teste2.process.480: inv TRATADA 00620748801. tamanho 11
+2024-02-23 14:53:15,261; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,262; INFO; teste2.process.476: inv original 6207480. tamanho 7
+2024-02-23 14:53:15,262; INFO; teste2.process.480: inv TRATADA 00620748001. tamanho 11
+2024-02-23 14:53:15,262; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,263; INFO; teste2.process.476: inv original 6207486. tamanho 7
+2024-02-23 14:53:15,263; INFO; teste2.process.480: inv TRATADA 00620748601. tamanho 11
+2024-02-23 14:53:15,263; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,264; INFO; teste2.process.476: inv original 6207475. tamanho 7
+2024-02-23 14:53:15,264; INFO; teste2.process.480: inv TRATADA 00620747501. tamanho 11
+2024-02-23 14:53:15,264; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,264; INFO; teste2.process.476: inv original 6207560. tamanho 7
+2024-02-23 14:53:15,265; INFO; teste2.process.480: inv TRATADA 00620756001. tamanho 11
+2024-02-23 14:53:15,265; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,265; INFO; teste2.process.476: inv original 6207563. tamanho 7
+2024-02-23 14:53:15,265; INFO; teste2.process.480: inv TRATADA 00620756301. tamanho 11
+2024-02-23 14:53:15,266; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,266; INFO; teste2.process.476: inv original 6207565. tamanho 7
+2024-02-23 14:53:15,266; INFO; teste2.process.480: inv TRATADA 00620756501. tamanho 11
+2024-02-23 14:53:15,267; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,267; INFO; teste2.process.476: inv original 6207573. tamanho 7
+2024-02-23 14:53:15,267; INFO; teste2.process.480: inv TRATADA 00620757301. tamanho 11
+2024-02-23 14:53:15,267; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,268; INFO; teste2.process.476: inv original 6207453. tamanho 7
+2024-02-23 14:53:15,268; INFO; teste2.process.480: inv TRATADA 00620745301. tamanho 11
+2024-02-23 14:53:15,268; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,269; INFO; teste2.process.476: inv original 361844. tamanho 6
+2024-02-23 14:53:15,269; INFO; teste2.process.480: inv TRATADA 00036184401. tamanho 11
+2024-02-23 14:53:15,269; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,269; INFO; teste2.process.476: inv original 361845. tamanho 6
+2024-02-23 14:53:15,270; INFO; teste2.process.480: inv TRATADA 00036184501. tamanho 11
+2024-02-23 14:53:15,270; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,270; INFO; teste2.process.476: inv original 6207211. tamanho 7
+2024-02-23 14:53:15,270; INFO; teste2.process.480: inv TRATADA 00620721101. tamanho 11
+2024-02-23 14:53:15,271; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,271; INFO; teste2.process.476: inv original 1027781. tamanho 7
+2024-02-23 14:53:15,271; INFO; teste2.process.480: inv TRATADA 00102778101. tamanho 11
+2024-02-23 14:53:15,272; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,272; INFO; teste2.process.476: inv original 6207389. tamanho 7
+2024-02-23 14:53:15,273; INFO; teste2.process.480: inv TRATADA 00620738901. tamanho 11
+2024-02-23 14:53:15,274; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,274; INFO; teste2.process.476: inv original 10787. tamanho 5
+2024-02-23 14:53:15,274; INFO; teste2.process.480: inv TRATADA 00001078701. tamanho 11
+2024-02-23 14:53:15,275; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,275; INFO; teste2.process.476: inv original 10785. tamanho 5
+2024-02-23 14:53:15,275; INFO; teste2.process.480: inv TRATADA 00001078501. tamanho 11
+2024-02-23 14:53:15,276; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,276; INFO; teste2.process.476: inv original 6207287. tamanho 7
+2024-02-23 14:53:15,276; INFO; teste2.process.480: inv TRATADA 00620728701. tamanho 11
+2024-02-23 14:53:15,277; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,277; INFO; teste2.process.476: inv original 6207285. tamanho 7
+2024-02-23 14:53:15,278; INFO; teste2.process.480: inv TRATADA 00620728501. tamanho 11
+2024-02-23 14:53:15,279; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,279; INFO; teste2.process.476: inv original 6207397. tamanho 7
+2024-02-23 14:53:15,279; INFO; teste2.process.480: inv TRATADA 00620739701. tamanho 11
+2024-02-23 14:53:15,279; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,279; INFO; teste2.process.476: inv original 6207395. tamanho 7
+2024-02-23 14:53:15,280; INFO; teste2.process.480: inv TRATADA 00620739501. tamanho 11
+2024-02-23 14:53:15,280; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,280; INFO; teste2.process.476: inv original 6207393. tamanho 7
+2024-02-23 14:53:15,281; INFO; teste2.process.480: inv TRATADA 00620739301. tamanho 11
+2024-02-23 14:53:15,281; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,281; INFO; teste2.process.476: inv original 6207390. tamanho 7
+2024-02-23 14:53:15,282; INFO; teste2.process.480: inv TRATADA 00620739001. tamanho 11
+2024-02-23 14:53:15,283; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,283; INFO; teste2.process.476: inv original 6207283. tamanho 7
+2024-02-23 14:53:15,283; INFO; teste2.process.480: inv TRATADA 00620728301. tamanho 11
+2024-02-23 14:53:15,284; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,284; INFO; teste2.process.476: inv original 13724. tamanho 5
+2024-02-23 14:53:15,284; INFO; teste2.process.480: inv TRATADA 00001372401. tamanho 11
+2024-02-23 14:53:15,285; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,285; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:15,285; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:15,285; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,286; INFO; teste2.process.476: inv original 8001759. tamanho 7
+2024-02-23 14:53:15,286; INFO; teste2.process.480: inv TRATADA 00800175901. tamanho 11
+2024-02-23 14:53:15,286; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,286; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:15,287; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:15,287; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,287; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:15,287; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:15,288; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,288; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:15,288; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:15,289; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,289; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:15,289; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:15,289; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,290; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:15,290; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:15,290; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,291; INFO; teste2.process.476: inv original 6300085845. tamanho 10
+2024-02-23 14:53:15,291; INFO; teste2.process.480: inv TRATADA 630008584501. tamanho 12
+2024-02-23 14:53:15,291; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,291; INFO; teste2.process.476: inv original 6300088124. tamanho 10
+2024-02-23 14:53:15,292; INFO; teste2.process.480: inv TRATADA 630008812401. tamanho 12
+2024-02-23 14:53:15,292; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,292; INFO; teste2.process.476: inv original 433546. tamanho 6
+2024-02-23 14:53:15,292; INFO; teste2.process.480: inv TRATADA 00043354601. tamanho 11
+2024-02-23 14:53:15,293; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,293; INFO; teste2.process.476: inv original 439484. tamanho 6
+2024-02-23 14:53:15,293; INFO; teste2.process.480: inv TRATADA 00043948401. tamanho 11
+2024-02-23 14:53:15,294; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,294; INFO; teste2.process.476: inv original 445085. tamanho 6
+2024-02-23 14:53:15,294; INFO; teste2.process.480: inv TRATADA 00044508501. tamanho 11
+2024-02-23 14:53:15,295; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,295; INFO; teste2.process.476: inv original 430719. tamanho 6
+2024-02-23 14:53:15,295; INFO; teste2.process.480: inv TRATADA 00043071901. tamanho 11
+2024-02-23 14:53:15,296; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,296; INFO; teste2.process.476: inv original 449315. tamanho 6
+2024-02-23 14:53:15,296; INFO; teste2.process.480: inv TRATADA 00044931501. tamanho 11
+2024-02-23 14:53:15,296; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,297; INFO; teste2.process.476: inv original 449314. tamanho 6
+2024-02-23 14:53:15,297; INFO; teste2.process.480: inv TRATADA 00044931401. tamanho 11
+2024-02-23 14:53:15,297; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,297; INFO; teste2.process.476: inv original 449527. tamanho 6
+2024-02-23 14:53:15,298; INFO; teste2.process.480: inv TRATADA 00044952701. tamanho 11
+2024-02-23 14:53:15,298; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,298; INFO; teste2.process.476: inv original 449526. tamanho 6
+2024-02-23 14:53:15,298; INFO; teste2.process.480: inv TRATADA 00044952601. tamanho 11
+2024-02-23 14:53:15,299; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,299; INFO; teste2.process.476: inv original 449528. tamanho 6
+2024-02-23 14:53:15,299; INFO; teste2.process.480: inv TRATADA 00044952801. tamanho 11
+2024-02-23 14:53:15,300; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,300; INFO; teste2.process.476: inv original 449987. tamanho 6
+2024-02-23 14:53:15,300; INFO; teste2.process.480: inv TRATADA 00044998701. tamanho 11
+2024-02-23 14:53:15,300; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,302; INFO; teste2.process.476: inv original 451837. tamanho 6
+2024-02-23 14:53:15,302; INFO; teste2.process.480: inv TRATADA 00045183701. tamanho 11
+2024-02-23 14:53:15,303; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,303; INFO; teste2.process.476: inv original 433547. tamanho 6
+2024-02-23 14:53:15,304; INFO; teste2.process.480: inv TRATADA 00043354701. tamanho 11
+2024-02-23 14:53:15,305; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,305; INFO; teste2.process.476: inv original 459386. tamanho 6
+2024-02-23 14:53:15,305; INFO; teste2.process.480: inv TRATADA 00045938601. tamanho 11
+2024-02-23 14:53:15,306; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,306; INFO; teste2.process.476: inv original 459384. tamanho 6
+2024-02-23 14:53:15,306; INFO; teste2.process.480: inv TRATADA 00045938401. tamanho 11
+2024-02-23 14:53:15,307; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,307; INFO; teste2.process.476: inv original 459385. tamanho 6
+2024-02-23 14:53:15,335; INFO; teste2.process.480: inv TRATADA 00045938501. tamanho 11
+2024-02-23 14:53:15,336; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,337; INFO; teste2.process.476: inv original 459468. tamanho 6
+2024-02-23 14:53:15,381; INFO; teste2.process.480: inv TRATADA 00045946801. tamanho 11
+2024-02-23 14:53:15,412; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,413; INFO; teste2.process.476: inv original 459466. tamanho 6
+2024-02-23 14:53:15,413; INFO; teste2.process.480: inv TRATADA 00045946601. tamanho 11
+2024-02-23 14:53:15,414; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,414; INFO; teste2.process.476: inv original 459467. tamanho 6
+2024-02-23 14:53:15,414; INFO; teste2.process.480: inv TRATADA 00045946701. tamanho 11
+2024-02-23 14:53:15,415; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,415; INFO; teste2.process.476: inv original 459653. tamanho 6
+2024-02-23 14:53:15,416; INFO; teste2.process.480: inv TRATADA 00045965301. tamanho 11
+2024-02-23 14:53:15,416; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,416; INFO; teste2.process.476: inv original 459651. tamanho 6
+2024-02-23 14:53:15,417; INFO; teste2.process.480: inv TRATADA 00045965101. tamanho 11
+2024-02-23 14:53:15,417; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,418; INFO; teste2.process.476: inv original 459652. tamanho 6
+2024-02-23 14:53:15,418; INFO; teste2.process.480: inv TRATADA 00045965201. tamanho 11
+2024-02-23 14:53:15,418; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,419; INFO; teste2.process.476: inv original 469181. tamanho 6
+2024-02-23 14:53:15,419; INFO; teste2.process.480: inv TRATADA 00046918101. tamanho 11
+2024-02-23 14:53:15,419; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,419; INFO; teste2.process.476: inv original 439485. tamanho 6
+2024-02-23 14:53:15,420; INFO; teste2.process.480: inv TRATADA 00043948501. tamanho 11
+2024-02-23 14:53:15,420; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,420; INFO; teste2.process.476: inv original 468314. tamanho 6
+2024-02-23 14:53:15,421; INFO; teste2.process.480: inv TRATADA 00046831401. tamanho 11
+2024-02-23 14:53:15,421; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,421; INFO; teste2.process.476: inv original 470668. tamanho 6
+2024-02-23 14:53:15,421; INFO; teste2.process.480: inv TRATADA 00047066801. tamanho 11
+2024-02-23 14:53:15,422; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,422; INFO; teste2.process.476: inv original 466960. tamanho 6
+2024-02-23 14:53:15,422; INFO; teste2.process.480: inv TRATADA 00046696001. tamanho 11
+2024-02-23 14:53:15,423; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,423; INFO; teste2.process.476: inv original 470834. tamanho 6
+2024-02-23 14:53:15,423; INFO; teste2.process.480: inv TRATADA 00047083401. tamanho 11
+2024-02-23 14:53:15,424; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,507; INFO; teste2.process.476: inv original 470835. tamanho 6
+2024-02-23 14:53:15,507; INFO; teste2.process.480: inv TRATADA 00047083501. tamanho 11
+2024-02-23 14:53:15,507; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,508; INFO; teste2.process.476: inv original 474618. tamanho 6
+2024-02-23 14:53:15,508; INFO; teste2.process.480: inv TRATADA 00047461801. tamanho 11
+2024-02-23 14:53:15,508; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,508; INFO; teste2.process.476: inv original 1189863. tamanho 7
+2024-02-23 14:53:15,509; INFO; teste2.process.480: inv TRATADA 00118986301. tamanho 11
+2024-02-23 14:53:15,509; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,510; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:15,510; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:15,510; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,511; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:15,511; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:15,511; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,512; INFO; teste2.process.476: inv original 2120019900. tamanho 10
+2024-02-23 14:53:15,512; INFO; teste2.process.480: inv TRATADA 212001990001. tamanho 12
+2024-02-23 14:53:15,512; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,513; INFO; teste2.process.476: inv original 14240038. tamanho 8
+2024-02-23 14:53:15,513; INFO; teste2.process.480: inv TRATADA 01424003801. tamanho 11
+2024-02-23 14:53:15,513; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,513; INFO; teste2.process.476: inv original 2120023151. tamanho 10
+2024-02-23 14:53:15,514; INFO; teste2.process.480: inv TRATADA 212002315101. tamanho 12
+2024-02-23 14:53:15,514; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,514; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:15,514; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:15,515; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,515; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:15,515; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:15,516; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:15,516; INFO; teste2.process.476: inv original 410010680855. tamanho 12
+2024-02-23 14:53:15,516; INFO; teste2.process.480: inv TRATADA 41001068085501. tamanho 14
+2024-02-23 14:53:15,516; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:53:15,604; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:53:15,895; INFO; functions.encerra_prog.325: RM ENCERRADO
+2024-02-23 14:53:15,895; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:53:16,207; INFO; functions.bot_text_art.19:              
+2024-02-23 14:53:16,207; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 14:53:16,207; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 14:53:16,219; INFO; teste2.process.433: SERÃO TRATADOS 2 ARQUIVOS.
+2024-02-23 14:53:16,220; INFO; teste2.process.438: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\Ebury - Completo.pdf
+2024-02-23 14:53:18,327; INFO; functions.excelProcessoCompleto.1103: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 14:53:18,328; INFO; functions.excelProcessoCompleto.1118: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:53:18,339; INFO; teste2.process.448: PROCESSOS EXTRAIDOS COM ERRO: 11
+2024-02-23 14:53:18,340; INFO; teste2.process.449: PROCESSOS COM ERRO: [{'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}, {'data': '16-01-2024', 'pi': '3802255', 'inv': None, 'moeda': 'LLC', 'montante': '-40000.00', 'saldo': '1497580.32', 'nome': 'Harvey Gulf International Marine, LLC.', 'cod': None}, {'data': '16-01-2024', 'pi': '3802244', 'inv': None, 'moeda': 'USD', 'montante': '-6538.64', 'saldo': '1537580.32', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'data': '16-01-2024', 'pi': '3802236', 'inv': None, 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1544118.96', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}]
+2024-02-23 14:53:18,341; INFO; functions.excelErro.1008: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 14:53:18,342; INFO; functions.excelErro.1024: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:53:18,343; INFO; teste2.process.452: PROCESSOS EXTRAIDOS CORRETAMENTE: 185
+2024-02-23 14:53:18,344; INFO; teste2.process.476: inv original 31122023. tamanho 8
+2024-02-23 14:53:18,344; INFO; teste2.process.480: inv TRATADA 03112202301. tamanho 11
+2024-02-23 14:53:18,344; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,345; INFO; teste2.process.476: inv original 31122023. tamanho 8
+2024-02-23 14:53:18,345; INFO; teste2.process.480: inv TRATADA 03112202301. tamanho 11
+2024-02-23 14:53:18,345; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,346; INFO; teste2.process.476: inv original 3541. tamanho 4
+2024-02-23 14:53:18,346; INFO; teste2.process.480: inv TRATADA 00000354101. tamanho 11
+2024-02-23 14:53:18,346; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,346; INFO; teste2.process.476: inv original 1190301. tamanho 7
+2024-02-23 14:53:18,347; INFO; teste2.process.480: inv TRATADA 00119030101. tamanho 11
+2024-02-23 14:53:18,347; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,347; INFO; teste2.process.476: inv original 2400287. tamanho 7
+2024-02-23 14:53:18,348; INFO; teste2.process.480: inv TRATADA 00240028701. tamanho 11
+2024-02-23 14:53:18,348; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,348; INFO; teste2.process.476: inv original 2400287. tamanho 7
+2024-02-23 14:53:18,348; INFO; teste2.process.480: inv TRATADA 00240028701. tamanho 11
+2024-02-23 14:53:18,349; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,349; INFO; teste2.process.476: inv original 3539. tamanho 4
+2024-02-23 14:53:18,350; INFO; teste2.process.480: inv TRATADA 00000353901. tamanho 11
+2024-02-23 14:53:18,350; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,350; INFO; teste2.process.476: inv original 20058. tamanho 5
+2024-02-23 14:53:18,351; INFO; teste2.process.480: inv TRATADA 00002005801. tamanho 11
+2024-02-23 14:53:18,351; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,351; INFO; teste2.process.476: inv original 22306109. tamanho 8
+2024-02-23 14:53:18,351; INFO; teste2.process.480: inv TRATADA 02230610901. tamanho 11
+2024-02-23 14:53:18,352; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,352; INFO; teste2.process.476: inv original 22306109. tamanho 8
+2024-02-23 14:53:18,352; INFO; teste2.process.480: inv TRATADA 02230610901. tamanho 11
+2024-02-23 14:53:18,353; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,353; INFO; teste2.process.476: inv original 2400299. tamanho 7
+2024-02-23 14:53:18,353; INFO; teste2.process.480: inv TRATADA 00240029901. tamanho 11
+2024-02-23 14:53:18,353; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,354; INFO; teste2.process.476: inv original 2210894. tamanho 7
+2024-02-23 14:53:18,354; INFO; teste2.process.480: inv TRATADA 00221089401. tamanho 11
+2024-02-23 14:53:18,354; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,355; INFO; teste2.process.476: inv original 2210894. tamanho 7
+2024-02-23 14:53:18,355; INFO; teste2.process.480: inv TRATADA 00221089401. tamanho 11
+2024-02-23 14:53:18,355; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,355; INFO; teste2.process.476: inv original 22306209. tamanho 8
+2024-02-23 14:53:18,356; INFO; teste2.process.480: inv TRATADA 02230620901. tamanho 11
+2024-02-23 14:53:18,356; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,356; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:18,356; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:18,357; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,357; INFO; teste2.process.476: inv original 10166948. tamanho 8
+2024-02-23 14:53:18,357; INFO; teste2.process.480: inv TRATADA 01016694801. tamanho 11
+2024-02-23 14:53:18,357; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,358; INFO; teste2.process.476: inv original 10166948. tamanho 8
+2024-02-23 14:53:18,358; INFO; teste2.process.480: inv TRATADA 01016694801. tamanho 11
+2024-02-23 14:53:18,358; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,359; INFO; teste2.process.476: inv original 23800125. tamanho 8
+2024-02-23 14:53:18,359; INFO; teste2.process.480: inv TRATADA 02380012501. tamanho 11
+2024-02-23 14:53:18,359; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,360; INFO; teste2.process.476: inv original 23800125. tamanho 8
+2024-02-23 14:53:18,360; INFO; teste2.process.480: inv TRATADA 02380012501. tamanho 11
+2024-02-23 14:53:18,360; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,360; INFO; teste2.process.476: inv original 23800125. tamanho 8
+2024-02-23 14:53:18,361; INFO; teste2.process.480: inv TRATADA 02380012501. tamanho 11
+2024-02-23 14:53:18,361; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,361; INFO; teste2.process.476: inv original 23800125. tamanho 8
+2024-02-23 14:53:18,361; INFO; teste2.process.480: inv TRATADA 02380012501. tamanho 11
+2024-02-23 14:53:18,362; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,362; INFO; teste2.process.476: inv original 433546. tamanho 6
+2024-02-23 14:53:18,362; INFO; teste2.process.480: inv TRATADA 00043354601. tamanho 11
+2024-02-23 14:53:18,363; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,363; INFO; teste2.process.476: inv original 439484. tamanho 6
+2024-02-23 14:53:18,363; INFO; teste2.process.480: inv TRATADA 00043948401. tamanho 11
+2024-02-23 14:53:18,364; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,365; INFO; teste2.process.476: inv original 445085. tamanho 6
+2024-02-23 14:53:18,365; INFO; teste2.process.480: inv TRATADA 00044508501. tamanho 11
+2024-02-23 14:53:18,366; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,366; INFO; teste2.process.476: inv original 430719. tamanho 6
+2024-02-23 14:53:18,367; INFO; teste2.process.480: inv TRATADA 00043071901. tamanho 11
+2024-02-23 14:53:18,367; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,367; INFO; teste2.process.476: inv original 449315. tamanho 6
+2024-02-23 14:53:18,368; INFO; teste2.process.480: inv TRATADA 00044931501. tamanho 11
+2024-02-23 14:53:18,368; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,368; INFO; teste2.process.476: inv original 449314. tamanho 6
+2024-02-23 14:53:18,369; INFO; teste2.process.480: inv TRATADA 00044931401. tamanho 11
+2024-02-23 14:53:18,369; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,370; INFO; teste2.process.476: inv original 449527. tamanho 6
+2024-02-23 14:53:18,370; INFO; teste2.process.480: inv TRATADA 00044952701. tamanho 11
+2024-02-23 14:53:18,370; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,371; INFO; teste2.process.476: inv original 449526. tamanho 6
+2024-02-23 14:53:18,371; INFO; teste2.process.480: inv TRATADA 00044952601. tamanho 11
+2024-02-23 14:53:18,372; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,372; INFO; teste2.process.476: inv original 449528. tamanho 6
+2024-02-23 14:53:18,373; INFO; teste2.process.480: inv TRATADA 00044952801. tamanho 11
+2024-02-23 14:53:18,373; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,373; INFO; teste2.process.476: inv original 449987. tamanho 6
+2024-02-23 14:53:18,373; INFO; teste2.process.480: inv TRATADA 00044998701. tamanho 11
+2024-02-23 14:53:18,374; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,374; INFO; teste2.process.476: inv original 451837. tamanho 6
+2024-02-23 14:53:18,374; INFO; teste2.process.480: inv TRATADA 00045183701. tamanho 11
+2024-02-23 14:53:18,375; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,375; INFO; teste2.process.476: inv original 433547. tamanho 6
+2024-02-23 14:53:18,375; INFO; teste2.process.480: inv TRATADA 00043354701. tamanho 11
+2024-02-23 14:53:18,376; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,376; INFO; teste2.process.476: inv original 459386. tamanho 6
+2024-02-23 14:53:18,376; INFO; teste2.process.480: inv TRATADA 00045938601. tamanho 11
+2024-02-23 14:53:18,376; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,377; INFO; teste2.process.476: inv original 459384. tamanho 6
+2024-02-23 14:53:18,377; INFO; teste2.process.480: inv TRATADA 00045938401. tamanho 11
+2024-02-23 14:53:18,377; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,377; INFO; teste2.process.476: inv original 459385. tamanho 6
+2024-02-23 14:53:18,378; INFO; teste2.process.480: inv TRATADA 00045938501. tamanho 11
+2024-02-23 14:53:18,378; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,378; INFO; teste2.process.476: inv original 459468. tamanho 6
+2024-02-23 14:53:18,379; INFO; teste2.process.480: inv TRATADA 00045946801. tamanho 11
+2024-02-23 14:53:18,379; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,380; INFO; teste2.process.476: inv original 459466. tamanho 6
+2024-02-23 14:53:18,380; INFO; teste2.process.480: inv TRATADA 00045946601. tamanho 11
+2024-02-23 14:53:18,380; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,381; INFO; teste2.process.476: inv original 459467. tamanho 6
+2024-02-23 14:53:18,381; INFO; teste2.process.480: inv TRATADA 00045946701. tamanho 11
+2024-02-23 14:53:18,381; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,382; INFO; teste2.process.476: inv original 459653. tamanho 6
+2024-02-23 14:53:18,382; INFO; teste2.process.480: inv TRATADA 00045965301. tamanho 11
+2024-02-23 14:53:18,382; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,382; INFO; teste2.process.476: inv original 459651. tamanho 6
+2024-02-23 14:53:18,383; INFO; teste2.process.480: inv TRATADA 00045965101. tamanho 11
+2024-02-23 14:53:18,383; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,383; INFO; teste2.process.476: inv original 459652. tamanho 6
+2024-02-23 14:53:18,383; INFO; teste2.process.480: inv TRATADA 00045965201. tamanho 11
+2024-02-23 14:53:18,384; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,384; INFO; teste2.process.476: inv original 469181. tamanho 6
+2024-02-23 14:53:18,385; INFO; teste2.process.480: inv TRATADA 00046918101. tamanho 11
+2024-02-23 14:53:18,385; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,385; INFO; teste2.process.476: inv original 439485. tamanho 6
+2024-02-23 14:53:18,385; INFO; teste2.process.480: inv TRATADA 00043948501. tamanho 11
+2024-02-23 14:53:18,386; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,386; INFO; teste2.process.476: inv original 468314. tamanho 6
+2024-02-23 14:53:18,387; INFO; teste2.process.480: inv TRATADA 00046831401. tamanho 11
+2024-02-23 14:53:18,387; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,387; INFO; teste2.process.476: inv original 470668. tamanho 6
+2024-02-23 14:53:18,388; INFO; teste2.process.480: inv TRATADA 00047066801. tamanho 11
+2024-02-23 14:53:18,388; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,388; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:18,389; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:18,389; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,390; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:18,390; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:18,390; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,391; INFO; teste2.process.476: inv original 2120019900. tamanho 10
+2024-02-23 14:53:18,391; INFO; teste2.process.480: inv TRATADA 212001990001. tamanho 12
+2024-02-23 14:53:18,391; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,392; INFO; teste2.process.476: inv original 466960. tamanho 6
+2024-02-23 14:53:18,392; INFO; teste2.process.480: inv TRATADA 00046696001. tamanho 11
+2024-02-23 14:53:18,392; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,393; INFO; teste2.process.476: inv original 470834. tamanho 6
+2024-02-23 14:53:18,393; INFO; teste2.process.480: inv TRATADA 00047083401. tamanho 11
+2024-02-23 14:53:18,393; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,394; INFO; teste2.process.476: inv original 470835. tamanho 6
+2024-02-23 14:53:18,399; INFO; teste2.process.480: inv TRATADA 00047083501. tamanho 11
+2024-02-23 14:53:18,400; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,400; INFO; teste2.process.476: inv original 474618. tamanho 6
+2024-02-23 14:53:18,402; INFO; teste2.process.480: inv TRATADA 00047461801. tamanho 11
+2024-02-23 14:53:18,404; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,404; INFO; teste2.process.476: inv original 023800126. tamanho 9
+2024-02-23 14:53:18,405; INFO; teste2.process.480: inv TRATADA 02380012601. tamanho 11
+2024-02-23 14:53:18,406; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,406; INFO; teste2.process.476: inv original 13724. tamanho 5
+2024-02-23 14:53:18,406; INFO; teste2.process.480: inv TRATADA 00001372401. tamanho 11
+2024-02-23 14:53:18,407; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,407; INFO; teste2.process.476: inv original 14240038. tamanho 8
+2024-02-23 14:53:18,407; INFO; teste2.process.480: inv TRATADA 01424003801. tamanho 11
+2024-02-23 14:53:18,408; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,408; INFO; teste2.process.476: inv original 2120023151. tamanho 10
+2024-02-23 14:53:18,408; INFO; teste2.process.480: inv TRATADA 212002315101. tamanho 12
+2024-02-23 14:53:18,409; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,409; INFO; teste2.process.476: inv original 6207483. tamanho 7
+2024-02-23 14:53:18,409; INFO; teste2.process.480: inv TRATADA 00620748301. tamanho 11
+2024-02-23 14:53:18,410; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,410; INFO; teste2.process.476: inv original 6207488. tamanho 7
+2024-02-23 14:53:18,411; INFO; teste2.process.480: inv TRATADA 00620748801. tamanho 11
+2024-02-23 14:53:18,411; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,411; INFO; teste2.process.476: inv original 6207480. tamanho 7
+2024-02-23 14:53:18,412; INFO; teste2.process.480: inv TRATADA 00620748001. tamanho 11
+2024-02-23 14:53:18,412; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,413; INFO; teste2.process.476: inv original 6207486. tamanho 7
+2024-02-23 14:53:18,413; INFO; teste2.process.480: inv TRATADA 00620748601. tamanho 11
+2024-02-23 14:53:18,413; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,414; INFO; teste2.process.476: inv original 6207475. tamanho 7
+2024-02-23 14:53:18,414; INFO; teste2.process.480: inv TRATADA 00620747501. tamanho 11
+2024-02-23 14:53:18,414; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,415; INFO; teste2.process.476: inv original 6207560. tamanho 7
+2024-02-23 14:53:18,415; INFO; teste2.process.480: inv TRATADA 00620756001. tamanho 11
+2024-02-23 14:53:18,416; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,416; INFO; teste2.process.476: inv original 6207563. tamanho 7
+2024-02-23 14:53:18,416; INFO; teste2.process.480: inv TRATADA 00620756301. tamanho 11
+2024-02-23 14:53:18,417; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,417; INFO; teste2.process.476: inv original 6207565. tamanho 7
+2024-02-23 14:53:18,417; INFO; teste2.process.480: inv TRATADA 00620756501. tamanho 11
+2024-02-23 14:53:18,418; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,418; INFO; teste2.process.476: inv original 6207573. tamanho 7
+2024-02-23 14:53:18,418; INFO; teste2.process.480: inv TRATADA 00620757301. tamanho 11
+2024-02-23 14:53:18,419; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,419; INFO; teste2.process.476: inv original 6207453. tamanho 7
+2024-02-23 14:53:18,419; INFO; teste2.process.480: inv TRATADA 00620745301. tamanho 11
+2024-02-23 14:53:18,419; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,420; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:18,420; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:18,421; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,421; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:18,421; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:18,421; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,422; INFO; teste2.process.476: inv original 8001759. tamanho 7
+2024-02-23 14:53:18,422; INFO; teste2.process.480: inv TRATADA 00800175901. tamanho 11
+2024-02-23 14:53:18,422; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,422; INFO; teste2.process.476: inv original 361844. tamanho 6
+2024-02-23 14:53:18,423; INFO; teste2.process.480: inv TRATADA 00036184401. tamanho 11
+2024-02-23 14:53:18,423; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,423; INFO; teste2.process.476: inv original 361845. tamanho 6
+2024-02-23 14:53:18,423; INFO; teste2.process.480: inv TRATADA 00036184501. tamanho 11
+2024-02-23 14:53:18,424; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,424; INFO; teste2.process.476: inv original 6207211. tamanho 7
+2024-02-23 14:53:18,424; INFO; teste2.process.480: inv TRATADA 00620721101. tamanho 11
+2024-02-23 14:53:18,424; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,425; INFO; teste2.process.476: inv original 1027781. tamanho 7
+2024-02-23 14:53:18,425; INFO; teste2.process.480: inv TRATADA 00102778101. tamanho 11
+2024-02-23 14:53:18,425; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,426; INFO; teste2.process.476: inv original 6207389. tamanho 7
+2024-02-23 14:53:18,426; INFO; teste2.process.480: inv TRATADA 00620738901. tamanho 11
+2024-02-23 14:53:18,427; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,427; INFO; teste2.process.476: inv original 10787. tamanho 5
+2024-02-23 14:53:18,427; INFO; teste2.process.480: inv TRATADA 00001078701. tamanho 11
+2024-02-23 14:53:18,427; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,428; INFO; teste2.process.476: inv original 10785. tamanho 5
+2024-02-23 14:53:18,428; INFO; teste2.process.480: inv TRATADA 00001078501. tamanho 11
+2024-02-23 14:53:18,429; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,429; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:18,429; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:18,430; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,430; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:18,431; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:18,431; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,432; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:18,432; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:18,433; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,434; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:18,434; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:18,435; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,435; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:18,435; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:18,436; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,436; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:18,436; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:18,437; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,437; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:18,437; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:18,437; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,437; INFO; teste2.process.476: inv original 1189863. tamanho 7
+2024-02-23 14:53:18,438; INFO; teste2.process.480: inv TRATADA 00118986301. tamanho 11
+2024-02-23 14:53:18,438; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,438; INFO; teste2.process.476: inv original 6207287. tamanho 7
+2024-02-23 14:53:18,439; INFO; teste2.process.480: inv TRATADA 00620728701. tamanho 11
+2024-02-23 14:53:18,439; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,439; INFO; teste2.process.476: inv original 6207285. tamanho 7
+2024-02-23 14:53:18,439; INFO; teste2.process.480: inv TRATADA 00620728501. tamanho 11
+2024-02-23 14:53:18,440; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,440; INFO; teste2.process.476: inv original 6207397. tamanho 7
+2024-02-23 14:53:18,440; INFO; teste2.process.480: inv TRATADA 00620739701. tamanho 11
+2024-02-23 14:53:18,441; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,441; INFO; teste2.process.476: inv original 6207395. tamanho 7
+2024-02-23 14:53:18,441; INFO; teste2.process.480: inv TRATADA 00620739501. tamanho 11
+2024-02-23 14:53:18,441; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,442; INFO; teste2.process.476: inv original 6207393. tamanho 7
+2024-02-23 14:53:18,442; INFO; teste2.process.480: inv TRATADA 00620739301. tamanho 11
+2024-02-23 14:53:18,442; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,443; INFO; teste2.process.476: inv original 6207390. tamanho 7
+2024-02-23 14:53:18,443; INFO; teste2.process.480: inv TRATADA 00620739001. tamanho 11
+2024-02-23 14:53:18,443; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,443; INFO; teste2.process.476: inv original 6207283. tamanho 7
+2024-02-23 14:53:18,444; INFO; teste2.process.480: inv TRATADA 00620728301. tamanho 11
+2024-02-23 14:53:18,444; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,444; INFO; teste2.process.476: inv original 410010680855. tamanho 12
+2024-02-23 14:53:18,445; INFO; teste2.process.480: inv TRATADA 41001068085501. tamanho 14
+2024-02-23 14:53:18,445; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,446; INFO; teste2.process.476: inv original 6300085845. tamanho 10
+2024-02-23 14:53:18,446; INFO; teste2.process.480: inv TRATADA 630008584501. tamanho 12
+2024-02-23 14:53:18,446; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,446; INFO; teste2.process.476: inv original 6300088124. tamanho 10
+2024-02-23 14:53:18,447; INFO; teste2.process.480: inv TRATADA 630008812401. tamanho 12
+2024-02-23 14:53:18,447; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,447; INFO; teste2.process.476: inv original 3541. tamanho 4
+2024-02-23 14:53:18,447; INFO; teste2.process.480: inv TRATADA 00000354101. tamanho 11
+2024-02-23 14:53:18,448; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,448; INFO; teste2.process.476: inv original 3539. tamanho 4
+2024-02-23 14:53:18,448; INFO; teste2.process.480: inv TRATADA 00000353901. tamanho 11
+2024-02-23 14:53:18,449; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,449; INFO; teste2.process.476: inv original 23800125. tamanho 8
+2024-02-23 14:53:18,449; INFO; teste2.process.480: inv TRATADA 02380012501. tamanho 11
+2024-02-23 14:53:18,450; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,450; INFO; teste2.process.476: inv original 023800126. tamanho 9
+2024-02-23 14:53:18,450; INFO; teste2.process.480: inv TRATADA 02380012601. tamanho 11
+2024-02-23 14:53:18,451; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,451; INFO; teste2.process.476: inv original 6207483. tamanho 7
+2024-02-23 14:53:18,451; INFO; teste2.process.480: inv TRATADA 00620748301. tamanho 11
+2024-02-23 14:53:18,452; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,452; INFO; teste2.process.476: inv original 6207488. tamanho 7
+2024-02-23 14:53:18,452; INFO; teste2.process.480: inv TRATADA 00620748801. tamanho 11
+2024-02-23 14:53:18,452; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,453; INFO; teste2.process.476: inv original 6207480. tamanho 7
+2024-02-23 14:53:18,453; INFO; teste2.process.480: inv TRATADA 00620748001. tamanho 11
+2024-02-23 14:53:18,453; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,454; INFO; teste2.process.476: inv original 6207486. tamanho 7
+2024-02-23 14:53:18,454; INFO; teste2.process.480: inv TRATADA 00620748601. tamanho 11
+2024-02-23 14:53:18,454; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,454; INFO; teste2.process.476: inv original 6207475. tamanho 7
+2024-02-23 14:53:18,455; INFO; teste2.process.480: inv TRATADA 00620747501. tamanho 11
+2024-02-23 14:53:18,455; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,455; INFO; teste2.process.476: inv original 6207560. tamanho 7
+2024-02-23 14:53:18,456; INFO; teste2.process.480: inv TRATADA 00620756001. tamanho 11
+2024-02-23 14:53:18,456; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,456; INFO; teste2.process.476: inv original 6207563. tamanho 7
+2024-02-23 14:53:18,457; INFO; teste2.process.480: inv TRATADA 00620756301. tamanho 11
+2024-02-23 14:53:18,457; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,457; INFO; teste2.process.476: inv original 6207565. tamanho 7
+2024-02-23 14:53:18,457; INFO; teste2.process.480: inv TRATADA 00620756501. tamanho 11
+2024-02-23 14:53:18,458; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,458; INFO; teste2.process.476: inv original 6207573. tamanho 7
+2024-02-23 14:53:18,459; INFO; teste2.process.480: inv TRATADA 00620757301. tamanho 11
+2024-02-23 14:53:18,459; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,460; INFO; teste2.process.476: inv original 6207453. tamanho 7
+2024-02-23 14:53:18,460; INFO; teste2.process.480: inv TRATADA 00620745301. tamanho 11
+2024-02-23 14:53:18,461; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,461; INFO; teste2.process.476: inv original 361844. tamanho 6
+2024-02-23 14:53:18,461; INFO; teste2.process.480: inv TRATADA 00036184401. tamanho 11
+2024-02-23 14:53:18,462; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,462; INFO; teste2.process.476: inv original 361845. tamanho 6
+2024-02-23 14:53:18,462; INFO; teste2.process.480: inv TRATADA 00036184501. tamanho 11
+2024-02-23 14:53:18,463; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,463; INFO; teste2.process.476: inv original 6207211. tamanho 7
+2024-02-23 14:53:18,463; INFO; teste2.process.480: inv TRATADA 00620721101. tamanho 11
+2024-02-23 14:53:18,464; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,465; INFO; teste2.process.476: inv original 1027781. tamanho 7
+2024-02-23 14:53:18,465; INFO; teste2.process.480: inv TRATADA 00102778101. tamanho 11
+2024-02-23 14:53:18,466; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,466; INFO; teste2.process.476: inv original 6207389. tamanho 7
+2024-02-23 14:53:18,466; INFO; teste2.process.480: inv TRATADA 00620738901. tamanho 11
+2024-02-23 14:53:18,467; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,467; INFO; teste2.process.476: inv original 10787. tamanho 5
+2024-02-23 14:53:18,467; INFO; teste2.process.480: inv TRATADA 00001078701. tamanho 11
+2024-02-23 14:53:18,467; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,468; INFO; teste2.process.476: inv original 10785. tamanho 5
+2024-02-23 14:53:18,468; INFO; teste2.process.480: inv TRATADA 00001078501. tamanho 11
+2024-02-23 14:53:18,468; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,468; INFO; teste2.process.476: inv original 6207287. tamanho 7
+2024-02-23 14:53:18,469; INFO; teste2.process.480: inv TRATADA 00620728701. tamanho 11
+2024-02-23 14:53:18,469; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,469; INFO; teste2.process.476: inv original 6207285. tamanho 7
+2024-02-23 14:53:18,469; INFO; teste2.process.480: inv TRATADA 00620728501. tamanho 11
+2024-02-23 14:53:18,470; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,470; INFO; teste2.process.476: inv original 6207397. tamanho 7
+2024-02-23 14:53:18,470; INFO; teste2.process.480: inv TRATADA 00620739701. tamanho 11
+2024-02-23 14:53:18,471; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,471; INFO; teste2.process.476: inv original 6207395. tamanho 7
+2024-02-23 14:53:18,471; INFO; teste2.process.480: inv TRATADA 00620739501. tamanho 11
+2024-02-23 14:53:18,472; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,472; INFO; teste2.process.476: inv original 6207393. tamanho 7
+2024-02-23 14:53:18,472; INFO; teste2.process.480: inv TRATADA 00620739301. tamanho 11
+2024-02-23 14:53:18,472; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,473; INFO; teste2.process.476: inv original 6207390. tamanho 7
+2024-02-23 14:53:18,473; INFO; teste2.process.480: inv TRATADA 00620739001. tamanho 11
+2024-02-23 14:53:18,473; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,473; INFO; teste2.process.476: inv original 6207283. tamanho 7
+2024-02-23 14:53:18,474; INFO; teste2.process.480: inv TRATADA 00620728301. tamanho 11
+2024-02-23 14:53:18,474; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,474; INFO; teste2.process.476: inv original 22306109. tamanho 8
+2024-02-23 14:53:18,475; INFO; teste2.process.480: inv TRATADA 02230610901. tamanho 11
+2024-02-23 14:53:18,475; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,475; INFO; teste2.process.476: inv original 22306109. tamanho 8
+2024-02-23 14:53:18,476; INFO; teste2.process.480: inv TRATADA 02230610901. tamanho 11
+2024-02-23 14:53:18,476; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,476; INFO; teste2.process.476: inv original 2210894. tamanho 7
+2024-02-23 14:53:18,477; INFO; teste2.process.480: inv TRATADA 00221089401. tamanho 11
+2024-02-23 14:53:18,477; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,477; INFO; teste2.process.476: inv original 2210894. tamanho 7
+2024-02-23 14:53:18,477; INFO; teste2.process.480: inv TRATADA 00221089401. tamanho 11
+2024-02-23 14:53:18,478; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,478; INFO; teste2.process.476: inv original 22306209. tamanho 8
+2024-02-23 14:53:18,478; INFO; teste2.process.480: inv TRATADA 02230620901. tamanho 11
+2024-02-23 14:53:18,479; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,479; INFO; teste2.process.476: inv original 10166948. tamanho 8
+2024-02-23 14:53:18,479; INFO; teste2.process.480: inv TRATADA 01016694801. tamanho 11
+2024-02-23 14:53:18,479; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,480; INFO; teste2.process.476: inv original 10166948. tamanho 8
+2024-02-23 14:53:18,480; INFO; teste2.process.480: inv TRATADA 01016694801. tamanho 11
+2024-02-23 14:53:18,480; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,481; INFO; teste2.process.476: inv original 13724. tamanho 5
+2024-02-23 14:53:18,481; INFO; teste2.process.480: inv TRATADA 00001372401. tamanho 11
+2024-02-23 14:53:18,481; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,481; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:18,482; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:18,482; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,482; INFO; teste2.process.476: inv original 8001759. tamanho 7
+2024-02-23 14:53:18,482; INFO; teste2.process.480: inv TRATADA 00800175901. tamanho 11
+2024-02-23 14:53:18,483; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,483; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:18,483; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:18,484; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,484; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:18,484; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:18,484; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,485; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:18,485; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:18,485; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,486; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:18,486; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:18,486; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,486; INFO; teste2.process.476: inv original 6300085845. tamanho 10
+2024-02-23 14:53:18,487; INFO; teste2.process.480: inv TRATADA 630008584501. tamanho 12
+2024-02-23 14:53:18,487; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,487; INFO; teste2.process.476: inv original 6300088124. tamanho 10
+2024-02-23 14:53:18,487; INFO; teste2.process.480: inv TRATADA 630008812401. tamanho 12
+2024-02-23 14:53:18,488; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,488; INFO; teste2.process.476: inv original 1190301. tamanho 7
+2024-02-23 14:53:18,488; INFO; teste2.process.480: inv TRATADA 00119030101. tamanho 11
+2024-02-23 14:53:18,488; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,489; INFO; teste2.process.476: inv original 20058. tamanho 5
+2024-02-23 14:53:18,489; INFO; teste2.process.480: inv TRATADA 00002005801. tamanho 11
+2024-02-23 14:53:18,490; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,491; INFO; teste2.process.476: inv original 433546. tamanho 6
+2024-02-23 14:53:18,491; INFO; teste2.process.480: inv TRATADA 00043354601. tamanho 11
+2024-02-23 14:53:18,492; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,492; INFO; teste2.process.476: inv original 439484. tamanho 6
+2024-02-23 14:53:18,492; INFO; teste2.process.480: inv TRATADA 00043948401. tamanho 11
+2024-02-23 14:53:18,493; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,493; INFO; teste2.process.476: inv original 445085. tamanho 6
+2024-02-23 14:53:18,493; INFO; teste2.process.480: inv TRATADA 00044508501. tamanho 11
+2024-02-23 14:53:18,542; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,560; INFO; teste2.process.476: inv original 430719. tamanho 6
+2024-02-23 14:53:18,560; INFO; teste2.process.480: inv TRATADA 00043071901. tamanho 11
+2024-02-23 14:53:18,561; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,561; INFO; teste2.process.476: inv original 449315. tamanho 6
+2024-02-23 14:53:18,562; INFO; teste2.process.480: inv TRATADA 00044931501. tamanho 11
+2024-02-23 14:53:18,562; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,562; INFO; teste2.process.476: inv original 449314. tamanho 6
+2024-02-23 14:53:18,563; INFO; teste2.process.480: inv TRATADA 00044931401. tamanho 11
+2024-02-23 14:53:18,563; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,564; INFO; teste2.process.476: inv original 449527. tamanho 6
+2024-02-23 14:53:18,564; INFO; teste2.process.480: inv TRATADA 00044952701. tamanho 11
+2024-02-23 14:53:18,564; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,565; INFO; teste2.process.476: inv original 449526. tamanho 6
+2024-02-23 14:53:18,581; INFO; teste2.process.480: inv TRATADA 00044952601. tamanho 11
+2024-02-23 14:53:18,582; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,582; INFO; teste2.process.476: inv original 449528. tamanho 6
+2024-02-23 14:53:18,582; INFO; teste2.process.480: inv TRATADA 00044952801. tamanho 11
+2024-02-23 14:53:18,583; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,585; INFO; teste2.process.476: inv original 449987. tamanho 6
+2024-02-23 14:53:18,585; INFO; teste2.process.480: inv TRATADA 00044998701. tamanho 11
+2024-02-23 14:53:18,586; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,586; INFO; teste2.process.476: inv original 451837. tamanho 6
+2024-02-23 14:53:18,587; INFO; teste2.process.480: inv TRATADA 00045183701. tamanho 11
+2024-02-23 14:53:18,587; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,588; INFO; teste2.process.476: inv original 433547. tamanho 6
+2024-02-23 14:53:18,588; INFO; teste2.process.480: inv TRATADA 00043354701. tamanho 11
+2024-02-23 14:53:18,589; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,589; INFO; teste2.process.476: inv original 459386. tamanho 6
+2024-02-23 14:53:18,589; INFO; teste2.process.480: inv TRATADA 00045938601. tamanho 11
+2024-02-23 14:53:18,590; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,590; INFO; teste2.process.476: inv original 459384. tamanho 6
+2024-02-23 14:53:18,591; INFO; teste2.process.480: inv TRATADA 00045938401. tamanho 11
+2024-02-23 14:53:18,591; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,591; INFO; teste2.process.476: inv original 459385. tamanho 6
+2024-02-23 14:53:18,591; INFO; teste2.process.480: inv TRATADA 00045938501. tamanho 11
+2024-02-23 14:53:18,592; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,592; INFO; teste2.process.476: inv original 459468. tamanho 6
+2024-02-23 14:53:18,592; INFO; teste2.process.480: inv TRATADA 00045946801. tamanho 11
+2024-02-23 14:53:18,593; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,593; INFO; teste2.process.476: inv original 459466. tamanho 6
+2024-02-23 14:53:18,593; INFO; teste2.process.480: inv TRATADA 00045946601. tamanho 11
+2024-02-23 14:53:18,593; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,594; INFO; teste2.process.476: inv original 459467. tamanho 6
+2024-02-23 14:53:18,594; INFO; teste2.process.480: inv TRATADA 00045946701. tamanho 11
+2024-02-23 14:53:18,594; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,595; INFO; teste2.process.476: inv original 459653. tamanho 6
+2024-02-23 14:53:18,595; INFO; teste2.process.480: inv TRATADA 00045965301. tamanho 11
+2024-02-23 14:53:18,595; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,596; INFO; teste2.process.476: inv original 459651. tamanho 6
+2024-02-23 14:53:18,596; INFO; teste2.process.480: inv TRATADA 00045965101. tamanho 11
+2024-02-23 14:53:18,596; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,597; INFO; teste2.process.476: inv original 459652. tamanho 6
+2024-02-23 14:53:18,597; INFO; teste2.process.480: inv TRATADA 00045965201. tamanho 11
+2024-02-23 14:53:18,597; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,597; INFO; teste2.process.476: inv original 469181. tamanho 6
+2024-02-23 14:53:18,598; INFO; teste2.process.480: inv TRATADA 00046918101. tamanho 11
+2024-02-23 14:53:18,598; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,598; INFO; teste2.process.476: inv original 439485. tamanho 6
+2024-02-23 14:53:18,598; INFO; teste2.process.480: inv TRATADA 00043948501. tamanho 11
+2024-02-23 14:53:18,599; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,599; INFO; teste2.process.476: inv original 468314. tamanho 6
+2024-02-23 14:53:18,599; INFO; teste2.process.480: inv TRATADA 00046831401. tamanho 11
+2024-02-23 14:53:18,599; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,600; INFO; teste2.process.476: inv original 470668. tamanho 6
+2024-02-23 14:53:18,600; INFO; teste2.process.480: inv TRATADA 00047066801. tamanho 11
+2024-02-23 14:53:18,600; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,600; INFO; teste2.process.476: inv original 466960. tamanho 6
+2024-02-23 14:53:18,601; INFO; teste2.process.480: inv TRATADA 00046696001. tamanho 11
+2024-02-23 14:53:18,601; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,601; INFO; teste2.process.476: inv original 470834. tamanho 6
+2024-02-23 14:53:18,602; INFO; teste2.process.480: inv TRATADA 00047083401. tamanho 11
+2024-02-23 14:53:18,602; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,602; INFO; teste2.process.476: inv original 470835. tamanho 6
+2024-02-23 14:53:18,602; INFO; teste2.process.480: inv TRATADA 00047083501. tamanho 11
+2024-02-23 14:53:18,603; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,603; INFO; teste2.process.476: inv original 474618. tamanho 6
+2024-02-23 14:53:18,603; INFO; teste2.process.480: inv TRATADA 00047461801. tamanho 11
+2024-02-23 14:53:18,603; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,604; INFO; teste2.process.476: inv original 1189863. tamanho 7
+2024-02-23 14:53:18,604; INFO; teste2.process.480: inv TRATADA 00118986301. tamanho 11
+2024-02-23 14:53:18,604; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,604; INFO; teste2.process.476: inv original 31122023. tamanho 8
+2024-02-23 14:53:18,605; INFO; teste2.process.480: inv TRATADA 03112202301. tamanho 11
+2024-02-23 14:53:18,605; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,605; INFO; teste2.process.476: inv original 31122023. tamanho 8
+2024-02-23 14:53:18,606; INFO; teste2.process.480: inv TRATADA 03112202301. tamanho 11
+2024-02-23 14:53:18,606; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,607; INFO; teste2.process.476: inv original 2400287. tamanho 7
+2024-02-23 14:53:18,607; INFO; teste2.process.480: inv TRATADA 00240028701. tamanho 11
+2024-02-23 14:53:18,607; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,607; INFO; teste2.process.476: inv original 2400287. tamanho 7
+2024-02-23 14:53:18,608; INFO; teste2.process.480: inv TRATADA 00240028701. tamanho 11
+2024-02-23 14:53:18,608; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,608; INFO; teste2.process.476: inv original 2400299. tamanho 7
+2024-02-23 14:53:18,608; INFO; teste2.process.480: inv TRATADA 00240029901. tamanho 11
+2024-02-23 14:53:18,609; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,609; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:18,609; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:18,610; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,610; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:18,610; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:18,610; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,611; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:18,611; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:18,611; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,612; INFO; teste2.process.476: inv original 2120019900. tamanho 10
+2024-02-23 14:53:18,612; INFO; teste2.process.480: inv TRATADA 212001990001. tamanho 12
+2024-02-23 14:53:18,612; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,612; INFO; teste2.process.476: inv original 14240038. tamanho 8
+2024-02-23 14:53:18,613; INFO; teste2.process.480: inv TRATADA 01424003801. tamanho 11
+2024-02-23 14:53:18,613; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,613; INFO; teste2.process.476: inv original 2120023151. tamanho 10
+2024-02-23 14:53:18,613; INFO; teste2.process.480: inv TRATADA 212002315101. tamanho 12
+2024-02-23 14:53:18,614; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,614; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:18,615; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:18,616; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,616; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:18,616; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:18,617; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:18,617; INFO; teste2.process.476: inv original 410010680855. tamanho 12
+2024-02-23 14:53:18,618; INFO; teste2.process.480: inv TRATADA 41001068085501. tamanho 14
+2024-02-23 14:53:18,618; INFO; teste2.process.438: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\Parcial até 11-01.pdf
+2024-02-23 14:53:20,214; INFO; functions.excelProcessoCompleto.1103: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 14:53:20,215; INFO; functions.excelProcessoCompleto.1118: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:53:20,223; INFO; teste2.process.448: PROCESSOS EXTRAIDOS COM ERRO: 3
+2024-02-23 14:53:20,223; INFO; teste2.process.449: PROCESSOS COM ERRO: [{'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774210', 'inv': None, 'moeda': 'USD', 'montante': '-600.00', 'saldo': '1437739.50', 'nome': 'Mackay Communication Inc', 'cod': None}]
+2024-02-23 14:53:20,224; INFO; functions.excelErro.1008: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 14:53:20,225; INFO; functions.excelErro.1024: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:53:20,225; INFO; teste2.process.452: PROCESSOS EXTRAIDOS CORRETAMENTE: 145
+2024-02-23 14:53:20,226; INFO; teste2.process.476: inv original 433546. tamanho 6
+2024-02-23 14:53:20,226; INFO; teste2.process.480: inv TRATADA 00043354601. tamanho 11
+2024-02-23 14:53:20,226; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,226; INFO; teste2.process.476: inv original 439484. tamanho 6
+2024-02-23 14:53:20,227; INFO; teste2.process.480: inv TRATADA 00043948401. tamanho 11
+2024-02-23 14:53:20,227; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,227; INFO; teste2.process.476: inv original 445085. tamanho 6
+2024-02-23 14:53:20,227; INFO; teste2.process.480: inv TRATADA 00044508501. tamanho 11
+2024-02-23 14:53:20,228; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,228; INFO; teste2.process.476: inv original 430719. tamanho 6
+2024-02-23 14:53:20,228; INFO; teste2.process.480: inv TRATADA 00043071901. tamanho 11
+2024-02-23 14:53:20,228; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,229; INFO; teste2.process.476: inv original 449315. tamanho 6
+2024-02-23 14:53:20,229; INFO; teste2.process.480: inv TRATADA 00044931501. tamanho 11
+2024-02-23 14:53:20,229; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,230; INFO; teste2.process.476: inv original 449314. tamanho 6
+2024-02-23 14:53:20,230; INFO; teste2.process.480: inv TRATADA 00044931401. tamanho 11
+2024-02-23 14:53:20,230; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,231; INFO; teste2.process.476: inv original 449527. tamanho 6
+2024-02-23 14:53:20,231; INFO; teste2.process.480: inv TRATADA 00044952701. tamanho 11
+2024-02-23 14:53:20,231; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,231; INFO; teste2.process.476: inv original 449526. tamanho 6
+2024-02-23 14:53:20,231; INFO; teste2.process.480: inv TRATADA 00044952601. tamanho 11
+2024-02-23 14:53:20,232; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,232; INFO; teste2.process.476: inv original 449528. tamanho 6
+2024-02-23 14:53:20,232; INFO; teste2.process.480: inv TRATADA 00044952801. tamanho 11
+2024-02-23 14:53:20,233; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,233; INFO; teste2.process.476: inv original 449987. tamanho 6
+2024-02-23 14:53:20,233; INFO; teste2.process.480: inv TRATADA 00044998701. tamanho 11
+2024-02-23 14:53:20,233; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,234; INFO; teste2.process.476: inv original 451837. tamanho 6
+2024-02-23 14:53:20,234; INFO; teste2.process.480: inv TRATADA 00045183701. tamanho 11
+2024-02-23 14:53:20,234; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,235; INFO; teste2.process.476: inv original 433547. tamanho 6
+2024-02-23 14:53:20,235; INFO; teste2.process.480: inv TRATADA 00043354701. tamanho 11
+2024-02-23 14:53:20,235; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,236; INFO; teste2.process.476: inv original 459386. tamanho 6
+2024-02-23 14:53:20,236; INFO; teste2.process.480: inv TRATADA 00045938601. tamanho 11
+2024-02-23 14:53:20,236; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,237; INFO; teste2.process.476: inv original 459384. tamanho 6
+2024-02-23 14:53:20,237; INFO; teste2.process.480: inv TRATADA 00045938401. tamanho 11
+2024-02-23 14:53:20,237; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,237; INFO; teste2.process.476: inv original 459385. tamanho 6
+2024-02-23 14:53:20,238; INFO; teste2.process.480: inv TRATADA 00045938501. tamanho 11
+2024-02-23 14:53:20,238; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,238; INFO; teste2.process.476: inv original 459468. tamanho 6
+2024-02-23 14:53:20,239; INFO; teste2.process.480: inv TRATADA 00045946801. tamanho 11
+2024-02-23 14:53:20,240; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,240; INFO; teste2.process.476: inv original 459466. tamanho 6
+2024-02-23 14:53:20,240; INFO; teste2.process.480: inv TRATADA 00045946601. tamanho 11
+2024-02-23 14:53:20,241; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,241; INFO; teste2.process.476: inv original 459467. tamanho 6
+2024-02-23 14:53:20,242; INFO; teste2.process.480: inv TRATADA 00045946701. tamanho 11
+2024-02-23 14:53:20,242; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,242; INFO; teste2.process.476: inv original 459653. tamanho 6
+2024-02-23 14:53:20,243; INFO; teste2.process.480: inv TRATADA 00045965301. tamanho 11
+2024-02-23 14:53:20,243; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,243; INFO; teste2.process.476: inv original 459651. tamanho 6
+2024-02-23 14:53:20,244; INFO; teste2.process.480: inv TRATADA 00045965101. tamanho 11
+2024-02-23 14:53:20,244; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,245; INFO; teste2.process.476: inv original 459652. tamanho 6
+2024-02-23 14:53:20,245; INFO; teste2.process.480: inv TRATADA 00045965201. tamanho 11
+2024-02-23 14:53:20,245; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,246; INFO; teste2.process.476: inv original 469181. tamanho 6
+2024-02-23 14:53:20,246; INFO; teste2.process.480: inv TRATADA 00046918101. tamanho 11
+2024-02-23 14:53:20,246; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,247; INFO; teste2.process.476: inv original 439485. tamanho 6
+2024-02-23 14:53:20,247; INFO; teste2.process.480: inv TRATADA 00043948501. tamanho 11
+2024-02-23 14:53:20,248; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,248; INFO; teste2.process.476: inv original 468314. tamanho 6
+2024-02-23 14:53:20,248; INFO; teste2.process.480: inv TRATADA 00046831401. tamanho 11
+2024-02-23 14:53:20,248; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,249; INFO; teste2.process.476: inv original 470668. tamanho 6
+2024-02-23 14:53:20,249; INFO; teste2.process.480: inv TRATADA 00047066801. tamanho 11
+2024-02-23 14:53:20,250; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,250; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:20,250; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:20,251; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,251; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:20,251; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:20,251; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,252; INFO; teste2.process.476: inv original 2120019900. tamanho 10
+2024-02-23 14:53:20,252; INFO; teste2.process.480: inv TRATADA 212001990001. tamanho 12
+2024-02-23 14:53:20,252; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,253; INFO; teste2.process.476: inv original 466960. tamanho 6
+2024-02-23 14:53:20,253; INFO; teste2.process.480: inv TRATADA 00046696001. tamanho 11
+2024-02-23 14:53:20,253; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,254; INFO; teste2.process.476: inv original 470834. tamanho 6
+2024-02-23 14:53:20,254; INFO; teste2.process.480: inv TRATADA 00047083401. tamanho 11
+2024-02-23 14:53:20,255; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,255; INFO; teste2.process.476: inv original 470835. tamanho 6
+2024-02-23 14:53:20,255; INFO; teste2.process.480: inv TRATADA 00047083501. tamanho 11
+2024-02-23 14:53:20,255; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,256; INFO; teste2.process.476: inv original 474618. tamanho 6
+2024-02-23 14:53:20,256; INFO; teste2.process.480: inv TRATADA 00047461801. tamanho 11
+2024-02-23 14:53:20,256; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,257; INFO; teste2.process.476: inv original 023800126. tamanho 9
+2024-02-23 14:53:20,257; INFO; teste2.process.480: inv TRATADA 02380012601. tamanho 11
+2024-02-23 14:53:20,257; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,257; INFO; teste2.process.476: inv original 13724. tamanho 5
+2024-02-23 14:53:20,258; INFO; teste2.process.480: inv TRATADA 00001372401. tamanho 11
+2024-02-23 14:53:20,258; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,258; INFO; teste2.process.476: inv original 14240038. tamanho 8
+2024-02-23 14:53:20,259; INFO; teste2.process.480: inv TRATADA 01424003801. tamanho 11
+2024-02-23 14:53:20,259; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,260; INFO; teste2.process.476: inv original 2120023151. tamanho 10
+2024-02-23 14:53:20,260; INFO; teste2.process.480: inv TRATADA 212002315101. tamanho 12
+2024-02-23 14:53:20,260; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,261; INFO; teste2.process.476: inv original 6207483. tamanho 7
+2024-02-23 14:53:20,261; INFO; teste2.process.480: inv TRATADA 00620748301. tamanho 11
+2024-02-23 14:53:20,261; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,261; INFO; teste2.process.476: inv original 6207488. tamanho 7
+2024-02-23 14:53:20,262; INFO; teste2.process.480: inv TRATADA 00620748801. tamanho 11
+2024-02-23 14:53:20,262; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,262; INFO; teste2.process.476: inv original 6207480. tamanho 7
+2024-02-23 14:53:20,262; INFO; teste2.process.480: inv TRATADA 00620748001. tamanho 11
+2024-02-23 14:53:20,263; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,263; INFO; teste2.process.476: inv original 6207486. tamanho 7
+2024-02-23 14:53:20,263; INFO; teste2.process.480: inv TRATADA 00620748601. tamanho 11
+2024-02-23 14:53:20,264; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,264; INFO; teste2.process.476: inv original 6207475. tamanho 7
+2024-02-23 14:53:20,264; INFO; teste2.process.480: inv TRATADA 00620747501. tamanho 11
+2024-02-23 14:53:20,265; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,265; INFO; teste2.process.476: inv original 6207560. tamanho 7
+2024-02-23 14:53:20,265; INFO; teste2.process.480: inv TRATADA 00620756001. tamanho 11
+2024-02-23 14:53:20,265; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,266; INFO; teste2.process.476: inv original 6207563. tamanho 7
+2024-02-23 14:53:20,266; INFO; teste2.process.480: inv TRATADA 00620756301. tamanho 11
+2024-02-23 14:53:20,266; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,266; INFO; teste2.process.476: inv original 6207565. tamanho 7
+2024-02-23 14:53:20,267; INFO; teste2.process.480: inv TRATADA 00620756501. tamanho 11
+2024-02-23 14:53:20,267; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,267; INFO; teste2.process.476: inv original 6207573. tamanho 7
+2024-02-23 14:53:20,268; INFO; teste2.process.480: inv TRATADA 00620757301. tamanho 11
+2024-02-23 14:53:20,268; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,268; INFO; teste2.process.476: inv original 6207453. tamanho 7
+2024-02-23 14:53:20,268; INFO; teste2.process.480: inv TRATADA 00620745301. tamanho 11
+2024-02-23 14:53:20,269; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,269; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:20,269; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:20,270; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,270; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:20,271; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:20,272; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,272; INFO; teste2.process.476: inv original 8001759. tamanho 7
+2024-02-23 14:53:20,273; INFO; teste2.process.480: inv TRATADA 00800175901. tamanho 11
+2024-02-23 14:53:20,273; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,274; INFO; teste2.process.476: inv original 361844. tamanho 6
+2024-02-23 14:53:20,274; INFO; teste2.process.480: inv TRATADA 00036184401. tamanho 11
+2024-02-23 14:53:20,275; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,275; INFO; teste2.process.476: inv original 361845. tamanho 6
+2024-02-23 14:53:20,275; INFO; teste2.process.480: inv TRATADA 00036184501. tamanho 11
+2024-02-23 14:53:20,276; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,276; INFO; teste2.process.476: inv original 6207211. tamanho 7
+2024-02-23 14:53:20,276; INFO; teste2.process.480: inv TRATADA 00620721101. tamanho 11
+2024-02-23 14:53:20,277; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,278; INFO; teste2.process.476: inv original 1027781. tamanho 7
+2024-02-23 14:53:20,278; INFO; teste2.process.480: inv TRATADA 00102778101. tamanho 11
+2024-02-23 14:53:20,278; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,278; INFO; teste2.process.476: inv original 6207389. tamanho 7
+2024-02-23 14:53:20,278; INFO; teste2.process.480: inv TRATADA 00620738901. tamanho 11
+2024-02-23 14:53:20,278; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,278; INFO; teste2.process.476: inv original 10787. tamanho 5
+2024-02-23 14:53:20,278; INFO; teste2.process.480: inv TRATADA 00001078701. tamanho 11
+2024-02-23 14:53:20,281; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,281; INFO; teste2.process.476: inv original 10785. tamanho 5
+2024-02-23 14:53:20,281; INFO; teste2.process.480: inv TRATADA 00001078501. tamanho 11
+2024-02-23 14:53:20,282; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,282; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:20,282; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:20,282; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,283; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:20,283; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:20,283; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,283; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:20,284; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:20,284; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,284; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:20,285; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:20,285; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,285; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:20,285; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:20,286; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,286; INFO; teste2.process.476: inv original 1189863. tamanho 7
+2024-02-23 14:53:20,286; INFO; teste2.process.480: inv TRATADA 00118986301. tamanho 11
+2024-02-23 14:53:20,286; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,287; INFO; teste2.process.476: inv original 6207287. tamanho 7
+2024-02-23 14:53:20,287; INFO; teste2.process.480: inv TRATADA 00620728701. tamanho 11
+2024-02-23 14:53:20,287; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,287; INFO; teste2.process.476: inv original 6207285. tamanho 7
+2024-02-23 14:53:20,288; INFO; teste2.process.480: inv TRATADA 00620728501. tamanho 11
+2024-02-23 14:53:20,288; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,288; INFO; teste2.process.476: inv original 6207397. tamanho 7
+2024-02-23 14:53:20,288; INFO; teste2.process.480: inv TRATADA 00620739701. tamanho 11
+2024-02-23 14:53:20,289; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,289; INFO; teste2.process.476: inv original 6207395. tamanho 7
+2024-02-23 14:53:20,289; INFO; teste2.process.480: inv TRATADA 00620739501. tamanho 11
+2024-02-23 14:53:20,290; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,290; INFO; teste2.process.476: inv original 6207393. tamanho 7
+2024-02-23 14:53:20,290; INFO; teste2.process.480: inv TRATADA 00620739301. tamanho 11
+2024-02-23 14:53:20,291; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,291; INFO; teste2.process.476: inv original 6207390. tamanho 7
+2024-02-23 14:53:20,291; INFO; teste2.process.480: inv TRATADA 00620739001. tamanho 11
+2024-02-23 14:53:20,292; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,292; INFO; teste2.process.476: inv original 6207283. tamanho 7
+2024-02-23 14:53:20,292; INFO; teste2.process.480: inv TRATADA 00620728301. tamanho 11
+2024-02-23 14:53:20,292; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,293; INFO; teste2.process.476: inv original 410010680855. tamanho 12
+2024-02-23 14:53:20,293; INFO; teste2.process.480: inv TRATADA 41001068085501. tamanho 14
+2024-02-23 14:53:20,293; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,294; INFO; teste2.process.476: inv original 6300085845. tamanho 10
+2024-02-23 14:53:20,294; INFO; teste2.process.480: inv TRATADA 630008584501. tamanho 12
+2024-02-23 14:53:20,294; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,295; INFO; teste2.process.476: inv original 6300088124. tamanho 10
+2024-02-23 14:53:20,295; INFO; teste2.process.480: inv TRATADA 630008812401. tamanho 12
+2024-02-23 14:53:20,295; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,295; INFO; teste2.process.476: inv original 023800126. tamanho 9
+2024-02-23 14:53:20,296; INFO; teste2.process.480: inv TRATADA 02380012601. tamanho 11
+2024-02-23 14:53:20,296; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,296; INFO; teste2.process.476: inv original 6207483. tamanho 7
+2024-02-23 14:53:20,296; INFO; teste2.process.480: inv TRATADA 00620748301. tamanho 11
+2024-02-23 14:53:20,297; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,297; INFO; teste2.process.476: inv original 6207488. tamanho 7
+2024-02-23 14:53:20,297; INFO; teste2.process.480: inv TRATADA 00620748801. tamanho 11
+2024-02-23 14:53:20,297; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,298; INFO; teste2.process.476: inv original 6207480. tamanho 7
+2024-02-23 14:53:20,298; INFO; teste2.process.480: inv TRATADA 00620748001. tamanho 11
+2024-02-23 14:53:20,298; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,298; INFO; teste2.process.476: inv original 6207486. tamanho 7
+2024-02-23 14:53:20,299; INFO; teste2.process.480: inv TRATADA 00620748601. tamanho 11
+2024-02-23 14:53:20,299; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,299; INFO; teste2.process.476: inv original 6207475. tamanho 7
+2024-02-23 14:53:20,300; INFO; teste2.process.480: inv TRATADA 00620747501. tamanho 11
+2024-02-23 14:53:20,300; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,300; INFO; teste2.process.476: inv original 6207560. tamanho 7
+2024-02-23 14:53:20,300; INFO; teste2.process.480: inv TRATADA 00620756001. tamanho 11
+2024-02-23 14:53:20,301; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,301; INFO; teste2.process.476: inv original 6207563. tamanho 7
+2024-02-23 14:53:20,302; INFO; teste2.process.480: inv TRATADA 00620756301. tamanho 11
+2024-02-23 14:53:20,303; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,303; INFO; teste2.process.476: inv original 6207565. tamanho 7
+2024-02-23 14:53:20,304; INFO; teste2.process.480: inv TRATADA 00620756501. tamanho 11
+2024-02-23 14:53:20,305; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,305; INFO; teste2.process.476: inv original 6207573. tamanho 7
+2024-02-23 14:53:20,305; INFO; teste2.process.480: inv TRATADA 00620757301. tamanho 11
+2024-02-23 14:53:20,306; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,306; INFO; teste2.process.476: inv original 6207453. tamanho 7
+2024-02-23 14:53:20,307; INFO; teste2.process.480: inv TRATADA 00620745301. tamanho 11
+2024-02-23 14:53:20,309; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,310; INFO; teste2.process.476: inv original 361844. tamanho 6
+2024-02-23 14:53:20,310; INFO; teste2.process.480: inv TRATADA 00036184401. tamanho 11
+2024-02-23 14:53:20,311; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,312; INFO; teste2.process.476: inv original 361845. tamanho 6
+2024-02-23 14:53:20,312; INFO; teste2.process.480: inv TRATADA 00036184501. tamanho 11
+2024-02-23 14:53:20,313; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,313; INFO; teste2.process.476: inv original 6207211. tamanho 7
+2024-02-23 14:53:20,313; INFO; teste2.process.480: inv TRATADA 00620721101. tamanho 11
+2024-02-23 14:53:20,313; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,314; INFO; teste2.process.476: inv original 1027781. tamanho 7
+2024-02-23 14:53:20,314; INFO; teste2.process.480: inv TRATADA 00102778101. tamanho 11
+2024-02-23 14:53:20,314; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,315; INFO; teste2.process.476: inv original 6207389. tamanho 7
+2024-02-23 14:53:20,315; INFO; teste2.process.480: inv TRATADA 00620738901. tamanho 11
+2024-02-23 14:53:20,315; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,315; INFO; teste2.process.476: inv original 10787. tamanho 5
+2024-02-23 14:53:20,316; INFO; teste2.process.480: inv TRATADA 00001078701. tamanho 11
+2024-02-23 14:53:20,316; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,316; INFO; teste2.process.476: inv original 10785. tamanho 5
+2024-02-23 14:53:20,317; INFO; teste2.process.480: inv TRATADA 00001078501. tamanho 11
+2024-02-23 14:53:20,317; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,317; INFO; teste2.process.476: inv original 6207287. tamanho 7
+2024-02-23 14:53:20,317; INFO; teste2.process.480: inv TRATADA 00620728701. tamanho 11
+2024-02-23 14:53:20,318; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,318; INFO; teste2.process.476: inv original 6207285. tamanho 7
+2024-02-23 14:53:20,318; INFO; teste2.process.480: inv TRATADA 00620728501. tamanho 11
+2024-02-23 14:53:20,318; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,319; INFO; teste2.process.476: inv original 6207397. tamanho 7
+2024-02-23 14:53:20,319; INFO; teste2.process.480: inv TRATADA 00620739701. tamanho 11
+2024-02-23 14:53:20,319; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,320; INFO; teste2.process.476: inv original 6207395. tamanho 7
+2024-02-23 14:53:20,320; INFO; teste2.process.480: inv TRATADA 00620739501. tamanho 11
+2024-02-23 14:53:20,320; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,320; INFO; teste2.process.476: inv original 6207393. tamanho 7
+2024-02-23 14:53:20,321; INFO; teste2.process.480: inv TRATADA 00620739301. tamanho 11
+2024-02-23 14:53:20,321; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,321; INFO; teste2.process.476: inv original 6207390. tamanho 7
+2024-02-23 14:53:20,321; INFO; teste2.process.480: inv TRATADA 00620739001. tamanho 11
+2024-02-23 14:53:20,322; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,322; INFO; teste2.process.476: inv original 6207283. tamanho 7
+2024-02-23 14:53:20,322; INFO; teste2.process.480: inv TRATADA 00620728301. tamanho 11
+2024-02-23 14:53:20,323; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,323; INFO; teste2.process.476: inv original 13724. tamanho 5
+2024-02-23 14:53:20,323; INFO; teste2.process.480: inv TRATADA 00001372401. tamanho 11
+2024-02-23 14:53:20,323; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,324; INFO; teste2.process.476: inv original 004. tamanho 3
+2024-02-23 14:53:20,324; INFO; teste2.process.480: inv TRATADA 00000000401. tamanho 11
+2024-02-23 14:53:20,324; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,325; INFO; teste2.process.476: inv original 8001759. tamanho 7
+2024-02-23 14:53:20,325; INFO; teste2.process.480: inv TRATADA 00800175901. tamanho 11
+2024-02-23 14:53:20,325; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,325; INFO; teste2.process.476: inv original 10721. tamanho 5
+2024-02-23 14:53:20,326; INFO; teste2.process.480: inv TRATADA 00001072101. tamanho 11
+2024-02-23 14:53:20,326; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,326; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:20,326; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:20,327; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,327; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:20,327; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:20,328; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,328; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:20,328; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:20,328; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,329; INFO; teste2.process.476: inv original 10790. tamanho 5
+2024-02-23 14:53:20,329; INFO; teste2.process.480: inv TRATADA 00001079001. tamanho 11
+2024-02-23 14:53:20,329; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,329; INFO; teste2.process.476: inv original 6300085845. tamanho 10
+2024-02-23 14:53:20,330; INFO; teste2.process.480: inv TRATADA 630008584501. tamanho 12
+2024-02-23 14:53:20,330; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,330; INFO; teste2.process.476: inv original 6300088124. tamanho 10
+2024-02-23 14:53:20,331; INFO; teste2.process.480: inv TRATADA 630008812401. tamanho 12
+2024-02-23 14:53:20,331; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,331; INFO; teste2.process.476: inv original 433546. tamanho 6
+2024-02-23 14:53:20,331; INFO; teste2.process.480: inv TRATADA 00043354601. tamanho 11
+2024-02-23 14:53:20,332; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,332; INFO; teste2.process.476: inv original 439484. tamanho 6
+2024-02-23 14:53:20,332; INFO; teste2.process.480: inv TRATADA 00043948401. tamanho 11
+2024-02-23 14:53:20,332; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,333; INFO; teste2.process.476: inv original 445085. tamanho 6
+2024-02-23 14:53:20,333; INFO; teste2.process.480: inv TRATADA 00044508501. tamanho 11
+2024-02-23 14:53:20,334; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,335; INFO; teste2.process.476: inv original 430719. tamanho 6
+2024-02-23 14:53:20,335; INFO; teste2.process.480: inv TRATADA 00043071901. tamanho 11
+2024-02-23 14:53:20,335; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,336; INFO; teste2.process.476: inv original 449315. tamanho 6
+2024-02-23 14:53:20,336; INFO; teste2.process.480: inv TRATADA 00044931501. tamanho 11
+2024-02-23 14:53:20,337; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,337; INFO; teste2.process.476: inv original 449314. tamanho 6
+2024-02-23 14:53:20,337; INFO; teste2.process.480: inv TRATADA 00044931401. tamanho 11
+2024-02-23 14:53:20,338; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,338; INFO; teste2.process.476: inv original 449527. tamanho 6
+2024-02-23 14:53:20,338; INFO; teste2.process.480: inv TRATADA 00044952701. tamanho 11
+2024-02-23 14:53:20,339; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,339; INFO; teste2.process.476: inv original 449526. tamanho 6
+2024-02-23 14:53:20,339; INFO; teste2.process.480: inv TRATADA 00044952601. tamanho 11
+2024-02-23 14:53:20,340; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,340; INFO; teste2.process.476: inv original 449528. tamanho 6
+2024-02-23 14:53:20,341; INFO; teste2.process.480: inv TRATADA 00044952801. tamanho 11
+2024-02-23 14:53:20,341; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,341; INFO; teste2.process.476: inv original 449987. tamanho 6
+2024-02-23 14:53:20,342; INFO; teste2.process.480: inv TRATADA 00044998701. tamanho 11
+2024-02-23 14:53:20,342; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,342; INFO; teste2.process.476: inv original 451837. tamanho 6
+2024-02-23 14:53:20,343; INFO; teste2.process.480: inv TRATADA 00045183701. tamanho 11
+2024-02-23 14:53:20,343; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,343; INFO; teste2.process.476: inv original 433547. tamanho 6
+2024-02-23 14:53:20,343; INFO; teste2.process.480: inv TRATADA 00043354701. tamanho 11
+2024-02-23 14:53:20,344; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,344; INFO; teste2.process.476: inv original 459386. tamanho 6
+2024-02-23 14:53:20,344; INFO; teste2.process.480: inv TRATADA 00045938601. tamanho 11
+2024-02-23 14:53:20,345; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,345; INFO; teste2.process.476: inv original 459384. tamanho 6
+2024-02-23 14:53:20,345; INFO; teste2.process.480: inv TRATADA 00045938401. tamanho 11
+2024-02-23 14:53:20,345; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,346; INFO; teste2.process.476: inv original 459385. tamanho 6
+2024-02-23 14:53:20,346; INFO; teste2.process.480: inv TRATADA 00045938501. tamanho 11
+2024-02-23 14:53:20,346; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,347; INFO; teste2.process.476: inv original 459468. tamanho 6
+2024-02-23 14:53:20,347; INFO; teste2.process.480: inv TRATADA 00045946801. tamanho 11
+2024-02-23 14:53:20,347; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,347; INFO; teste2.process.476: inv original 459466. tamanho 6
+2024-02-23 14:53:20,348; INFO; teste2.process.480: inv TRATADA 00045946601. tamanho 11
+2024-02-23 14:53:20,348; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,348; INFO; teste2.process.476: inv original 459467. tamanho 6
+2024-02-23 14:53:20,349; INFO; teste2.process.480: inv TRATADA 00045946701. tamanho 11
+2024-02-23 14:53:20,349; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,349; INFO; teste2.process.476: inv original 459653. tamanho 6
+2024-02-23 14:53:20,350; INFO; teste2.process.480: inv TRATADA 00045965301. tamanho 11
+2024-02-23 14:53:20,350; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,350; INFO; teste2.process.476: inv original 459651. tamanho 6
+2024-02-23 14:53:20,350; INFO; teste2.process.480: inv TRATADA 00045965101. tamanho 11
+2024-02-23 14:53:20,351; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,351; INFO; teste2.process.476: inv original 459652. tamanho 6
+2024-02-23 14:53:20,351; INFO; teste2.process.480: inv TRATADA 00045965201. tamanho 11
+2024-02-23 14:53:20,351; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,352; INFO; teste2.process.476: inv original 469181. tamanho 6
+2024-02-23 14:53:20,352; INFO; teste2.process.480: inv TRATADA 00046918101. tamanho 11
+2024-02-23 14:53:20,352; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,352; INFO; teste2.process.476: inv original 439485. tamanho 6
+2024-02-23 14:53:20,353; INFO; teste2.process.480: inv TRATADA 00043948501. tamanho 11
+2024-02-23 14:53:20,353; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,353; INFO; teste2.process.476: inv original 468314. tamanho 6
+2024-02-23 14:53:20,353; INFO; teste2.process.480: inv TRATADA 00046831401. tamanho 11
+2024-02-23 14:53:20,354; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,354; INFO; teste2.process.476: inv original 470668. tamanho 6
+2024-02-23 14:53:20,355; INFO; teste2.process.480: inv TRATADA 00047066801. tamanho 11
+2024-02-23 14:53:20,355; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,355; INFO; teste2.process.476: inv original 466960. tamanho 6
+2024-02-23 14:53:20,355; INFO; teste2.process.480: inv TRATADA 00046696001. tamanho 11
+2024-02-23 14:53:20,356; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,356; INFO; teste2.process.476: inv original 470834. tamanho 6
+2024-02-23 14:53:20,356; INFO; teste2.process.480: inv TRATADA 00047083401. tamanho 11
+2024-02-23 14:53:20,357; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,357; INFO; teste2.process.476: inv original 470835. tamanho 6
+2024-02-23 14:53:20,357; INFO; teste2.process.480: inv TRATADA 00047083501. tamanho 11
+2024-02-23 14:53:20,357; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,358; INFO; teste2.process.476: inv original 474618. tamanho 6
+2024-02-23 14:53:20,358; INFO; teste2.process.480: inv TRATADA 00047461801. tamanho 11
+2024-02-23 14:53:20,358; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,359; INFO; teste2.process.476: inv original 1189863. tamanho 7
+2024-02-23 14:53:20,359; INFO; teste2.process.480: inv TRATADA 00118986301. tamanho 11
+2024-02-23 14:53:20,359; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,359; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:20,360; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:20,360; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,360; INFO; teste2.process.476: inv original 2120023432. tamanho 10
+2024-02-23 14:53:20,360; INFO; teste2.process.480: inv TRATADA 212002343201. tamanho 12
+2024-02-23 14:53:20,361; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,361; INFO; teste2.process.476: inv original 2120019900. tamanho 10
+2024-02-23 14:53:20,361; INFO; teste2.process.480: inv TRATADA 212001990001. tamanho 12
+2024-02-23 14:53:20,362; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,362; INFO; teste2.process.476: inv original 14240038. tamanho 8
+2024-02-23 14:53:20,362; INFO; teste2.process.480: inv TRATADA 01424003801. tamanho 11
+2024-02-23 14:53:20,362; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,364; INFO; teste2.process.476: inv original 2120023151. tamanho 10
+2024-02-23 14:53:20,365; INFO; teste2.process.480: inv TRATADA 212002315101. tamanho 12
+2024-02-23 14:53:20,366; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,366; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:20,366; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:20,367; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,367; INFO; teste2.process.476: inv original 410010690223. tamanho 12
+2024-02-23 14:53:20,368; INFO; teste2.process.480: inv TRATADA 41001069022301. tamanho 14
+2024-02-23 14:53:20,368; INFO; teste2.process.462: PASSANDO PARA PROXIMO PROCESSO
+2024-02-23 14:53:20,368; INFO; teste2.process.476: inv original 410010680855. tamanho 12
+2024-02-23 14:53:20,369; INFO; teste2.process.480: inv TRATADA 41001068085501. tamanho 14
+2024-02-23 14:53:20,369; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:53:20,485; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:53:20,770; INFO; functions.encerra_prog.325: RM ENCERRADO

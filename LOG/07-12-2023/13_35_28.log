@@ -1,0 +1,52 @@
+07-12-2023 13:35:40.706Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+07-12-2023 13:35:42.643Z;functions.check_inv;  19 PASSOS PARA DIREITA
+07-12-2023 13:35:44.646Z;functions.check_inv;  ctrl c
+07-12-2023 13:35:45.250Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+07-12-2023 13:35:45.252Z;functions.check_inv;  INV: 00525829
+07-12-2023 13:35:45.356Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:35:49.358Z;functions.check_inv;  ctrl c
+07-12-2023 13:35:49.964Z;functions.check_inv;  Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+07-12-2023 13:35:49.965Z;functions.check_inv;  INV: 10218917
+07-12-2023 13:35:50.069Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:35:54.071Z;functions.check_inv;  ctrl c
+07-12-2023 13:35:54.678Z;functions.check_inv;  Historico completo: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+07-12-2023 13:35:54.680Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 13:35:54.784Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:35:58.786Z;functions.check_inv;  ctrl c
+07-12-2023 13:35:59.391Z;functions.check_inv;  Historico completo:     check_inv()
+
+07-12-2023 13:35:59.393Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 13:35:59.497Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:36:03.501Z;functions.check_inv;  ctrl c
+07-12-2023 13:36:04.106Z;functions.check_inv;  Historico completo: INV - 020558915 - KONGSBERG MARITIME AS
+07-12-2023 13:36:04.107Z;functions.check_inv;  INV: 020558915
+07-12-2023 13:36:04.211Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:36:08.213Z;functions.check_inv;  ctrl c
+07-12-2023 13:36:08.819Z;functions.check_inv;  Historico completo: INV - 000747431 - KONGSBERG MARITIME AS
+07-12-2023 13:36:08.820Z;functions.check_inv;  INV: 000747431
+07-12-2023 13:36:08.924Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:36:13.048Z;functions.check_inv;  ctrl c
+07-12-2023 13:36:13.654Z;functions.check_inv;  Historico completo:         #emailSuccess()
+
+07-12-2023 13:36:13.656Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 13:36:13.759Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:36:17.760Z;functions.check_inv;  ctrl c
+07-12-2023 13:36:18.369Z;functions.check_inv;  Historico completo:         #encerra_prog()
+
+07-12-2023 13:36:18.371Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 13:36:18.474Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:36:22.477Z;functions.check_inv;  ctrl c
+07-12-2023 13:36:23.085Z;functions.check_inv;  Historico completo: 
+
+07-12-2023 13:36:23.088Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 13:36:23.195Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:36:27.199Z;functions.check_inv;  ctrl c
+07-12-2023 13:36:27.803Z;functions.check_inv;  Historico completo: 
+
+07-12-2023 13:36:27.805Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 13:36:27.908Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:36:31.911Z;functions.check_inv;  ctrl c
+07-12-2023 13:36:32.515Z;functions.check_inv;  Historico completo: 
+
+07-12-2023 13:36:32.517Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 13:36:32.621Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO

@@ -1,0 +1,15 @@
+07-12-2023 18:44:22.702Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+07-12-2023 18:44:24.643Z;functions.check_inv;  19 PASSOS PARA DIREITA
+07-12-2023 18:44:26.645Z;functions.check_inv;  ctrl c
+07-12-2023 18:44:27.252Z;functions.check_inv;  Historico completo: 
+07-12-2023 18:44:27.254Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 18:44:27.870Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:44:27.878Z;functions.check_inv;  ctrl c
+07-12-2023 18:44:28.501Z;functions.check_inv;  Historico completo:         define_moeda(moeda)
+
+07-12-2023 18:44:28.502Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 18:44:29.107Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:44:29.109Z;functions.check_inv;  ctrl c
+07-12-2023 18:44:29.731Z;functions.check_inv;  Historico completo:         baixa_inv()
+
+07-12-2023 18:44:29.738Z;functions.check_inv;  INV: NÃO ENCONTRADA

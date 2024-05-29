@@ -1,0 +1,48 @@
+05-12-2023 19:44:33.813Z;functions.bot_text_art;      ____   
+05-12-2023 19:44:33.815Z;functions.bot_text_art;     [____]    
+05-12-2023 19:44:33.816Z;functions.bot_text_art;   |=]()()[=|  
+05-12-2023 19:44:33.817Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+05-12-2023 19:44:33.818Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+05-12-2023 19:44:33.819Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+05-12-2023 19:44:33.819Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+05-12-2023 19:44:33.822Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+05-12-2023 19:44:33.824Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+05-12-2023 19:44:33.826Z;functions.bot_text_art;     |_||_|                                                     
+05-12-2023 19:44:33.827Z;functions.bot_text_art;     | ||_|_   
+05-12-2023 19:44:33.827Z;functions.bot_text_art;   |___||___|  
+05-12-2023 19:44:33.827Z;functions.bot_text_art;               
+05-12-2023 19:44:33.838Z;functions.open_RM;  OPEN PROGRAM RM
+05-12-2023 19:44:49.309Z;functions.loggin_RM;  ENTER USER_NAME
+05-12-2023 19:44:50.685Z;functions.loggin_RM;  ENTER PASSWORD
+05-12-2023 19:44:51.824Z;functions.loggin_RM;  ENTER RM
+05-12-2023 19:45:27.971Z;functions.enter_coligada;  CLICK CONTEXTO
+05-12-2023 19:45:33.403Z;functions.enter_coligada;  CLICK COLIGADA 2
+05-12-2023 19:45:37.326Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+05-12-2023 19:45:37.533Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+05-12-2023 19:45:39.027Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+05-12-2023 19:45:40.283Z;functions.enter_coligada;  CLICK CONCLUIR
+05-12-2023 19:46:05.757Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+05-12-2023 19:46:06.610Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+05-12-2023 19:46:08.420Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+05-12-2023 19:46:11.237Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+05-12-2023 19:46:18.685Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+05-12-2023 19:46:19.590Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-12-2023 19:46:21.715Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-12-2023 19:46:32.734Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+05-12-2023 19:46:33.572Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+05-12-2023 19:46:35.712Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+05-12-2023 19:46:36.640Z;functions.filter_lancamento;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+05-12-2023 19:47:03.729Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+05-12-2023 19:47:05.691Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+05-12-2023 19:47:07.798Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+05-12-2023 19:47:10.144Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+05-12-2023 19:47:12.597Z;functions.desmark_filter;  ATUALIZA O FILTRO
+05-12-2023 19:47:12.871Z;functions.waitForImage;  FILTER CLEAN image found.
+05-12-2023 19:47:16.027Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+05-12-2023 19:47:19.865Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+05-12-2023 19:47:21.649Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+05-12-2023 19:47:21.783Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+05-12-2023 19:47:22.149Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+05-12-2023 19:47:24.690Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+05-12-2023 19:47:31.978Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+05-12-2023 19:47:31.980Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA

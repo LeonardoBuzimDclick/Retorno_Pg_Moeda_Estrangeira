@@ -1,0 +1,77 @@
+09-11-2023 17:01:47.844Z;functions.bot_text_art;      ____   
+09-11-2023 17:01:47.844Z;functions.bot_text_art;     [____]    
+09-11-2023 17:01:47.845Z;functions.bot_text_art;   |=]()()[=|  
+09-11-2023 17:01:47.845Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+09-11-2023 17:01:47.845Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+09-11-2023 17:01:47.846Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+09-11-2023 17:01:47.846Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+09-11-2023 17:01:47.847Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+09-11-2023 17:01:47.848Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+09-11-2023 17:01:47.848Z;functions.bot_text_art;     |_||_|                                                     
+09-11-2023 17:01:47.849Z;functions.bot_text_art;     | ||_|_   
+09-11-2023 17:01:47.849Z;functions.bot_text_art;   |___||___|  
+09-11-2023 17:01:47.849Z;functions.bot_text_art;               
+09-11-2023 17:01:47.853Z;functions.open_RM;  OPEN PROGRAM RM
+09-11-2023 17:01:55.341Z;functions.loggin_RM;  ENTER USER_NAME
+09-11-2023 17:01:56.163Z;functions.loggin_RM;  ENTER PASSWORD
+09-11-2023 17:01:56.854Z;functions.loggin_RM;  ENTER RM
+09-11-2023 17:02:18.021Z;functions.enter_coligada;  CLICK CONTEXTO
+09-11-2023 17:02:21.945Z;functions.enter_coligada;  CLICK COLIGADA 1
+09-11-2023 17:02:23.365Z;functions.enter_coligada;  CLICK AVANÇAR
+09-11-2023 17:02:25.198Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+09-11-2023 17:02:25.300Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+09-11-2023 17:02:26.339Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+09-11-2023 17:02:27.246Z;functions.enter_coligada;  CLICK CONCLUIR
+09-11-2023 17:02:37.832Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+09-11-2023 17:02:38.463Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+09-11-2023 17:02:39.538Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+09-11-2023 17:02:41.867Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+09-11-2023 17:02:47.238Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+09-11-2023 17:02:47.334Z;functions.waitForImage;  LANÇAMENTOS image found.
+09-11-2023 17:02:49.437Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+09-11-2023 17:02:51.438Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+09-11-2023 17:02:51.439Z;functions.data_filter;  QUARTA-FEIRA: 08-11-2023
+09-11-2023 17:02:51.439Z;functions.data_filter;  TERCA-FEIRA: 14-11-2023
+09-11-2023 17:02:57.656Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+09-11-2023 17:02:58.274Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+09-11-2023 17:03:00.453Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 08-11-2023
+09-11-2023 17:03:02.071Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 14-11-2023
+09-11-2023 17:03:02.719Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+09-11-2023 17:03:15.822Z;functions.waitForImage;  FILTER CLEAN image found.
+09-11-2023 17:03:17.954Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+09-11-2023 17:03:20.840Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+09-11-2023 17:03:22.107Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+09-11-2023 17:03:22.239Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+09-11-2023 17:03:22.552Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+09-11-2023 17:03:23.429Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+09-11-2023 17:03:30.452Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+09-11-2023 17:03:31.451Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+09-11-2023 17:03:32.296Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+09-11-2023 17:03:33.169Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+09-11-2023 17:03:34.073Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+09-11-2023 17:03:34.999Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+09-11-2023 17:03:35.824Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+09-11-2023 17:03:40.554Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+09-11-2023 17:03:41.444Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+09-11-2023 17:03:42.458Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+09-11-2023 17:03:43.857Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+09-11-2023 17:03:44.548Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+09-11-2023 17:03:45.348Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+09-11-2023 17:03:46.103Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+09-11-2023 17:04:02.942Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 18, in <module>
+    process_lancamentos()
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 459, in process_lancamentos
+    finality_exec = cc.wait_appear(locator.rm.text_labelstatus_exec_success, wait_timeout=360)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessas_Pix\venv\Lib\site-packages\clicknium\_clicknium.py", line 189, in wait_appear
+    ele = _InvokerService.wait_appear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessas_Pix\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessas_Pix\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 308, in wait_appear
+    return UiElementRunner.WaitElementAppear(locator_item.Locator, locator_item.Locator_Variables, locator_item.Locator_Image, timeout * 1000)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

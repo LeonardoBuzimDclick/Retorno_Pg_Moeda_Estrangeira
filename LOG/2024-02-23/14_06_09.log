@@ -1,0 +1,49 @@
+2024-02-23 14:06:09,779; INFO; functions.getPid.926: Dentro função GetPid
+
+2024-02-23 14:06:10,060; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:06:10,060; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:06:10,061; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:06:10,061; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:06:10,061; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:06:10,062; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:06:10,062; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:06:10,063; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:06:10,063; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:06:10,064; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:06:10,064; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:06:10,064; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:06:10,064; INFO; functions.bot_text_art.19:              
+2024-02-23 14:06:10,065; INFO; functions.headerExcel.880: Criando EXCEL
+2024-02-23 14:06:10,066; INFO; functions.headerExcel.900: EXCEL iniciado
+2024-02-23 14:06:10,068; INFO; main.process.15: SERÃO TRATADOS 1 ARQUIVOS.
+2024-02-23 14:06:10,069; INFO; main.process.20: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\Parcial até 11-01.pdf
+2024-02-23 14:06:11,567; INFO; functions.excelProcessoCompleto.1102: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 14:06:11,567; INFO; functions.excelProcessoCompleto.1118: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:06:11,567; INFO; main.process.30: PROCESSOS EXTRAIDOS COM ERRO: 3
+2024-02-23 14:06:11,567; INFO; main.process.31: PROCESSOS COM ERRO: [{'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774210', 'inv': None, 'moeda': 'USD', 'montante': '-600.00', 'saldo': '1437739.50', 'nome': 'Mackay Communication Inc', 'cod': None}]
+2024-02-23 14:06:11,582; INFO; functions.excelErro.1007: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 14:06:11,584; INFO; functions.excelErro.1023: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:06:11,584; INFO; main.process.34: PROCESSOS EXTRAIDOS CORRETAMENTE: 145
+2024-02-23 14:06:11,585; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:06:11,718; INFO; functions.getPid.926: Dentro função GetPid
+
+2024-02-23 14:06:11,973; INFO; functions.encerra_prog.324: RM ENCERRADO
+2024-02-23 14:06:13,567; ERROR; functions.show_exception_and_exit.24: C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL_ERRO/2024-02-23/PROCESSOS COM ERRO EM - 14_06_09.xlsx must be a valid filepath or file handle (instance of io.IOBase). C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL_ERRO/2024-02-23/PROCESSOS COM ERRO EM - 14_06_09.xlsx is of type <class 'str'>
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 148, in <module>
+    emailSuccess(nome_bot, texto_msg)
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 860, in emailSuccess
+    yag.send(to=str(email_receivers).split(','), subject=f"BOT FINALIZADO - RETORNO PAGAMENTO EM MOEDA ESTRANGEIRA - BV",
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\sender.py", line 157, in send
+    recipients, msg_strings = self.prepare_send(
+                              ^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\sender.py", line 122, in prepare_send
+    msg = prepare_message(
+          ^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\message.py", line 69, in prepare_message
+    raise TypeError(msg.format(a=a, tp=type(a)))
+TypeError: C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL_ERRO/2024-02-23/PROCESSOS COM ERRO EM - 14_06_09.xlsx must be a valid filepath or file handle (instance of io.IOBase). C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL_ERRO/2024-02-23/PROCESSOS COM ERRO EM - 14_06_09.xlsx is of type <class 'str'>
+2024-02-23 14:06:14,698; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:06:14,765; INFO; functions.getPid.926: Dentro função GetPid
+
+2024-02-23 14:06:15,111; INFO; functions.encerra_prog.324: RM ENCERRADO

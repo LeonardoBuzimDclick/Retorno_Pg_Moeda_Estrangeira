@@ -1,0 +1,98 @@
+20-11-2023 14:40:29.670Z;teste.<module>;  O PROCESSAMENTO FOI EXECUTADO COM ERRO.
+20-11-2023 14:40:34.499Z;teste.<module>;  CLICK NO LOG.
+20-11-2023 14:40:34.636Z;teste.<module>;  SELECIONA TODA A MSG DE LOG.
+20-11-2023 14:40:34.748Z;teste.<module>;  COPIA A MSG DE LOG.
+20-11-2023 14:40:34.749Z;teste.<module>;  LOG DE LANÇAMENTO REFERENCIA:
+20-11-2023 14:40:34.752Z;teste.<module>;  Não foi possível alterar o lançamento 1-539926:
+Campo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-552753:
+Campo 'IdConvenio' do lançamento '1-552753' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-576966:
+Campo 'IdConvenio' do lançamento '1-576966' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+20-11-2023 14:40:35.666Z;teste.<module>;  CLICK EM FECHAR.
+20-11-2023 14:40:40.850Z;teste.<module>;  A VARIÁVEL Não foi possível alterar o lançamento 1-539926:
+Campo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-552753:
+Campo 'IdConvenio' do lançamento '1-552753' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-576966:
+Campo 'IdConvenio' do lançamento '1-576966' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+ NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 14:40:43.090Z;teste.<module>;  A VARIÁVEL 512115 NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 14:40:45.297Z;teste.<module>;  A VARIÁVEL 513165 NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 14:40:47.503Z;teste.<module>;  A VARIÁVEL 562025 NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 14:40:49.710Z;teste.<module>;  A VARIÁVEL 562026 NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 14:40:51.918Z;teste.<module>;  A VARIÁVEL 576966 NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 14:40:54.124Z;teste.<module>;  A VARIÁVEL 552753 NÃO ESTÁ PRESENTE NO VETOR.

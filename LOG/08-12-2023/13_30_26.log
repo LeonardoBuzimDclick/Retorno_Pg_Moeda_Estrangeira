@@ -1,0 +1,308 @@
+08-12-2023 13:30:27.627Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+08-12-2023 13:30:49.897Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 49 registros?
+08-12-2023 13:30:51.902Z;functions.check_table_record;  NUMERO DE TUPLAS: 49
+08-12-2023 13:30:51.903Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+08-12-2023 13:30:53.973Z;functions.check_table_record;  CLICK NÃO
+08-12-2023 13:31:12.424Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+08-12-2023 13:31:14.362Z;functions.check_inv;  19 PASSOS PARA DIREITA
+08-12-2023 13:31:16.364Z;functions.check_inv;  BUSCA NA LINHA: 0
+08-12-2023 13:31:16.367Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:16.973Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+08-12-2023 13:31:16.975Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00525829
+08-12-2023 13:31:16.976Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:17.580Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:17.581Z;functions.check_inv;  BUSCA NA LINHA: 1
+08-12-2023 13:31:17.583Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:18.188Z;functions.check_inv;  Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+08-12-2023 13:31:18.190Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 10218917
+08-12-2023 13:31:18.192Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:18.796Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:18.797Z;functions.check_inv;  BUSCA NA LINHA: 2
+08-12-2023 13:31:18.799Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:19.404Z;functions.check_inv;  Historico completo: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+08-12-2023 13:31:19.411Z;functions.check_inv;  INV INCORRETA ENCONTRADA: erro: INV NÃO ENCONTRADA
+08-12-2023 13:31:19.413Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:20.018Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:20.019Z;functions.check_inv;  BUSCA NA LINHA: 3
+08-12-2023 13:31:20.020Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:20.626Z;functions.check_inv;  Historico completo: INV - 020558915 - KONGSBERG MARITIME AS
+08-12-2023 13:31:20.627Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 020558915
+08-12-2023 13:31:20.629Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:21.234Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:21.235Z;functions.check_inv;  BUSCA NA LINHA: 4
+08-12-2023 13:31:21.236Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:21.841Z;functions.check_inv;  Historico completo: INV - 000747439 - KONGSBERG MARITIME AS
+08-12-2023 13:31:21.842Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 000747439
+08-12-2023 13:31:21.845Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:22.449Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:22.450Z;functions.check_inv;  BUSCA NA LINHA: 5
+08-12-2023 13:31:22.452Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:23.057Z;functions.check_inv;  Historico completo: INV - 02022685 - TSCHUDI SHIP MANAGEMENT AS 
+08-12-2023 13:31:23.059Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 02022685
+08-12-2023 13:31:23.060Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:23.664Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:23.665Z;functions.check_inv;  BUSCA NA LINHA: 6
+08-12-2023 13:31:23.667Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:24.273Z;functions.check_inv;  Historico completo: INV - 19042023 - TSCHUDI SHIP MANAGEMENT AS 
+08-12-2023 13:31:24.275Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 19042023
+08-12-2023 13:31:24.277Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:24.881Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:24.882Z;functions.check_inv;  BUSCA NA LINHA: 7
+08-12-2023 13:31:24.884Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:25.488Z;functions.check_inv;  Historico completo: INV - 23032023 - TSCHUDI SHIP MANAGEMENT AS 
+08-12-2023 13:31:25.491Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 23032023
+08-12-2023 13:31:25.493Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:26.097Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:26.099Z;functions.check_inv;  BUSCA NA LINHA: 8
+08-12-2023 13:31:26.101Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:26.705Z;functions.check_inv;  Historico completo: INV - 00017986 - INTERTRUST GROUP A CSC COMPANY 
+08-12-2023 13:31:26.707Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00017986
+08-12-2023 13:31:26.709Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:27.313Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:27.314Z;functions.check_inv;  BUSCA NA LINHA: 9
+08-12-2023 13:31:27.315Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:27.922Z;functions.check_inv;  Historico completo: INV - 00016246 - INTERTRUST GROUP A CSC COMPANY 
+08-12-2023 13:31:27.924Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00016246
+08-12-2023 13:31:27.926Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:28.530Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:28.531Z;functions.check_inv;  BUSCA NA LINHA: 10
+08-12-2023 13:31:28.532Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:29.165Z;functions.check_inv;  Historico completo: INV - 00016855 - INTERTRUST GROUP A CSC COMPANY 
+08-12-2023 13:31:29.167Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00016855
+08-12-2023 13:31:29.168Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:29.772Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:29.773Z;functions.check_inv;  BUSCA NA LINHA: 11
+08-12-2023 13:31:29.774Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:30.380Z;functions.check_inv;  Historico completo: INV - 00015566 - INTERTRUST GROUP A CSC COMPANY 
+08-12-2023 13:31:30.383Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00015566
+08-12-2023 13:31:30.384Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:30.989Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:30.991Z;functions.check_inv;  BUSCA NA LINHA: 12
+08-12-2023 13:31:30.992Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:31.597Z;functions.check_inv;  Historico completo: INV - 00014116 - INTERTRUST GROUP A CSC COMPANY 
+08-12-2023 13:31:31.599Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00014116
+08-12-2023 13:31:31.600Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:32.204Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:32.205Z;functions.check_inv;  BUSCA NA LINHA: 13
+08-12-2023 13:31:32.206Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:32.811Z;functions.check_inv;  Historico completo: INV - 003231968 - Brunvoll AS
+08-12-2023 13:31:32.812Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 003231968
+08-12-2023 13:31:32.814Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:33.417Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:33.418Z;functions.check_inv;  BUSCA NA LINHA: 14
+08-12-2023 13:31:33.419Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:34.025Z;functions.check_inv;  Historico completo: INV - 04816723 - CORROSION MARITIME 
+08-12-2023 13:31:34.027Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 04816723
+08-12-2023 13:31:34.028Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:34.631Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:34.632Z;functions.check_inv;  BUSCA NA LINHA: 15
+08-12-2023 13:31:34.634Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:35.239Z;functions.check_inv;  Historico completo: INV - 00005596 - MOTIVE POWER MARINE E PORT SHIPYARD 
+08-12-2023 13:31:35.241Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00005596
+08-12-2023 13:31:35.243Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:35.848Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:35.849Z;functions.check_inv;  BUSCA NA LINHA: 16
+08-12-2023 13:31:35.851Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:36.455Z;functions.check_inv;  Historico completo: INV - 00002621 - NORDIC P&I AS 
+08-12-2023 13:31:36.458Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00002621
+08-12-2023 13:31:36.459Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:37.063Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:37.063Z;functions.check_inv;  BUSCA NA LINHA: 17
+08-12-2023 13:31:37.065Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:37.670Z;functions.check_inv;  Historico completo: INV - 90306846 - KONGSBERG MARITIME AS 
+08-12-2023 13:31:37.671Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 90306846
+08-12-2023 13:31:37.671Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:38.275Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:38.276Z;functions.check_inv;  BUSCA NA LINHA: 18
+08-12-2023 13:31:38.283Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:38.904Z;functions.check_inv;  Historico completo: INV - 90306844 - KONGSBERG MARITIME AS 
+08-12-2023 13:31:38.906Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 90306844
+08-12-2023 13:31:38.908Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:39.513Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:39.514Z;functions.check_inv;  BUSCA NA LINHA: 19
+08-12-2023 13:31:39.516Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:40.123Z;functions.check_inv;  Historico completo: INV - 01612796 - Loyens & Loeff N.V 
+08-12-2023 13:31:40.124Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 01612796
+08-12-2023 13:31:40.125Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:40.729Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:40.730Z;functions.check_inv;  BUSCA NA LINHA: 20
+08-12-2023 13:31:40.731Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:41.336Z;functions.check_inv;  Historico completo: INV - 01027042 - DIMO 
+08-12-2023 13:31:41.337Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 01027042
+08-12-2023 13:31:41.339Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:41.943Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:41.944Z;functions.check_inv;  BUSCA NA LINHA: 21
+08-12-2023 13:31:41.945Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:42.552Z;functions.check_inv;  Historico completo: INV - 01027039 - DIMO 
+08-12-2023 13:31:42.553Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 01027039
+08-12-2023 13:31:42.555Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:43.159Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:43.160Z;functions.check_inv;  BUSCA NA LINHA: 22
+08-12-2023 13:31:43.161Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:43.766Z;functions.check_inv;  Historico completo: INV - 10166948 - KONGSBERG MARITIME AS 
+08-12-2023 13:31:43.767Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 10166948
+08-12-2023 13:31:43.768Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:44.372Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:44.373Z;functions.check_inv;  BUSCA NA LINHA: 23
+08-12-2023 13:31:44.374Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:44.980Z;functions.check_inv;  Historico completo: INV - 00000123 - BLUE GIMBALS PROJECT MANAGEMENT SERVICES 
+08-12-2023 13:31:44.982Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00000123
+08-12-2023 13:31:44.983Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:45.587Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:45.589Z;functions.check_inv;  BUSCA NA LINHA: 24
+08-12-2023 13:31:45.590Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:46.195Z;functions.check_inv;  Historico completo: INV - 020573606 - KONGSBERG MARITIME AS
+08-12-2023 13:31:46.197Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 020573606
+08-12-2023 13:31:46.198Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:46.802Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:46.803Z;functions.check_inv;  BUSCA NA LINHA: 25
+08-12-2023 13:31:46.804Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:47.410Z;functions.check_inv;  Historico completo: INV - 10646632 - DNV AS 
+08-12-2023 13:31:47.411Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 10646632
+08-12-2023 13:31:47.413Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:48.016Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:48.017Z;functions.check_inv;  BUSCA NA LINHA: 26
+08-12-2023 13:31:48.018Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:48.624Z;functions.check_inv;  Historico completo: INV - 04230499 - Ocean TG Norway AS 
+08-12-2023 13:31:48.625Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 04230499
+08-12-2023 13:31:48.627Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:49.231Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:49.232Z;functions.check_inv;  BUSCA NA LINHA: 27
+08-12-2023 13:31:49.233Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:49.839Z;functions.check_inv;  Historico completo: INV - 04230734 - Ocean TG Norway AS 
+08-12-2023 13:31:49.840Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 04230734
+08-12-2023 13:31:49.841Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:50.445Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:50.446Z;functions.check_inv;  BUSCA NA LINHA: 28
+08-12-2023 13:31:50.447Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:51.052Z;functions.check_inv;  Historico completo: INV - 20230113 - UniSea AS 
+08-12-2023 13:31:51.054Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 20230113
+08-12-2023 13:31:51.056Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:51.659Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:51.661Z;functions.check_inv;  BUSCA NA LINHA: 29
+08-12-2023 13:31:51.662Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:52.269Z;functions.check_inv;  Historico completo: INV - 00016477 - MARLINK SA 
+08-12-2023 13:31:52.271Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00016477
+08-12-2023 13:31:52.272Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:52.876Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:52.877Z;functions.check_inv;  BUSCA NA LINHA: 30
+08-12-2023 13:31:52.878Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:53.483Z;functions.check_inv;  Historico completo: INV - 00580085 - MARLINK SA 
+08-12-2023 13:31:53.484Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00580085
+08-12-2023 13:31:53.485Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:54.089Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:54.090Z;functions.check_inv;  BUSCA NA LINHA: 31
+08-12-2023 13:31:54.092Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:54.698Z;functions.check_inv;  Historico completo: INV - 18092023 - TSCHUDI SHIP MANAGEMENT AS 
+08-12-2023 13:31:54.701Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 18092023
+08-12-2023 13:31:54.702Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:55.307Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:55.308Z;functions.check_inv;  BUSCA NA LINHA: 32
+08-12-2023 13:31:55.309Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:55.915Z;functions.check_inv;  Historico completo: INV - 18092023 - TSCHUDI SHIP MANAGEMENT AS 
+08-12-2023 13:31:55.917Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 18092023
+08-12-2023 13:31:55.918Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:56.522Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:56.523Z;functions.check_inv;  BUSCA NA LINHA: 33
+08-12-2023 13:31:56.525Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:57.132Z;functions.check_inv;  Historico completo: INV - 18092023 - TSCHUDI SHIP MANAGEMENT AS 
+08-12-2023 13:31:57.134Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 18092023
+08-12-2023 13:31:57.135Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:57.739Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:57.740Z;functions.check_inv;  BUSCA NA LINHA: 34
+08-12-2023 13:31:57.741Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:58.346Z;functions.check_inv;  Historico completo: INV - 18092023 - TSCHUDI SHIP MANAGEMENT AS 
+08-12-2023 13:31:58.348Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 18092023
+08-12-2023 13:31:58.350Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:31:58.954Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:31:58.955Z;functions.check_inv;  BUSCA NA LINHA: 35
+08-12-2023 13:31:58.956Z;functions.check_inv;  ctrl c
+08-12-2023 13:31:59.561Z;functions.check_inv;  Historico completo: INV - 00100339 - NORDIC P&I AS 
+08-12-2023 13:31:59.562Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00100339
+08-12-2023 13:31:59.564Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:00.168Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:00.169Z;functions.check_inv;  BUSCA NA LINHA: 36
+08-12-2023 13:32:00.170Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:00.774Z;functions.check_inv;  Historico completo: INV - 00002639 - NORDIC P&I AS 
+08-12-2023 13:32:00.775Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00002639
+08-12-2023 13:32:00.777Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:01.381Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:01.382Z;functions.check_inv;  BUSCA NA LINHA: 37
+08-12-2023 13:32:01.383Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:01.988Z;functions.check_inv;  Historico completo: INV - 00230120 - TSCHUDI SHIP MANAGEMENT AS 
+08-12-2023 13:32:01.989Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00230120
+08-12-2023 13:32:01.990Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:02.595Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:02.596Z;functions.check_inv;  BUSCA NA LINHA: 38
+08-12-2023 13:32:02.597Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:03.202Z;functions.check_inv;  Historico completo: INV - 90296988 - KONGSBERG MARITIME AS 
+08-12-2023 13:32:03.203Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 90296988
+08-12-2023 13:32:03.205Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:03.808Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:03.809Z;functions.check_inv;  BUSCA NA LINHA: 39
+08-12-2023 13:32:03.810Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:04.415Z;functions.check_inv;  Historico completo: INV - 10647338 - DNV AS 
+08-12-2023 13:32:04.416Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 10647338
+08-12-2023 13:32:04.418Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:05.023Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:05.025Z;functions.check_inv;  BUSCA NA LINHA: 40
+08-12-2023 13:32:05.026Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:05.631Z;functions.check_inv;  Historico completo: INV - 00361656 - GREEN YARD KLEVEN AS 
+08-12-2023 13:32:05.632Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00361656
+08-12-2023 13:32:05.634Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:06.238Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:06.240Z;functions.check_inv;  BUSCA NA LINHA: 41
+08-12-2023 13:32:06.242Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:06.848Z;functions.check_inv;  Historico completo: INV - 20230215 - UniSea AS 
+08-12-2023 13:32:06.850Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 20230215
+08-12-2023 13:32:06.853Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:07.461Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:07.462Z;functions.check_inv;  BUSCA NA LINHA: 42
+08-12-2023 13:32:07.463Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:08.069Z;functions.check_inv;  Historico completo: INV - 01027040 - DIMO 
+08-12-2023 13:32:08.070Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 01027040
+08-12-2023 13:32:08.071Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:08.675Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:08.677Z;functions.check_inv;  BUSCA NA LINHA: 43
+08-12-2023 13:32:08.678Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:09.282Z;functions.check_inv;  Historico completo: INV - 01027041 - DIMO 
+08-12-2023 13:32:09.284Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 01027041
+08-12-2023 13:32:09.285Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:09.888Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:09.889Z;functions.check_inv;  BUSCA NA LINHA: 44
+08-12-2023 13:32:09.890Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:10.497Z;functions.check_inv;  Historico completo: INV - 00000223 - BLUE GIMBALS PROJECT MANAGEMENT SERVICES 
+08-12-2023 13:32:10.499Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00000223
+08-12-2023 13:32:10.500Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:11.104Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:11.105Z;functions.check_inv;  BUSCA NA LINHA: 45
+08-12-2023 13:32:11.107Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:11.713Z;functions.check_inv;  Historico completo: INV - 02023620 - TSCHUDI SHIP MANAGEMENT AS 
+08-12-2023 13:32:11.716Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 02023620
+08-12-2023 13:32:11.717Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:12.322Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:12.323Z;functions.check_inv;  BUSCA NA LINHA: 46
+08-12-2023 13:32:12.324Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:12.930Z;functions.check_inv;  Historico completo: INV - 02023618 - TSCHUDI SHIP MANAGEMENT AS 
+08-12-2023 13:32:12.932Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 02023618
+08-12-2023 13:32:12.933Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:13.536Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:13.537Z;functions.check_inv;  BUSCA NA LINHA: 47
+08-12-2023 13:32:13.538Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:14.145Z;functions.check_inv;  Historico completo: INV - 000826680 - UNIOIL SUPPLY A/S- BUNKER ONE
+08-12-2023 13:32:14.147Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 000826680
+08-12-2023 13:32:14.149Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:14.752Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:32:14.754Z;functions.check_inv;  BUSCA NA LINHA: 48
+08-12-2023 13:32:14.756Z;functions.check_inv;  ctrl c
+08-12-2023 13:32:15.361Z;functions.check_inv;  Historico completo: INV - 000826680 - UNIOIL SUPPLY A/S- BUNKER ONE
+08-12-2023 13:32:15.364Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 000826680
+08-12-2023 13:32:15.365Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:32:15.366Z;functions.check_inv;  ULTIMA INV CHECADA E NÃO ENCONTRADA- 000826680
+08-12-2023 13:32:15.368Z;main.<module>;  
+08-12-2023 13:32:45.710Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image not found.
+08-12-2023 13:32:46.120Z;functions.define_moeda;  4 TAB
+08-12-2023 13:33:03.862Z;functions.waitForImage;  PRESS BUTTON OK image not found.

@@ -1,0 +1,66 @@
+2024-02-23 14:18:53,270; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:18:53,572; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:18:53,573; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:18:53,573; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:18:53,573; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:18:53,574; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:18:53,574; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:18:53,574; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:18:53,575; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:18:53,575; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:18:53,576; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:18:53,576; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:18:53,576; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:18:53,577; INFO; functions.bot_text_art.19:              
+2024-02-23 14:18:53,577; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 14:18:53,579; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 14:18:53,579; INFO; teste2.process.432: SERÃO TRATADOS 0 ARQUIVOS.
+2024-02-23 14:18:53,580; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:18:53,590; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:18:53,848; INFO; functions.encerra_prog.325: RM ENCERRADO
+2024-02-23 14:18:53,848; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:18:54,146; INFO; functions.bot_text_art.19:              
+2024-02-23 14:18:54,146; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 14:18:54,146; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 14:18:54,146; INFO; teste2.process.432: SERÃO TRATADOS 0 ARQUIVOS.
+2024-02-23 14:18:54,146; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:18:54,169; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:18:54,457; INFO; functions.encerra_prog.325: RM ENCERRADO
+2024-02-23 14:18:54,457; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:18:54,754; INFO; functions.bot_text_art.19:              
+2024-02-23 14:18:54,754; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 14:18:54,754; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 14:18:54,754; INFO; teste2.process.432: SERÃO TRATADOS 0 ARQUIVOS.
+2024-02-23 14:18:54,754; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:18:54,776; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:18:55,053; INFO; functions.encerra_prog.325: RM ENCERRADO

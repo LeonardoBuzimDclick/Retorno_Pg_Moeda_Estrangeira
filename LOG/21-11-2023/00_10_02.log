@@ -1,0 +1,66 @@
+21-11-2023 00:10:02.931Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+21-11-2023 00:10:17.398Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 7 registros?
+21-11-2023 00:10:19.503Z;functions.check_table_record;  CLICK ENTER
+21-11-2023 00:10:19.503Z;functions.check_table_record;  NUMERO DE TUPLAS: 7
+21-11-2023 00:10:19.505Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+21-11-2023 00:10:20.269Z;functions.check_table_record;  CLICK NÃO
+21-11-2023 00:10:21.594Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+21-11-2023 00:10:26.562Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+21-11-2023 00:10:27.895Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+21-11-2023 00:10:29.196Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+21-11-2023 00:10:31.469Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+21-11-2023 00:10:32.534Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+21-11-2023 00:10:33.758Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+21-11-2023 00:10:34.837Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+21-11-2023 00:11:35.400Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+21-11-2023 00:11:37.402Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM ERRO.
+21-11-2023 00:11:40.486Z;functions.process_lancamentos;  CLICK NO LOG.
+21-11-2023 00:11:40.592Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+21-11-2023 00:11:40.703Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+21-11-2023 00:11:40.704Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+21-11-2023 00:11:40.706Z;functions.process_lancamentos;  Não foi possível alterar o lançamento 1-576966:
+Campo 'IdConvenio' do lançamento '1-576966' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+21-11-2023 00:11:41.608Z;functions.process_lancamentos;  CLICK EM FECHAR.
+21-11-2023 00:11:41.611Z;functions.process_lancamentos;  CORRESPONDENCIA ['576966']
+21-11-2023 00:11:46.360Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+21-11-2023 00:11:46.466Z;functions.check_pix;  REF. LANÇAMENTO: 601904
+21-11-2023 00:11:46.570Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+21-11-2023 00:11:54.201Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+21-11-2023 00:11:56.328Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+21-11-2023 00:12:08.597Z;functions.waitForImage;  PIX image not found.
+21-11-2023 00:12:08.598Z;functions.check_pix;  DADOS BANCÁRIOS NÃO É PIX PARA O REGISTRO: 601904
+21-11-2023 00:12:08.775Z;functions.waitForImage;  PRESS BUTTON OK image found.
+21-11-2023 00:12:10.903Z;functions.check_pix;  APERTA OK
+21-11-2023 00:12:13.008Z;functions.check_pix;  DESMARCA REGISTRO
+21-11-2023 00:12:15.207Z;functions.waitForImage;  PRESS BUTTON OK image found.
+21-11-2023 00:12:17.329Z;functions.check_pix;  APERTA OK
+21-11-2023 00:12:29.752Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+21-11-2023 00:12:29.856Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+21-11-2023 00:12:31.961Z;functions.check_pix;  REF. LANÇAMENTO: ---------------------------
+RM
+---------------------------
+
+Fórmula Visual: 'Bloqueio de Adiantamento no Módulo Financeiro'.
+Não é permitido incluir adiantamento que não possua uma ordem de compra!
+
+
+---------------------------
+OK   
+---------------------------
+

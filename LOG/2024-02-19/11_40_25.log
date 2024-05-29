@@ -1,0 +1,19 @@
+2024-02-19 11:40:25,841; INFO; functions.bot_text_art.16:     ____   
+2024-02-19 11:40:25,842; INFO; functions.bot_text_art.17:    [____]    
+2024-02-19 11:40:25,842; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-19 11:40:25,842; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-19 11:40:25,843; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-19 11:40:25,843; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-19 11:40:25,843; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-19 11:40:25,844; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-19 11:40:25,845; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-19 11:40:25,845; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-19 11:40:25,845; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-19 11:40:25,846; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-19 11:40:25,846; INFO; functions.bot_text_art.28:              
+2024-02-19 11:40:25,846; DEBUG; functions.headerExcel.712: Criando EXCEL
+2024-02-19 11:40:25,848; DEBUG; functions.headerExcel.730: EXCEL iniciado
+2024-02-19 11:40:25,852; DEBUG; functions.open_RM.48: OPEN PROGRAM RM
+2024-02-19 11:40:33,145; DEBUG; functions.loggin_RM.58: ENTER USER_NAME
+2024-02-19 11:40:34,062; DEBUG; functions.loggin_RM.63: ENTER PASSWORD
+2024-02-19 11:40:34,864; DEBUG; functions.loggin_RM.67: ENTER RM

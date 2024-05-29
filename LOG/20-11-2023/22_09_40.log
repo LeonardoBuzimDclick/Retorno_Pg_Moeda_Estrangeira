@@ -1,0 +1,60 @@
+20-11-2023 22:09:43.396Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+20-11-2023 22:09:48.492Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+20-11-2023 22:09:49.880Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+20-11-2023 22:09:51.208Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+20-11-2023 22:09:53.519Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+20-11-2023 22:09:54.695Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+20-11-2023 22:09:55.981Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+20-11-2023 22:09:57.065Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+20-11-2023 22:10:57.718Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-11-2023 22:10:59.722Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM ERRO.
+20-11-2023 22:11:02.933Z;functions.process_lancamentos;  CLICK NO LOG.
+20-11-2023 22:11:03.039Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+20-11-2023 22:11:03.144Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+20-11-2023 22:11:03.145Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+20-11-2023 22:11:03.147Z;functions.process_lancamentos;  Não foi possível alterar o lançamento 1-539926:
+Campo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-552753:
+Campo 'IdConvenio' do lançamento '1-552753' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-576966:
+Campo 'IdConvenio' do lançamento '1-576966' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+20-11-2023 22:11:04.097Z;functions.process_lancamentos;  CLICK EM FECHAR.
+20-11-2023 22:11:04.100Z;functions.process_lancamentos;  CORRESPONDENCIA ['539926', '552753', '576966']
+20-11-2023 22:11:09.133Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX

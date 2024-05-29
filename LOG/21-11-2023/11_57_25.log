@@ -1,0 +1,41 @@
+21-11-2023 11:57:26.181Z;functions.waitForImage;  FILTER CLEAN image found.
+21-11-2023 11:57:28.311Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+21-11-2023 11:57:37.970Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+21-11-2023 11:57:39.197Z;functions.processo_pagamento;  12 PASSOS PARA DIREITA NA TABELA >>
+21-11-2023 11:57:41.127Z;functions.processo_pagamento;  HOVER FILTER
+21-11-2023 11:57:43.250Z;functions.processo_pagamento;  CLICK FILTER
+21-11-2023 11:57:47.586Z;functions.processo_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+21-11-2023 11:57:49.690Z;functions.processo_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+21-11-2023 11:57:51.811Z;functions.processo_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+21-11-2023 11:57:53.915Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+21-11-2023 11:57:57.048Z;functions.processo_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+21-11-2023 11:57:59.154Z;functions.processo_pagamento;  CLICA EM PROCESSOS
+21-11-2023 11:58:01.257Z;functions.processo_pagamento;  APERTA PARA BAIXO 1
+21-11-2023 11:58:03.361Z;functions.processo_pagamento;  APERTA PARA BAIXO 2
+21-11-2023 11:58:05.464Z;functions.processo_pagamento;  APERTA PARA BAIXO 3
+21-11-2023 11:58:07.568Z;functions.processo_pagamento;  APERTA ENTER
+21-11-2023 11:58:10.521Z;functions.processo_pagamento;  CLICA EM REMESSAS DE PAGAMENTO
+21-11-2023 11:58:25.146Z;functions.processo_pagamento;  CLICA EM AVANÇAR
+21-11-2023 11:58:26.415Z;functions.processo_pagamento;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+21-11-2023 11:58:27.409Z;functions.processo_pagamento;  CLICA EM AVANCAR PARA CONCLUIR
+21-11-2023 11:58:28.691Z;functions.processo_pagamento;  CLICA EM EXECUTAR
+21-11-2023 11:58:37.735Z;functions.waitForImage;  PRESS BUTTON OK image found.
+21-11-2023 11:58:39.737Z;functions.processo_pagamento;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+21-11-2023 11:58:43.347Z;functions.processo_pagamento;  MENSAGEM DE LOG:
+21-11-2023 11:58:43.348Z;functions.processo_pagamento;  ===========================================================================================================
+LANÇAMENTOS ENVIADOS PARA REMESSA PAGAMENTO
+Coligada: 1
+ID Remessa: 10
+Convênio: 14
+Data: 21/11/2023 11:58:34
+Borderô remetidos: 1
+===========================================================================================================
+Borderô: 1-7180
+
+Lançamentos remetidos no Borderô:
+Lancamento 1-859492
+----------------------------------------------------------------------------------------------------------
+
+
+21-11-2023 11:58:44.169Z;functions.processo_pagamento;  MENSAGEM DE LOG:
+21-11-2023 11:58:44.286Z;functions.processo_pagamento;  FECHA A ABA MOVIMENTAÇÃO BANCÁRIA

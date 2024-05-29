@@ -1,0 +1,1294 @@
+2024-03-20 12:57:27,736; INFO; parameters.<module>.102: Pasta local: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março
+2024-03-20 12:57:27,736; INFO; functions.getPid.975: Dentro função GetPid
+
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.7:     ____   
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.8:    [____]    
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.18:  |___||___|  
+2024-03-20 12:57:28,517; INFO; functions.bot_text_art.19:              
+2024-03-20 12:57:28,517; INFO; functions.headerExcel.908: Criando EXCEL
+2024-03-20 12:57:28,517; INFO; functions.headerExcel.928: EXCEL iniciado
+2024-03-20 12:57:28,533; INFO; main.process.15: TODOS ARQUIVOS NA PASTA ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\202403-Extrato mensal-EBPCLI541626 (16).pdf', '\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\PARCIAL Teste.pdf'].
+2024-03-20 12:57:28,533; INFO; main.process.23: SERÃO TRATADOS 1 ARQUIVOS.
+2024-03-20 12:57:28,533; INFO; main.process.24: ARQUIVOS: ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\PARCIAL Teste.pdf']
+2024-03-20 12:57:28,533; INFO; main.process.33: INICIO DO PROCESSAMENTO DO ARQUIVO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março\PARCIAL Teste.pdf
+2024-03-20 12:57:33,970; INFO; functions.excelProcessoCompleto.1053: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-03-20 12:57:33,986; INFO; functions.excelProcessoCompleto.1067: Aba de TODOS EXTRAÍDOS ao EXCEL existente
+2024-03-20 12:57:33,986; INFO; main.process.42: PROCESSOS EXTRAIDOS COM ERRO: 5
+2024-03-20 12:57:33,986; INFO; main.process.43: PROCESSOS COM ERRO: [{'data': '03-03-2024', 'pi': '3905741', 'inv': None, 'moeda': 'USD', 'montante': '-33929.36', 'saldo': '466029.25', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '01-03-2024', 'pi': '3904397', 'inv': None, 'moeda': 'ASP', 'montante': '-36300.00', 'saldo': '499958.61', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '08-03-2024', 'pi': '3924566', 'inv': None, 'moeda': 'USD', 'montante': '-46437.69', 'saldo': '1152127.58', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '03-03-2024', 'pi': '3905741', 'inv': None, 'moeda': 'USD', 'montante': '-33929.36', 'saldo': '466029.25', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '01-03-2024', 'pi': '3904397', 'inv': None, 'moeda': 'ASP', 'montante': '-36300.00', 'saldo': '499958.61', 'nome': 'ASP Crew Management', 'cod': None}]
+2024-03-20 12:57:33,986; INFO; functions.excelErro.1003: Adicionando aba de ERRO ao EXCEL existente
+2024-03-20 12:57:33,986; INFO; functions.excelErro.1019: Aba de ERRO adicionada ao EXCEL existente
+2024-03-20 12:57:33,986; INFO; main.process.46: PROCESSOS EXTRAIDOS CORRETAMENTE: 91
+2024-03-20 12:57:33,986; INFO; main.process.47: PROCESSOS A SEREM TRATADOS: [{'data': '18-03-2024', 'pi': '3943751', 'inv': '2024013', 'moeda': 'USD', 'montante': '-253062.35', 'saldo': '97875.01', 'nome': 'ENAV Asia Pte. Ltd.', 'cod': None}, {'data': '17-03-2024', 'pi': '3941404', 'inv': '2024013', 'moeda': 'EUR', 'montante': '-12100.00', 'saldo': '2914.14', 'nome': 'Ayolt M. Zoer', 'cod': None}, {'data': '17-03-2024', 'pi': '3941402', 'inv': '3635', 'moeda': 'EUR', 'montante': '-6663.26', 'saldo': '15014.14', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '17-03-2024', 'pi': '3937532', 'inv': '3635', 'moeda': 'NOK', 'montante': '-270473.47', 'saldo': '9796.62', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '17-03-2024', 'pi': '3941406', 'inv': '90324394', 'moeda': 'USD', 'montante': '-101366.50', 'saldo': '350937.36', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}, {'data': '14-03-2024', 'pi': '3937507', 'inv': '27574', 'moeda': 'USD', 'montante': '-2975.00', 'saldo': '496201.61', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '14-03-2024', 'pi': '3937496', 'inv': '3252024', 'moeda': 'CSS', 'montante': '-9308.00', 'saldo': '499176.61', 'nome': 'CSS Kingston Logistics FZC', 'cod': None}, {'data': '14-03-2024', 'pi': '3937258', 'inv': '500714', 'moeda': 'GBP', 'montante': '-27560.00', 'saldo': '2440.12', 'nome': 'European Management Marine Corp', 'cod': None}, {'data': '13-03-2024', 'pi': '3934484', 'inv': '10023', 'moeda': 'NOK', 'montante': '-225321.84', 'saldo': '30270.09', 'nome': 'Navatech AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934462', 'inv': '361904', 'moeda': 'NOK', 'montante': '-5500000.00', 'saldo': '255591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934791', 'inv': '3704', 'moeda': 'USD', 'montante': '-5000.00', 'saldo': '1104655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934790', 'inv': '3705', 'moeda': 'USD', 'montante': '-2500.00', 'saldo': '1109655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934743', 'inv': '27574', 'moeda': 'USD', 'montante': '-20000.00', 'saldo': '1112155.72', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '13-03-2024', 'pi': '3934476', 'inv': '27574', 'moeda': 'USD', 'montante': '-8661.21', 'saldo': '1132155.72', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '12-03-2024', 'pi': '3931576', 'inv': '361911', 'moeda': 'NOK', 'montante': '-101893.00', 'saldo': '5591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '12-03-2024', 'pi': '3931573', 'inv': '1000118', 'moeda': 'USD', 'montante': '-55.00', 'saldo': '37816.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931572', 'inv': '1000119', 'moeda': 'USD', 'montante': '-4762.18', 'saldo': '37871.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931566', 'inv': '22024', 'moeda': 'LLC', 'montante': '-404.25', 'saldo': '42634.11', 'nome': 'Winner LLC', 'cod': None}, {'data': '11-03-2024', 'pi': '3928507', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-882735.55', 'saldo': '3677.40', 'nome': 'SISTAC B.V', 'cod': None}, {'data': '11-03-2024', 'pi': '3927938', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-16955.00', 'saldo': '3412.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927933', 'inv': '2023875', 'moeda': 'EUR', 'montante': '-5057.50', 'saldo': '20367.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927929', 'inv': '2024012', 'moeda': 'EUR', 'montante': '-21898.55', 'saldo': '25425.45', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927874', 'inv': '2024087', 'moeda': 'EUR', 'montante': '-18840.00', 'saldo': '47324.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927855', 'inv': '2023746', 'moeda': 'EUR', 'montante': '-17590.00', 'saldo': '66164.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927845', 'inv': '10713472', 'moeda': 'DNV', 'montante': '-1650.00', 'saldo': '83754.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927824', 'inv': '10702689', 'moeda': 'DNV', 'montante': '-7920.46', 'saldo': '85404.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927817', 'inv': '10706379', 'moeda': 'DNV', 'montante': '-3073.15', 'saldo': '93324.46', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927810', 'inv': '10691423', 'moeda': 'DNV', 'montante': '-2100.00', 'saldo': '96397.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927800', 'inv': '10706682', 'moeda': 'DNV', 'montante': '-1142.60', 'saldo': '98497.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927783', 'inv': '10706380', 'moeda': 'DNV', 'montante': '-3523.08', 'saldo': '99640.21', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927731', 'inv': '1705', 'moeda': 'ASP', 'montante': '-5050.00', 'saldo': '1142875.32', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '08-03-2024', 'pi': '3925171', 'inv': '22305981', 'moeda': 'USD', 'montante': '-1370.00', 'saldo': '1147925.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925159', 'inv': '22306236', 'moeda': 'USD', 'montante': '-200.00', 'saldo': '1149295.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925112', 'inv': '26766', 'moeda': 'USD', 'montante': '-2632.26', 'saldo': '1149495.32', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '08-03-2024', 'pi': '3924566', 'inv': '1625977', 'moeda': 'USD', 'montante': '-46437.69', 'saldo': '1152127.58', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '08-03-2024', 'pi': '3924503', 'inv': '1625977', 'moeda': 'EUR', 'montante': '-49025.14', 'saldo': '3163.29', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '07-03-2024', 'pi': '3920082', 'inv': '2342', 'moeda': 'NOK', 'montante': '-102850.10', 'saldo': '5484.93', 'nome': 'Tyrholm and Farstad AS', 'cod': None}, {'data': '07-03-2024', 'pi': '3920051', 'inv': '3555', 'moeda': 'NOK', 'montante': '-498030.00', 'saldo': '5335.03', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '06-03-2024', 'pi': '3917990', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-1165.00', 'saldo': '1188.43', 'nome': 'Tufton Corporate Services Limited', 'cod': None}, {'data': '05-03-2024', 'pi': '3913737', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-13205.65', 'saldo': '2353.43', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '05-03-2024', 'pi': '3913755', 'inv': '5233081', 'moeda': 'EUR', 'montante': '-1042.89', 'saldo': '559.08', 'nome': 'Meijers Vitaal B.V', 'cod': None}, {'data': '04-03-2024', 'pi': '3910113', 'inv': '20230507', 'moeda': 'EUR', 'montante': '-3501.74', 'saldo': '1601.97', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910125', 'inv': '1028061', 'moeda': 'NOK', 'montante': '-36636.00', 'saldo': '3365.03', 'nome': 'DIMO', 'cod': None}, {'data': '04-03-2024', 'pi': '3910112', 'inv': '20230330', 'moeda': 'EUR', 'montante': '-11077.55', 'saldo': '5103.71', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910103', 'inv': '10694228', 'moeda': 'DNV', 'montante': '-7950.00', 'saldo': '16181.26', 'nome': 'DNV AS', 'cod': None}, {'data': '04-03-2024', 'pi': '3910101', 'inv': '10703572', 'moeda': 'DNV', 'montante': '-75869.06', 'saldo': '24131.26', 'nome': 'DNV AS', 'cod': None}, {'data': '17-03-2024', 'pi': '3937532', 'inv': '3635', 'moeda': 'NOK', 'montante': '-270473.47', 'saldo': '9796.62', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934484', 'inv': '10023', 'moeda': 'NOK', 'montante': '-225321.84', 'saldo': '30270.09', 'nome': 'Navatech AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934462', 'inv': '361904', 'moeda': 'NOK', 'montante': '-5500000.00', 'saldo': '255591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '12-03-2024', 'pi': '3931576', 'inv': '361911', 'moeda': 'NOK', 'montante': '-101893.00', 'saldo': '5591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '07-03-2024', 'pi': '3920082', 'inv': '2342', 'moeda': 'NOK', 'montante': '-102850.10', 'saldo': '5484.93', 'nome': 'Tyrholm and Farstad AS', 'cod': None}, {'data': '07-03-2024', 'pi': '3920051', 'inv': '3555', 'moeda': 'NOK', 'montante': '-498030.00', 'saldo': '5335.03', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '04-03-2024', 'pi': '3910125', 'inv': '1028061', 'moeda': 'NOK', 'montante': '-36636.00', 'saldo': '3365.03', 'nome': 'DIMO', 'cod': None}, {'data': '18-03-2024', 'pi': '3943751', 'inv': '90324394', 'moeda': 'USD', 'montante': '-253062.35', 'saldo': '97875.01', 'nome': 'ENAV Asia Pte. Ltd.', 'cod': None}, {'data': '17-03-2024', 'pi': '3941406', 'inv': '90324394', 'moeda': 'USD', 'montante': '-101366.50', 'saldo': '350937.36', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}, {'data': '14-03-2024', 'pi': '3937507', 'inv': '27574', 'moeda': 'USD', 'montante': '-2975.00', 'saldo': '496201.61', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '14-03-2024', 'pi': '3937496', 'inv': '3252024', 'moeda': 'CSS', 'montante': '-9308.00', 'saldo': '499176.61', 'nome': 'CSS Kingston Logistics FZC', 'cod': None}, {'data': '13-03-2024', 'pi': '3934791', 'inv': '3704', 'moeda': 'USD', 'montante': '-5000.00', 'saldo': '1104655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934790', 'inv': '3705', 'moeda': 'USD', 'montante': '-2500.00', 'saldo': '1109655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934743', 'inv': '27574', 'moeda': 'USD', 'montante': '-20000.00', 'saldo': '1112155.72', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '13-03-2024', 'pi': '3934476', 'inv': '27574', 'moeda': 'USD', 'montante': '-8661.21', 'saldo': '1132155.72', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '12-03-2024', 'pi': '3931573', 'inv': '1000118', 'moeda': 'USD', 'montante': '-55.00', 'saldo': '37816.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931572', 'inv': '1000119', 'moeda': 'USD', 'montante': '-4762.18', 'saldo': '37871.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931566', 'inv': '22024', 'moeda': 'LLC', 'montante': '-404.25', 'saldo': '42634.11', 'nome': 'Winner LLC', 'cod': None}, {'data': '11-03-2024', 'pi': '3927731', 'inv': '1705', 'moeda': 'ASP', 'montante': '-5050.00', 'saldo': '1142875.32', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '08-03-2024', 'pi': '3925171', 'inv': '22305981', 'moeda': 'USD', 'montante': '-1370.00', 'saldo': '1147925.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925159', 'inv': '22306236', 'moeda': 'USD', 'montante': '-200.00', 'saldo': '1149295.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925112', 'inv': '26766', 'moeda': 'USD', 'montante': '-2632.26', 'saldo': '1149495.32', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '14-03-2024', 'pi': '3937258', 'inv': '500714', 'moeda': 'GBP', 'montante': '-27560.00', 'saldo': '2440.12', 'nome': 'European Management Marine Corp', 'cod': None}, {'data': '17-03-2024', 'pi': '3941404', 'inv': '2024013', 'moeda': 'EUR', 'montante': '-12100.00', 'saldo': '2914.14', 'nome': 'Ayolt M. Zoer', 'cod': None}, {'data': '17-03-2024', 'pi': '3941402', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-6663.26', 'saldo': '15014.14', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '11-03-2024', 'pi': '3928507', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-882735.55', 'saldo': '3677.40', 'nome': 'SISTAC B.V', 'cod': None}, {'data': '11-03-2024', 'pi': '3927938', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-16955.00', 'saldo': '3412.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927933', 'inv': '2023875', 'moeda': 'EUR', 'montante': '-5057.50', 'saldo': '20367.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927929', 'inv': '2024012', 'moeda': 'EUR', 'montante': '-21898.55', 'saldo': '25425.45', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927874', 'inv': '2024087', 'moeda': 'EUR', 'montante': '-18840.00', 'saldo': '47324.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927855', 'inv': '2023746', 'moeda': 'EUR', 'montante': '-17590.00', 'saldo': '66164.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927845', 'inv': '10713472', 'moeda': 'DNV', 'montante': '-1650.00', 'saldo': '83754.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927824', 'inv': '10702689', 'moeda': 'DNV', 'montante': '-7920.46', 'saldo': '85404.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927817', 'inv': '10706379', 'moeda': 'DNV', 'montante': '-3073.15', 'saldo': '93324.46', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927810', 'inv': '10691423', 'moeda': 'DNV', 'montante': '-2100.00', 'saldo': '96397.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927800', 'inv': '10706682', 'moeda': 'DNV', 'montante': '-1142.60', 'saldo': '98497.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927783', 'inv': '10706380', 'moeda': 'DNV', 'montante': '-3523.08', 'saldo': '99640.21', 'nome': 'DNV AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3924503', 'inv': '1625977', 'moeda': 'EUR', 'montante': '-49025.14', 'saldo': '3163.29', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '06-03-2024', 'pi': '3917990', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-1165.00', 'saldo': '1188.43', 'nome': 'Tufton Corporate Services Limited', 'cod': None}, {'data': '05-03-2024', 'pi': '3913737', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-13205.65', 'saldo': '2353.43', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '05-03-2024', 'pi': '3913755', 'inv': '5233081', 'moeda': 'EUR', 'montante': '-1042.89', 'saldo': '559.08', 'nome': 'Meijers Vitaal B.V', 'cod': None}, {'data': '04-03-2024', 'pi': '3910113', 'inv': '20230507', 'moeda': 'EUR', 'montante': '-3501.74', 'saldo': '1601.97', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910112', 'inv': '20230330', 'moeda': 'EUR', 'montante': '-11077.55', 'saldo': '5103.71', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910103', 'inv': '10694228', 'moeda': 'DNV', 'montante': '-7950.00', 'saldo': '16181.26', 'nome': 'DNV AS', 'cod': None}, {'data': '04-03-2024', 'pi': '3910101', 'inv': '10703572', 'moeda': 'DNV', 'montante': '-75869.06', 'saldo': '24131.26', 'nome': 'DNV AS', 'cod': None}]
+2024-03-20 12:57:33,986; INFO; functions.mover_para_lidos.1119: MOVENDO ARQUIVO PARCIAL Teste.pdf.
+2024-03-20 12:57:34,002; INFO; functions.mover_para_lidos.1127: Pasta "Lidos" já existe
+2024-03-20 12:57:34,002; INFO; functions.mover_para_lidos.1138: Novo nome: PARCIAL Teste_1.pdf
+2024-03-20 12:57:34,002; INFO; functions.mover_para_lidos.1139: teste_caminho_destino: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março\Lidos\PARCIAL Teste_1.pdf
+2024-03-20 12:57:34,002; INFO; functions.mover_para_lidos.1138: Novo nome: PARCIAL Teste_2.pdf
+2024-03-20 12:57:34,002; INFO; functions.mover_para_lidos.1139: teste_caminho_destino: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março\Lidos\PARCIAL Teste_2.pdf
+2024-03-20 12:57:34,017; INFO; functions.mover_para_lidos.1144: ARQUIVO PARCIAL Teste_2.pdf MOVIDO PARA LIDOS.
+2024-03-20 12:57:34,033; INFO; functions.open_RM.50: OPEN PROGRAM RM
+2024-03-20 12:57:49,551; INFO; functions.loggin_RM.60: ENTER USER_NAME
+2024-03-20 12:57:51,037; INFO; functions.loggin_RM.65: ENTER PASSWORD
+2024-03-20 12:57:52,271; INFO; functions.loggin_RM.69: ENTER RM
+2024-03-20 12:58:36,944; INFO; functions.enter_coligada.75: CLICK CONTEXTO
+2024-03-20 12:58:42,303; INFO; functions.enter_coligada.78: CLICK COLIGADA 2
+2024-03-20 12:58:47,391; INFO; functions.enter_coligada.82: INSERE O COLIGADA CODE = 2
+2024-03-20 12:58:47,507; INFO; functions.enter_coligada.84: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-03-20 12:58:49,508; INFO; functions.enter_coligada.87: CLICK AVANÇAR NOVAMENTE
+2024-03-20 12:58:53,319; INFO; functions.enter_coligada.91: CLICK CONCLUIR
+2024-03-20 12:59:22,321; INFO; functions.enter_coligada.94: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-03-20 12:59:23,212; INFO; functions.enter_contas_a_pagar.105: CLICK - TOTVS - LINHA RM
+2024-03-20 12:59:26,206; INFO; functions.enter_contas_a_pagar.110: CLICK - BACK OFFICE
+2024-03-20 12:59:29,146; INFO; functions.enter_contas_a_pagar.115: CLICK - GESTAO FINANCEIRA
+2024-03-20 12:59:40,317; INFO; functions.enter_contas_a_pagar.120: CLICK - CONTAS A PAGAR
+2024-03-20 12:59:41,041; INFO; functions.waitForImage.868: LANÇAMENTOS image found.
+2024-03-20 13:00:06,601; INFO; functions.waitForImage.877: LICENCAS EXCEDIDAS image not found.
+2024-03-20 13:00:06,617; INFO; main.process.67: PROCESSO 1 de 91 A SER TRATADO: {'data': '18-03-2024', 'pi': '3943751', 'inv': '2024013', 'moeda': 'USD', 'montante': '-253062.35', 'saldo': '97875.01', 'nome': 'ENAV Asia Pte. Ltd.', 'cod': None}
+2024-03-20 13:00:06,617; INFO; main.process.78: inv original 2024013. tamanho 7
+2024-03-20 13:00:06,617; INFO; main.process.83: inv TRATADA 00202401301. tamanho 11
+2024-03-20 13:00:06,632; INFO; main.process.95: data: 18032024 <class 'str'>
+
+                        pi: 3943751 <class 'str'>
+
+                        inv: 00202401301 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 253062,35 <class 'str'>
+
+                        saldo: 97875.01 <class 'str'>
+
+                        nome: ENAV Asia Pte. Ltd. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:00:12,516; INFO; functions.filter_lancamento.183: ESCREVE Número do documento NO FILTRO
+2024-03-20 13:00:14,391; INFO; functions.filter_lancamento.189: CLICK - BOTÃO DE SELECAO DE FILTRO
+2024-03-20 13:00:16,995; INFO; functions.filter_lancamento.213: VALOR DE 00202401301 FILTRO
+2024-03-20 13:00:17,933; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:00:27,534; INFO; functions.desmark_filter.274: CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2024-03-20 13:00:29,395; INFO; functions.desmark_filter.278: CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2024-03-20 13:00:31,428; INFO; functions.desmark_filter.282: CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2024-03-20 13:00:33,554; INFO; functions.desmark_filter.286: CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2024-03-20 13:00:35,817; INFO; functions.desmark_filter.290: ATUALIZA O FILTRO
+2024-03-20 13:00:36,224; INFO; functions.waitForImage.846: FILTER CLEAN image found.
+2024-03-20 13:00:36,327; INFO; functions.filter_clean.225: CLICA NO BOTÃO X DO LIMPA FILTRO - TENTATIVA 1
+2024-03-20 13:00:48,510; INFO; functions.waitForImage.877: FILTER CLEAN image not found.
+2024-03-20 13:00:48,526; INFO; functions.filter_clean.228: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 2
+2024-03-20 13:00:58,964; INFO; functions.waitForImage.877: FILTER CLEAN image not found.
+2024-03-20 13:00:58,980; INFO; functions.filter_clean.228: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 3
+2024-03-20 13:01:00,833; INFO; functions.select_tipo_documento.235: NOME DA COLUNA: Tipo de Documento
+2024-03-20 13:01:02,709; INFO; functions.select_tipo_documento.239: HOVER NOME DA COLUNA: Tipo de Documento
+2024-03-20 13:01:04,499; INFO; functions.select_tipo_documento.251: CLICA NO FILTRO PERSONALIZAR
+2024-03-20 13:01:06,475; INFO; functions.select_tipo_documento.255: CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2024-03-20 13:01:13,804; INFO; functions.select_tipo_documento.267: CLICK BUTTON CONFIRMAR FILTRO
+2024-03-20 13:01:13,804; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:01:15,486; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:01:21,609; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:01:22,600; INFO; functions.check_table_record.309: Para este processo é necessário que existam registros na visão.
+2024-03-20 13:01:25,615; INFO; functions.check_table_record.316: SEM REGISTROS ENCONTRADOS
+2024-03-20 13:01:25,724; INFO; main.process.123: NENHUM RESULTADO ENCONTRADO
+2024-03-20 13:01:25,769; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:01:25,769; INFO; main.process.67: PROCESSO 2 de 91 A SER TRATADO: {'data': '17-03-2024', 'pi': '3941404', 'inv': '2024013', 'moeda': 'EUR', 'montante': '-12100.00', 'saldo': '2914.14', 'nome': 'Ayolt M. Zoer', 'cod': None}
+2024-03-20 13:01:25,769; INFO; main.process.78: inv original 2024013. tamanho 7
+2024-03-20 13:01:25,769; INFO; main.process.83: inv TRATADA 00202401301. tamanho 11
+2024-03-20 13:01:25,816; INFO; main.process.95: data: 17032024 <class 'str'>
+
+                        pi: 3941404 <class 'str'>
+
+                        inv: 00202401301 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 12100,00 <class 'str'>
+
+                        saldo: 2914.14 <class 'str'>
+
+                        nome: Ayolt M. Zoer <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:01:25,819; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:01:25,821; INFO; main.process.67: PROCESSO 3 de 91 A SER TRATADO: {'data': '17-03-2024', 'pi': '3941402', 'inv': '3635', 'moeda': 'EUR', 'montante': '-6663.26', 'saldo': '15014.14', 'nome': 'Leonardo Duran', 'cod': None}
+2024-03-20 13:01:25,822; INFO; main.process.78: inv original 3635. tamanho 4
+2024-03-20 13:01:25,823; INFO; main.process.83: inv TRATADA 00000363501. tamanho 11
+2024-03-20 13:01:25,826; INFO; main.process.95: data: 17032024 <class 'str'>
+
+                        pi: 3941402 <class 'str'>
+
+                        inv: 00000363501 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 6663,26 <class 'str'>
+
+                        saldo: 15014.14 <class 'str'>
+
+                        nome: Leonardo Duran <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:01:28,491; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:01:28,623; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:01:30,823; INFO; functions.filter_lancamento.213: VALOR DE 00000363501 FILTRO
+2024-03-20 13:01:31,755; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:01:31,755; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:01:35,216; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:01:36,560; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:01:37,633; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:01:39,637; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:01:41,670; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:01:44,432; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:01:45,967; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:01:49,542; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:01:51,402; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:01:53,403; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:01:53,403; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:01:54,009; INFO; functions.check_inv.459: Historico completo: INV - 00003635 - Motus Technology AS 
+2024-03-20 13:01:54,009; INFO; functions.check_inv.496: ULTIMA INV, COLIGADA OU VALOR INCORRETAS ENCONTRADAS: 00003635 - Motus Technology AS 
+2024-03-20 13:01:54,009; INFO; functions.check_inv.499: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:01:54,009; INFO; main.process.130: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:01:54,009; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:01:54,009; INFO; main.process.67: PROCESSO 4 de 91 A SER TRATADO: {'data': '17-03-2024', 'pi': '3937532', 'inv': '3635', 'moeda': 'NOK', 'montante': '-270473.47', 'saldo': '9796.62', 'nome': 'Motus Technology AS', 'cod': None}
+2024-03-20 13:01:54,009; INFO; main.process.78: inv original 3635. tamanho 4
+2024-03-20 13:01:54,009; INFO; main.process.83: inv TRATADA 00000363501. tamanho 11
+2024-03-20 13:01:54,009; INFO; main.process.95: data: 17032024 <class 'str'>
+
+                        pi: 3937532 <class 'str'>
+
+                        inv: 00000363501 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 270473,47 <class 'str'>
+
+                        saldo: 9796.62 <class 'str'>
+
+                        nome: Motus Technology AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:01:54,009; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:01:54,009; INFO; main.process.67: PROCESSO 5 de 91 A SER TRATADO: {'data': '17-03-2024', 'pi': '3941406', 'inv': '90324394', 'moeda': 'USD', 'montante': '-101366.50', 'saldo': '350937.36', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}
+2024-03-20 13:01:54,009; INFO; main.process.78: inv original 90324394. tamanho 8
+2024-03-20 13:01:54,009; INFO; main.process.83: inv TRATADA 09032439401. tamanho 11
+2024-03-20 13:01:54,009; INFO; main.process.95: data: 17032024 <class 'str'>
+
+                        pi: 3941406 <class 'str'>
+
+                        inv: 09032439401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 101366,50 <class 'str'>
+
+                        saldo: 350937.36 <class 'str'>
+
+                        nome: KONGSBERG MARITIME AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:01:54,009; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:01:54,009; INFO; main.process.67: PROCESSO 6 de 91 A SER TRATADO: {'data': '14-03-2024', 'pi': '3937507', 'inv': '27574', 'moeda': 'USD', 'montante': '-2975.00', 'saldo': '496201.61', 'nome': 'Infrastructure Networks Inc.', 'cod': None}
+2024-03-20 13:01:54,009; INFO; main.process.78: inv original 27574. tamanho 5
+2024-03-20 13:01:54,009; INFO; main.process.83: inv TRATADA 00002757401. tamanho 11
+2024-03-20 13:01:54,009; INFO; main.process.95: data: 14032024 <class 'str'>
+
+                        pi: 3937507 <class 'str'>
+
+                        inv: 00002757401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 2975,00 <class 'str'>
+
+                        saldo: 496201.61 <class 'str'>
+
+                        nome: Infrastructure Networks Inc. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:01:56,563; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:01:56,697; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:01:58,861; INFO; functions.filter_lancamento.213: VALOR DE 00002757401 FILTRO
+2024-03-20 13:01:59,783; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:01:59,783; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:02:03,321; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:02:04,571; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:02:05,569; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:02:07,579; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:02:09,555; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:02:12,245; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:02:13,797; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:02:17,392; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:02:19,227; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:02:21,228; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:02:21,228; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:02:21,833; INFO; functions.check_inv.459: Historico completo: INV - 00027574 - Infrastructure Networks Inc. 
+2024-03-20 13:02:22,335; INFO; functions.check_inv.474: INV E COLIGADA CORRETA ENCONTRADA: 00027574 - Infrastructure Networks Inc. 
+2024-03-20 13:02:22,744; INFO; functions.check_inv.478: 4 PASSOS PARA ESQUERDA
+2024-03-20 13:02:22,849; INFO; functions.check_inv.481: ctrl c
+2024-03-20 13:02:23,349; INFO; functions.check_inv.487: VALOR PROCESSO: 8661,21
+2024-03-20 13:02:23,349; INFO; functions.check_inv.488: VALOR PROCESSO2: <class 'str'>
+2024-03-20 13:02:23,349; INFO; functions.check_inv.496: ULTIMA INV, COLIGADA OU VALOR INCORRETAS ENCONTRADAS: 00027574 - Infrastructure Networks Inc. 
+2024-03-20 13:02:23,349; INFO; functions.check_inv.499: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:02:23,349; INFO; main.process.130: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:02:23,349; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:02:23,349; INFO; main.process.67: PROCESSO 7 de 91 A SER TRATADO: {'data': '14-03-2024', 'pi': '3937496', 'inv': '3252024', 'moeda': 'CSS', 'montante': '-9308.00', 'saldo': '499176.61', 'nome': 'CSS Kingston Logistics FZC', 'cod': None}
+2024-03-20 13:02:23,349; INFO; main.process.78: inv original 3252024. tamanho 7
+2024-03-20 13:02:23,349; INFO; main.process.83: inv TRATADA 00325202401. tamanho 11
+2024-03-20 13:02:23,349; INFO; main.process.95: data: 14032024 <class 'str'>
+
+                        pi: 3937496 <class 'str'>
+
+                        inv: 00325202401 <class 'str'>
+
+                        moeda: CSS <class 'str'>
+
+                        montante: 9308,00 <class 'str'>
+
+                        saldo: 499176.61 <class 'str'>
+
+                        nome: CSS Kingston Logistics FZC <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:02:26,036; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:02:26,155; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:02:28,321; INFO; functions.filter_lancamento.213: VALOR DE 00325202401 FILTRO
+2024-03-20 13:02:29,243; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:02:29,243; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:02:32,066; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:02:33,258; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:02:34,107; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:02:36,119; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:02:38,098; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:02:40,848; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:02:42,433; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:02:46,007; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:02:47,846; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:02:49,847; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:02:49,847; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:02:50,468; INFO; functions.check_inv.459: Historico completo: INV - 03252024 - CSS KINGSTON LOGISTICS  
+2024-03-20 13:02:50,468; INFO; functions.check_inv.496: ULTIMA INV, COLIGADA OU VALOR INCORRETAS ENCONTRADAS: 03252024 - CSS KINGSTON LOGISTICS  
+2024-03-20 13:02:50,468; INFO; functions.check_inv.499: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:02:50,468; INFO; main.process.130: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:02:50,468; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:02:50,468; INFO; main.process.67: PROCESSO 8 de 91 A SER TRATADO: {'data': '14-03-2024', 'pi': '3937258', 'inv': '500714', 'moeda': 'GBP', 'montante': '-27560.00', 'saldo': '2440.12', 'nome': 'European Management Marine Corp', 'cod': None}
+2024-03-20 13:02:50,468; INFO; main.process.78: inv original 500714. tamanho 6
+2024-03-20 13:02:50,468; INFO; main.process.83: inv TRATADA 00050071401. tamanho 11
+2024-03-20 13:02:50,468; INFO; main.process.95: data: 14032024 <class 'str'>
+
+                        pi: 3937258 <class 'str'>
+
+                        inv: 00050071401 <class 'str'>
+
+                        moeda: GBP <class 'str'>
+
+                        montante: 27560,00 <class 'str'>
+
+                        saldo: 2440.12 <class 'str'>
+
+                        nome: European Management Marine Corp <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:02:53,208; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:02:53,340; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:02:55,789; INFO; functions.filter_lancamento.213: VALOR DE 00050071401 FILTRO
+2024-03-20 13:02:56,723; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:02:56,723; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:02:59,321; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:03:05,541; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:03:06,520; INFO; functions.check_table_record.309: Para este processo é necessário que existam registros na visão.
+2024-03-20 13:03:09,535; INFO; functions.check_table_record.316: SEM REGISTROS ENCONTRADOS
+2024-03-20 13:03:09,641; INFO; main.process.123: NENHUM RESULTADO ENCONTRADO
+2024-03-20 13:03:09,645; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:03:09,645; INFO; main.process.67: PROCESSO 9 de 91 A SER TRATADO: {'data': '13-03-2024', 'pi': '3934484', 'inv': '10023', 'moeda': 'NOK', 'montante': '-225321.84', 'saldo': '30270.09', 'nome': 'Navatech AS', 'cod': None}
+2024-03-20 13:03:09,645; INFO; main.process.78: inv original 10023. tamanho 5
+2024-03-20 13:03:09,645; INFO; main.process.83: inv TRATADA 00001002301. tamanho 11
+2024-03-20 13:03:09,645; INFO; main.process.95: data: 13032024 <class 'str'>
+
+                        pi: 3934484 <class 'str'>
+
+                        inv: 00001002301 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 225321,84 <class 'str'>
+
+                        saldo: 30270.09 <class 'str'>
+
+                        nome: Navatech AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:03:12,424; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:03:12,559; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:03:14,711; INFO; functions.filter_lancamento.213: VALOR DE 00001002301 FILTRO
+2024-03-20 13:03:15,663; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:03:15,664; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:03:18,540; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:03:19,787; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:03:20,811; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:03:22,812; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:03:24,799; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:03:27,554; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:03:29,122; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:03:32,699; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:03:34,537; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:03:36,538; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:03:36,538; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:03:37,145; INFO; functions.check_inv.459: Historico completo: INV - 00010023 - NAVATECH AS 
+2024-03-20 13:03:37,646; INFO; functions.check_inv.474: INV E COLIGADA CORRETA ENCONTRADA: 00010023 - NAVATECH AS 
+2024-03-20 13:03:38,056; INFO; functions.check_inv.478: 4 PASSOS PARA ESQUERDA
+2024-03-20 13:03:38,161; INFO; functions.check_inv.481: ctrl c
+2024-03-20 13:03:38,662; INFO; functions.check_inv.487: VALOR PROCESSO: 225321,84
+2024-03-20 13:03:38,662; INFO; functions.check_inv.488: VALOR PROCESSO2: <class 'str'>
+2024-03-20 13:03:38,662; INFO; functions.check_inv.491: VALOR CORRETO ENCONTRADO.
+2024-03-20 13:03:38,662; INFO; main.process.130: None
+2024-03-20 13:03:40,769; INFO; functions.define_moeda.514: ctrl + enter
+2024-03-20 13:03:55,171; INFO; functions.waitForImage.868: INTEGRAÇÃO BANCÁRIA image found.
+2024-03-20 13:03:57,295; INFO; functions.define_moeda.520: CLICK EM VALOR
+2024-03-20 13:03:57,707; INFO; functions.define_moeda.524: 4 TAB
+2024-03-20 13:04:30,924; INFO; functions.define_moeda.531: MOEDA PREENCHIDA COM NOK
+2024-03-20 13:04:35,525; INFO; functions.waitForImage.846: PRESS BUTTON OK image found.
+2024-03-20 13:04:37,646; INFO; functions.define_moeda.543: APERTA OK
+2024-03-20 13:04:39,749; INFO; functions.baixa_inv.686: CHECK LINHA
+2024-03-20 13:04:46,472; INFO; functions.baixa_inv.690: SELECIONA BOTÃO BAIXA
+2024-03-20 13:05:25,144; INFO; functions.baixa_inv.697: POPUP BOTÃO OK NÃO APARECEU
+2024-03-20 13:05:26,113; INFO; functions.baixa_inv.702: CLICA AVANÇAR
+2024-03-20 13:05:32,321; INFO; functions.baixa_inv.708: SELECIONA SIMPLIFICADA
+2024-03-20 13:05:34,923; INFO; functions.baixa_inv.712: DATA AUTOMÁTICA: 13/03/2024
+2024-03-20 13:05:49,160; INFO; functions.baixa_inv.747: CONTA CAIXA: NOK - BANCO EBURY C/C 284586086
+2024-03-20 13:05:49,160; INFO; functions.baixa_inv.750: CONTA CAIXA PREENCHIDA CORRETAMENTE
+2024-03-20 13:05:50,129; INFO; functions.baixa_inv.758: AVANÇAR
+2024-03-20 13:05:55,694; INFO; functions.baixa_inv.764: VALOR INV: 225321,84
+2024-03-20 13:05:56,722; INFO; functions.baixa_inv.777: AVANÇAR
+2024-03-20 13:06:04,725; INFO; functions.baixa_inv.781: AVANÇAR
+2024-03-20 13:06:06,005; INFO; functions.baixa_inv.785: EXECUTAR
+2024-03-20 13:06:22,447; INFO; functions.waitForImage.868: PRESS BUTTON OK image found.
+2024-03-20 13:06:24,463; INFO; functions.baixa_inv.790: OK SUCESSO
+2024-03-20 13:06:28,247; INFO; functions.baixa_inv.802: O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 20/03/2024 13:06:13
+  | Fim    : 20/03/2024 13:06:18
+  | Duração: 00:00:04:589
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 20/03/2024 13:06:13
+  |  | Fim    : 20/03/2024 13:06:13
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 20/03/2024 13:06:14
+  |  | Fim    : 20/03/2024 13:06:14
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 20/03/2024 13:06:14
+  |  | Fim    : 20/03/2024 13:06:14
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 20/03/2024 13:06:14
+  |  | Fim    : 20/03/2024 13:06:14
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 20/03/2024 13:06:14
+  |  | Fim    : 20/03/2024 13:06:14
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 20/03/2024 13:06:14
+  |  | Fim    : 20/03/2024 13:06:14
+  |  | Duração: 00:00:00:110
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 20/03/2024 13:06:14
+  |  |  | Fim    : 20/03/2024 13:06:14
+  |  |  | Duração: 00:00:00:94
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 2596)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 20/03/2024 13:06:14
+  |  |  |  | Fim    : 20/03/2024 13:06:14
+  |  |  |  | Duração: 00:00:00:94
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 20/03/2024 13:06:14
+  |  | Fim    : 20/03/2024 13:06:14
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 20/03/2024 13:06:14
+  |  | Fim    : 20/03/2024 13:06:14
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 20/03/2024 13:06:14
+  |  | Fim    : 20/03/2024 13:06:14
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |-------------------------------------------------------------
+2024-03-20 13:06:29,153; INFO; functions.baixa_inv.806: FECHAR
+2024-03-20 13:06:29,153; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:06:29,153; INFO; main.process.67: PROCESSO 10 de 91 A SER TRATADO: {'data': '13-03-2024', 'pi': '3934462', 'inv': '361904', 'moeda': 'NOK', 'montante': '-5500000.00', 'saldo': '255591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}
+2024-03-20 13:06:29,153; INFO; main.process.78: inv original 361904. tamanho 6
+2024-03-20 13:06:29,153; INFO; main.process.83: inv TRATADA 00036190401. tamanho 11
+2024-03-20 13:06:29,153; INFO; main.process.95: data: 13032024 <class 'str'>
+
+                        pi: 3934462 <class 'str'>
+
+                        inv: 00036190401 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 5500000,00 <class 'str'>
+
+                        saldo: 255591.93 <class 'str'>
+
+                        nome: Green Yard Kleven AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:06:33,943; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:06:34,091; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:06:36,255; INFO; functions.filter_lancamento.213: VALOR DE 00036190401 FILTRO
+2024-03-20 13:06:37,177; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:06:37,177; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:06:40,084; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:06:41,301; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:06:42,305; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:06:44,308; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:06:46,280; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:06:49,188; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:06:50,748; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:06:54,323; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:06:56,171; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:06:58,172; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:06:58,172; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:06:58,777; INFO; functions.check_inv.459: Historico completo: INV - 00361904 - GREEN YARD KLEVEN AS 
+2024-03-20 13:06:59,278; INFO; functions.check_inv.474: INV E COLIGADA CORRETA ENCONTRADA: 00361904 - GREEN YARD KLEVEN AS 
+2024-03-20 13:06:59,687; INFO; functions.check_inv.478: 4 PASSOS PARA ESQUERDA
+2024-03-20 13:06:59,792; INFO; functions.check_inv.481: ctrl c
+2024-03-20 13:07:00,293; INFO; functions.check_inv.487: VALOR PROCESSO: 6414086,00
+2024-03-20 13:07:00,293; INFO; functions.check_inv.488: VALOR PROCESSO2: <class 'str'>
+2024-03-20 13:07:00,293; INFO; functions.check_inv.496: ULTIMA INV, COLIGADA OU VALOR INCORRETAS ENCONTRADAS: 00361904 - GREEN YARD KLEVEN AS 
+2024-03-20 13:07:00,293; INFO; functions.check_inv.499: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:07:00,293; INFO; main.process.130: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:07:00,293; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:07:00,293; INFO; main.process.67: PROCESSO 11 de 91 A SER TRATADO: {'data': '13-03-2024', 'pi': '3934791', 'inv': '3704', 'moeda': 'USD', 'montante': '-5000.00', 'saldo': '1104655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}
+2024-03-20 13:07:00,293; INFO; main.process.78: inv original 3704. tamanho 4
+2024-03-20 13:07:00,293; INFO; main.process.83: inv TRATADA 00000370401. tamanho 11
+2024-03-20 13:07:00,293; INFO; main.process.95: data: 13032024 <class 'str'>
+
+                        pi: 3934791 <class 'str'>
+
+                        inv: 00000370401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 5000,00 <class 'str'>
+
+                        saldo: 1104655.72 <class 'str'>
+
+                        nome: ARGO COMMUNICATIONS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:07:02,881; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:07:03,013; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:07:05,183; INFO; functions.filter_lancamento.213: VALOR DE 00000370401 FILTRO
+2024-03-20 13:07:06,112; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:07:06,112; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:07:09,220; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:07:10,432; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:07:11,424; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:07:13,433; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:07:15,403; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:07:18,096; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:07:19,626; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:07:23,197; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:07:25,033; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:07:27,034; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:07:27,034; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:07:27,640; INFO; functions.check_inv.459: Historico completo: INV - 000003704 - ARGO COMMUNICATIONS
+2024-03-20 13:07:28,141; INFO; functions.check_inv.474: INV E COLIGADA CORRETA ENCONTRADA: 000003704 - ARGO COMMUNICATIONS
+2024-03-20 13:07:28,551; INFO; functions.check_inv.478: 4 PASSOS PARA ESQUERDA
+2024-03-20 13:07:28,656; INFO; functions.check_inv.481: ctrl c
+2024-03-20 13:07:29,157; INFO; functions.check_inv.487: VALOR PROCESSO: 5000,00
+2024-03-20 13:07:29,157; INFO; functions.check_inv.488: VALOR PROCESSO2: <class 'str'>
+2024-03-20 13:07:29,157; INFO; functions.check_inv.491: VALOR CORRETO ENCONTRADO.
+2024-03-20 13:07:29,157; INFO; main.process.130: None
+2024-03-20 13:07:31,263; INFO; functions.define_moeda.514: ctrl + enter
+2024-03-20 13:07:41,428; INFO; functions.waitForImage.868: INTEGRAÇÃO BANCÁRIA image found.
+2024-03-20 13:07:43,559; INFO; functions.define_moeda.520: CLICK EM VALOR
+2024-03-20 13:07:43,970; INFO; functions.define_moeda.524: 4 TAB
+2024-03-20 13:08:17,187; INFO; functions.define_moeda.531: MOEDA PREENCHIDA COM USD
+2024-03-20 13:08:21,767; INFO; functions.waitForImage.846: PRESS BUTTON OK image found.
+2024-03-20 13:08:23,891; INFO; functions.define_moeda.543: APERTA OK
+2024-03-20 13:08:25,995; INFO; functions.baixa_inv.686: CHECK LINHA
+2024-03-20 13:08:28,849; INFO; functions.baixa_inv.690: SELECIONA BOTÃO BAIXA
+2024-03-20 13:09:07,657; INFO; functions.baixa_inv.697: POPUP BOTÃO OK NÃO APARECEU
+2024-03-20 13:09:08,595; INFO; functions.baixa_inv.702: CLICA AVANÇAR
+2024-03-20 13:09:14,865; INFO; functions.baixa_inv.708: SELECIONA SIMPLIFICADA
+2024-03-20 13:09:17,423; INFO; functions.baixa_inv.712: DATA AUTOMÁTICA: 15/03/2024
+2024-03-20 13:09:17,423; INFO; functions.baixa_inv.721: DATAS DIFERENTES, FAZENDO ALTERAÇÃO
+2024-03-20 13:09:33,845; INFO; functions.baixa_inv.747: CONTA CAIXA: USD - BANCO EBURY C/C 284586086
+2024-03-20 13:09:33,845; INFO; functions.baixa_inv.750: CONTA CAIXA PREENCHIDA CORRETAMENTE
+2024-03-20 13:09:34,798; INFO; functions.baixa_inv.758: AVANÇAR
+2024-03-20 13:09:40,676; INFO; functions.baixa_inv.764: VALOR INV: 5000,00
+2024-03-20 13:09:41,610; INFO; functions.baixa_inv.777: AVANÇAR
+2024-03-20 13:09:47,329; INFO; functions.baixa_inv.781: AVANÇAR
+2024-03-20 13:09:48,571; INFO; functions.baixa_inv.785: EXECUTAR
+2024-03-20 13:10:06,748; INFO; functions.waitForImage.868: PRESS BUTTON OK image found.
+2024-03-20 13:10:08,762; INFO; functions.baixa_inv.790: OK SUCESSO
+2024-03-20 13:10:12,321; INFO; functions.baixa_inv.802: O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 20/03/2024 13:09:56
+  | Fim    : 20/03/2024 13:10:01
+  | Duração: 00:00:04:504
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 20/03/2024 13:09:57
+  |  | Fim    : 20/03/2024 13:09:57
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 20/03/2024 13:09:57
+  |  | Fim    : 20/03/2024 13:09:57
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 20/03/2024 13:09:57
+  |  | Fim    : 20/03/2024 13:09:57
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 20/03/2024 13:09:57
+  |  | Fim    : 20/03/2024 13:09:57
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 20/03/2024 13:09:57
+  |  | Fim    : 20/03/2024 13:09:57
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 20/03/2024 13:09:57
+  |  | Fim    : 20/03/2024 13:09:57
+  |  | Duração: 00:00:00:109
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 20/03/2024 13:09:57
+  |  |  | Fim    : 20/03/2024 13:09:57
+  |  |  | Duração: 00:00:00:109
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 2616)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 20/03/2024 13:09:57
+  |  |  |  | Fim    : 20/03/2024 13:09:57
+  |  |  |  | Duração: 00:00:00:93
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 20/03/2024 13:09:57
+  |  | Fim    : 20/03/2024 13:09:57
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 20/03/2024 13:09:57
+  |  | Fim    : 20/03/2024 13:09:57
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 20/03/2024 13:09:57
+  |  | Fim    : 20/03/2024 13:09:57
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |--------------------------------------------------------------
+2024-03-20 13:10:13,227; INFO; functions.baixa_inv.806: FECHAR
+2024-03-20 13:10:13,227; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:10:13,227; INFO; main.process.67: PROCESSO 12 de 91 A SER TRATADO: {'data': '13-03-2024', 'pi': '3934790', 'inv': '3705', 'moeda': 'USD', 'montante': '-2500.00', 'saldo': '1109655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}
+2024-03-20 13:10:13,227; INFO; main.process.78: inv original 3705. tamanho 4
+2024-03-20 13:10:13,227; INFO; main.process.83: inv TRATADA 00000370501. tamanho 11
+2024-03-20 13:10:13,227; INFO; main.process.95: data: 13032024 <class 'str'>
+
+                        pi: 3934790 <class 'str'>
+
+                        inv: 00000370501 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 2500,00 <class 'str'>
+
+                        saldo: 1109655.72 <class 'str'>
+
+                        nome: ARGO COMMUNICATIONS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:10:18,173; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:10:18,305; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:10:20,446; INFO; functions.filter_lancamento.213: VALOR DE 00000370501 FILTRO
+2024-03-20 13:10:21,375; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:10:21,375; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:10:24,171; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:10:25,381; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:10:26,391; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:10:28,395; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:10:30,378; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:10:33,112; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:10:34,590; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:10:38,172; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:10:40,008; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:10:42,009; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:10:42,009; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:10:42,630; INFO; functions.check_inv.459: Historico completo: INV - 00003705 - ARGO COMMUNICATIONS 
+2024-03-20 13:10:43,131; INFO; functions.check_inv.474: INV E COLIGADA CORRETA ENCONTRADA: 00003705 - ARGO COMMUNICATIONS 
+2024-03-20 13:10:43,540; INFO; functions.check_inv.478: 4 PASSOS PARA ESQUERDA
+2024-03-20 13:10:43,644; INFO; functions.check_inv.481: ctrl c
+2024-03-20 13:10:44,145; INFO; functions.check_inv.487: VALOR PROCESSO: 2500,00
+2024-03-20 13:10:44,145; INFO; functions.check_inv.488: VALOR PROCESSO2: <class 'str'>
+2024-03-20 13:10:44,145; INFO; functions.check_inv.491: VALOR CORRETO ENCONTRADO.
+2024-03-20 13:10:44,145; INFO; main.process.130: None
+2024-03-20 13:10:46,250; INFO; functions.define_moeda.514: ctrl + enter
+2024-03-20 13:10:54,799; INFO; functions.waitForImage.868: INTEGRAÇÃO BANCÁRIA image found.
+2024-03-20 13:10:56,928; INFO; functions.define_moeda.520: CLICK EM VALOR
+2024-03-20 13:10:57,339; INFO; functions.define_moeda.524: 4 TAB
+2024-03-20 13:11:30,556; INFO; functions.define_moeda.531: MOEDA PREENCHIDA COM USD
+2024-03-20 13:11:35,152; INFO; functions.waitForImage.846: PRESS BUTTON OK image found.
+2024-03-20 13:11:37,286; INFO; functions.define_moeda.543: APERTA OK
+2024-03-20 13:11:39,390; INFO; functions.baixa_inv.686: CHECK LINHA
+2024-03-20 13:11:42,761; INFO; functions.baixa_inv.690: SELECIONA BOTÃO BAIXA
+2024-03-20 13:12:20,922; INFO; functions.baixa_inv.697: POPUP BOTÃO OK NÃO APARECEU
+2024-03-20 13:12:21,875; INFO; functions.baixa_inv.702: CLICA AVANÇAR
+2024-03-20 13:12:28,023; INFO; functions.baixa_inv.708: SELECIONA SIMPLIFICADA
+2024-03-20 13:12:30,457; INFO; functions.baixa_inv.712: DATA AUTOMÁTICA: 15/03/2024
+2024-03-20 13:12:30,457; INFO; functions.baixa_inv.721: DATAS DIFERENTES, FAZENDO ALTERAÇÃO
+2024-03-20 13:12:47,000; INFO; functions.baixa_inv.747: CONTA CAIXA: USD - BANCO EBURY C/C 284586086
+2024-03-20 13:12:47,000; INFO; functions.baixa_inv.750: CONTA CAIXA PREENCHIDA CORRETAMENTE
+2024-03-20 13:12:47,937; INFO; functions.baixa_inv.758: AVANÇAR
+2024-03-20 13:12:53,577; INFO; functions.baixa_inv.764: VALOR INV: 2500,00
+2024-03-20 13:12:54,499; INFO; functions.baixa_inv.777: AVANÇAR
+2024-03-20 13:13:00,986; INFO; functions.baixa_inv.781: AVANÇAR
+2024-03-20 13:13:02,183; INFO; functions.baixa_inv.785: EXECUTAR
+2024-03-20 13:13:25,472; INFO; functions.waitForImage.868: PRESS BUTTON OK image found.
+2024-03-20 13:13:27,482; INFO; functions.baixa_inv.790: OK SUCESSO
+2024-03-20 13:13:31,171; INFO; functions.baixa_inv.802: O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 20/03/2024 13:13:14
+  | Fim    : 20/03/2024 13:13:20
+  | Duração: 00:00:05:471
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 20/03/2024 13:13:15
+  |  | Fim    : 20/03/2024 13:13:15
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 20/03/2024 13:13:15
+  |  | Fim    : 20/03/2024 13:13:15
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 20/03/2024 13:13:15
+  |  | Fim    : 20/03/2024 13:13:15
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 20/03/2024 13:13:15
+  |  | Fim    : 20/03/2024 13:13:15
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 20/03/2024 13:13:15
+  |  | Fim    : 20/03/2024 13:13:15
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 20/03/2024 13:13:15
+  |  | Fim    : 20/03/2024 13:13:15
+  |  | Duração: 00:00:00:125
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 20/03/2024 13:13:15
+  |  |  | Fim    : 20/03/2024 13:13:15
+  |  |  | Duração: 00:00:00:125
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 2612)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 20/03/2024 13:13:15
+  |  |  |  | Fim    : 20/03/2024 13:13:15
+  |  |  |  | Duração: 00:00:00:125
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 20/03/2024 13:13:15
+  |  | Fim    : 20/03/2024 13:13:15
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 20/03/2024 13:13:15
+  |  | Fim    : 20/03/2024 13:13:15
+  |  | Duração: 00:00:00:2
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 20/03/2024 13:13:15
+  |  | Fim    : 20/03/2024 13:13:15
+  |  | Duração: 00:00:00:3
+  |  | Dados do processo :
+  |  |------------------------------------------------------------
+2024-03-20 13:13:32,046; INFO; functions.baixa_inv.806: FECHAR
+2024-03-20 13:13:32,046; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:13:32,046; INFO; main.process.67: PROCESSO 13 de 91 A SER TRATADO: {'data': '13-03-2024', 'pi': '3934743', 'inv': '27574', 'moeda': 'USD', 'montante': '-20000.00', 'saldo': '1112155.72', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}
+2024-03-20 13:13:32,046; INFO; main.process.78: inv original 27574. tamanho 5
+2024-03-20 13:13:32,046; INFO; main.process.83: inv TRATADA 00002757401. tamanho 11
+2024-03-20 13:13:32,046; INFO; main.process.95: data: 13032024 <class 'str'>
+
+                        pi: 3934743 <class 'str'>
+
+                        inv: 00002757401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 20000,00 <class 'str'>
+
+                        saldo: 1112155.72 <class 'str'>
+
+                        nome: INCHCAPE SHIPPING SERVICES <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:13:37,596; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:13:37,731; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:13:39,898; INFO; functions.filter_lancamento.213: VALOR DE 00002757401 FILTRO
+2024-03-20 13:13:40,852; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:13:40,854; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:13:44,070; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:13:45,303; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:13:46,296; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:13:48,311; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:13:50,275; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:13:52,987; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:13:54,550; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:13:58,122; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:13:59,970; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:14:01,971; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:14:01,971; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:14:02,576; INFO; functions.check_inv.459: Historico completo: INV - 00027574 - Infrastructure Networks Inc. 
+2024-03-20 13:14:02,576; INFO; functions.check_inv.496: ULTIMA INV, COLIGADA OU VALOR INCORRETAS ENCONTRADAS: 00027574 - Infrastructure Networks Inc. 
+2024-03-20 13:14:02,576; INFO; functions.check_inv.499: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:14:02,576; INFO; main.process.130: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:14:02,576; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:14:02,576; INFO; main.process.67: PROCESSO 14 de 91 A SER TRATADO: {'data': '13-03-2024', 'pi': '3934476', 'inv': '27574', 'moeda': 'USD', 'montante': '-8661.21', 'saldo': '1132155.72', 'nome': 'Infrastructure Networks Inc.', 'cod': None}
+2024-03-20 13:14:02,576; INFO; main.process.78: inv original 27574. tamanho 5
+2024-03-20 13:14:02,576; INFO; main.process.83: inv TRATADA 00002757401. tamanho 11
+2024-03-20 13:14:02,576; INFO; main.process.95: data: 13032024 <class 'str'>
+
+                        pi: 3934476 <class 'str'>
+
+                        inv: 00002757401 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 8661,21 <class 'str'>
+
+                        saldo: 1132155.72 <class 'str'>
+
+                        nome: Infrastructure Networks Inc. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:14:05,238; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:14:05,356; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:14:07,503; INFO; functions.filter_lancamento.213: VALOR DE 00002757401 FILTRO
+2024-03-20 13:14:08,441; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:14:08,441; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:14:11,686; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:14:12,882; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:14:13,905; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:14:15,919; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:14:17,882; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:14:20,575; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:14:22,133; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:14:25,705; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:14:27,547; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:14:29,548; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:14:29,548; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:14:30,168; INFO; functions.check_inv.459: Historico completo: INV - 00027574 - Infrastructure Networks Inc. 
+2024-03-20 13:14:30,670; INFO; functions.check_inv.474: INV E COLIGADA CORRETA ENCONTRADA: 00027574 - Infrastructure Networks Inc. 
+2024-03-20 13:14:31,082; INFO; functions.check_inv.478: 4 PASSOS PARA ESQUERDA
+2024-03-20 13:14:31,187; INFO; functions.check_inv.481: ctrl c
+2024-03-20 13:14:31,688; INFO; functions.check_inv.487: VALOR PROCESSO: 8661,21
+2024-03-20 13:14:31,688; INFO; functions.check_inv.488: VALOR PROCESSO2: <class 'str'>
+2024-03-20 13:14:31,688; INFO; functions.check_inv.491: VALOR CORRETO ENCONTRADO.
+2024-03-20 13:14:31,688; INFO; main.process.130: None
+2024-03-20 13:14:33,793; INFO; functions.define_moeda.514: ctrl + enter
+2024-03-20 13:14:44,061; INFO; functions.waitForImage.868: INTEGRAÇÃO BANCÁRIA image found.
+2024-03-20 13:14:46,200; INFO; functions.define_moeda.520: CLICK EM VALOR
+2024-03-20 13:14:46,613; INFO; functions.define_moeda.524: 4 TAB
+2024-03-20 13:15:19,830; INFO; functions.define_moeda.531: MOEDA PREENCHIDA COM USD
+2024-03-20 13:15:24,426; INFO; functions.waitForImage.846: PRESS BUTTON OK image found.
+2024-03-20 13:15:26,552; INFO; functions.define_moeda.543: APERTA OK
+2024-03-20 13:15:28,655; INFO; functions.baixa_inv.686: CHECK LINHA
+2024-03-20 13:15:32,139; INFO; functions.baixa_inv.690: SELECIONA BOTÃO BAIXA
+2024-03-20 13:16:12,687; INFO; functions.baixa_inv.697: POPUP BOTÃO OK NÃO APARECEU
+2024-03-20 13:16:13,640; INFO; functions.baixa_inv.702: CLICA AVANÇAR
+2024-03-20 13:16:19,768; INFO; functions.baixa_inv.708: SELECIONA SIMPLIFICADA
+2024-03-20 13:16:22,435; INFO; functions.baixa_inv.712: DATA AUTOMÁTICA: 13/03/2024
+2024-03-20 13:16:36,592; INFO; functions.baixa_inv.747: CONTA CAIXA: USD - BANCO EBURY C/C 284586086
+2024-03-20 13:16:36,608; INFO; functions.baixa_inv.750: CONTA CAIXA PREENCHIDA CORRETAMENTE
+2024-03-20 13:16:37,561; INFO; functions.baixa_inv.758: AVANÇAR
+2024-03-20 13:16:42,561; INFO; functions.baixa_inv.764: VALOR INV: 8661,21
+2024-03-20 13:16:43,576; INFO; functions.baixa_inv.777: AVANÇAR
+2024-03-20 13:16:49,563; INFO; functions.baixa_inv.781: AVANÇAR
+2024-03-20 13:16:50,810; INFO; functions.baixa_inv.785: EXECUTAR
+2024-03-20 13:17:14,037; INFO; functions.waitForImage.868: PRESS BUTTON OK image found.
+2024-03-20 13:17:16,050; INFO; functions.baixa_inv.790: OK SUCESSO
+2024-03-20 13:17:19,738; INFO; functions.baixa_inv.802: O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 20/03/2024 13:17:04
+  | Fim    : 20/03/2024 13:17:10
+  | Duração: 00:00:05:671
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 20/03/2024 13:17:05
+  |  | Fim    : 20/03/2024 13:17:05
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 20/03/2024 13:17:05
+  |  | Fim    : 20/03/2024 13:17:05
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 20/03/2024 13:17:05
+  |  | Fim    : 20/03/2024 13:17:05
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 20/03/2024 13:17:05
+  |  | Fim    : 20/03/2024 13:17:05
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 20/03/2024 13:17:05
+  |  | Fim    : 20/03/2024 13:17:05
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 20/03/2024 13:17:05
+  |  | Fim    : 20/03/2024 13:17:05
+  |  | Duração: 00:00:00:140
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 20/03/2024 13:17:05
+  |  |  | Fim    : 20/03/2024 13:17:05
+  |  |  | Duração: 00:00:00:140
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 2610)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 20/03/2024 13:17:05
+  |  |  |  | Fim    : 20/03/2024 13:17:05
+  |  |  |  | Duração: 00:00:00:140
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 20/03/2024 13:17:05
+  |  | Fim    : 20/03/2024 13:17:05
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 20/03/2024 13:17:05
+  |  | Fim    : 20/03/2024 13:17:05
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 20/03/2024 13:17:05
+  |  | Fim    : 20/03/2024 13:17:05
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |-----------------------------------------------------------
+2024-03-20 13:17:20,640; INFO; functions.baixa_inv.806: FECHAR
+2024-03-20 13:17:20,645; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:17:20,645; INFO; main.process.67: PROCESSO 15 de 91 A SER TRATADO: {'data': '12-03-2024', 'pi': '3931576', 'inv': '361911', 'moeda': 'NOK', 'montante': '-101893.00', 'saldo': '5591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}
+2024-03-20 13:17:20,646; INFO; main.process.78: inv original 361911. tamanho 6
+2024-03-20 13:17:20,646; INFO; main.process.83: inv TRATADA 00036191101. tamanho 11
+2024-03-20 13:17:20,646; INFO; main.process.95: data: 12032024 <class 'str'>
+
+                        pi: 3931576 <class 'str'>
+
+                        inv: 00036191101 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 101893,00 <class 'str'>
+
+                        saldo: 5591.93 <class 'str'>
+
+                        nome: Green Yard Kleven AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:17:25,461; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:17:25,594; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:17:27,736; INFO; functions.filter_lancamento.213: VALOR DE 00036191101 FILTRO
+2024-03-20 13:17:28,674; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:17:28,674; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:17:31,528; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:17:32,731; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:17:33,857; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:17:35,863; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:17:37,850; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:17:40,546; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:17:42,125; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:17:45,696; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:17:47,538; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:17:49,539; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:17:49,539; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:17:50,143; INFO; functions.check_inv.459: Historico completo: INV - 00361911 - GREEN YARD KLEVEN AS 
+2024-03-20 13:17:50,645; INFO; functions.check_inv.474: INV E COLIGADA CORRETA ENCONTRADA: 00361911 - GREEN YARD KLEVEN AS 
+2024-03-20 13:17:51,054; INFO; functions.check_inv.478: 4 PASSOS PARA ESQUERDA
+2024-03-20 13:17:51,159; INFO; functions.check_inv.481: ctrl c
+2024-03-20 13:17:51,660; INFO; functions.check_inv.487: VALOR PROCESSO: 101893,00
+2024-03-20 13:17:51,660; INFO; functions.check_inv.488: VALOR PROCESSO2: <class 'str'>
+2024-03-20 13:17:51,660; INFO; functions.check_inv.491: VALOR CORRETO ENCONTRADO.
+2024-03-20 13:17:51,660; INFO; main.process.130: None
+2024-03-20 13:17:53,765; INFO; functions.define_moeda.514: ctrl + enter
+2024-03-20 13:18:03,845; INFO; functions.waitForImage.868: INTEGRAÇÃO BANCÁRIA image found.
+2024-03-20 13:18:05,990; INFO; functions.define_moeda.520: CLICK EM VALOR
+2024-03-20 13:18:06,435; INFO; functions.define_moeda.524: 4 TAB
+2024-03-20 13:18:39,652; INFO; functions.define_moeda.531: MOEDA PREENCHIDA COM NOK
+2024-03-20 13:18:44,232; INFO; functions.waitForImage.846: PRESS BUTTON OK image found.
+2024-03-20 13:18:46,367; INFO; functions.define_moeda.543: APERTA OK
+2024-03-20 13:18:48,470; INFO; functions.baixa_inv.686: CHECK LINHA
+2024-03-20 13:18:52,607; INFO; functions.baixa_inv.690: SELECIONA BOTÃO BAIXA
+2024-03-20 13:18:56,936; INFO; functions.baixa_inv.695: CLICA OK
+2024-03-20 13:19:02,186; INFO; functions.baixa_inv.702: CLICA AVANÇAR
+2024-03-20 13:19:08,377; INFO; functions.baixa_inv.708: SELECIONA SIMPLIFICADA
+2024-03-20 13:19:10,918; INFO; functions.baixa_inv.712: DATA AUTOMÁTICA: 13/03/2024
+2024-03-20 13:19:10,918; INFO; functions.baixa_inv.721: DATAS DIFERENTES, FAZENDO ALTERAÇÃO
+2024-03-20 13:19:27,340; INFO; functions.baixa_inv.747: CONTA CAIXA: NOK - BANCO EBURY C/C 284586086
+2024-03-20 13:19:27,340; INFO; functions.baixa_inv.750: CONTA CAIXA PREENCHIDA CORRETAMENTE
+2024-03-20 13:19:28,278; INFO; functions.baixa_inv.758: AVANÇAR
+2024-03-20 13:19:33,382; INFO; functions.baixa_inv.764: VALOR INV: 101893,00
+2024-03-20 13:19:34,320; INFO; functions.baixa_inv.777: AVANÇAR
+2024-03-20 13:19:40,267; INFO; functions.baixa_inv.781: AVANÇAR
+2024-03-20 13:19:41,528; INFO; functions.baixa_inv.785: EXECUTAR
+2024-03-20 13:19:59,854; INFO; functions.waitForImage.868: PRESS BUTTON OK image found.
+2024-03-20 13:20:01,863; INFO; functions.baixa_inv.790: OK SUCESSO
+2024-03-20 13:20:05,563; INFO; functions.baixa_inv.802: O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 20/03/2024 13:19:49
+  | Fim    : 20/03/2024 13:19:54
+  | Duração: 00:00:04:446
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 20/03/2024 13:19:49
+  |  | Fim    : 20/03/2024 13:19:49
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 20/03/2024 13:19:50
+  |  | Fim    : 20/03/2024 13:19:50
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 20/03/2024 13:19:50
+  |  | Fim    : 20/03/2024 13:19:50
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 20/03/2024 13:19:50
+  |  | Fim    : 20/03/2024 13:19:50
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 20/03/2024 13:19:50
+  |  | Fim    : 20/03/2024 13:19:50
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 20/03/2024 13:19:50
+  |  | Fim    : 20/03/2024 13:19:50
+  |  | Duração: 00:00:00:110
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 20/03/2024 13:19:50
+  |  |  | Fim    : 20/03/2024 13:19:50
+  |  |  | Duração: 00:00:00:94
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 2586)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 20/03/2024 13:19:50
+  |  |  |  | Fim    : 20/03/2024 13:19:50
+  |  |  |  | Duração: 00:00:00:94
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 20/03/2024 13:19:50
+  |  | Fim    : 20/03/2024 13:19:50
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 20/03/2024 13:19:50
+  |  | Fim    : 20/03/2024 13:19:50
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 20/03/2024 13:19:50
+  |  | Fim    : 20/03/2024 13:19:50
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |---------------------------------------------------------------
+2024-03-20 13:20:06,481; INFO; functions.baixa_inv.806: FECHAR
+2024-03-20 13:20:06,481; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:20:06,481; INFO; main.process.67: PROCESSO 16 de 91 A SER TRATADO: {'data': '12-03-2024', 'pi': '3931573', 'inv': '1000118', 'moeda': 'USD', 'montante': '-55.00', 'saldo': '37816.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}
+2024-03-20 13:20:06,481; INFO; main.process.78: inv original 1000118. tamanho 7
+2024-03-20 13:20:06,481; INFO; main.process.83: inv TRATADA 00100011801. tamanho 11
+2024-03-20 13:20:06,481; INFO; main.process.95: data: 12032024 <class 'str'>
+
+                        pi: 3931573 <class 'str'>
+
+                        inv: 00100011801 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 55,00 <class 'str'>
+
+                        saldo: 37816.93 <class 'str'>
+
+                        nome: PT. SNEPAC SHIPPING <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:20:11,215; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:20:11,363; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:20:13,541; INFO; functions.filter_lancamento.213: VALOR DE 00100011801 FILTRO
+2024-03-20 13:20:14,463; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:20:14,463; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:20:17,214; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:20:18,415; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:20:19,405; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:20:21,413; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:20:23,389; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:20:26,090; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:20:27,666; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:20:31,244; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:20:33,236; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:20:35,237; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:20:35,237; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:20:35,842; INFO; functions.check_inv.459: Historico completo: INV - 01000118 - PT SNEPAC SHIPPING 
+2024-03-20 13:20:35,843; INFO; functions.check_inv.496: ULTIMA INV, COLIGADA OU VALOR INCORRETAS ENCONTRADAS: 01000118 - PT SNEPAC SHIPPING 
+2024-03-20 13:20:35,843; INFO; functions.check_inv.499: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:20:35,843; INFO; main.process.130: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:20:35,844; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:20:35,844; INFO; main.process.67: PROCESSO 17 de 91 A SER TRATADO: {'data': '12-03-2024', 'pi': '3931572', 'inv': '1000119', 'moeda': 'USD', 'montante': '-4762.18', 'saldo': '37871.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}
+2024-03-20 13:20:35,845; INFO; main.process.78: inv original 1000119. tamanho 7
+2024-03-20 13:20:35,845; INFO; main.process.83: inv TRATADA 00100011901. tamanho 11
+2024-03-20 13:20:35,845; INFO; main.process.95: data: 12032024 <class 'str'>
+
+                        pi: 3931572 <class 'str'>
+
+                        inv: 00100011901 <class 'str'>
+
+                        moeda: USD <class 'str'>
+
+                        montante: 4762,18 <class 'str'>
+
+                        saldo: 37871.93 <class 'str'>
+
+                        nome: PT. SNEPAC SHIPPING <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:20:38,505; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:20:38,640; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:20:40,866; INFO; functions.filter_lancamento.213: VALOR DE 00100011901 FILTRO
+2024-03-20 13:20:41,808; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:20:41,808; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:20:44,327; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:20:45,556; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:20:46,590; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:20:48,604; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:20:50,580; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:20:53,312; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:20:54,870; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:20:58,440; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:21:00,277; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:21:02,278; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:21:02,278; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:21:02,884; INFO; functions.check_inv.459: Historico completo: INV - 01000119 - PT SNEPAC SHIPPING 
+2024-03-20 13:21:02,884; INFO; functions.check_inv.496: ULTIMA INV, COLIGADA OU VALOR INCORRETAS ENCONTRADAS: 01000119 - PT SNEPAC SHIPPING 
+2024-03-20 13:21:02,884; INFO; functions.check_inv.499: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:21:02,884; INFO; main.process.130: PROCESSO NÃO ENCONTRADO
+2024-03-20 13:21:02,884; INFO; main.process.64: PASSANDO PARA PROXIMO PROCESSO
+2024-03-20 13:21:02,884; INFO; main.process.67: PROCESSO 18 de 91 A SER TRATADO: {'data': '12-03-2024', 'pi': '3931566', 'inv': '22024', 'moeda': 'LLC', 'montante': '-404.25', 'saldo': '42634.11', 'nome': 'Winner LLC', 'cod': None}
+2024-03-20 13:21:02,884; INFO; main.process.78: inv original 22024. tamanho 5
+2024-03-20 13:21:02,884; INFO; main.process.83: inv TRATADA 00002202401. tamanho 11
+2024-03-20 13:21:02,884; INFO; main.process.95: data: 12032024 <class 'str'>
+
+                        pi: 3931566 <class 'str'>
+
+                        inv: 00002202401 <class 'str'>
+
+                        moeda: LLC <class 'str'>
+
+                        montante: 404,25 <class 'str'>
+
+                        saldo: 42634.11 <class 'str'>
+
+                        nome: Winner LLC <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-20 13:21:05,531; INFO; functions.waitForImage.846: NOVO FILTRO image found.
+2024-03-20 13:21:05,649; INFO; functions.filter_lancamento.200: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-03-20 13:21:07,812; INFO; functions.filter_lancamento.213: VALOR DE 00002202401 FILTRO
+2024-03-20 13:21:08,765; INFO; functions.filter_lancamento.218: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-20 13:21:08,765; INFO; functions.check_table_record.295: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-20 13:21:11,543; INFO; functions.check_table_record.299: VERIFICAdo
+2024-03-20 13:21:12,758; INFO; functions.check_table_record.305: CTRL+G
+2024-03-20 13:21:13,768; INFO; functions.check_table_record.309: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+2024-03-20 13:21:15,782; INFO; functions.check_table_record.323: NUMERO DE REGISTROS ENCONTRADOS: 1
+2024-03-20 13:21:17,751; INFO; functions.check_table_record.329: CLICK NÃO
+2024-03-20 13:21:20,455; INFO; functions.check_inv.427: MOVIDO PRA CIMA 1 VEZES
+2024-03-20 13:21:22,070; INFO; functions.check_inv.434: PRIMEIRA CELULA CLICADA
+2024-03-20 13:21:25,643; INFO; functions.check_inv.438: 35 PASSOS PARA ESQUERDA
+2024-03-20 13:21:27,494; INFO; functions.check_inv.443: 18 PASSOS PARA DIREITA
+2024-03-20 13:21:29,495; INFO; functions.check_inv.449: BUSCA NA LINHA: 1
+2024-03-20 13:21:29,495; INFO; functions.check_inv.455: ctrl c
+2024-03-20 13:21:30,100; INFO; functions.check_inv.459: Historico completo: INV - 00022024 - WINNER LLC 
+2024-03-20 13:21:30,602; INFO; functions.check_inv.474: INV E COLIGADA CORRETA ENCONTRADA: 00022024 - WINNER LLC 
+2024-03-20 13:21:31,013; INFO; functions.check_inv.478: 4 PASSOS PARA ESQUERDA
+2024-03-20 13:21:31,118; INFO; functions.check_inv.481: ctrl c
+2024-03-20 13:21:31,619; INFO; functions.check_inv.487: VALOR PROCESSO: 404,25
+2024-03-20 13:21:31,619; INFO; functions.check_inv.488: VALOR PROCESSO2: <class 'str'>
+2024-03-20 13:21:31,619; INFO; functions.check_inv.491: VALOR CORRETO ENCONTRADO.
+2024-03-20 13:21:31,619; INFO; main.process.130: None
+2024-03-20 13:21:33,724; INFO; functions.define_moeda.514: ctrl + enter
+2024-03-20 13:21:44,672; INFO; functions.waitForImage.868: INTEGRAÇÃO BANCÁRIA image found.
+2024-03-20 13:21:46,810; INFO; functions.define_moeda.520: CLICK EM VALOR
+2024-03-20 13:21:47,226; INFO; functions.define_moeda.524: 4 TAB
+2024-03-20 13:22:20,443; INFO; functions.define_moeda.531: MOEDA PREENCHIDA COM LLC
+2024-03-20 13:22:25,016; INFO; functions.waitForImage.846: PRESS BUTTON OK image found.
+2024-03-20 13:22:27,145; INFO; functions.define_moeda.543: APERTA OK
+2024-03-20 13:22:29,250; INFO; functions.baixa_inv.686: CHECK LINHA
+2024-03-20 13:22:30,503; INFO; functions.baixa_inv.690: SELECIONA BOTÃO BAIXA
+2024-03-20 13:23:07,417; INFO; functions.baixa_inv.697: POPUP BOTÃO OK NÃO APARECEU
+2024-03-20 13:25:27,509; ERROR; functions.show_exception_and_exit.24: 'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 161, in <module>
+    process()
+  File "C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 138, in process
+    erro = baixa_inv(valor, moeda, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 701, in baixa_inv
+    avancar.click()
+    ^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+2024-03-20 13:25:28,941; INFO; functions.encerra_prog.342: Fechando Excel...
+2024-03-20 13:25:29,066; INFO; functions.getPid.975: Dentro função GetPid
+
+2024-03-20 13:25:29,738; INFO; functions.getPid.985: Process RM.exe / PID: 14600 found.
+2024-03-20 13:25:29,800; INFO; functions.pidKillFinish.996: Process RM.exe / PID: 14600 killed.
+2024-03-20 13:25:29,800; INFO; functions.encerra_prog.348: RM ENCERRADO

@@ -1,0 +1,48 @@
+22-11-2023 17:46:22.565Z;functions.bot_text_art;      ____   
+22-11-2023 17:46:22.565Z;functions.bot_text_art;     [____]    
+22-11-2023 17:46:22.566Z;functions.bot_text_art;   |=]()()[=|  
+22-11-2023 17:46:22.566Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+22-11-2023 17:46:22.567Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+22-11-2023 17:46:22.568Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+22-11-2023 17:46:22.569Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+22-11-2023 17:46:22.570Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+22-11-2023 17:46:22.572Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+22-11-2023 17:46:22.573Z;functions.bot_text_art;     |_||_|                                                     
+22-11-2023 17:46:22.574Z;functions.bot_text_art;     | ||_|_   
+22-11-2023 17:46:22.574Z;functions.bot_text_art;   |___||___|  
+22-11-2023 17:46:22.575Z;functions.bot_text_art;               
+22-11-2023 17:46:22.582Z;functions.open_RM;  OPEN PROGRAM RM
+22-11-2023 17:46:36.144Z;functions.loggin_RM;  ENTER USER_NAME
+22-11-2023 17:46:37.548Z;functions.loggin_RM;  ENTER PASSWORD
+22-11-2023 17:46:38.709Z;functions.loggin_RM;  ENTER RM
+22-11-2023 17:47:11.819Z;functions.enter_coligada;  CLICK CONTEXTO
+22-11-2023 17:47:17.012Z;functions.enter_coligada;  CLICK COLIGADA 1
+22-11-2023 17:47:19.345Z;functions.enter_coligada;  CLICK AVANÇAR
+22-11-2023 17:47:21.977Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+22-11-2023 17:47:22.080Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+22-11-2023 17:47:37.969Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 13, in <module>
+    enter_coligada()
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 89, in enter_coligada
+    click_avancar_final.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+22-11-2023 17:47:40.394Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+22-11-2023 17:47:40.433Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+22-11-2023 17:47:40.449Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+22-11-2023 17:47:40.452Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+22-11-2023 17:47:40.457Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+22-11-2023 17:47:40.460Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+22-11-2023 17:47:40.719Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+22-11-2023 17:47:40.858Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+22-11-2023 17:47:40.865Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+22-11-2023 17:47:40.872Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+22-11-2023 17:47:40.876Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+22-11-2023 17:47:40.881Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+22-11-2023 17:47:40.885Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+22-11-2023 17:47:40.924Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+22-11-2023 17:47:40.939Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+22-11-2023 17:47:40.942Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+22-11-2023 17:47:40.945Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+22-11-2023 17:47:40.950Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

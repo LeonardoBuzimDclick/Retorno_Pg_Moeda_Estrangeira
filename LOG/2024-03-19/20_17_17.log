@@ -1,0 +1,61 @@
+2024-03-19 20:17:17,793; INFO; parameters.<module>.102: Pasta local: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março
+2024-03-19 20:17:17,793; INFO; functions.getPid.974: Dentro função GetPid
+
+2024-03-19 20:17:18,547; INFO; functions.bot_text_art.7:     ____   
+2024-03-19 20:17:18,548; INFO; functions.bot_text_art.8:    [____]    
+2024-03-19 20:17:18,549; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-03-19 20:17:18,550; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-03-19 20:17:18,551; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-03-19 20:17:18,552; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-03-19 20:17:18,553; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-03-19 20:17:18,554; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-03-19 20:17:18,555; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-03-19 20:17:18,555; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-03-19 20:17:18,556; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-03-19 20:17:18,556; INFO; functions.bot_text_art.18:  |___||___|  
+2024-03-19 20:17:18,557; INFO; functions.bot_text_art.19:              
+2024-03-19 20:17:18,557; INFO; functions.headerExcel.907: Criando EXCEL
+2024-03-19 20:17:18,564; INFO; functions.headerExcel.927: EXCEL iniciado
+2024-03-19 20:17:18,568; INFO; main.process.15: TODOS ARQUIVOS NA PASTA ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\202403-Extrato mensal-EBPCLI541626 (16).pdf'].
+2024-03-19 20:17:18,568; INFO; main.process.23: SERÃO TRATADOS 0 ARQUIVOS.
+2024-03-19 20:17:18,569; INFO; main.process.24: ARQUIVOS: []
+2024-03-19 20:17:18,569; INFO; main.process.27: NENHUM ARQUIVO DISPONÍVEL
+2024-03-19 20:17:19,730; ERROR; functions.show_exception_and_exit.24: C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL/2024-03-19/20_17_17.xlsx must be a valid filepath or file handle (instance of io.IOBase). C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL/2024-03-19/20_17_17.xlsx is of type <class 'str'>
+Traceback (most recent call last):
+  File "c:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 161, in <module>
+    process()
+  File "c:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 28, in process
+    emailErro()
+  File "c:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 897, in emailErro
+    yag.send(to=str(email_receivers).split(','), subject=f"TESTES - ERRO - BOT RETORNO PAGAMENTO EM MOEDA ESTRANGEIRA - BV",
+  File "C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\sender.py", line 157, in send
+    recipients, msg_strings = self.prepare_send(
+                              ^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\sender.py", line 122, in prepare_send
+    msg = prepare_message(
+          ^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\message.py", line 69, in prepare_message
+    raise TypeError(msg.format(a=a, tp=type(a)))
+TypeError: C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL/2024-03-19/20_17_17.xlsx must be a valid filepath or file handle (instance of io.IOBase). C:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira/EXCEL/2024-03-19/20_17_17.xlsx is of type <class 'str'>
+2024-03-19 20:17:21,092; INFO; functions.encerra_prog.342: Fechando Excel...
+2024-03-19 20:17:21,120; INFO; functions.getPid.974: Dentro função GetPid
+
+2024-03-19 20:17:21,902; INFO; functions.encerra_prog.348: RM ENCERRADO
+2024-03-19 20:17:23,678; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+2024-03-19 20:17:23,723; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+2024-03-19 20:17:23,738; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+2024-03-19 20:17:23,741; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+2024-03-19 20:17:23,748; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:612: mso-table-lspace]
+2024-03-19 20:17:23,751; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:642: mso-table-rspace]
+2024-03-19 20:17:24,009; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:4734: mso-hide]
+2024-03-19 20:17:24,130; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+2024-03-19 20:17:24,136; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+2024-03-19 20:17:24,142; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+2024-03-19 20:17:24,145; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+2024-03-19 20:17:24,149; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:26: mso-table-lspace]
+2024-03-19 20:17:24,155; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:45: mso-table-rspace]
+2024-03-19 20:17:24,202; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:92: mso-hide]
+2024-03-19 20:17:24,220; ERROR; errorhandler.__handle.104: Property: No ":" after name found: align-center [1:1: align-center]
+2024-03-19 20:17:24,224; ERROR; errorhandler.__handle.104: Property: No property value found: align-center [1:1: align-center]
+2024-03-19 20:17:24,226; ERROR; errorhandler.__handle.104: CSSStyleDeclaration: Syntax Error in Property: align-center
+2024-03-19 20:17:24,232; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:14: -ms-interpolation-mode]

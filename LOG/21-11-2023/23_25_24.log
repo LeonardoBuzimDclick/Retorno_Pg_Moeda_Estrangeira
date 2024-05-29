@@ -1,0 +1,5 @@
+21-11-2023 23:25:27.458Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+21-11-2023 23:25:28.750Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+21-11-2023 23:25:40.960Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+21-11-2023 23:25:41.186Z;functions.waitForImage;  FILTER CLEAN image found.
+21-11-2023 23:25:43.326Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO

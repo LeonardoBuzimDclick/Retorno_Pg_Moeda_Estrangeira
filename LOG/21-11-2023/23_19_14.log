@@ -1,0 +1,136 @@
+21-11-2023 23:19:15.188Z;functions.bot_text_art;      ____   
+21-11-2023 23:19:15.189Z;functions.bot_text_art;     [____]    
+21-11-2023 23:19:15.189Z;functions.bot_text_art;   |=]()()[=|  
+21-11-2023 23:19:15.190Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+21-11-2023 23:19:15.190Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+21-11-2023 23:19:15.191Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+21-11-2023 23:19:15.192Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+21-11-2023 23:19:15.193Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+21-11-2023 23:19:15.196Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+21-11-2023 23:19:15.197Z;functions.bot_text_art;     |_||_|                                                     
+21-11-2023 23:19:15.198Z;functions.bot_text_art;     | ||_|_   
+21-11-2023 23:19:15.199Z;functions.bot_text_art;   |___||___|  
+21-11-2023 23:19:15.200Z;functions.bot_text_art;               
+21-11-2023 23:19:15.212Z;functions.open_RM;  OPEN PROGRAM RM
+21-11-2023 23:19:27.447Z;functions.loggin_RM;  ENTER USER_NAME
+21-11-2023 23:19:28.833Z;functions.loggin_RM;  ENTER PASSWORD
+21-11-2023 23:19:29.992Z;functions.loggin_RM;  ENTER RM
+21-11-2023 23:20:05.611Z;functions.enter_coligada;  CLICK CONTEXTO
+21-11-2023 23:20:10.627Z;functions.enter_coligada;  CLICK COLIGADA 1
+21-11-2023 23:20:12.838Z;functions.enter_coligada;  CLICK AVANÇAR
+21-11-2023 23:20:15.363Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+21-11-2023 23:20:15.570Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+21-11-2023 23:20:17.045Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+21-11-2023 23:20:18.332Z;functions.enter_coligada;  CLICK CONCLUIR
+21-11-2023 23:20:42.413Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+21-11-2023 23:20:43.261Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+21-11-2023 23:20:45.083Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+21-11-2023 23:20:47.870Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+21-11-2023 23:20:55.299Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+21-11-2023 23:20:56.200Z;functions.waitForImage;  LANÇAMENTOS image found.
+21-11-2023 23:20:58.320Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+21-11-2023 23:21:00.325Z;functions.data_filter;  DATA INICIO 15-11-2023
+21-11-2023 23:21:00.326Z;functions.data_filter;  DATA FIM 21-11-2023
+21-11-2023 23:21:00.327Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+21-11-2023 23:21:00.329Z;functions.data_filter;  QUARTA-FEIRA: 15-11-2023
+21-11-2023 23:21:00.330Z;functions.data_filter;  TERCA-FEIRA: 21-11-2023
+21-11-2023 23:21:10.205Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+21-11-2023 23:21:11.042Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+21-11-2023 23:21:14.113Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 15-11-2023
+21-11-2023 23:21:16.374Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 21-11-2023
+21-11-2023 23:21:17.276Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+21-11-2023 23:21:27.144Z;functions.waitForImage;  FILTER CLEAN image found.
+21-11-2023 23:21:29.266Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+21-11-2023 23:21:33.943Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+21-11-2023 23:21:35.670Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+21-11-2023 23:21:35.790Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+21-11-2023 23:21:36.121Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+21-11-2023 23:21:38.345Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+21-11-2023 23:21:45.647Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+21-11-2023 23:21:45.650Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+21-11-2023 23:21:58.589Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+21-11-2023 23:22:00.593Z;functions.check_table_record;  NUMERO DE TUPLAS: 8
+21-11-2023 23:22:00.594Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+21-11-2023 23:22:09.511Z;functions.check_table_record;  CLICK NÃO
+21-11-2023 23:22:15.681Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+21-11-2023 23:22:21.813Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+21-11-2023 23:22:23.173Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+21-11-2023 23:22:24.458Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+21-11-2023 23:22:26.892Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+21-11-2023 23:22:27.948Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+21-11-2023 23:22:29.167Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+21-11-2023 23:22:30.259Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+21-11-2023 23:23:30.853Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+21-11-2023 23:23:32.854Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM ERRO.
+21-11-2023 23:23:35.959Z;functions.process_lancamentos;  CLICK NO LOG.
+21-11-2023 23:23:36.065Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+21-11-2023 23:23:36.169Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+21-11-2023 23:23:36.170Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+21-11-2023 23:23:36.172Z;functions.process_lancamentos;  Não foi possível alterar o lançamento 1-804196:
+Campo 'IdConvenio' do lançamento '1-804196' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-804197:
+Campo 'IdConvenio' do lançamento '1-804197' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+21-11-2023 23:23:37.083Z;functions.process_lancamentos;  CLICK EM FECHAR.
+21-11-2023 23:23:37.084Z;functions.process_lancamentos;  CORRESPONDENCIA ['804196', '804197']
+21-11-2023 23:23:48.515Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+21-11-2023 23:23:56.621Z;functions.check_pix;  REF. LANÇAMENTO: 804191
+21-11-2023 23:24:04.726Z;functions.check_pix;  REF. LANÇAMENTO: 804191
+21-11-2023 23:24:12.832Z;functions.check_pix;  REF. LANÇAMENTO: 804191
+21-11-2023 23:24:20.937Z;functions.check_pix;  REF. LANÇAMENTO: 804191
+21-11-2023 23:24:29.043Z;functions.check_pix;  REF. LANÇAMENTO: 804191
+21-11-2023 23:24:37.148Z;functions.check_pix;  REF. LANÇAMENTO: from SUBPROGRAMS.parameters import *
+
+21-11-2023 23:24:37.150Z;functions.show_exception_and_exit;  invalid literal for int() with base 10: 'from SUBPROGRAMS.parameters import *\r\n'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 24, in <module>
+    check_pix()
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 430, in check_pix
+    ref_atual_int = int(ref_atual_string)
+                    ^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'from SUBPROGRAMS.parameters import *\r\n'
+21-11-2023 23:24:39.499Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+21-11-2023 23:24:39.543Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+21-11-2023 23:24:39.562Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+21-11-2023 23:24:39.565Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+21-11-2023 23:24:39.570Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+21-11-2023 23:24:39.574Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+21-11-2023 23:24:39.949Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+21-11-2023 23:24:40.034Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+21-11-2023 23:24:40.040Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+21-11-2023 23:24:40.045Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+21-11-2023 23:24:40.047Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+21-11-2023 23:24:40.051Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+21-11-2023 23:24:40.056Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+21-11-2023 23:24:40.099Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+21-11-2023 23:24:40.112Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+21-11-2023 23:24:40.115Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+21-11-2023 23:24:40.118Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+21-11-2023 23:24:40.132Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

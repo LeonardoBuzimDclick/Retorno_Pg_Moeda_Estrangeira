@@ -1,0 +1,79 @@
+21-11-2023 11:10:34.679Z;functions.bot_text_art;      ____   
+21-11-2023 11:10:34.679Z;functions.bot_text_art;     [____]    
+21-11-2023 11:10:34.680Z;functions.bot_text_art;   |=]()()[=|  
+21-11-2023 11:10:34.680Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+21-11-2023 11:10:34.681Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+21-11-2023 11:10:34.682Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+21-11-2023 11:10:34.683Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+21-11-2023 11:10:34.683Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+21-11-2023 11:10:34.685Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+21-11-2023 11:10:34.686Z;functions.bot_text_art;     |_||_|                                                     
+21-11-2023 11:10:34.687Z;functions.bot_text_art;     | ||_|_   
+21-11-2023 11:10:34.687Z;functions.bot_text_art;   |___||___|  
+21-11-2023 11:10:34.688Z;functions.bot_text_art;               
+21-11-2023 11:10:34.697Z;functions.open_RM;  OPEN PROGRAM RM
+21-11-2023 11:10:47.859Z;functions.loggin_RM;  ENTER USER_NAME
+21-11-2023 11:10:49.261Z;functions.loggin_RM;  ENTER PASSWORD
+21-11-2023 11:10:50.563Z;functions.loggin_RM;  ENTER RM
+21-11-2023 11:11:24.417Z;functions.enter_coligada;  CLICK CONTEXTO
+21-11-2023 11:11:29.658Z;functions.enter_coligada;  CLICK COLIGADA 1
+21-11-2023 11:11:31.949Z;functions.enter_coligada;  CLICK AVANÇAR
+21-11-2023 11:11:34.471Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+21-11-2023 11:11:34.689Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+21-11-2023 11:11:36.078Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+21-11-2023 11:11:37.340Z;functions.enter_coligada;  CLICK CONCLUIR
+21-11-2023 11:12:01.126Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+21-11-2023 11:12:01.957Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+21-11-2023 11:12:03.773Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+21-11-2023 11:12:04.752Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+21-11-2023 11:12:11.812Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+21-11-2023 11:12:12.832Z;functions.waitForImage;  LANÇAMENTOS image found.
+21-11-2023 11:12:14.954Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+21-11-2023 11:12:16.956Z;functions.data_filter;  DATA INICIO 15-11-2023
+21-11-2023 11:12:16.958Z;functions.data_filter;  DATA FIM 21-11-2023
+21-11-2023 11:12:16.959Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+21-11-2023 11:12:16.962Z;functions.data_filter;  QUARTA-FEIRA: 15-11-2023
+21-11-2023 11:12:16.974Z;functions.data_filter;  TERCA-FEIRA: 21-11-2023
+21-11-2023 11:12:27.159Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+21-11-2023 11:12:28.017Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+21-11-2023 11:12:31.019Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 15-11-2023
+21-11-2023 11:12:33.318Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 21-11-2023
+21-11-2023 11:12:34.227Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+21-11-2023 11:12:40.037Z;functions.waitForImage;  FILTER CLEAN image found.
+21-11-2023 11:12:42.149Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+21-11-2023 11:12:45.890Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+21-11-2023 11:12:47.634Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+21-11-2023 11:12:47.767Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+21-11-2023 11:12:48.260Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+21-11-2023 11:12:50.041Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+21-11-2023 11:12:57.358Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+21-11-2023 11:12:57.360Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+21-11-2023 11:13:10.273Z;functions.check_table_record;  Para este processo é necessário que existam registros na visão.
+21-11-2023 11:13:12.381Z;functions.check_table_record;  CLICK ENTER
+21-11-2023 11:13:12.385Z;functions.show_exception_and_exit;  list index out of range
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 17, in <module>
+    result = check_table_record()
+             ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 271, in check_table_record
+    rows_int = int(number_rows[0])
+                   ~~~~~~~~~~~^^^
+IndexError: list index out of range
+21-11-2023 11:13:14.596Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+21-11-2023 11:13:14.647Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+21-11-2023 11:13:14.665Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+21-11-2023 11:13:14.669Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+21-11-2023 11:13:14.677Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+21-11-2023 11:13:14.680Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+21-11-2023 11:13:14.938Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+21-11-2023 11:13:15.125Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+21-11-2023 11:13:15.166Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+21-11-2023 11:13:15.206Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+21-11-2023 11:13:15.209Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+21-11-2023 11:13:15.214Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+21-11-2023 11:13:15.226Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+21-11-2023 11:13:15.289Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+21-11-2023 11:13:15.304Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+21-11-2023 11:13:15.306Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+21-11-2023 11:13:15.308Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+21-11-2023 11:13:15.313Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

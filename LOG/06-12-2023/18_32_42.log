@@ -1,0 +1,56 @@
+06-12-2023 18:32:44.118Z;functions.bot_text_art;      ____   
+06-12-2023 18:32:44.119Z;functions.bot_text_art;     [____]    
+06-12-2023 18:32:44.119Z;functions.bot_text_art;   |=]()()[=|  
+06-12-2023 18:32:44.120Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+06-12-2023 18:32:44.121Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+06-12-2023 18:32:44.121Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+06-12-2023 18:32:44.122Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+06-12-2023 18:32:44.123Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+06-12-2023 18:32:44.126Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+06-12-2023 18:32:44.127Z;functions.bot_text_art;     |_||_|                                                     
+06-12-2023 18:32:44.129Z;functions.bot_text_art;     | ||_|_   
+06-12-2023 18:32:44.129Z;functions.bot_text_art;   |___||___|  
+06-12-2023 18:32:44.130Z;functions.bot_text_art;               
+06-12-2023 18:32:44.139Z;functions.open_RM;  OPEN PROGRAM RM
+06-12-2023 18:33:06.482Z;functions.loggin_RM;  ENTER USER_NAME
+06-12-2023 18:33:07.971Z;functions.loggin_RM;  ENTER PASSWORD
+06-12-2023 18:33:09.152Z;functions.loggin_RM;  ENTER RM
+06-12-2023 18:34:27.502Z;functions.enter_coligada;  CLICK CONTEXTO
+06-12-2023 18:34:33.103Z;functions.enter_coligada;  CLICK COLIGADA 2
+06-12-2023 18:34:38.608Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+06-12-2023 18:34:38.774Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+06-12-2023 18:34:41.383Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+06-12-2023 18:34:43.680Z;functions.enter_coligada;  CLICK CONCLUIR
+06-12-2023 18:35:05.091Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+06-12-2023 18:35:06.626Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+06-12-2023 18:35:10.865Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+06-12-2023 18:35:13.699Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+06-12-2023 18:35:28.122Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+06-12-2023 18:35:29.047Z;functions.waitForImage;  LANÇAMENTOS image found.
+06-12-2023 18:35:31.168Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+06-12-2023 18:35:48.589Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+06-12-2023 18:35:49.458Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+06-12-2023 18:35:51.669Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+06-12-2023 18:35:52.601Z;functions.filter_lancamento;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+06-12-2023 18:36:22.285Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+06-12-2023 18:36:24.526Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+06-12-2023 18:36:26.805Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+06-12-2023 18:36:29.314Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+06-12-2023 18:36:31.818Z;functions.desmark_filter;  ATUALIZA O FILTRO
+06-12-2023 18:36:32.080Z;functions.waitForImage;  FILTER CLEAN image found.
+06-12-2023 18:36:35.206Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+06-12-2023 18:36:38.998Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+06-12-2023 18:36:40.809Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+06-12-2023 18:36:40.942Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+06-12-2023 18:36:41.267Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+06-12-2023 18:36:43.848Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+06-12-2023 18:36:51.146Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+06-12-2023 18:36:51.148Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+06-12-2023 18:36:56.526Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa_Pix - Copia\main.py", line 19, in <module>
+    result = check_table_record()
+             ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos\Remessa_Pix - Copia\SUBPROGRAMS\functions.py", line 223, in check_table_record
+    time.sleep(10)
+KeyboardInterrupt

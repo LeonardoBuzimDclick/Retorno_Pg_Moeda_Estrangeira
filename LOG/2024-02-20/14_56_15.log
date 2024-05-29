@@ -1,0 +1,80 @@
+2024-02-20 14:56:16,426; INFO; functions.getPid.878: Dentro função GetPid
+
+2024-02-20 14:56:16,566; INFO; functions.getPid.888: Process RM.exe / PID: 3584 found.
+2024-02-20 14:56:16,689; INFO; functions.pidKillFinish.899: Process RM.exe / PID: 3584 killed.
+2024-02-20 14:56:16,690; INFO; functions.bot_text_art.16:     ____   
+2024-02-20 14:56:16,691; INFO; functions.bot_text_art.17:    [____]    
+2024-02-20 14:56:16,693; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-20 14:56:16,693; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-20 14:56:16,694; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-20 14:56:16,695; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-20 14:56:16,697; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-20 14:56:16,697; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-20 14:56:16,697; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-20 14:56:16,697; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-20 14:56:16,698; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-20 14:56:16,698; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-20 14:56:16,698; INFO; functions.bot_text_art.28:              
+2024-02-20 14:56:16,699; INFO; functions.headerExcel.834: Criando EXCEL
+2024-02-20 14:56:16,700; INFO; functions.headerExcel.853: EXCEL iniciado
+2024-02-20 14:56:16,701; INFO; main.process.16: PROCESSOS EXTRAIDOS COM ERRO: 0
+2024-02-20 14:56:16,702; INFO; main.process.17: PROCESSOS COM ERRO: 
+2024-02-20 14:56:16,702; INFO; main.process.22: PROCESSOS EXTRAIDOS CORRETAMENTE: 2
+2024-02-20 14:56:16,703; INFO; main.process.23: PROCESSOS A SEREM TRATADOS: [{'data': '28-01-2024', 'pi': 'teste', 'inv': '020558915', 'moeda': 'NOK', 'montante': '59.488,90', 'saldo': '59.488,90', 'nome': 'KONGSBERG MARITIME AS', 'cod': 'teste2'}, {'data': '28-01-2024', 'pi': 'teste', 'inv': '125001988', 'moeda': 'USD', 'montante': '56.354,00', 'saldo': '56.354,00', 'nome': 'KONGSBERG MARITIME AS', 'cod': 'teste2'}]
+2024-02-20 14:56:16,707; INFO; functions.open_RM.48: OPEN PROGRAM RM
+2024-02-20 14:56:27,004; INFO; functions.loggin_RM.58: ENTER USER_NAME
+2024-02-20 14:56:27,910; INFO; functions.loggin_RM.63: ENTER PASSWORD
+2024-02-20 14:56:28,645; INFO; functions.loggin_RM.67: ENTER RM
+2024-02-20 14:56:55,238; INFO; functions.enter_coligada.73: CLICK CONTEXTO
+2024-02-20 14:56:59,239; INFO; functions.enter_coligada.76: CLICK COLIGADA 2
+2024-02-20 14:57:01,973; INFO; functions.enter_coligada.80: INSERE O COLIGADA CODE = 2
+2024-02-20 14:57:02,075; INFO; functions.enter_coligada.82: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-02-20 14:57:03,207; INFO; functions.enter_coligada.85: CLICK AVANÇAR NOVAMENTE
+2024-02-20 14:57:06,240; INFO; functions.enter_coligada.89: CLICK CONCLUIR
+2024-02-20 14:57:16,613; INFO; functions.enter_coligada.92: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-02-20 14:57:17,239; INFO; functions.enter_contas_a_pagar.103: CLICK - TOTVS - LINHA RM
+2024-02-20 14:57:19,957; INFO; functions.enter_contas_a_pagar.108: CLICK - BACK OFFICE
+2024-02-20 14:57:22,583; INFO; functions.enter_contas_a_pagar.113: CLICK - GESTAO FINANCEIRA
+2024-02-20 14:57:28,751; ERROR; functions.show_exception_and_exit.32: 
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 101, in <module>
+    process()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 28, in process
+    enter_contas_a_pagar()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 116, in enter_contas_a_pagar
+    contas_pagar = cc.wait_appear(locator.rm.contas_pagar, wait_timeout=30)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\clicknium\_clicknium.py", line 189, in wait_appear
+    ele = _InvokerService.wait_appear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 308, in wait_appear
+    return UiElementRunner.WaitElementAppear(locator_item.Locator, locator_item.Locator_Variables, locator_item.Locator_Image, timeout * 1000)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2024-02-20 14:57:30,242; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+2024-02-20 14:57:30,258; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+2024-02-20 14:57:30,269; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+2024-02-20 14:57:30,270; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+2024-02-20 14:57:30,271; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:612: mso-table-lspace]
+2024-02-20 14:57:30,272; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:642: mso-table-rspace]
+2024-02-20 14:57:30,385; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:4734: mso-hide]
+2024-02-20 14:57:30,413; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+2024-02-20 14:57:30,415; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+2024-02-20 14:57:30,416; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+2024-02-20 14:57:30,417; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+2024-02-20 14:57:30,418; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:26: mso-table-lspace]
+2024-02-20 14:57:30,419; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:45: mso-table-rspace]
+2024-02-20 14:57:30,430; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:92: mso-hide]
+2024-02-20 14:57:30,434; ERROR; errorhandler.__handle.104: Property: No ":" after name found: align-center [1:1: align-center]
+2024-02-20 14:57:30,435; ERROR; errorhandler.__handle.104: Property: No property value found: align-center [1:1: align-center]
+2024-02-20 14:57:30,437; ERROR; errorhandler.__handle.104: CSSStyleDeclaration: Syntax Error in Property: align-center
+2024-02-20 14:57:30,438; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+2024-02-20 14:57:32,216; INFO; functions.encerra_prog.314: Fechando Excel...
+2024-02-20 14:57:32,232; INFO; functions.getPid.878: Dentro função GetPid
+
+2024-02-20 14:57:32,432; INFO; functions.getPid.888: Process RM.exe / PID: 8040 found.
+2024-02-20 14:57:32,511; INFO; functions.pidKillFinish.899: Process RM.exe / PID: 8040 killed.
+2024-02-20 14:57:32,512; INFO; functions.encerra_prog.319: RM ENCERRADO

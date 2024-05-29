@@ -1,0 +1,11 @@
+21-11-2023 14:05:22.933Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+21-11-2023 14:05:37.482Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 2 registros?
+21-11-2023 14:05:39.586Z;functions.check_table_record;  CLICK ENTER
+21-11-2023 14:05:39.587Z;functions.check_table_record;  NUMERO DE TUPLAS: 2
+21-11-2023 14:05:39.587Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+21-11-2023 14:05:49.663Z;functions.check_table_record;  CLICK NÃO
+21-11-2023 14:05:55.814Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+21-11-2023 14:06:00.702Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA

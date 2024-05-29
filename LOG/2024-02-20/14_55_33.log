@@ -1,0 +1,27 @@
+2024-02-20 14:55:33,978; INFO; functions.getPid.878: Dentro função GetPid
+
+2024-02-20 14:55:34,207; INFO; functions.getPid.888: Process RM.exe / PID: 13612 found.
+2024-02-20 14:55:34,238; INFO; functions.pidKillFinish.899: Process RM.exe / PID: 13612 killed.
+2024-02-20 14:55:34,239; INFO; functions.bot_text_art.16:     ____   
+2024-02-20 14:55:34,241; INFO; functions.bot_text_art.17:    [____]    
+2024-02-20 14:55:34,241; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-20 14:55:34,241; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-20 14:55:34,241; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-20 14:55:34,241; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-20 14:55:34,241; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-20 14:55:34,241; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-20 14:55:34,257; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-20 14:55:34,258; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-20 14:55:34,259; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-20 14:55:34,259; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-20 14:55:34,260; INFO; functions.bot_text_art.28:              
+2024-02-20 14:55:34,263; INFO; functions.headerExcel.834: Criando EXCEL
+2024-02-20 14:55:34,265; INFO; functions.headerExcel.853: EXCEL iniciado
+2024-02-20 14:55:34,266; INFO; main.process.16: PROCESSOS EXTRAIDOS COM ERRO: 0
+2024-02-20 14:55:34,268; INFO; main.process.17: PROCESSOS COM ERRO: 
+2024-02-20 14:55:34,268; INFO; main.process.22: PROCESSOS EXTRAIDOS CORRETAMENTE: 2
+2024-02-20 14:55:34,268; INFO; main.process.23: PROCESSOS A SEREM TRATADOS: [{'data': '28-01-2024', 'pi': 'teste', 'inv': '020558915', 'moeda': 'NOK', 'montante': '59.488,90', 'saldo': '59.488,90', 'nome': 'KONGSBERG MARITIME AS', 'cod': 'teste2'}, {'data': '28-01-2024', 'pi': 'teste', 'inv': '125001988', 'moeda': 'USD', 'montante': '56.354,00', 'saldo': '56.354,00', 'nome': 'KONGSBERG MARITIME AS', 'cod': 'teste2'}]
+2024-02-20 14:55:34,282; INFO; functions.open_RM.48: OPEN PROGRAM RM
+2024-02-20 14:55:44,910; INFO; functions.loggin_RM.58: ENTER USER_NAME
+2024-02-20 14:55:45,843; INFO; functions.loggin_RM.63: ENTER PASSWORD
+2024-02-20 14:55:46,583; INFO; functions.loggin_RM.67: ENTER RM

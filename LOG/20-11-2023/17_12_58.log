@@ -1,0 +1,60 @@
+20-11-2023 17:13:00.227Z;teste.<module>;  O PROCESSAMENTO FOI EXECUTADO COM ERRO.
+20-11-2023 17:13:05.038Z;teste.<module>;  CLICK NO LOG.
+20-11-2023 17:13:05.150Z;teste.<module>;  SELECIONA TODA A MSG DE LOG.
+20-11-2023 17:13:05.289Z;teste.<module>;  COPIA A MSG DE LOG.
+20-11-2023 17:13:05.301Z;teste.<module>;  LOG DE LANÇAMENTO REFERENCIA:
+20-11-2023 17:13:05.305Z;teste.<module>;  Não foi possível alterar o lançamento 1-539926:
+Campo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-552753:
+Campo 'IdConvenio' do lançamento '1-552753' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-576966:
+Campo 'IdConvenio' do lançamento '1-576966' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+20-11-2023 17:13:06.283Z;teste.<module>;  CLICK EM FECHAR.
+20-11-2023 17:13:11.738Z;teste.<module>;  A VARIÁVEL 547293 NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 17:13:13.944Z;teste.<module>;  A VARIÁVEL 512115 NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 17:13:16.151Z;teste.<module>;  A VARIÁVEL 513165 NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 17:13:18.357Z;teste.<module>;  A VARIÁVEL 562025 NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 17:13:20.563Z;teste.<module>;  A VARIÁVEL 562026 NÃO ESTÁ PRESENTE NO VETOR.
+20-11-2023 17:13:22.770Z;teste.<module>;  A VARIAVEL 576966 ESTÁ PRESENTE NO VETOR.
+20-11-2023 17:13:24.876Z;teste.<module>;  o LANÇAMENTO: 576966 FOI RETIRADO DA LISTA.
+20-11-2023 17:13:27.083Z;teste.<module>;  A VARIAVEL 552753 ESTÁ PRESENTE NO VETOR.
+20-11-2023 17:13:29.187Z;teste.<module>;  o LANÇAMENTO: 552753 FOI RETIRADO DA LISTA.
+20-11-2023 17:13:31.394Z;teste.<module>;  A VARIAVEL 539926 ESTÁ PRESENTE NO VETOR.
+20-11-2023 17:13:33.499Z;teste.<module>;  o LANÇAMENTO: 539926 FOI RETIRADO DA LISTA.

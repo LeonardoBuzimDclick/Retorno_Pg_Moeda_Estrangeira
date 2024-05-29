@@ -1,0 +1,232 @@
+2024-02-20 17:00:03,085; INFO; functions.getPid.880: Dentro função GetPid
+
+2024-02-20 17:00:03,317; INFO; functions.getPid.890: Process RM.exe / PID: 11928 found.
+2024-02-20 17:00:03,374; INFO; functions.pidKillFinish.901: Process RM.exe / PID: 11928 killed.
+2024-02-20 17:00:03,374; INFO; functions.bot_text_art.6:     ____   
+2024-02-20 17:00:03,374; INFO; functions.bot_text_art.7:    [____]    
+2024-02-20 17:00:03,374; INFO; functions.bot_text_art.8:  |=]()()[=|  
+2024-02-20 17:00:03,374; INFO; functions.bot_text_art.9:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-20 17:00:03,374; INFO; functions.bot_text_art.10:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-20 17:00:03,378; INFO; functions.bot_text_art.11:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-20 17:00:03,380; INFO; functions.bot_text_art.12:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-20 17:00:03,390; INFO; functions.bot_text_art.13:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-20 17:00:03,393; INFO; functions.bot_text_art.14:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-20 17:00:03,402; INFO; functions.bot_text_art.15:    |_||_|                                                     
+2024-02-20 17:00:03,410; INFO; functions.bot_text_art.16:    | ||_|_   
+2024-02-20 17:00:03,414; INFO; functions.bot_text_art.17:  |___||___|  
+2024-02-20 17:00:03,415; INFO; functions.bot_text_art.18:              
+2024-02-20 17:00:03,417; INFO; functions.headerExcel.835: Criando EXCEL
+2024-02-20 17:00:03,421; INFO; functions.headerExcel.854: EXCEL iniciado
+2024-02-20 17:00:03,421; INFO; main.process.18: PROCESSOS EXTRAIDOS COM ERRO: 0
+2024-02-20 17:00:03,422; INFO; main.process.19: PROCESSOS COM ERRO: 
+2024-02-20 17:00:03,422; INFO; functions.excelErro.907: Criando EXCEL ERRO
+2024-02-20 17:00:03,425; INFO; functions.excelErro.925: EXCEL ERRO iniciado
+2024-02-20 17:00:03,428; INFO; functions.excelErro.957: Fechando Excel com Erro...
+2024-02-20 17:00:03,442; INFO; main.process.25: PROCESSOS EXTRAIDOS CORRETAMENTE: 2
+2024-02-20 17:00:03,443; INFO; main.process.26: PROCESSOS A SEREM TRATADOS: [{'data': '28-01-2024', 'pi': 'teste', 'inv': '000747431', 'moeda': 'NOK', 'montante': '7.367,04', 'saldo': '7.367,04', 'nome': 'KONGSBERG MARITIME AS', 'cod': 'teste2'}, {'data': '28-01-2024', 'pi': 'teste', 'inv': '2022685', 'moeda': 'EUR', 'montante': '6.015,00', 'saldo': '6.015,00', 'nome': 'TSCHUDI SHIP MANAGEMENT AS', 'cod': 'teste2'}]
+2024-02-20 17:00:03,448; INFO; functions.open_RM.49: OPEN PROGRAM RM
+2024-02-20 17:00:10,504; INFO; functions.loggin_RM.59: ENTER USER_NAME
+2024-02-20 17:00:11,404; INFO; functions.loggin_RM.64: ENTER PASSWORD
+2024-02-20 17:00:12,139; INFO; functions.loggin_RM.68: ENTER RM
+2024-02-20 17:00:39,833; INFO; functions.enter_coligada.74: CLICK CONTEXTO
+2024-02-20 17:00:43,864; INFO; functions.enter_coligada.77: CLICK COLIGADA 2
+2024-02-20 17:00:46,254; INFO; functions.enter_coligada.81: INSERE O COLIGADA CODE = 2
+2024-02-20 17:00:46,355; INFO; functions.enter_coligada.83: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-02-20 17:00:47,489; INFO; functions.enter_coligada.86: CLICK AVANÇAR NOVAMENTE
+2024-02-20 17:00:50,490; INFO; functions.enter_coligada.90: CLICK CONCLUIR
+2024-02-20 17:01:01,035; INFO; functions.enter_coligada.93: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-02-20 17:01:01,676; INFO; functions.enter_contas_a_pagar.104: CLICK - TOTVS - LINHA RM
+2024-02-20 17:01:04,363; INFO; functions.enter_contas_a_pagar.109: CLICK - BACK OFFICE
+2024-02-20 17:01:06,989; INFO; functions.enter_contas_a_pagar.114: CLICK - GESTAO FINANCEIRA
+2024-02-20 17:01:13,020; INFO; functions.enter_contas_a_pagar.119: CLICK - CONTAS A PAGAR
+2024-02-20 17:01:13,200; INFO; functions.waitForImage.796: LANÇAMENTOS image found.
+2024-02-20 17:01:13,303; INFO; functions.enter_contas_a_pagar.125: CLICA EM LANÇAMENTOS
+2024-02-20 17:01:15,304; INFO; main.process.36: PROCESSO 1 A SER TRATADO: {'data': '28-01-2024', 'pi': 'teste', 'inv': '000747431', 'moeda': 'NOK', 'montante': '7.367,04', 'saldo': '7.367,04', 'nome': 'KONGSBERG MARITIME AS', 'cod': 'teste2'}
+2024-02-20 17:01:15,304; INFO; main.process.49: data: 28012024 <class 'str'>
+
+                    pi: teste <class 'str'>
+
+                    inv: 000747431 <class 'str'>
+
+                    moeda: NOK <class 'str'>
+
+                    montante: 7.367,04 <class 'str'>
+
+                    saldo: 7.367,04 <class 'str'>
+
+                    nome: KONGSBERG MARITIME AS <class 'str'>
+
+                    cod: teste2 <class 'str'>
+2024-02-20 17:01:20,004; INFO; functions.filter_lancamento.156: ESCREVE histórico NO FILTRO
+2024-02-20 17:01:21,145; INFO; functions.filter_lancamento.162: CLICK - BOTÃO DE SELECAO DE FILTRO
+2024-02-20 17:01:23,124; INFO; functions.filter_lancamento.183: VALOR DE 000747431 FILTRO
+2024-02-20 17:01:23,801; INFO; functions.filter_lancamento.188: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-20 17:02:19,801; INFO; functions.desmark_filter.248: CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2024-02-20 17:02:20,707; INFO; functions.desmark_filter.252: CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2024-02-20 17:02:21,707; INFO; functions.desmark_filter.256: CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2024-02-20 17:02:22,707; INFO; functions.desmark_filter.260: CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2024-02-20 17:02:23,770; INFO; functions.desmark_filter.264: ATUALIZA O FILTRO
+2024-02-20 17:02:23,867; INFO; functions.waitForImage.774: FILTER CLEAN image found.
+2024-02-20 17:02:23,970; INFO; functions.filter_clean.196: CLICA NO BOTÃO X DO LIMPA FILTRO - TENTATIVA 1
+2024-02-20 17:02:36,036; INFO; functions.waitForImage.805: FILTER CLEAN image not found.
+2024-02-20 17:02:36,051; INFO; functions.filter_clean.199: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 2
+2024-02-20 17:02:46,192; INFO; functions.waitForImage.805: FILTER CLEAN image not found.
+2024-02-20 17:02:46,207; INFO; functions.filter_clean.199: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 3
+2024-02-20 17:02:47,129; INFO; functions.select_tipo_documento.206: NOME DA COLUNA: Tipo de Documento
+2024-02-20 17:02:48,410; INFO; functions.select_tipo_documento.210: HOVER NOME DA COLUNA: Tipo de Documento
+2024-02-20 17:02:49,020; INFO; functions.select_tipo_documento.225: CLICA NO FILTRO PERSONALIZAR
+2024-02-20 17:02:49,957; INFO; functions.select_tipo_documento.229: CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2024-02-20 17:02:56,989; INFO; functions.select_tipo_documento.241: CLICK BUTTON CONFIRMAR FILTRO
+2024-02-20 17:02:56,989; INFO; functions.check_table_record.269: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-20 17:02:57,895; INFO; functions.check_table_record.273: VERIFICAdo
+2024-02-20 17:02:58,704; INFO; functions.check_table_record.279: CTRL+G
+2024-02-20 17:02:59,348; INFO; functions.check_table_record.283: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 61 registros?
+2024-02-20 17:03:01,351; INFO; functions.check_table_record.297: NUMERO DE REGISTROS ENCONTRADOS: 61
+2024-02-20 17:03:03,073; INFO; functions.check_table_record.303: CLICK NÃO
+2024-02-20 17:03:17,348; INFO; functions.check_inv.400: MOVIDO PRA CIMA 61 VEZES
+2024-02-20 17:03:18,527; INFO; functions.check_inv.407: PRIMEIRA CELULA CLICADA
+2024-02-20 17:03:22,056; INFO; functions.check_inv.411: 35 PASSOS PARA ESQUERDA
+2024-02-20 17:03:23,876; INFO; functions.check_inv.416: 18 PASSOS PARA DIREITA
+2024-02-20 17:03:25,876; INFO; functions.check_inv.422: BUSCA NA LINHA: 1
+2024-02-20 17:03:25,876; INFO; functions.check_inv.428: ctrl c
+2024-02-20 17:03:26,479; INFO; functions.check_inv.432: Historico completo: INV - 00525829 - DNV AS 
+2024-02-20 17:03:26,479; INFO; functions.check_inv.458: INV E COLIGADA INCORRETAS ENCONTRADAS: 00525829 - DNV AS 
+2024-02-20 17:03:26,882; INFO; functions.check_inv.462: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-20 17:03:26,882; INFO; functions.check_inv.422: BUSCA NA LINHA: 2
+2024-02-20 17:03:26,882; INFO; functions.check_inv.428: ctrl c
+2024-02-20 17:03:27,484; INFO; functions.check_inv.432: Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+2024-02-20 17:03:27,484; INFO; functions.check_inv.458: INV E COLIGADA INCORRETAS ENCONTRADAS: 10218917 - KONGSBERG MARITIME AS 
+2024-02-20 17:03:27,886; INFO; functions.check_inv.462: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-20 17:03:27,886; INFO; functions.check_inv.422: BUSCA NA LINHA: 3
+2024-02-20 17:03:27,886; INFO; functions.check_inv.428: ctrl c
+2024-02-20 17:03:28,489; INFO; functions.check_inv.432: Historico completo: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+2024-02-20 17:03:28,489; INFO; functions.check_inv.458: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-20 17:03:28,891; INFO; functions.check_inv.462: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-20 17:03:28,891; INFO; functions.check_inv.422: BUSCA NA LINHA: 4
+2024-02-20 17:03:28,891; INFO; functions.check_inv.428: ctrl c
+2024-02-20 17:03:29,493; INFO; functions.check_inv.432: Historico completo: INV - 000747431 - KONGSBERG MARITIME AS
+2024-02-20 17:03:29,994; INFO; functions.check_inv.447: INV CORRETA ENCONTRADA: 000747431
+2024-02-20 17:03:29,994; INFO; functions.check_inv.448: COLIGADA CORRETA ENCONTRADA: KONGSBERG MARITIME AS
+2024-02-20 17:03:29,994; INFO; main.process.78: None
+2024-02-20 17:03:38,066; INFO; functions.waitForImage.796: INTEGRAÇÃO BANCÁRIA image found.
+2024-02-20 17:03:40,183; INFO; functions.define_moeda.475: CLICK EM VALOR
+2024-02-20 17:03:40,586; INFO; functions.define_moeda.479: 4 TAB
+2024-02-20 17:03:43,789; INFO; functions.define_moeda.484: MOEDA PREENCHIDA COM NOK
+2024-02-20 17:03:48,067; INFO; functions.waitForImage.774: PRESS BUTTON OK image found.
+2024-02-20 17:03:50,189; INFO; functions.define_moeda.495: APERTA OK
+2024-02-20 17:03:52,292; INFO; functions.baixa_inv.615: CHECK LINHA
+2024-02-20 17:03:53,488; INFO; functions.baixa_inv.619: SELECIONA BOTÃO BAIXA
+2024-02-20 17:04:29,399; INFO; functions.baixa_inv.626: POPUP BOTÃO OK NÃO APARECEU
+2024-02-20 17:04:30,051; INFO; functions.baixa_inv.631: CLICA AVANÇAR
+2024-02-20 17:04:35,770; INFO; functions.baixa_inv.637: SELECIONA SIMPLIFICADA
+2024-02-20 17:04:36,817; INFO; functions.baixa_inv.641: DATA AUTOMÁTICA: 30/10/2022
+2024-02-20 17:04:36,817; INFO; functions.baixa_inv.649: DATAS DIFERENTES, FAZENDO ALTERAÇÃO
+2024-02-20 17:04:48,067; INFO; functions.baixa_inv.674: CONTA CAIXA: NOK - BANCO EBURY C/C 284586086
+2024-02-20 17:04:48,067; INFO; functions.baixa_inv.681: CONTA CAIXA PREENCHIDA CORRETAMENTE
+2024-02-20 17:04:48,958; INFO; functions.baixa_inv.689: AVANÇAR
+2024-02-20 17:04:51,254; INFO; functions.baixa_inv.693: VALOR INV: 7.367,04
+2024-02-20 17:04:51,926; INFO; functions.baixa_inv.705: AVANÇAR
+2024-02-20 17:04:56,051; INFO; functions.baixa_inv.709: AVANÇAR
+2024-02-20 17:04:56,770; INFO; functions.baixa_inv.713: EXECUTAR
+2024-02-20 17:05:09,895; INFO; functions.waitForImage.796: PRESS BUTTON OK image found.
+2024-02-20 17:05:11,900; INFO; functions.baixa_inv.718: OK SUCESSO
+2024-02-20 17:05:14,784; INFO; functions.baixa_inv.730: O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 20/02/2024 17:05:01
+  | Fim    : 20/02/2024 17:05:07
+  | Duração: 00:00:05:267
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 20/02/2024 17:05:02
+  |  | Fim    : 20/02/2024 17:05:02
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 20/02/2024 17:05:02
+  |  | Fim    : 20/02/2024 17:05:02
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 20/02/2024 17:05:02
+  |  | Fim    : 20/02/2024 17:05:02
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 20/02/2024 17:05:02
+  |  | Fim    : 20/02/2024 17:05:02
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 20/02/2024 17:05:02
+  |  | Fim    : 20/02/2024 17:05:02
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 20/02/2024 17:05:02
+  |  | Fim    : 20/02/2024 17:05:02
+  |  | Duração: 00:00:00:125
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 20/02/2024 17:05:02
+  |  |  | Fim    : 20/02/2024 17:05:02
+  |  |  | Duração: 00:00:00:125
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 735)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 20/02/2024 17:05:02
+  |  |  |  | Fim    : 20/02/2024 17:05:02
+  |  |  |  | Duração: 00:00:00:93
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 20/02/2024 17:05:02
+  |  | Fim    : 20/02/2024 17:05:02
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 20/02/2024 17:05:02
+  |  | Fim    : 20/02/2024 17:05:02
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 20/02/2024 17:05:02
+  |  | Fim    : 20/02/2024 17:05:02
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |------------------------------------------------------------
+2024-02-20 17:05:15,457; INFO; functions.baixa_inv.734: FECHAR
+2024-02-20 17:05:15,457; INFO; functions.createRowExcel.858: Criando linha do EXCEL teste - 28012024 - 000747431 - NOK - 7.367,04 - KONGSBERG MARITIME AS - teste2 - SEM ERROS - FINALIZADO
+2024-02-20 17:05:15,462; INFO; main.process.36: PROCESSO 2 A SER TRATADO: {'data': '28-01-2024', 'pi': 'teste', 'inv': '2022685', 'moeda': 'EUR', 'montante': '6.015,00', 'saldo': '6.015,00', 'nome': 'TSCHUDI SHIP MANAGEMENT AS', 'cod': 'teste2'}
+2024-02-20 17:05:15,465; INFO; main.process.49: data: 28012024 <class 'str'>
+
+                    pi: teste <class 'str'>
+
+                    inv: 2022685 <class 'str'>
+
+                    moeda: EUR <class 'str'>
+
+                    montante: 6.015,00 <class 'str'>
+
+                    saldo: 6.015,00 <class 'str'>
+
+                    nome: TSCHUDI SHIP MANAGEMENT AS <class 'str'>
+
+                    cod: teste2 <class 'str'>
+2024-02-20 17:05:48,879; INFO; functions.waitForImage.774: NOVO FILTRO image found.
+2024-02-20 17:05:49,027; INFO; functions.filter_lancamento.169: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO

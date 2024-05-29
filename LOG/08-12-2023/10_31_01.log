@@ -1,0 +1,22 @@
+08-12-2023 10:31:02.334Z;functions.bot_text_art;      ____   
+08-12-2023 10:31:02.335Z;functions.bot_text_art;     [____]    
+08-12-2023 10:31:02.336Z;functions.bot_text_art;   |=]()()[=|  
+08-12-2023 10:31:02.337Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+08-12-2023 10:31:02.338Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+08-12-2023 10:31:02.338Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+08-12-2023 10:31:02.339Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+08-12-2023 10:31:02.340Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+08-12-2023 10:31:02.343Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+08-12-2023 10:31:02.343Z;functions.bot_text_art;     |_||_|                                                     
+08-12-2023 10:31:02.344Z;functions.bot_text_art;     | ||_|_   
+08-12-2023 10:31:02.345Z;functions.bot_text_art;   |___||___|  
+08-12-2023 10:31:02.346Z;functions.bot_text_art;               
+08-12-2023 10:31:02.357Z;functions.open_RM;  OPEN PROGRAM RM
+08-12-2023 10:39:43.236Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'double_click'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 13, in <module>
+    loggin_RM()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 61, in loggin_RM
+    user_rm.double_click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'double_click'

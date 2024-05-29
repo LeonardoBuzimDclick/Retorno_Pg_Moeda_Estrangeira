@@ -1,0 +1,17 @@
+20-11-2023 19:53:53.804Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+20-11-2023 19:53:53.909Z;functions.check_pix;  REF. LANÇAMENTO: 547293
+20-11-2023 19:53:54.067Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 19:54:00.693Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 19:54:02.820Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 19:54:05.025Z;functions.waitForImage;  PIX image found.
+20-11-2023 19:54:07.155Z;functions.check_pix;  CLICK EM PIX
+20-11-2023 19:54:07.156Z;functions.check_pix;  VERIFICANDO INFORMAÇÕES
+20-11-2023 19:54:08.741Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+20-11-2023 19:54:10.743Z;functions.check_pix;  FORMA DE PAGAMENTO TRANSFERÊNCIA PIX
+20-11-2023 19:54:10.746Z;functions.check_data_pix;  CHECANDO DADOS CHAVE PIX
+20-11-2023 19:54:10.953Z;functions.waitForImage;  TIPO DE CHAVE PIX image found.
+20-11-2023 19:54:12.954Z;functions.check_data_pix;  TIPO DE CHAVE PIX NÃO PREENCHIDA
+20-11-2023 19:54:12.955Z;functions.check_data_pix;  CHECANDO A CHAVE PIX
+20-11-2023 19:54:13.171Z;functions.waitForImage;  CHAVE PIX image found.
+20-11-2023 19:54:15.173Z;functions.check_data_pix;  CHAVE NÃO PIX PREENCHIDA
+20-11-2023 19:54:15.174Z;functions.check_data;  CHECANDO DADOS BANCÁRIOS

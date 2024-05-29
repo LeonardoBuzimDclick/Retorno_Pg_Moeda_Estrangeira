@@ -1,0 +1,36 @@
+07-12-2023 18:47:00.921Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+07-12-2023 18:47:02.861Z;functions.check_inv;  19 PASSOS PARA DIREITA
+07-12-2023 18:47:04.863Z;functions.check_inv;  ctrl c
+07-12-2023 18:47:05.468Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+07-12-2023 18:47:05.470Z;functions.check_inv;  INV: 00525829
+07-12-2023 18:47:06.073Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:47:06.074Z;functions.check_inv;  ctrl c
+07-12-2023 18:47:06.680Z;functions.check_inv;  Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+07-12-2023 18:47:06.683Z;functions.check_inv;  INV: 10218917
+07-12-2023 18:47:07.286Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:47:07.288Z;functions.check_inv;  ctrl c
+07-12-2023 18:47:07.916Z;functions.check_inv;  Historico completo: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+07-12-2023 18:47:07.918Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 18:47:08.522Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:47:08.523Z;functions.check_inv;  ctrl c
+07-12-2023 18:47:09.128Z;functions.check_inv;  Historico completo: INV - 020558915 - KONGSBERG MARITIME AS
+07-12-2023 18:47:09.129Z;functions.check_inv;  INV: 020558915
+07-12-2023 18:47:09.734Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:47:09.735Z;functions.check_inv;  ctrl c
+07-12-2023 18:47:10.341Z;functions.check_inv;  Historico completo: INV - 000747431 - KONGSBERG MARITIME AS
+07-12-2023 18:47:10.342Z;functions.check_inv;  INV: 000747431
+07-12-2023 18:47:18.691Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+07-12-2023 18:47:20.805Z;functions.define_moeda;  CLICK EM VALOR
+07-12-2023 18:47:21.218Z;functions.define_moeda;  4 TAB
+07-12-2023 18:47:28.827Z;functions.waitForImage;  PRESS BUTTON OK image found.
+07-12-2023 18:47:30.956Z;functions.define_moeda;  APERTA OK
+07-12-2023 18:47:35.061Z;functions.baixa_inv;  CHECK LINHA
+07-12-2023 18:47:36.193Z;functions.baixa_inv;  SELECIONA BOTÃO BAIXA
+07-12-2023 18:48:26.416Z;functions.baixa_inv;  POPUP BOTÃO OK NÃO APARECEU
+07-12-2023 18:48:27.352Z;functions.baixa_inv;  CLICA AVANÇAR
+07-12-2023 18:48:33.507Z;functions.baixa_inv;  SELECIONA SIMPLIFICADA
+07-12-2023 18:48:35.846Z;functions.baixa_inv;  DATA AUTOMÁTICA: 30/10/2022
+07-12-2023 18:48:37.810Z;functions.baixa_inv;  CONTA CAIXA: 2845860864
+07-12-2023 18:48:37.811Z;functions.baixa_inv;  CONTA CAIXA PREENCHIDA
+07-12-2023 18:48:38.713Z;functions.baixa_inv;  AVANÇAR
+07-12-2023 18:48:43.395Z;functions.baixa_inv;  VALOR INV: 7.367,04

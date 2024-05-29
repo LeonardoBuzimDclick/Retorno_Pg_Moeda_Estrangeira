@@ -1,0 +1,32 @@
+07-12-2023 10:03:38.312Z;functions.bot_text_art;      ____   
+07-12-2023 10:03:38.313Z;functions.bot_text_art;     [____]    
+07-12-2023 10:03:38.313Z;functions.bot_text_art;   |=]()()[=|  
+07-12-2023 10:03:38.313Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+07-12-2023 10:03:38.315Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+07-12-2023 10:03:38.315Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+07-12-2023 10:03:38.316Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+07-12-2023 10:03:38.318Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+07-12-2023 10:03:38.320Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+07-12-2023 10:03:38.321Z;functions.bot_text_art;     |_||_|                                                     
+07-12-2023 10:03:38.322Z;functions.bot_text_art;     | ||_|_   
+07-12-2023 10:03:38.323Z;functions.bot_text_art;   |___||___|  
+07-12-2023 10:03:38.324Z;functions.bot_text_art;               
+07-12-2023 10:03:39.102Z;functions.open_RM;  OPEN PROGRAM RM
+07-12-2023 10:10:11.848Z;functions.loggin_RM;  ENTER USER_NAME
+07-12-2023 10:10:13.196Z;functions.loggin_RM;  ENTER PASSWORD
+07-12-2023 10:10:15.358Z;functions.loggin_RM;  ENTER RM
+07-12-2023 10:10:55.133Z;functions.enter_coligada;  CLICK CONTEXTO
+07-12-2023 10:11:00.762Z;functions.enter_coligada;  CLICK COLIGADA 2
+07-12-2023 10:11:04.916Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+07-12-2023 10:11:05.098Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+07-12-2023 10:11:06.576Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+07-12-2023 10:11:07.887Z;functions.enter_coligada;  CLICK CONCLUIR
+07-12-2023 10:11:33.177Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+07-12-2023 10:11:34.027Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+07-12-2023 10:11:35.878Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+07-12-2023 10:11:37.137Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+07-12-2023 10:11:44.874Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+07-12-2023 10:11:47.097Z;functions.waitForImage;  LANÇAMENTOS image found.
+07-12-2023 10:11:49.219Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+07-12-2023 10:12:00.837Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+07-12-2023 10:12:01.885Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO

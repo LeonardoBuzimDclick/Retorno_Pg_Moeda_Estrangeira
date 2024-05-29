@@ -1,0 +1,48 @@
+2024-02-23 15:18:39,129; INFO; functions.getPid.948: Dentro função GetPid
+
+2024-02-23 15:18:39,426; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 15:18:39,427; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 15:18:39,428; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 15:18:39,428; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 15:18:39,429; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 15:18:39,430; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 15:18:39,430; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 15:18:39,431; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 15:18:39,431; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 15:18:39,432; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 15:18:39,432; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 15:18:39,432; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 15:18:39,433; INFO; functions.bot_text_art.19:              
+2024-02-23 15:18:39,433; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 15:18:39,435; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 15:18:39,436; INFO; main.process.15: SERÃO TRATADOS 2 ARQUIVOS.
+2024-02-23 15:18:39,437; ERROR; functions.show_exception_and_exit.24: cannot access local variable 'texto_msg' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 150, in <module>
+    process()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 17, in process
+    texto_msg1 = f'{texto_msg} Foram tratados seguintes arquivos:'
+                    ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'texto_msg' where it is not associated with a value
+2024-02-23 15:18:40,538; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 15:18:40,538; INFO; functions.getPid.948: Dentro função GetPid
+
+2024-02-23 15:18:40,848; INFO; functions.encerra_prog.325: RM ENCERRADO
+2024-02-23 15:18:42,129; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+2024-02-23 15:18:42,145; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+2024-02-23 15:18:42,149; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+2024-02-23 15:18:42,150; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+2024-02-23 15:18:42,151; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:612: mso-table-lspace]
+2024-02-23 15:18:42,152; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:642: mso-table-rspace]
+2024-02-23 15:18:42,201; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:4734: mso-hide]
+2024-02-23 15:18:42,230; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+2024-02-23 15:18:42,232; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+2024-02-23 15:18:42,233; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+2024-02-23 15:18:42,234; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+2024-02-23 15:18:42,235; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:26: mso-table-lspace]
+2024-02-23 15:18:42,235; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:45: mso-table-rspace]
+2024-02-23 15:18:42,250; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:92: mso-hide]
+2024-02-23 15:18:42,255; ERROR; errorhandler.__handle.104: Property: No ":" after name found: align-center [1:1: align-center]
+2024-02-23 15:18:42,255; ERROR; errorhandler.__handle.104: Property: No property value found: align-center [1:1: align-center]
+2024-02-23 15:18:42,256; ERROR; errorhandler.__handle.104: CSSStyleDeclaration: Syntax Error in Property: align-center
+2024-02-23 15:18:42,257; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:14: -ms-interpolation-mode]

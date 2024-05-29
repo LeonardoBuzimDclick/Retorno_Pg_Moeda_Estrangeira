@@ -1,0 +1,10 @@
+07-12-2023 12:50:02.297Z;functions.check_inv;  SELECIONA A PRIMEIRA LINHA REF LANÇAMENTO
+07-12-2023 12:50:03.927Z;functions.check_inv;  16 PASSOS PARA DIREITA
+07-12-2023 12:50:03.928Z;functions.show_exception_and_exit;  name 'rows_int' is not defined
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 25, in <module>
+    check_inv()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 296, in check_inv
+    for i in range(rows_int):
+                   ^^^^^^^^
+NameError: name 'rows_int' is not defined

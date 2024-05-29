@@ -1,0 +1,16 @@
+07-12-2023 10:38:22.975Z;functions.enter_coligada;  CLICK CONTEXTO
+07-12-2023 10:38:24.868Z;functions.enter_coligada;  CLICK COLIGADA 2
+07-12-2023 10:38:28.049Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+07-12-2023 10:38:28.194Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+07-12-2023 10:38:29.504Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+07-12-2023 10:38:30.785Z;functions.enter_coligada;  CLICK CONCLUIR
+07-12-2023 10:39:35.108Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+07-12-2023 10:39:35.954Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+07-12-2023 10:39:54.483Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 14, in <module>
+    enter_contas_a_pagar()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 100, in enter_contas_a_pagar
+    back_office.click()
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

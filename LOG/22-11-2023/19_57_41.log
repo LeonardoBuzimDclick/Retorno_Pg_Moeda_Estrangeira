@@ -1,0 +1,75 @@
+22-11-2023 19:57:44.456Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+22-11-2023 19:57:45.781Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+22-11-2023 19:57:57.997Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+22-11-2023 19:57:58.214Z;functions.waitForImage;  FILTER CLEAN image found.
+22-11-2023 19:58:00.347Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+22-11-2023 19:58:03.712Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+22-11-2023 19:58:04.936Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+22-11-2023 19:58:06.912Z;functions.movimentacao_bancaria;  HOVER FILTER
+22-11-2023 19:58:07.032Z;functions.movimentacao_bancaria;  CLICK FILTER
+22-11-2023 19:58:11.364Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+22-11-2023 19:58:13.469Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+22-11-2023 19:58:15.582Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+22-11-2023 19:58:17.685Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+22-11-2023 19:58:35.274Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+22-11-2023 19:58:36.488Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+22-11-2023 19:58:38.595Z;functions.movimentacao_bancaria;  CLICA EM PROCESSOS
+22-11-2023 19:58:40.699Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+22-11-2023 19:58:42.802Z;functions.movimentacao_bancaria;  APERTA ENTER
+22-11-2023 19:58:45.742Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+22-11-2023 19:58:49.979Z;functions.waitForImage;  PRESS BUTTON OK image found.
+22-11-2023 19:58:51.981Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+22-11-2023 19:58:54.848Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+22-11-2023 19:58:57.025Z;functions.waitForImage;  FILTER CLEAN image found.
+22-11-2023 19:58:59.156Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+22-11-2023 19:59:02.562Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+22-11-2023 19:59:03.787Z;functions.processo_pagamento;  12 PASSOS PARA DIREITA NA TABELA >>
+22-11-2023 19:59:05.763Z;functions.processo_pagamento;  HOVER FILTER
+22-11-2023 19:59:07.887Z;functions.processo_pagamento;  CLICK FILTER
+22-11-2023 19:59:12.219Z;functions.processo_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+22-11-2023 19:59:14.323Z;functions.processo_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+22-11-2023 19:59:16.440Z;functions.processo_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+22-11-2023 19:59:18.544Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+22-11-2023 19:59:21.695Z;functions.processo_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+22-11-2023 19:59:23.800Z;functions.processo_pagamento;  CLICA EM PROCESSOS
+22-11-2023 19:59:25.903Z;functions.processo_pagamento;  APERTA PARA BAIXO 1
+22-11-2023 19:59:28.006Z;functions.processo_pagamento;  APERTA PARA BAIXO 2
+22-11-2023 19:59:30.110Z;functions.processo_pagamento;  APERTA PARA BAIXO 3
+22-11-2023 19:59:32.213Z;functions.processo_pagamento;  APERTA ENTER
+22-11-2023 19:59:35.155Z;functions.processo_pagamento;  CLICA EM REMESSAS DE PAGAMENTO
+22-11-2023 19:59:49.820Z;functions.processo_pagamento;  CLICA EM AVANÇAR
+22-11-2023 19:59:51.083Z;functions.processo_pagamento;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+22-11-2023 19:59:52.035Z;functions.processo_pagamento;  CLICA EM AVANCAR PARA CONCLUIR
+22-11-2023 19:59:53.443Z;functions.processo_pagamento;  CLICA EM EXECUTAR
+22-11-2023 20:00:04.398Z;functions.waitForImage;  PRESS BUTTON OK image found.
+22-11-2023 20:00:06.400Z;functions.processo_pagamento;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+22-11-2023 20:00:09.987Z;functions.processo_pagamento;  MENSAGEM DE LOG:
+22-11-2023 20:00:09.988Z;functions.processo_pagamento;  ===========================================================================================================
+LANÇAMENTOS ENVIADOS PARA REMESSA PAGAMENTO
+Coligada: 1
+ID Remessa: 10
+Convênio: 14
+Data: 22/11/2023 20:00:00
+Borderô remetidos: 1
+===========================================================================================================
+Borderô: 1-7184
+
+Lançamentos remetidos no Borderô:
+Lancamento 1-680900
+Lancamento 1-680903
+Lancamento 1-682326
+Lancamento 1-682410
+Lancamento 1-686519
+Lancamento 1-686520
+Lancamento 1-755780
+----------------------------------------------------------------------------------------------------------
+
+
+22-11-2023 20:00:10.862Z;functions.processo_pagamento;  MENSAGEM DE LOG:
+22-11-2023 20:00:10.973Z;functions.processo_pagamento;  FECHA A ABA MOVIMENTAÇÃO BANCÁRIA
+22-11-2023 20:00:11.101Z;functions.rename_arq;  DATA INICIO 22-11-2023
+22-11-2023 20:00:11.102Z;functions.rename_arq;  DATA FIM 28-11-2023
+22-11-2023 20:00:11.104Z;functions.rename_arq;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+22-11-2023 20:00:11.106Z;functions.rename_arq;  QUARTA-FEIRA: 22-11-2023
+22-11-2023 20:00:11.108Z;functions.rename_arq;  TERCA-FEIRA: 28-11-2023
+22-11-2023 20:00:11.113Z;functions.rename_arq;  A próxima letra seria: B

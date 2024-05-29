@@ -1,0 +1,11 @@
+22-11-2023 19:56:08.348Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+22-11-2023 19:56:09.652Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+22-11-2023 19:56:21.861Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+22-11-2023 19:56:23.338Z;functions.waitForImage;  FILTER CLEAN image found.
+22-11-2023 19:56:25.472Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+22-11-2023 19:56:28.851Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+22-11-2023 19:56:30.076Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+22-11-2023 19:56:32.318Z;functions.movimentacao_bancaria;  HOVER FILTER
+22-11-2023 19:56:32.450Z;functions.movimentacao_bancaria;  CLICK FILTER
+22-11-2023 19:56:36.790Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+22-11-2023 19:56:38.893Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO

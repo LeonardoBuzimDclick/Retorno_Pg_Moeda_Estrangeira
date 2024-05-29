@@ -1,0 +1,58 @@
+07-12-2023 15:47:37.923Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+07-12-2023 15:47:39.879Z;functions.check_inv;  19 PASSOS PARA DIREITA
+07-12-2023 15:47:41.881Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:42.487Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+07-12-2023 15:47:42.488Z;functions.check_inv;  INV: 00525829
+07-12-2023 15:47:43.091Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 15:47:43.093Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:43.698Z;functions.check_inv;  Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+07-12-2023 15:47:43.700Z;functions.check_inv;  INV: 10218917
+07-12-2023 15:47:44.303Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 15:47:44.305Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:44.914Z;functions.check_inv;  Historico completo: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+07-12-2023 15:47:44.916Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 15:47:45.520Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 15:47:45.521Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:46.126Z;functions.check_inv;  Historico completo: INV - 020558915 - KONGSBERG MARITIME AS
+07-12-2023 15:47:46.127Z;functions.check_inv;  INV: 020558915
+07-12-2023 15:47:46.731Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 15:47:46.732Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:47.338Z;functions.check_inv;  Historico completo: INV - 000747431 - KONGSBERG MARITIME AS
+07-12-2023 15:47:47.339Z;functions.check_inv;  INV: 000747431
+07-12-2023 15:47:47.943Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 15:47:47.944Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:48.552Z;functions.check_inv;  Historico completo: INV - 000747439 - KONGSBERG MARITIME AS
+07-12-2023 15:47:48.553Z;functions.check_inv;  INV: 000747439
+07-12-2023 15:47:49.158Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 15:47:49.159Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:49.766Z;functions.check_inv;  Historico completo: INV - 01401514 - STONE MARINE SERVICES  
+07-12-2023 15:47:49.768Z;functions.check_inv;  INV: 01401514
+07-12-2023 15:47:50.372Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 15:47:50.373Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:50.980Z;functions.check_inv;  Historico completo: INV - 02022685 - TSCHUDI SHIP MANAGEMENT AS 
+07-12-2023 15:47:50.982Z;functions.check_inv;  INV: 02022685
+07-12-2023 15:47:51.587Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 15:47:51.588Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:52.199Z;functions.check_inv;  Historico completo: INV - 19042023 - TSCHUDI SHIP MANAGEMENT AS 
+07-12-2023 15:47:52.201Z;functions.check_inv;  INV: 19042023
+07-12-2023 15:47:52.804Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 15:47:52.806Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:53.414Z;functions.check_inv;  Historico completo: INV - 23032023 - TSCHUDI SHIP MANAGEMENT AS 
+07-12-2023 15:47:53.416Z;functions.check_inv;  INV: 23032023
+07-12-2023 15:47:54.020Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 15:47:54.021Z;functions.check_inv;  ctrl c
+07-12-2023 15:47:54.626Z;functions.check_inv;  Historico completo: INV - 10584435 - DNV AS 
+07-12-2023 15:47:54.628Z;functions.check_inv;  INV: 10584435
+07-12-2023 15:48:02.902Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+07-12-2023 15:48:05.039Z;functions.define_moeda;  CLICK EM VALOR
+07-12-2023 15:48:05.451Z;functions.define_moeda;  4 TAB
+07-12-2023 15:48:13.057Z;functions.waitForImage;  PRESS BUTTON OK image found.
+07-12-2023 15:48:15.202Z;functions.define_moeda;  APERTA OK
+07-12-2023 15:48:22.480Z;functions.baixa_inv;  SELECIONA A PRIMEIRA LINHA REF LANÇAMENTO
+07-12-2023 15:48:28.907Z;functions.baixa_inv;  SELECIONA A PRIMEIRA LINHA REF LANÇAMENTO
+07-12-2023 15:48:37.244Z;functions.baixa_inv;  SELECIONA A PRIMEIRA LINHA REF LANÇAMENTO
+07-12-2023 15:48:45.299Z;functions.baixa_inv;  SELECIONA A PRIMEIRA LINHA REF LANÇAMENTO
+07-12-2023 15:48:47.801Z;functions.baixa_inv;  DATA: __/__/____
+07-12-2023 15:48:49.329Z;functions.baixa_inv;  CONTA CAIXA: 2845860863
+07-12-2023 15:48:49.330Z;functions.baixa_inv;  CONTA CAIXA PREENCHIDA
+07-12-2023 15:48:50.264Z;functions.baixa_inv;  AVANÇAR

@@ -1,0 +1,22 @@
+07-12-2023 17:48:04.445Z;functions.waitForImage;  FILTER CLEAN image not found.
+07-12-2023 17:48:07.813Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+07-12-2023 17:48:09.696Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+07-12-2023 17:48:10.459Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+07-12-2023 17:48:11.884Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+07-12-2023 17:48:19.297Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+07-12-2023 17:48:19.302Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+07-12-2023 17:48:26.432Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 52 registros?
+07-12-2023 17:48:28.438Z;functions.check_table_record;  NUMERO DE TUPLAS: 52
+07-12-2023 17:48:28.441Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+07-12-2023 17:49:08.458Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'set_focus'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 19, in <module>
+    result = check_table_record()
+             ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 262, in check_table_record
+    click_nao.set_focus()
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'set_focus'

@@ -1,0 +1,35 @@
+08-12-2023 11:49:07.146Z;functions.bot_text_art;      ____   
+08-12-2023 11:49:07.147Z;functions.bot_text_art;     [____]    
+08-12-2023 11:49:07.147Z;functions.bot_text_art;   |=]()()[=|  
+08-12-2023 11:49:07.148Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+08-12-2023 11:49:07.150Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+08-12-2023 11:49:07.151Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+08-12-2023 11:49:07.153Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+08-12-2023 11:49:07.154Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+08-12-2023 11:49:07.157Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+08-12-2023 11:49:07.159Z;functions.bot_text_art;     |_||_|                                                     
+08-12-2023 11:49:07.160Z;functions.bot_text_art;     | ||_|_   
+08-12-2023 11:49:07.161Z;functions.bot_text_art;   |___||___|  
+08-12-2023 11:49:07.162Z;functions.bot_text_art;               
+08-12-2023 11:49:07.172Z;functions.open_RM;  OPEN PROGRAM RM
+08-12-2023 11:49:22.143Z;functions.loggin_RM;  ENTER USER_NAME
+08-12-2023 11:49:23.598Z;functions.loggin_RM;  ENTER PASSWORD
+08-12-2023 11:49:24.747Z;functions.loggin_RM;  ENTER RM
+08-12-2023 11:50:21.439Z;functions.enter_coligada;  CLICK CONTEXTO
+08-12-2023 11:50:26.436Z;functions.enter_coligada;  CLICK COLIGADA 2
+08-12-2023 11:50:30.518Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+08-12-2023 11:50:30.732Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+08-12-2023 11:50:32.250Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+08-12-2023 11:50:35.581Z;functions.enter_coligada;  CLICK CONCLUIR
+08-12-2023 11:51:01.868Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+08-12-2023 11:51:05.733Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+08-12-2023 11:51:08.666Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+08-12-2023 11:51:11.501Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+08-12-2023 11:51:26.758Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 15, in <module>
+    enter_contas_a_pagar()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 116, in enter_contas_a_pagar
+    contas_pagar.click()
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

@@ -1,0 +1,8 @@
+07-12-2023 12:52:17.810Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+07-12-2023 12:52:25.371Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 52 registros?
+07-12-2023 12:52:27.374Z;functions.check_table_record;  NUMERO DE TUPLAS: 52
+07-12-2023 12:52:27.376Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+07-12-2023 12:52:29.347Z;functions.check_table_record;  CLICK NÃO

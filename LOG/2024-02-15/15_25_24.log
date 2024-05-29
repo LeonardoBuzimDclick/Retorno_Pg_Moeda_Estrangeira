@@ -1,0 +1,68 @@
+2024-02-15 15:25:24.645Z;functions.bot_text_art;      ____   
+2024-02-15 15:25:24.645Z;functions.bot_text_art;     [____]    
+2024-02-15 15:25:24.645Z;functions.bot_text_art;   |=]()()[=|  
+2024-02-15 15:25:24.645Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-15 15:25:24.645Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-15 15:25:24.645Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-15 15:25:24.645Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-15 15:25:24.645Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-15 15:25:24.645Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-15 15:25:24.645Z;functions.bot_text_art;     |_||_|                                                     
+2024-02-15 15:25:24.645Z;functions.bot_text_art;     | ||_|_   
+2024-02-15 15:25:24.645Z;functions.bot_text_art;   |___||___|  
+2024-02-15 15:25:24.645Z;functions.bot_text_art;               
+2024-02-15 15:25:24.645Z;functions.headerExcel;  Criando EXCEL
+2024-02-15 15:25:24.645Z;functions.headerExcel;  EXCEL iniciado
+2024-02-15 15:25:24.645Z;functions.open_RM;  OPEN PROGRAM RM
+2024-02-15 15:25:33.598Z;functions.loggin_RM;  ENTER USER_NAME
+2024-02-15 15:25:34.504Z;functions.loggin_RM;  ENTER PASSWORD
+2024-02-15 15:25:35.489Z;functions.loggin_RM;  ENTER RM
+2024-02-15 15:26:25.552Z;functions.enter_coligada;  CLICK CONTEXTO
+2024-02-15 15:26:32.398Z;functions.enter_coligada;  CLICK COLIGADA 2
+2024-02-15 15:26:37.676Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+2024-02-15 15:26:37.785Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-02-15 15:26:39.614Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+2024-02-15 15:26:42.646Z;functions.enter_coligada;  CLICK CONCLUIR
+2024-02-15 15:27:04.160Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-02-15 15:27:04.801Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+2024-02-15 15:27:07.520Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+2024-02-15 15:27:10.147Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+2024-02-15 15:27:14.082Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+2024-02-15 15:27:15.114Z;functions.waitForImage;  LANÇAMENTOS image found.
+2024-02-15 15:27:15.246Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+2024-02-15 15:27:32.895Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+2024-02-15 15:27:34.709Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+2024-02-15 15:27:54.020Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 67, in <module>
+    process()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 15, in process
+    filter_lancamento()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 161, in filter_lancamento
+    enter_inv.click()
+    ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+2024-02-15 15:27:56.676Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+2024-02-15 15:27:56.676Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+2024-02-15 15:27:56.693Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+2024-02-15 15:27:56.694Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+2024-02-15 15:27:56.695Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+2024-02-15 15:27:56.696Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+2024-02-15 15:27:56.746Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+2024-02-15 15:27:56.776Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+2024-02-15 15:27:56.777Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+2024-02-15 15:27:56.779Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+2024-02-15 15:27:56.780Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+2024-02-15 15:27:56.781Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+2024-02-15 15:27:56.782Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+2024-02-15 15:27:56.793Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+2024-02-15 15:27:56.797Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+2024-02-15 15:27:56.798Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+2024-02-15 15:27:56.798Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+2024-02-15 15:27:56.800Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+2024-02-15 15:27:58.754Z;functions.encerra_prog;  Fechando Excel...
+2024-02-15 15:27:58.914Z;functions.getPid;  Dentro função GetPid
+
+2024-02-15 15:27:59.080Z;functions.getPid;  Process RM.exe / PID: 6368 found.
+2024-02-15 15:27:59.174Z;functions.pidKillFinish;  Process RM.exe / PID: 6368 killed.
+2024-02-15 15:27:59.175Z;functions.encerra_prog;  RM ENCERRADO

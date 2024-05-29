@@ -1,0 +1,28 @@
+2024-01-02 14:16:49.892Z;functions.bot_text_art;      ____   
+2024-01-02 14:16:49.892Z;functions.bot_text_art;     [____]    
+2024-01-02 14:16:49.892Z;functions.bot_text_art;   |=]()()[=|  
+2024-01-02 14:16:49.893Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2024-01-02 14:16:49.893Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-01-02 14:16:49.893Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-01-02 14:16:49.894Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-01-02 14:16:49.895Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-01-02 14:16:49.896Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-01-02 14:16:49.896Z;functions.bot_text_art;     |_||_|                                                     
+2024-01-02 14:16:49.897Z;functions.bot_text_art;     | ||_|_   
+2024-01-02 14:16:49.897Z;functions.bot_text_art;   |___||___|  
+2024-01-02 14:16:49.897Z;functions.bot_text_art;               
+2024-01-02 14:16:49.898Z;functions.headerExcel;  Criando EXCEL
+2024-01-02 14:16:49.900Z;functions.headerExcel;  EXCEL iniciado
+2024-01-02 14:16:49.921Z;functions.open_RM;  OPEN PROGRAM RM
+2024-01-02 14:16:58.545Z;functions.loggin_RM;  ENTER USER_NAME
+2024-01-02 14:16:59.479Z;functions.loggin_RM;  ENTER PASSWORD
+2024-01-02 14:17:00.215Z;functions.loggin_RM;  ENTER RM
+2024-01-02 14:17:34.918Z;functions.enter_coligada;  CLICK CONTEXTO
+2024-01-02 14:17:52.673Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 14, in <module>
+    enter_coligada()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 80, in enter_coligada
+    click_coligada.click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

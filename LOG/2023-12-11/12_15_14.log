@@ -1,0 +1,72 @@
+2023-12-11 12:15:16.853Z;functions.bot_text_art;      ____   
+2023-12-11 12:15:16.854Z;functions.bot_text_art;     [____]    
+2023-12-11 12:15:16.855Z;functions.bot_text_art;   |=]()()[=|  
+2023-12-11 12:15:16.856Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2023-12-11 12:15:16.857Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2023-12-11 12:15:16.858Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2023-12-11 12:15:16.858Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2023-12-11 12:15:16.859Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2023-12-11 12:15:16.861Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2023-12-11 12:15:16.861Z;functions.bot_text_art;     |_||_|                                                     
+2023-12-11 12:15:16.862Z;functions.bot_text_art;     | ||_|_   
+2023-12-11 12:15:16.862Z;functions.bot_text_art;   |___||___|  
+2023-12-11 12:15:16.862Z;functions.bot_text_art;               
+2023-12-11 12:15:16.863Z;functions.headerExcel;  Criando EXCEL
+2023-12-11 12:15:16.869Z;functions.headerExcel;  EXCEL iniciado
+2023-12-11 12:15:16.889Z;functions.open_RM;  OPEN PROGRAM RM
+2023-12-11 12:15:34.518Z;functions.loggin_RM;  ENTER USER_NAME
+2023-12-11 12:15:36.017Z;functions.loggin_RM;  ENTER PASSWORD
+2023-12-11 12:15:37.265Z;functions.loggin_RM;  ENTER RM
+2023-12-11 12:16:16.977Z;functions.enter_coligada;  CLICK CONTEXTO
+2023-12-11 12:16:22.410Z;functions.enter_coligada;  CLICK COLIGADA 2
+2023-12-11 12:16:26.753Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+2023-12-11 12:16:26.890Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2023-12-11 12:16:28.886Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+2023-12-11 12:16:32.339Z;functions.enter_coligada;  CLICK CONCLUIR
+2023-12-11 12:16:58.293Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+2023-12-11 12:17:02.200Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+2023-12-11 12:17:05.208Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+2023-12-11 12:17:08.106Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+2023-12-11 12:17:18.720Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+2023-12-11 12:17:19.117Z;functions.waitForImage;  LANÇAMENTOS image found.
+2023-12-11 12:17:19.223Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+2023-12-11 12:17:33.213Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+2023-12-11 12:17:34.086Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+2023-12-11 12:17:36.265Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+2023-12-11 12:17:37.201Z;functions.filter_lancamento;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+2023-12-11 12:18:06.416Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2023-12-11 12:18:08.550Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2023-12-11 12:18:10.864Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2023-12-11 12:18:13.386Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2023-12-11 12:18:16.116Z;functions.desmark_filter;  ATUALIZA O FILTRO
+2023-12-11 12:18:16.301Z;functions.waitForImage;  FILTER CLEAN image found.
+2023-12-11 12:18:16.420Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+2023-12-11 12:18:20.270Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+2023-12-11 12:18:22.252Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+2023-12-11 12:18:23.040Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+2023-12-11 12:18:25.861Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2023-12-11 12:18:33.180Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+2023-12-11 12:18:33.184Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+2023-12-11 12:18:39.787Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 47 registros?
+2023-12-11 12:18:41.790Z;functions.check_table_record;  NUMERO DE TUPLAS: 47
+2023-12-11 12:18:41.792Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+2023-12-11 12:18:43.765Z;functions.check_table_record;  CLICK NÃO
+2023-12-11 12:19:01.663Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+2023-12-11 12:19:03.608Z;functions.check_inv;  19 PASSOS PARA DIREITA
+2023-12-11 12:19:05.609Z;functions.check_inv;  BUSCA NA LINHA: 0
+2023-12-11 12:19:05.610Z;functions.check_inv;  ctrl c
+2023-12-11 12:19:06.223Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+2023-12-11 12:19:06.725Z;functions.check_inv;  INV CORRETA ENCONTRADA: 00525829
+2023-12-11 12:19:06.832Z;main.<module>;  None
+2023-12-11 12:19:26.292Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+2023-12-11 12:19:28.416Z;functions.define_moeda;  CLICK EM VALOR
+2023-12-11 12:19:28.831Z;functions.define_moeda;  4 TAB
+2023-12-11 12:19:32.050Z;functions.define_moeda;  MOEDA PREENCHIDA COM EUR
+2023-12-11 12:19:36.439Z;functions.waitForImage;  PRESS BUTTON OK image found.
+2023-12-11 12:19:38.571Z;functions.define_moeda;  APERTA OK
+2023-12-11 12:19:42.675Z;functions.baixa_inv;  CHECK LINHA
+2023-12-11 12:19:47.447Z;functions.baixa_inv;  SELECIONA BOTÃO BAIXA
+2023-12-11 12:19:54.719Z;functions.baixa_inv;  CLICA OK

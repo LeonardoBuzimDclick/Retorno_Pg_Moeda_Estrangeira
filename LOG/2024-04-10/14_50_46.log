@@ -1,0 +1,515 @@
+2024-04-10 14:50:46,897; INFO; parameters.<module>.103: Pasta local: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\04 - Abril
+2024-04-10 14:50:46,913; INFO; functions.getPid.1026: Dentro função GetPid
+
+2024-04-10 14:50:47,132; INFO; functions.getPid.1036: Process RM.exe / PID: 9064 found.
+2024-04-10 14:50:47,169; INFO; functions.pidKillFinish.1047: Process RM.exe / PID: 9064 killed.
+2024-04-10 14:50:47,170; INFO; functions.bot_text_art.7:     ____   
+2024-04-10 14:50:47,172; INFO; functions.bot_text_art.8:    [____]    
+2024-04-10 14:50:47,183; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-04-10 14:50:47,191; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-04-10 14:50:47,193; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-04-10 14:50:47,195; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-04-10 14:50:47,197; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-04-10 14:50:47,198; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-04-10 14:50:47,200; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-04-10 14:50:47,201; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-04-10 14:50:47,202; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-04-10 14:50:47,202; INFO; functions.bot_text_art.18:  |___||___|  
+2024-04-10 14:50:47,203; INFO; functions.bot_text_art.19:              
+2024-04-10 14:50:47,204; INFO; functions.headerExcel.959: Criando EXCEL
+2024-04-10 14:50:47,206; INFO; functions.headerExcel.979: EXCEL iniciado
+2024-04-10 14:50:47,207; INFO; main.process.15: TODOS ARQUIVOS NA PASTA ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\04 - Abril\\Ebury - Parcial até 08-04.pdf'].
+2024-04-10 14:50:47,208; INFO; main.process.23: SERÃO TRATADOS 1 ARQUIVOS.
+2024-04-10 14:50:47,208; INFO; main.process.24: ARQUIVOS: ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\04 - Abril\\Ebury - Parcial até 08-04.pdf']
+2024-04-10 14:50:47,209; INFO; main.process.33: INICIO DO PROCESSAMENTO DO ARQUIVO 1: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\04 - Abril\Ebury - Parcial até 08-04.pdf
+2024-04-10 14:50:47,317; INFO; functions.informacoes_extraidas.597: texto: Oceanica Netherlands B.V.
+Mr. Andre Ponce de Leon Arruda
+Apollolaan 151
+Extracto de Conta
+Período do extrato: 01-04-2024 00:00 - 30-04-2024 23:59
+Registo de instrução: 08-04-2024 17:56
+Moeda: Todos
+Resumo
+Conta de Moeda
+Saldo Inicial Fundos recebidos A sair Saldo final
+Estrangeira
+USD 400163.87 399503.19 -749595.76 50071.30
+NOK 12017.67 166155.00 -172025.00 6147.67
+MXN 0.00 0.00 0.00 0.00
+GBP 2440.12 3000.00 -4863.34 576.78
+SGD 0.00 33717.00 -33717.00 0.00
+EUR 12900.09 441360.00 -444801.45 9458.64
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 1 de 12
+2024-04-10 14:50:47,410; INFO; functions.informacoes_extraidas.597: texto: Movimentos: Todas as moedas
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento devolvido PI3993937 Bertling logistics Aberdeen Limited
+08-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR 8360.00 EUR 9458.64
+13:27
+PI3993937 1131-24
+Pagamento PI3993937 Bertling logistics Aberdeen Limited
+08-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -8360.00 EUR 1098.64
+09:41
+PI3993937 1131-24
+08-04-2024 Comprado EUR EBPOTR3376301
+EUR 3000.00 EUR 9458.64
+09:38 EURUSD1.099408Compra/venda de moeda
+08-04-2024 Vendido USD EBPOTR3376301
+USD -3298.22 USD 50071.30
+09:38 EURUSD1.099408Compra/venda de moeda
+Pagamento PI3991205 Kongsberg Maritime AS
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -166155.00 NOK 6147.67
+20:24
+PI3991205 10167246
+07-04-2024 Comprado NOK EBPOTR3374322
+NOK 166155.00 NOK 172302.67
+20:24 USDNOK10.566872Compra/Venda de moeda
+Pagamento PI3991194 ISLE OF MAN - GOVERNMENT
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -3293.34 GBP 576.78
+20:23
+PI3991194 477026
+07-04-2024 Comprado GBP EBPOTR3374299
+GBP 3000.00 GBP 3870.12
+20:23 GBPUSD1.280124Compra/Venda de moeda
+07-04-2024 Vendido USD EBPOTR3374322
+USD -15724.14 USD 53369.52
+20:04 USDNOK10.566872Compra/Venda de moeda
+07-04-2024 Vendido USD EBPOTR3374299
+USD -3840.37 USD 69093.66
+20:04 GBPUSD1.280124Compra/Venda de moeda
+Pagamento PI3991105 Loyens and Loeff N.V
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -7695.60 EUR 6458.64
+20:03
+PI3991105 1622766
+Pagamento PI3991191 ISLE OF MAN - GOVERNMENT
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -650.00 GBP 870.12
+20:03
+PI3991191 476414
+Pagamento PI3991188 ISLE OF MAN - GOVERNMENT
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -650.00 GBP 1520.12
+20:03
+PI3991188 476415
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 2 de 12
+2024-04-10 14:50:47,503; INFO; functions.informacoes_extraidas.597: texto: Pagamento PI3991184 ISLE OF MAN - GOVERNMENT
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -270.00 GBP 2170.12
+20:03
+PI3991184 476446
+Pagamento PI3988296 Flushing Shipping Agencies
+04-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -28538.35 EUR 14154.24
+20:23
+PI3988296 PK2224000061
+04-04-2024 Comprado EUR EBPOTR3372347
+EUR 29000.00 EUR 42692.59
+20:23 EURUSD1.102082Compra/Venda de moeda
+04-04-2024 Vendido USD EBPOTR3372347
+USD -31960.38 USD 72934.03
+20:04 EURUSD1.102082Compra/Venda de moeda
+Pagamento PI3983592 Holland Accommodation Rentals VOF
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -400207.50 EUR 13692.59
+20:23
+PI3983592 241450004 - 90perc. restantes
+03-04-2024 Comprado EUR EBPOTR3369777
+EUR 401000.00 EUR 413900.09
+20:23 EURUSD1.099358Compra/Venda de moeda
+Pagamento PI3983616 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -1050.00 USD 104894.41
+20:03
+PI3983616 137224
+Pagamento PI3983615 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -2324.00 USD 105944.41
+20:03
+PI3983615 137124
+Pagamento PI3983613 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -315.00 USD 108268.41
+20:03
+PI3983613 137024
+Pagamento PI3983612 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -315.00 USD 108583.41
+20:03
+PI3983612 136924
+Pagamento PI3983610 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5960.00 USD 108898.41
+20:03
+PI3983610 136724
+Pagamento PI3983608 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -315.00 USD 114858.41
+20:03
+PI3983608 136824
+Pagamento PI3983606 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5960.00 USD 115173.41
+20:03
+PI3983606 136624
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 3 de 12
+2024-04-10 14:50:47,654; INFO; functions.informacoes_extraidas.597: texto: Pagamento PI3983602 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5960.00 USD 121133.41
+20:03
+PI3983602 136524
+Pagamento PI3983600 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -43520.00 USD 127093.41
+20:03
+PI3983600 136324
+Pagamento PI3983598 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5960.00 USD 170613.41
+20:03
+PI3983598 136424
+Pagamento PI3983596 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -43520.00 USD 176573.41
+20:03
+PI3983596 136224
+Pagamento PI3983595 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5960.00 USD 220093.41
+20:03
+PI3983595 137324
+03-04-2024 Vendido USD EBPOTR3369777
+USD -440842.56 USD 226053.41
+20:03 EURUSD1.099358Compra/Venda de moeda
+Fundos OCEANICA ENGENHARIA E CONSULTO
+03-04-2024
+BR6960701190032120000026755C1 - - NL66EBUR2845860862 - USD 392503.19 USD 666895.97
+13:18
+2024040300418807
+Pagamento PI3974692 PT. LABROY SHIPBUILDING ENGINEERING
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. SGD -33717.00 SGD 0.00
+20:23
+PI3974692 3005
+01-04-2024 Comprado SGD EBPOTR3364284
+SGD 33717.00 SGD 33717.00
+20:23 USDSGD1.332521Compra/Venda de moeda
+01-04-2024 Vendido USD EBPOTR3364284
+USD -25303.17 USD 274392.78
+20:08 USDSGD1.332521Compra/Venda de moeda
+Pagamento PI3974527 DIMO
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -5870.00 NOK 6147.67
+20:05
+PI3974527 1029039
+Pagamento PI3974550 ARGO COMMUNICATIONS
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -7000.00 USD 299695.95
+11:19
+PI3974550 3748
+Pagamento PI3974525 SEABRIDGE MARINE ENGINEERING AND
+01-04-2024 EQUIPMENT (SHANGHAI) LTD
+USD -77456.92 USD 306695.95
+10:52 Payment for identifiable services - Oceanica Netherlands B.V.
+PI3974525 SMEE2024032801
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 4 de 12
+2024-04-10 14:50:47,700; INFO; functions.informacoes_extraidas.597: texto: Pagamento PI3974513 PT. SNEPAC SHIPPING
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -165.00 USD 384152.87
+10:44
+PI3974513 1000128
+Pagamento PI3974498 PICOLO E ASSOCIADOS LTDA INC
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -12600.00 USD 384317.87
+10:27
+PI3974498 10014
+Pagamento PI3974497 PICOLO E ASSOCIADOS LTDA INC
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -3246.00 USD 396917.87
+10:26
+PI3974497 9991
+Pagamento devolvido PI3974407 ARGO COMMUNICATIONS
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD 7000.00 USD 400163.87
+09:34
+PI3974407 3748
+Pagamento PI3974407 ARGO COMMUNICATIONS
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -7000.00 USD 393163.87
+09:11
+PI3974407 3748
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 5 de 12
+2024-04-10 14:50:47,778; INFO; functions.informacoes_extraidas.597: texto: Movimentos: USD Conta
+Registo de
+Descrição Montante Saldo
+operação
+08-04-2024 Vendido USD EBPOTR3376301
+USD -3298.22 USD 50071.30
+09:38 EURUSD1.099408Compra/venda de moeda
+07-04-2024 Vendido USD EBPOTR3374322
+USD -15724.14 USD 53369.52
+20:04 USDNOK10.566872Compra/Venda de moeda
+07-04-2024 Vendido USD EBPOTR3374299
+USD -3840.37 USD 69093.66
+20:04 GBPUSD1.280124Compra/Venda de moeda
+04-04-2024 Vendido USD EBPOTR3372347
+USD -31960.38 USD 72934.03
+20:04 EURUSD1.102082Compra/Venda de moeda
+Pagamento PI3983616 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -1050.00 USD 104894.41
+20:03
+PI3983616 137224
+Pagamento PI3983615 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -2324.00 USD 105944.41
+20:03
+PI3983615 137124
+Pagamento PI3983613 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -315.00 USD 108268.41
+20:03
+PI3983613 137024
+Pagamento PI3983612 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -315.00 USD 108583.41
+20:03
+PI3983612 136924
+Pagamento PI3983610 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5960.00 USD 108898.41
+20:03
+PI3983610 136724
+Pagamento PI3983608 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -315.00 USD 114858.41
+20:03
+PI3983608 136824
+Pagamento PI3983606 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5960.00 USD 115173.41
+20:03
+PI3983606 136624
+Pagamento PI3983602 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5960.00 USD 121133.41
+20:03
+PI3983602 136524
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 6 de 12
+2024-04-10 14:50:47,906; INFO; functions.informacoes_extraidas.597: texto: Pagamento PI3983600 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -43520.00 USD 127093.41
+20:03
+PI3983600 136324
+Pagamento PI3983598 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5960.00 USD 170613.41
+20:03
+PI3983598 136424
+Pagamento PI3983596 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -43520.00 USD 176573.41
+20:03
+PI3983596 136224
+Pagamento PI3983595 Sigmasat USA Inc
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5960.00 USD 220093.41
+20:03
+PI3983595 137324
+03-04-2024 Vendido USD EBPOTR3369777
+USD -440842.56 USD 226053.41
+20:03 EURUSD1.099358Compra/Venda de moeda
+Fundos OCEANICA ENGENHARIA E CONSULTO
+03-04-2024
+BR6960701190032120000026755C1 - - NL66EBUR2845860862 - USD 392503.19 USD 666895.97
+13:18
+2024040300418807
+01-04-2024 Vendido USD EBPOTR3364284
+USD -25303.17 USD 274392.78
+20:08 USDSGD1.332521Compra/Venda de moeda
+Pagamento PI3974550 ARGO COMMUNICATIONS
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -7000.00 USD 299695.95
+11:19
+PI3974550 3748
+Pagamento PI3974525 SEABRIDGE MARINE ENGINEERING AND
+01-04-2024 EQUIPMENT (SHANGHAI) LTD
+USD -77456.92 USD 306695.95
+10:52 Payment for identifiable services - Oceanica Netherlands B.V.
+PI3974525 SMEE2024032801
+Pagamento PI3974513 PT. SNEPAC SHIPPING
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -165.00 USD 384152.87
+10:44
+PI3974513 1000128
+Pagamento PI3974498 PICOLO E ASSOCIADOS LTDA INC
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -12600.00 USD 384317.87
+10:27
+PI3974498 10014
+Pagamento PI3974497 PICOLO E ASSOCIADOS LTDA INC
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -3246.00 USD 396917.87
+10:26
+PI3974497 9991
+Pagamento devolvido PI3974407 ARGO COMMUNICATIONS
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD 7000.00 USD 400163.87
+09:34
+PI3974407 3748
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 7 de 12
+2024-04-10 14:50:47,927; INFO; functions.informacoes_extraidas.597: texto: Pagamento PI3974407 ARGO COMMUNICATIONS
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -7000.00 USD 393163.87
+09:11
+PI3974407 3748
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 8 de 12
+2024-04-10 14:50:47,959; INFO; functions.informacoes_extraidas.597: texto: Movimentos: NOK Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI3991205 Kongsberg Maritime AS
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -166155.00 NOK 6147.67
+20:24
+PI3991205 10167246
+07-04-2024 Comprado NOK EBPOTR3374322
+NOK 166155.00 NOK 172302.67
+20:24 USDNOK10.566872Compra/Venda de moeda
+Pagamento PI3974527 DIMO
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -5870.00 NOK 6147.67
+20:05
+PI3974527 1029039
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 9 de 12
+2024-04-10 14:50:48,003; INFO; functions.informacoes_extraidas.597: texto: Movimentos: GBP Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI3991194 ISLE OF MAN - GOVERNMENT
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -3293.34 GBP 576.78
+20:23
+PI3991194 477026
+07-04-2024 Comprado GBP EBPOTR3374299
+GBP 3000.00 GBP 3870.12
+20:23 GBPUSD1.280124Compra/Venda de moeda
+Pagamento PI3991191 ISLE OF MAN - GOVERNMENT
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -650.00 GBP 870.12
+20:03
+PI3991191 476414
+Pagamento PI3991188 ISLE OF MAN - GOVERNMENT
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -650.00 GBP 1520.12
+20:03
+PI3991188 476415
+Pagamento PI3991184 ISLE OF MAN - GOVERNMENT
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -270.00 GBP 2170.12
+20:03
+PI3991184 476446
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 10 de 12
+2024-04-10 14:50:48,030; INFO; functions.informacoes_extraidas.597: texto: Movimentos: SGD Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI3974692 PT. LABROY SHIPBUILDING ENGINEERING
+01-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. SGD -33717.00 SGD 0.00
+20:23
+PI3974692 3005
+01-04-2024 Comprado SGD EBPOTR3364284
+SGD 33717.00 SGD 33717.00
+20:23 USDSGD1.332521Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 11 de 12
+2024-04-10 14:50:48,090; INFO; functions.informacoes_extraidas.597: texto: Movimentos: EUR Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento devolvido PI3993937 Bertling logistics Aberdeen Limited
+08-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR 8360.00 EUR 9458.64
+13:27
+PI3993937 1131-24
+Pagamento PI3993937 Bertling logistics Aberdeen Limited
+08-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -8360.00 EUR 1098.64
+09:41
+PI3993937 1131-24
+08-04-2024 Comprado EUR EBPOTR3376301
+EUR 3000.00 EUR 9458.64
+09:38 EURUSD1.099408Compra/venda de moeda
+Pagamento PI3991105 Loyens and Loeff N.V
+07-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -7695.60 EUR 6458.64
+20:03
+PI3991105 1622766
+Pagamento PI3988296 Flushing Shipping Agencies
+04-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -28538.35 EUR 14154.24
+20:23
+PI3988296 PK2224000061
+04-04-2024 Comprado EUR EBPOTR3372347
+EUR 29000.00 EUR 42692.59
+20:23 EURUSD1.102082Compra/Venda de moeda
+Pagamento PI3983592 Holland Accommodation Rentals VOF
+03-04-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -400207.50 EUR 13692.59
+20:23
+PI3983592 241450004 - 90perc. restantes
+03-04-2024 Comprado EUR EBPOTR3369777
+EUR 401000.00 EUR 413900.09
+20:23 EURUSD1.099358Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 12 de 12
+2024-04-10 14:50:48,094; INFO; functions.excelProcessoCompleto.1104: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-04-10 14:50:48,096; INFO; functions.excelProcessoCompleto.1118: Aba de TODOS EXTRAÍDOS ao EXCEL existente
+2024-04-10 14:50:48,099; INFO; main.process.42: PROCESSOS EXTRAIDOS COM ERRO: 3
+2024-04-10 14:50:48,099; INFO; main.process.43: PROCESSOS COM ERRO: [{'data': '01-04-2024', 'pi': '3974692', 'inv': '3005', 'moeda': 'SGD', 'montante': '-33717.00', 'saldo': '0.00', 'nome': 'PT. LABROY SHIPBUILDING ENGINEERING', 'cod': None}, {'data': '01-04-2024', 'pi': '3974525', 'inv': None, 'moeda': 'USD', 'montante': '-77456.92', 'saldo': '306695.95', 'nome': 'SEABRIDGE MARINE ENGINEERING AND', 'cod': None}, {'data': '01-04-2024', 'pi': '3974692', 'inv': '3005', 'moeda': 'SGD', 'montante': '-33717.00', 'saldo': '0.00', 'nome': 'PT. LABROY SHIPBUILDING ENGINEERING', 'cod': None}]
+2024-04-10 14:50:48,100; INFO; functions.excelErro.1054: Adicionando aba de ERRO ao EXCEL existente
+2024-04-10 14:50:48,101; INFO; functions.excelErro.1070: Aba de ERRO adicionada ao EXCEL existente
+2024-04-10 14:50:48,102; INFO; main.process.46: PROCESSOS EXTRAIDOS CORRETAMENTE: 55
+2024-04-10 14:50:48,102; INFO; main.process.47: PROCESSOS A SEREM TRATADOS: [{'data': '08-04-2024', 'pi': '3993937', 'inv': '1131', 'moeda': 'EUR', 'montante': '-8360.00', 'saldo': '1098.64', 'nome': 'Bertling logistics Aberdeen Limited', 'cod': None}, {'data': '07-04-2024', 'pi': '3991205', 'inv': '10167246', 'moeda': 'NOK', 'montante': '-166155.00', 'saldo': '6147.67', 'nome': 'Kongsberg Maritime AS', 'cod': None}, {'data': '07-04-2024', 'pi': '3991194', 'inv': '477026', 'moeda': 'GBP', 'montante': '-3293.34', 'saldo': '576.78', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '07-04-2024', 'pi': '3991105', 'inv': '1622766', 'moeda': 'EUR', 'montante': '-7695.60', 'saldo': '6458.64', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '07-04-2024', 'pi': '3991191', 'inv': '476414', 'moeda': 'GBP', 'montante': '-650.00', 'saldo': '870.12', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '07-04-2024', 'pi': '3991188', 'inv': '476415', 'moeda': 'GBP', 'montante': '-650.00', 'saldo': '1520.12', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '07-04-2024', 'pi': '3991184', 'inv': '476446', 'moeda': 'GBP', 'montante': '-270.00', 'saldo': '2170.12', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '04-04-2024', 'pi': '3988296', 'inv': '241450004', 'moeda': 'EUR', 'montante': '-28538.35', 'saldo': '14154.24', 'nome': 'Flushing Shipping Agencies', 'cod': None}, {'data': '03-04-2024', 'pi': '3983592', 'inv': '241450004', 'moeda': 'EUR', 'montante': '-400207.50', 'saldo': '13692.59', 'nome': 'Holland Accommodation Rentals VOF', 'cod': None}, {'data': '03-04-2024', 'pi': '3983616', 'inv': '137224', 'moeda': 'USD', 'montante': '-1050.00', 'saldo': '104894.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983615', 'inv': '137124', 'moeda': 'USD', 'montante': '-2324.00', 'saldo': '105944.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983613', 'inv': '137024', 'moeda': 'USD', 'montante': '-315.00', 'saldo': '108268.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983612', 'inv': '136924', 'moeda': 'USD', 'montante': '-315.00', 'saldo': '108583.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983610', 'inv': '136724', 'moeda': 'USD', 'montante': '-5960.00', 'saldo': '108898.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983608', 'inv': '136824', 'moeda': 'USD', 'montante': '-315.00', 'saldo': '114858.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983606', 'inv': '136624', 'moeda': 'USD', 'montante': '-5960.00', 'saldo': '115173.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983602', 'inv': '136524', 'moeda': 'USD', 'montante': '-5960.00', 'saldo': '121133.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983600', 'inv': '136324', 'moeda': 'USD', 'montante': '-43520.00', 'saldo': '127093.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983598', 'inv': '136424', 'moeda': 'USD', 'montante': '-5960.00', 'saldo': '170613.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983596', 'inv': '136224', 'moeda': 'USD', 'montante': '-43520.00', 'saldo': '176573.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983595', 'inv': '137324', 'moeda': 'USD', 'montante': '-5960.00', 'saldo': '220093.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '01-04-2024', 'pi': '3974527', 'inv': '1029039', 'moeda': 'NOK', 'montante': '-5870.00', 'saldo': '6147.67', 'nome': 'DIMO', 'cod': None}, {'data': '01-04-2024', 'pi': '3974550', 'inv': '3748', 'moeda': 'USD', 'montante': '-7000.00', 'saldo': '299695.95', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '01-04-2024', 'pi': '3974513', 'inv': '1000128', 'moeda': 'USD', 'montante': '-165.00', 'saldo': '384152.87', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '01-04-2024', 'pi': '3974498', 'inv': '10014', 'moeda': 'USD', 'montante': '-12600.00', 'saldo': '384317.87', 'nome': 'PICOLO E ASSOCIADOS LTDA INC', 'cod': None}, {'data': '01-04-2024', 'pi': '3974497', 'inv': '9991', 'moeda': 'USD', 'montante': '-3246.00', 'saldo': '396917.87', 'nome': 'PICOLO E ASSOCIADOS LTDA INC', 'cod': None}, {'data': '01-04-2024', 'pi': '3974407', 'inv': '3748', 'moeda': 'USD', 'montante': '-7000.00', 'saldo': '393163.87', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '03-04-2024', 'pi': '3983616', 'inv': '137224', 'moeda': 'USD', 'montante': '-1050.00', 'saldo': '104894.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983615', 'inv': '137124', 'moeda': 'USD', 'montante': '-2324.00', 'saldo': '105944.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983613', 'inv': '137024', 'moeda': 'USD', 'montante': '-315.00', 'saldo': '108268.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983612', 'inv': '136924', 'moeda': 'USD', 'montante': '-315.00', 'saldo': '108583.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983610', 'inv': '136724', 'moeda': 'USD', 'montante': '-5960.00', 'saldo': '108898.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983608', 'inv': '136824', 'moeda': 'USD', 'montante': '-315.00', 'saldo': '114858.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983606', 'inv': '136624', 'moeda': 'USD', 'montante': '-5960.00', 'saldo': '115173.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983602', 'inv': '136524', 'moeda': 'USD', 'montante': '-5960.00', 'saldo': '121133.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983600', 'inv': '136324', 'moeda': 'USD', 'montante': '-43520.00', 'saldo': '127093.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983598', 'inv': '136424', 'moeda': 'USD', 'montante': '-5960.00', 'saldo': '170613.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983596', 'inv': '136224', 'moeda': 'USD', 'montante': '-43520.00', 'saldo': '176573.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '03-04-2024', 'pi': '3983595', 'inv': '137324', 'moeda': 'USD', 'montante': '-5960.00', 'saldo': '220093.41', 'nome': 'Sigmasat USA Inc', 'cod': None}, {'data': '01-04-2024', 'pi': '3974550', 'inv': '3748', 'moeda': 'USD', 'montante': '-7000.00', 'saldo': '299695.95', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '01-04-2024', 'pi': '3974525', 'inv': '1000128', 'moeda': 'USD', 'montante': '-77456.92', 'saldo': '306695.95', 'nome': 'SEABRIDGE MARINE ENGINEERING AND', 'cod': None}, {'data': '01-04-2024', 'pi': '3974513', 'inv': '1000128', 'moeda': 'USD', 'montante': '-165.00', 'saldo': '384152.87', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '01-04-2024', 'pi': '3974498', 'inv': '10014', 'moeda': 'USD', 'montante': '-12600.00', 'saldo': '384317.87', 'nome': 'PICOLO E ASSOCIADOS LTDA INC', 'cod': None}, {'data': '01-04-2024', 'pi': '3974497', 'inv': '9991', 'moeda': 'USD', 'montante': '-3246.00', 'saldo': '396917.87', 'nome': 'PICOLO E ASSOCIADOS LTDA INC', 'cod': None}, {'data': '01-04-2024', 'pi': '3974407', 'inv': '3748', 'moeda': 'USD', 'montante': '-7000.00', 'saldo': '393163.87', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '07-04-2024', 'pi': '3991205', 'inv': '10167246', 'moeda': 'NOK', 'montante': '-166155.00', 'saldo': '6147.67', 'nome': 'Kongsberg Maritime AS', 'cod': None}, {'data': '01-04-2024', 'pi': '3974527', 'inv': '1029039', 'moeda': 'NOK', 'montante': '-5870.00', 'saldo': '6147.67', 'nome': 'DIMO', 'cod': None}, {'data': '07-04-2024', 'pi': '3991194', 'inv': '477026', 'moeda': 'GBP', 'montante': '-3293.34', 'saldo': '576.78', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '07-04-2024', 'pi': '3991191', 'inv': '476414', 'moeda': 'GBP', 'montante': '-650.00', 'saldo': '870.12', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '07-04-2024', 'pi': '3991188', 'inv': '476415', 'moeda': 'GBP', 'montante': '-650.00', 'saldo': '1520.12', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '07-04-2024', 'pi': '3991184', 'inv': '476446', 'moeda': 'GBP', 'montante': '-270.00', 'saldo': '2170.12', 'nome': 'ISLE OF MAN - GOVERNMENT', 'cod': None}, {'data': '08-04-2024', 'pi': '3993937', 'inv': '1131', 'moeda': 'EUR', 'montante': '-8360.00', 'saldo': '1098.64', 'nome': 'Bertling logistics Aberdeen Limited', 'cod': None}, {'data': '07-04-2024', 'pi': '3991105', 'inv': '1622766', 'moeda': 'EUR', 'montante': '-7695.60', 'saldo': '6458.64', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '04-04-2024', 'pi': '3988296', 'inv': '241450004', 'moeda': 'EUR', 'montante': '-28538.35', 'saldo': '14154.24', 'nome': 'Flushing Shipping Agencies', 'cod': None}, {'data': '03-04-2024', 'pi': '3983592', 'inv': '241450004', 'moeda': 'EUR', 'montante': '-400207.50', 'saldo': '13692.59', 'nome': 'Holland Accommodation Rentals VOF', 'cod': None}]
+2024-04-10 14:50:48,107; INFO; functions.mover_para_lidos.1170: MOVENDO ARQUIVO Ebury - Parcial até 08-04.pdf.
+2024-04-10 14:50:48,108; INFO; functions.mover_para_lidos.1178: Pasta "Lidos" já existe
+2024-04-10 14:50:48,115; INFO; functions.mover_para_lidos.1195: ARQUIVO Ebury - Parcial até 08-04.pdf MOVIDO PARA LIDOS.
+2024-04-10 14:50:48,121; INFO; functions.open_RM.50: OPEN PROGRAM RM
+2024-04-10 14:50:56,721; INFO; functions.loggin_RM.65: ENTER USER_NAME
+2024-04-10 14:50:57,595; INFO; functions.loggin_RM.70: ENTER PASSWORD
+2024-04-10 14:50:58,303; INFO; functions.loggin_RM.74: ENTER RM
+2024-04-10 14:51:38,412; INFO; functions.waitForImage.922: LICENCAS EXCEDIDAS image not found.
+2024-04-10 14:51:39,116; INFO; functions.enter_coligada.96: CLICK CONTEXTO
+2024-04-10 14:51:40,554; INFO; functions.enter_coligada.99: CLICK COLIGADA 2
+2024-04-10 14:51:43,413; INFO; functions.enter_coligada.103: INSERE O COLIGADA CODE = 2
+2024-04-10 14:51:43,515; INFO; functions.enter_coligada.105: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-04-10 14:51:44,397; INFO; functions.enter_coligada.108: CLICK AVANÇAR NOVAMENTE
+2024-04-10 14:51:47,054; INFO; functions.enter_coligada.112: CLICK CONCLUIR

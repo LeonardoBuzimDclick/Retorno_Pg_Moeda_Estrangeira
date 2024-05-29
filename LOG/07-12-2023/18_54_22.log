@@ -1,0 +1,274 @@
+07-12-2023 18:54:35.023Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+07-12-2023 18:54:36.963Z;functions.check_inv;  19 PASSOS PARA DIREITA
+07-12-2023 18:54:38.967Z;functions.check_inv;  ctrl c
+07-12-2023 18:54:39.573Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+07-12-2023 18:54:39.575Z;functions.check_inv;  INV: 00525829
+07-12-2023 18:54:40.179Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:54:40.180Z;functions.check_inv;  ctrl c
+07-12-2023 18:54:40.785Z;functions.check_inv;  Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+07-12-2023 18:54:40.786Z;functions.check_inv;  INV: 10218917
+07-12-2023 18:54:41.391Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:54:41.393Z;functions.check_inv;  ctrl c
+07-12-2023 18:54:41.999Z;functions.check_inv;  Historico completo: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+07-12-2023 18:54:42.001Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 18:54:42.606Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:54:42.607Z;functions.check_inv;  ctrl c
+07-12-2023 18:54:43.212Z;functions.check_inv;  Historico completo: INV - 020558915 - KONGSBERG MARITIME AS
+07-12-2023 18:54:43.213Z;functions.check_inv;  INV: 020558915
+07-12-2023 18:54:43.817Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:54:43.818Z;functions.check_inv;  ctrl c
+07-12-2023 18:54:44.423Z;functions.check_inv;  Historico completo: INV - 000747431 - KONGSBERG MARITIME AS
+07-12-2023 18:54:44.424Z;functions.check_inv;  INV: 000747431
+07-12-2023 18:54:52.986Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+07-12-2023 18:54:55.107Z;functions.define_moeda;  CLICK EM VALOR
+07-12-2023 18:54:55.518Z;functions.define_moeda;  4 TAB
+07-12-2023 18:55:03.122Z;functions.waitForImage;  PRESS BUTTON OK image found.
+07-12-2023 18:55:05.244Z;functions.define_moeda;  APERTA OK
+07-12-2023 18:55:09.348Z;functions.baixa_inv;  CHECK LINHA
+07-12-2023 18:55:10.448Z;functions.baixa_inv;  SELECIONA BOTÃO BAIXA
+07-12-2023 18:56:00.533Z;functions.baixa_inv;  POPUP BOTÃO OK NÃO APARECEU
+07-12-2023 18:56:01.453Z;functions.baixa_inv;  CLICA AVANÇAR
+07-12-2023 18:56:07.592Z;functions.baixa_inv;  SELECIONA SIMPLIFICADA
+07-12-2023 18:56:09.920Z;functions.baixa_inv;  DATA AUTOMÁTICA: 30/10/2022
+07-12-2023 18:56:13.857Z;functions.baixa_inv;  CONTA CAIXA: 2845860864
+07-12-2023 18:56:13.858Z;functions.baixa_inv;  CONTA CAIXA PREENCHIDA
+07-12-2023 18:56:14.792Z;functions.baixa_inv;  AVANÇAR
+07-12-2023 18:56:19.360Z;functions.baixa_inv;  VALOR INV: 7.367,04
+07-12-2023 18:56:20.284Z;functions.baixa_inv;  AVANÇAR
+07-12-2023 18:56:25.162Z;functions.baixa_inv;  AVANÇAR
+07-12-2023 18:56:26.350Z;functions.baixa_inv;  EXECUTAR
+07-12-2023 18:56:37.501Z;functions.waitForImage;  PRESS BUTTON OK image found.
+07-12-2023 18:56:39.503Z;functions.baixa_inv;  OK SUCESSO
+07-12-2023 18:56:43.127Z;functions.baixa_inv;  O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 07/12/2023 18:56:28
+  | Fim    : 07/12/2023 18:56:33
+  | Duração: 00:00:04:279
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 07/12/2023 18:56:29
+  |  | Fim    : 07/12/2023 18:56:29
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 07/12/2023 18:56:29
+  |  | Fim    : 07/12/2023 18:56:29
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 07/12/2023 18:56:29
+  |  | Fim    : 07/12/2023 18:56:29
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 07/12/2023 18:56:29
+  |  | Fim    : 07/12/2023 18:56:29
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 07/12/2023 18:56:29
+  |  | Fim    : 07/12/2023 18:56:29
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 07/12/2023 18:56:29
+  |  | Fim    : 07/12/2023 18:56:29
+  |  | Duração: 00:00:00:93
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 07/12/2023 18:56:29
+  |  |  | Fim    : 07/12/2023 18:56:29
+  |  |  | Duração: 00:00:00:93
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 735)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 07/12/2023 18:56:29
+  |  |  |  | Fim    : 07/12/2023 18:56:29
+  |  |  |  | Duração: 00:00:00:93
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 07/12/2023 18:56:29
+  |  | Fim    : 07/12/2023 18:56:29
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 07/12/2023 18:56:29
+  |  | Fim    : 07/12/2023 18:56:29
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 07/12/2023 18:56:29
+  |  | Fim    : 07/12/2023 18:56:29
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |---------------------------------------------------------------
+07-12-2023 18:56:44.032Z;functions.baixa_inv;  FECHAR
+07-12-2023 18:57:10.173Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+07-12-2023 18:57:12.111Z;functions.check_inv;  19 PASSOS PARA DIREITA
+07-12-2023 18:57:14.112Z;functions.check_inv;  ctrl c
+07-12-2023 18:57:14.718Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+07-12-2023 18:57:14.719Z;functions.check_inv;  INV: 00525829
+07-12-2023 18:57:15.323Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:57:15.324Z;functions.check_inv;  ctrl c
+07-12-2023 18:57:15.930Z;functions.check_inv;  Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+07-12-2023 18:57:15.932Z;functions.check_inv;  INV: 10218917
+07-12-2023 18:57:16.536Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:57:16.537Z;functions.check_inv;  ctrl c
+07-12-2023 18:57:17.142Z;functions.check_inv;  Historico completo: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+07-12-2023 18:57:17.146Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 18:57:17.749Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:57:17.750Z;functions.check_inv;  ctrl c
+07-12-2023 18:57:18.356Z;functions.check_inv;  Historico completo: INV - 020558915 - KONGSBERG MARITIME AS
+07-12-2023 18:57:18.357Z;functions.check_inv;  INV: 020558915
+07-12-2023 18:57:18.962Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:57:18.963Z;functions.check_inv;  ctrl c
+07-12-2023 18:57:19.568Z;functions.check_inv;  Historico completo: INV - 000747439 - KONGSBERG MARITIME AS
+07-12-2023 18:57:19.569Z;functions.check_inv;  INV: 000747439
+07-12-2023 18:57:20.173Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:57:20.175Z;functions.check_inv;  ctrl c
+07-12-2023 18:57:20.780Z;functions.check_inv;  Historico completo: INV - 01401514 - STONE MARINE SERVICES  
+07-12-2023 18:57:20.781Z;functions.check_inv;  INV: 01401514
+07-12-2023 18:57:29.313Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+07-12-2023 18:57:31.432Z;functions.define_moeda;  CLICK EM VALOR
+07-12-2023 18:57:31.850Z;functions.define_moeda;  4 TAB
+07-12-2023 18:57:39.447Z;functions.waitForImage;  PRESS BUTTON OK image found.
+07-12-2023 18:57:41.562Z;functions.define_moeda;  APERTA OK
+07-12-2023 18:57:45.669Z;functions.baixa_inv;  CHECK LINHA
+07-12-2023 18:57:46.759Z;functions.baixa_inv;  SELECIONA BOTÃO BAIXA
+07-12-2023 18:57:49.734Z;functions.baixa_inv;  CLICA OK
+07-12-2023 18:57:54.036Z;functions.baixa_inv;  CLICA AVANÇAR
+07-12-2023 18:58:00.179Z;functions.baixa_inv;  SELECIONA SIMPLIFICADA
+07-12-2023 18:58:02.471Z;functions.baixa_inv;  DATA AUTOMÁTICA: 24/02/2023
+07-12-2023 18:58:06.094Z;functions.baixa_inv;  CONTA CAIXA: 2845860865
+07-12-2023 18:58:06.095Z;functions.baixa_inv;  CONTA CAIXA PREENCHIDA
+07-12-2023 18:58:07.028Z;functions.baixa_inv;  AVANÇAR
+07-12-2023 18:58:11.654Z;functions.baixa_inv;  VALOR INV: 93,72
+07-12-2023 18:58:12.661Z;functions.baixa_inv;  AVANÇAR
+07-12-2023 18:58:16.938Z;functions.baixa_inv;  AVANÇAR
+07-12-2023 18:58:18.188Z;functions.baixa_inv;  EXECUTAR
+07-12-2023 18:58:28.578Z;functions.waitForImage;  PRESS BUTTON OK image found.
+07-12-2023 18:58:30.580Z;functions.baixa_inv;  OK SUCESSO
+07-12-2023 18:58:34.117Z;functions.baixa_inv;  O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 07/12/2023 18:58:20
+  | Fim    : 07/12/2023 18:58:25
+  | Duração: 00:00:04:404
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 07/12/2023 18:58:20
+  |  | Fim    : 07/12/2023 18:58:20
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 07/12/2023 18:58:20
+  |  | Fim    : 07/12/2023 18:58:20
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 07/12/2023 18:58:20
+  |  | Fim    : 07/12/2023 18:58:20
+  |  | Duração: 00:00:00:31
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 07/12/2023 18:58:20
+  |  | Fim    : 07/12/2023 18:58:20
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 07/12/2023 18:58:20
+  |  | Fim    : 07/12/2023 18:58:20
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 07/12/2023 18:58:20
+  |  | Fim    : 07/12/2023 18:58:21
+  |  | Duração: 00:00:00:109
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 07/12/2023 18:58:20
+  |  |  | Fim    : 07/12/2023 18:58:21
+  |  |  | Duração: 00:00:00:109
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 828)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 07/12/2023 18:58:20
+  |  |  |  | Fim    : 07/12/2023 18:58:21
+  |  |  |  | Duração: 00:00:00:109
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 07/12/2023 18:58:21
+  |  | Fim    : 07/12/2023 18:58:21
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 07/12/2023 18:58:21
+  |  | Fim    : 07/12/2023 18:58:21
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 07/12/2023 18:58:21
+  |  | Fim    : 07/12/2023 18:58:21
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |------------------------------------------------------------
+07-12-2023 18:58:35.036Z;functions.baixa_inv;  FECHAR
+07-12-2023 18:58:35.237Z;functions.show_exception_and_exit;  [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 36, in <module>
+    emailSuccess(nome_bot, texto_msg)
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 576, in emailSuccess
+    yag.send(to=str(email_receivers).split(','), subject=f"SUCESSO - BOT REMESSAS PIX",
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\sender.py", line 156, in send
+    self.login()
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\sender.py", line 210, in login
+    self._login(self.credentials)
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\yagmail\sender.py", line 217, in _login
+    self.smtp = self.connection(self.host, self.port, **self.kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 1050, in __init__
+    SMTP.__init__(self, host, port, local_hostname, timeout,
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 1057, in _get_socket
+    new_socket = self.context.wrap_socket(new_socket,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1108, in _create
+    self.do_handshake()
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1379, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto

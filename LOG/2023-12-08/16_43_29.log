@@ -1,0 +1,72 @@
+2023-12-08 16:43:36.773Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+2023-12-08 16:43:39.844Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+2023-12-08 16:43:42.685Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+2023-12-08 16:43:58.794Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+2023-12-08 16:43:59.203Z;functions.waitForImage;  LANÇAMENTOS image found.
+2023-12-08 16:44:01.317Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+2023-12-08 16:44:05.758Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+2023-12-08 16:44:06.607Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+2023-12-08 16:44:08.957Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+2023-12-08 16:44:09.916Z;functions.filter_lancamento;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+2023-12-08 16:44:33.632Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2023-12-08 16:44:35.717Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2023-12-08 16:44:38.065Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2023-12-08 16:44:40.578Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2023-12-08 16:44:43.141Z;functions.desmark_filter;  ATUALIZA O FILTRO
+2023-12-08 16:44:43.352Z;functions.waitForImage;  FILTER CLEAN image found.
+2023-12-08 16:44:43.484Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+2023-12-08 16:44:47.331Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+2023-12-08 16:44:49.219Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+2023-12-08 16:44:50.076Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+2023-12-08 16:44:51.508Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2023-12-08 16:44:58.837Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+2023-12-08 16:44:58.840Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+2023-12-08 16:45:05.355Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 48 registros?
+2023-12-08 16:45:07.359Z;functions.check_table_record;  NUMERO DE TUPLAS: 48
+2023-12-08 16:45:07.360Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+2023-12-08 16:45:09.304Z;functions.check_table_record;  CLICK NÃO
+2023-12-08 16:45:27.447Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+2023-12-08 16:45:29.393Z;functions.check_inv;  19 PASSOS PARA DIREITA
+2023-12-08 16:45:31.395Z;functions.check_inv;  BUSCA NA LINHA: 0
+2023-12-08 16:45:31.396Z;functions.check_inv;  ctrl c
+2023-12-08 16:45:32.003Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+2023-12-08 16:45:32.005Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00525829
+2023-12-08 16:45:32.006Z;functions.check_inv;  TESTE: 47
+2023-12-08 16:45:32.609Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2023-12-08 16:45:32.611Z;functions.check_inv;  BUSCA NA LINHA: 1
+2023-12-08 16:45:32.612Z;functions.check_inv;  ctrl c
+2023-12-08 16:45:33.217Z;functions.check_inv;  Historico completo: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+2023-12-08 16:45:33.219Z;functions.check_inv;  INV INCORRETA ENCONTRADA: erro: INV NÃO ENCONTRADA
+2023-12-08 16:45:33.220Z;functions.check_inv;  TESTE: 47
+2023-12-08 16:45:33.823Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2023-12-08 16:45:33.824Z;functions.check_inv;  BUSCA NA LINHA: 2
+2023-12-08 16:45:33.826Z;functions.check_inv;  ctrl c
+2023-12-08 16:45:34.432Z;functions.check_inv;  Historico completo: INV - 020558915 - KONGSBERG MARITIME AS
+2023-12-08 16:45:34.433Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 020558915
+2023-12-08 16:45:34.435Z;functions.check_inv;  TESTE: 47
+2023-12-08 16:45:35.039Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2023-12-08 16:45:35.040Z;functions.check_inv;  BUSCA NA LINHA: 3
+2023-12-08 16:45:35.042Z;functions.check_inv;  ctrl c
+2023-12-08 16:45:35.651Z;functions.check_inv;  Historico completo: INV - 000747439 - KONGSBERG MARITIME AS
+2023-12-08 16:45:36.153Z;functions.check_inv;  INV CORRETA ENCONTRADA: 000747439
+2023-12-08 16:45:36.258Z;main.<module>;  None
+2023-12-08 16:45:49.223Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+2023-12-08 16:45:51.353Z;functions.define_moeda;  CLICK EM VALOR
+2023-12-08 16:45:51.767Z;functions.define_moeda;  4 TAB
+2023-12-08 16:45:59.378Z;functions.waitForImage;  PRESS BUTTON OK image found.
+2023-12-08 16:46:01.500Z;functions.define_moeda;  APERTA OK
+2023-12-08 16:46:05.606Z;functions.baixa_inv;  CHECK LINHA
+2023-12-08 16:46:17.634Z;functions.baixa_inv;  SELECIONA BOTÃO BAIXA
+2023-12-08 16:47:13.897Z;functions.baixa_inv;  POPUP BOTÃO OK NÃO APARECEU
+2023-12-08 16:47:14.859Z;functions.baixa_inv;  CLICA AVANÇAR
+2023-12-08 16:48:21.942Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 50, in <module>
+    baixa_inv(valor, moeda)
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 515, in baixa_inv
+    simplificada.click()
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

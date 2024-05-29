@@ -1,0 +1,123 @@
+08-12-2023 13:56:46.740Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+08-12-2023 13:56:54.517Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 49 registros?
+08-12-2023 13:56:56.518Z;functions.check_table_record;  NUMERO DE TUPLAS: 49
+08-12-2023 13:56:56.519Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+08-12-2023 13:56:58.509Z;functions.check_table_record;  CLICK NÃO
+08-12-2023 13:57:16.798Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+08-12-2023 13:57:18.737Z;functions.check_inv;  19 PASSOS PARA DIREITA
+08-12-2023 13:57:20.738Z;functions.check_inv;  BUSCA NA LINHA: 0
+08-12-2023 13:57:20.741Z;functions.check_inv;  ctrl c
+08-12-2023 13:57:21.346Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+08-12-2023 13:57:21.347Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00525829
+08-12-2023 13:57:21.347Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:57:21.951Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:57:21.952Z;functions.check_inv;  BUSCA NA LINHA: 1
+08-12-2023 13:57:21.952Z;functions.check_inv;  ctrl c
+08-12-2023 13:57:22.557Z;functions.check_inv;  Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+08-12-2023 13:57:23.059Z;functions.check_inv;  INV CORRETA ENCONTRADA: 10218917
+08-12-2023 13:57:23.163Z;main.<module>;  None
+08-12-2023 13:57:31.149Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-12-2023 13:57:33.266Z;functions.define_moeda;  CLICK EM VALOR
+08-12-2023 13:57:33.729Z;functions.define_moeda;  4 TAB
+08-12-2023 13:57:41.367Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-12-2023 13:57:43.491Z;functions.define_moeda;  APERTA OK
+08-12-2023 13:57:47.596Z;functions.baixa_inv;  CHECK LINHA
+08-12-2023 13:57:51.144Z;functions.baixa_inv;  SELECIONA BOTÃO BAIXA
+08-12-2023 13:58:33.440Z;functions.baixa_inv;  POPUP BOTÃO OK NÃO APARECEU
+08-12-2023 13:58:34.302Z;functions.baixa_inv;  CLICA AVANÇAR
+08-12-2023 13:58:40.660Z;functions.baixa_inv;  SELECIONA SIMPLIFICADA
+08-12-2023 13:58:43.194Z;functions.baixa_inv;  DATA AUTOMÁTICA: 10/12/2022
+08-12-2023 13:58:46.715Z;functions.baixa_inv;  CONTA CAIXA: USD - BANCO EBURY C/C 284586086
+08-12-2023 13:58:46.716Z;functions.baixa_inv;  CONTA CAIXA PREENCHIDA CORRETAMENTE
+08-12-2023 13:58:47.639Z;functions.baixa_inv;  AVANÇAR
+08-12-2023 13:58:52.564Z;functions.baixa_inv;  VALOR INV: 2.768,08
+08-12-2023 13:58:52.565Z;functions.baixa_inv;  PROCESSAMENTO INTERROMPIDO - VALOR DE DOCUMENTO DIFERENTE DO EXTRAIDO
+08-12-2023 13:58:53.514Z;functions.baixa_inv;  AVANÇAR
+08-12-2023 13:58:59.931Z;functions.baixa_inv;  AVANÇAR
+08-12-2023 13:59:01.081Z;functions.baixa_inv;  EXECUTAR
+08-12-2023 13:59:21.593Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-12-2023 13:59:23.594Z;functions.baixa_inv;  OK SUCESSO
+08-12-2023 13:59:27.268Z;functions.baixa_inv;  O processo de baixa de lançamentos foi realizado com sucesso.
+
+Segue o log de processamento da baixa de lançamento.
+  |---------- Iniciando baixa de lançamentos -------------------------------------------------------
+  | Inicio : 08/12/2023 13:59:11
+  | Fim    : 08/12/2023 13:59:16
+  | Duração: 00:00:04:890
+  | Dados do processo :
+  |  |---------- Montando filtros de lançamentos ---------------------------------------------------
+  |  | Inicio : 08/12/2023 13:59:11
+  |  | Fim    : 08/12/2023 13:59:11
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de relacionamentos de IRRF --------------------------------------------
+  |  | Inicio : 08/12/2023 13:59:11
+  |  | Fim    : 08/12/2023 13:59:11
+  |  | Duração: 00:00:00:15
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de vínculos dos lançamentos -------------------------------------------
+  |  | Inicio : 08/12/2023 13:59:11
+  |  | Fim    : 08/12/2023 13:59:11
+  |  | Duração: 00:00:00:31
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro de vínculos de créditos -------------------------------------------
+  |  | Inicio : 08/12/2023 13:59:11
+  |  | Fim    : 08/12/2023 13:59:11
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo histórico de valores dos lançamentos ----------------------------------------
+  |  | Inicio : 08/12/2023 13:59:11
+  |  | Fim    : 08/12/2023 13:59:11
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de lançamentos --------------------------------------------------------
+  |  | Inicio : 08/12/2023 13:59:11
+  |  | Fim    : 08/12/2023 13:59:11
+  |  | Duração: 00:00:00:125
+  |  | Dados do processo :
+  |  |  |---------- Carregando lançamentos ---------------------------------------------------------
+  |  |  | Inicio : 08/12/2023 13:59:11
+  |  |  | Fim    : 08/12/2023 13:59:11
+  |  |  | Duração: 00:00:00:125
+  |  |  | Dados do processo :
+  |  |  |  (CODCOLIGADA = 2 AND IDLAN = 361)
+  |  |  |  
+  |  |  |  
+  |  |  |  |---------- Lendo lista de lançamentos ReadFromTable ------------------------------------
+  |  |  |  | Inicio : 08/12/2023 13:59:11
+  |  |  |  | Fim    : 08/12/2023 13:59:11
+  |  |  |  | Duração: 00:00:00:109
+  |  |  |  | Dados do processo :
+  |  |  |  |----------------------------------------------------------------------------------------
+  |  |  |-------------------------------------------------------------------------------------------
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Montando filtro para dados dos lançamentos ----------------------------------------
+  |  | Inicio : 08/12/2023 13:59:11
+  |  | Fim    : 08/12/2023 13:59:11
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de tipos de documento -------------------------------------------------
+  |  | Inicio : 08/12/2023 13:59:11
+  |  | Fim    : 08/12/2023 13:59:11
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |----------------------------------------------------------------------------------------------
+  |  |---------- Lendo lista de clientes/fornecedores ----------------------------------------------
+  |  | Inicio : 08/12/2023 13:59:11
+  |  | Fim    : 08/12/2023 13:59:11
+  |  | Duração: 00:00:00:0
+  |  | Dados do processo :
+  |  |-------------------------------------------------------------
+08-12-2023 13:59:28.218Z;functions.baixa_inv;  FECHAR
+08-12-2023 13:59:30.324Z;functions.encerra_prog;  FECHA O PROGRAMA
+08-12-2023 13:59:32.429Z;functions.encerra_prog;  RM ENCERRADO
+08-12-2023 13:59:32.430Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA

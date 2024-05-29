@@ -1,0 +1,139 @@
+30-11-2023 10:18:35.419Z;functions.bot_text_art;      ____   
+30-11-2023 10:18:35.420Z;functions.bot_text_art;     [____]    
+30-11-2023 10:18:35.421Z;functions.bot_text_art;   |=]()()[=|  
+30-11-2023 10:18:35.421Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+30-11-2023 10:18:35.421Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+30-11-2023 10:18:35.422Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+30-11-2023 10:18:35.422Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+30-11-2023 10:18:35.422Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+30-11-2023 10:18:35.424Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+30-11-2023 10:18:35.424Z;functions.bot_text_art;     |_||_|                                                     
+30-11-2023 10:18:35.425Z;functions.bot_text_art;     | ||_|_   
+30-11-2023 10:18:35.425Z;functions.bot_text_art;   |___||___|  
+30-11-2023 10:18:35.425Z;functions.bot_text_art;               
+30-11-2023 10:18:35.430Z;functions.open_RM;  OPEN PROGRAM RM
+30-11-2023 10:18:48.354Z;functions.loggin_RM;  ENTER USER_NAME
+30-11-2023 10:18:49.758Z;functions.loggin_RM;  ENTER PASSWORD
+30-11-2023 10:18:50.925Z;functions.loggin_RM;  ENTER RM
+30-11-2023 10:19:27.453Z;functions.enter_coligada;  CLICK CONTEXTO
+30-11-2023 10:19:32.747Z;functions.enter_coligada;  CLICK COLIGADA 1
+30-11-2023 10:19:34.925Z;functions.enter_coligada;  CLICK AVANÇAR
+30-11-2023 10:19:37.517Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+30-11-2023 10:19:37.672Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+30-11-2023 10:19:39.181Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+30-11-2023 10:19:40.518Z;functions.enter_coligada;  CLICK CONCLUIR
+30-11-2023 10:20:04.647Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+30-11-2023 10:20:05.476Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+30-11-2023 10:20:07.254Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+30-11-2023 10:20:10.038Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+30-11-2023 10:20:17.677Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+30-11-2023 10:20:18.578Z;functions.waitForImage;  LANÇAMENTOS image found.
+30-11-2023 10:20:20.699Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+30-11-2023 10:20:22.702Z;functions.data_filter;  DATA INICIO 29-11-2023
+30-11-2023 10:20:22.702Z;functions.data_filter;  DATA FIM 05-12-2023
+30-11-2023 10:20:22.704Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+30-11-2023 10:20:22.706Z;functions.data_filter;  QUARTA-FEIRA: 29-11-2023
+30-11-2023 10:20:22.708Z;functions.data_filter;  TERCA-FEIRA: 05-12-2023
+30-11-2023 10:20:33.802Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+30-11-2023 10:20:34.615Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+30-11-2023 10:20:37.773Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 29-11-2023
+30-11-2023 10:20:40.036Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 05-12-2023
+30-11-2023 10:20:40.957Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+30-11-2023 10:21:01.999Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+30-11-2023 10:21:04.203Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+30-11-2023 10:21:06.339Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+30-11-2023 10:21:08.627Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+30-11-2023 10:21:11.027Z;functions.desmark_filter;  ATUALIZA O FILTRO
+30-11-2023 10:21:11.198Z;functions.waitForImage;  FILTER CLEAN image found.
+30-11-2023 10:21:14.321Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+30-11-2023 10:21:18.077Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+30-11-2023 10:21:19.867Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+30-11-2023 10:21:19.999Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+30-11-2023 10:21:20.325Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+30-11-2023 10:21:22.767Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+30-11-2023 10:21:30.053Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+30-11-2023 10:21:30.056Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+30-11-2023 10:21:43.016Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 54 registros?
+30-11-2023 10:21:45.018Z;functions.check_table_record;  NUMERO DE TUPLAS: 54
+30-11-2023 10:21:45.019Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+30-11-2023 10:21:53.946Z;functions.check_table_record;  CLICK NÃO
+30-11-2023 10:22:00.124Z;functions.check_pix;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+30-11-2023 10:22:01.785Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+30-11-2023 10:22:03.893Z;functions.check_pix;  REF. LANÇAMENTO: 858487
+30-11-2023 10:22:04.001Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+30-11-2023 10:22:15.872Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+30-11-2023 10:22:17.990Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+30-11-2023 10:22:17.991Z;functions.check_pix;  VERIFICANDO INFORMAÇÕES
+30-11-2023 10:22:28.123Z;functions.check_pix;  ENTROU DADOS BANCÁRIOS
+30-11-2023 10:22:33.228Z;functions.check_pix;  APERTA TAB
+30-11-2023 10:22:33.337Z;functions.check_pix;  CTRL C
+30-11-2023 10:22:34.338Z;functions.check_pix;  DESCRICAO CORRETA PIX
+30-11-2023 10:22:34.542Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+30-11-2023 10:22:36.544Z;functions.check_pix;  FORMA DE PAGAMENTO TRANSFERÊNCIA PIX
+30-11-2023 10:22:36.545Z;functions.check_data_pix;  CHECANDO DADOS CHAVE PIX
+30-11-2023 10:22:36.747Z;functions.waitForImage;  TIPO DE CHAVE PIX image found.
+30-11-2023 10:22:38.748Z;functions.check_data_pix;  TIPO DE CHAVE PIX NÃO PREENCHIDA
+30-11-2023 10:22:38.749Z;functions.check_data_pix;  CHECANDO A CHAVE PIX
+30-11-2023 10:22:38.939Z;functions.waitForImage;  CHAVE PIX image found.
+30-11-2023 10:22:40.940Z;functions.check_data_pix;  CHAVE PIX NÃO PREENCHIDA
+30-11-2023 10:22:40.941Z;functions.check_data;  CHECANDO DADOS BANCÁRIOS
+30-11-2023 10:22:45.584Z;functions.check_data_bank;  BANCO: 341
+30-11-2023 10:22:45.585Z;functions.check_data_bank;  CAMPO BANCO PREENCHIDO
+30-11-2023 10:22:47.798Z;functions.check_data_bank;  AGENCIA: 941
+30-11-2023 10:22:49.800Z;functions.check_data_bank;  CAMPO AGENCIA PREENCHIDO
+30-11-2023 10:22:52.008Z;functions.check_data_bank;  AGENCIA DIGITO: 941
+30-11-2023 10:22:54.010Z;functions.check_data_bank;  CAMPO DIGITO AGENCIA NÃO PREENCHIDO
+30-11-2023 10:22:57.320Z;functions.check_data_bank;  CAMPO CC: 33049
+30-11-2023 10:22:59.321Z;functions.check_data_bank;  CAMPO CC PREENCHIDO
+30-11-2023 10:23:02.529Z;functions.check_data_bank;  CAMPO AG CC: 0
+30-11-2023 10:23:04.531Z;functions.check_data_bank;  CAMPO CC PREENCHIDO
+30-11-2023 10:23:04.532Z;functions.check_data_bank;  RETORNA FALSE
+30-11-2023 10:23:04.538Z;functions.check_data;  check_data RETORNA FALSE
+30-11-2023 10:23:06.748Z;functions.waitForImage;  PRESS BUTTON OK image found.
+30-11-2023 10:23:08.887Z;functions.check_pix;  APERTA OK
+30-11-2023 10:23:11.067Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+30-11-2023 10:23:13.179Z;functions.check_pix;  APERTA OK 2
+30-11-2023 10:23:18.181Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 858487
+30-11-2023 10:23:18.288Z;functions.check_pix;  LANÇAMENTO SERÁ ADICIONADO AO VETOR [858487]
+30-11-2023 10:23:20.391Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+30-11-2023 10:23:24.496Z;functions.check_pix;  REF. LANÇAMENTO: 858516
+30-11-2023 10:23:24.605Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+30-11-2023 10:23:32.225Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+30-11-2023 10:23:34.358Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+30-11-2023 10:23:34.359Z;functions.check_pix;  VERIFICANDO INFORMAÇÕES
+30-11-2023 10:23:44.495Z;functions.check_pix;  ENTROU DADOS BANCÁRIOS
+30-11-2023 10:23:49.605Z;functions.check_pix;  APERTA TAB
+30-11-2023 10:23:49.712Z;functions.check_pix;  CTRL C
+30-11-2023 10:23:52.019Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+30-11-2023 10:23:54.020Z;functions.check_pix;  FORMA DE PAGAMENTO TRANSFERÊNCIA PIX
+30-11-2023 10:23:54.021Z;functions.check_data_pix;  CHECANDO DADOS CHAVE PIX
+30-11-2023 10:23:54.237Z;functions.waitForImage;  TIPO DE CHAVE PIX image found.
+30-11-2023 10:23:56.239Z;functions.check_data_pix;  TIPO DE CHAVE PIX NÃO PREENCHIDA
+30-11-2023 10:23:56.240Z;functions.check_data_pix;  CHECANDO A CHAVE PIX
+30-11-2023 10:23:56.434Z;functions.waitForImage;  CHAVE PIX image found.
+30-11-2023 10:23:58.435Z;functions.check_data_pix;  CHAVE PIX NÃO PREENCHIDA
+30-11-2023 10:23:58.436Z;functions.check_data;  CHECANDO DADOS BANCÁRIOS
+30-11-2023 10:24:03.072Z;functions.check_data_bank;  BANCO: 341
+30-11-2023 10:24:03.073Z;functions.check_data_bank;  CAMPO BANCO PREENCHIDO
+30-11-2023 10:24:05.287Z;functions.check_data_bank;  AGENCIA: 6157
+30-11-2023 10:24:07.289Z;functions.check_data_bank;  CAMPO AGENCIA PREENCHIDO
+30-11-2023 10:24:09.495Z;functions.check_data_bank;  AGENCIA DIGITO: 6157
+30-11-2023 10:24:11.496Z;functions.check_data_bank;  CAMPO DIGITO AGENCIA NÃO PREENCHIDO
+30-11-2023 10:24:14.808Z;functions.check_data_bank;  CAMPO CC: 45637
+30-11-2023 10:24:16.810Z;functions.check_data_bank;  CAMPO CC PREENCHIDO
+30-11-2023 10:24:20.017Z;functions.check_data_bank;  CAMPO AG CC: 4
+30-11-2023 10:24:22.018Z;functions.check_data_bank;  CAMPO CC PREENCHIDO
+30-11-2023 10:24:22.019Z;functions.check_data_bank;  RETORNA FALSE
+30-11-2023 10:24:22.024Z;functions.check_data;  check_data RETORNA FALSE
+30-11-2023 10:24:24.228Z;functions.waitForImage;  PRESS BUTTON OK image found.
+30-11-2023 10:24:26.362Z;functions.check_pix;  APERTA OK
+30-11-2023 10:24:28.541Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+30-11-2023 10:24:30.647Z;functions.check_pix;  APERTA OK 2
+30-11-2023 10:24:35.649Z;functions.check_pix;  LANÇAMENTO SERÁ RETIRADO DO PROCESSAMENTO 858516
+30-11-2023 10:24:35.756Z;functions.check_pix;  LANÇAMENTO SERÁ ADICIONADO AO VETOR [858487, 858516]
+30-11-2023 10:24:37.860Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+30-11-2023 10:24:41.964Z;functions.check_pix;  REF. LANÇAMENTO: 858519
+30-11-2023 10:24:42.072Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO

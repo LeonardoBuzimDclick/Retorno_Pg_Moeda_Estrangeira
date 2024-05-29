@@ -1,0 +1,419 @@
+2024-02-19 15:48:38,458; INFO; functions.getPid.834: Dentro função GetPid
+
+2024-02-19 15:48:38,540; INFO; functions.getPid.844: Process RM.exe / PID: 1904 found.
+2024-02-19 15:48:38,737; INFO; functions.pidKillFinish.855: Process RM.exe / PID: 1904 killed.
+2024-02-19 15:48:38,739; INFO; functions.bot_text_art.16:     ____   
+2024-02-19 15:48:38,740; INFO; functions.bot_text_art.17:    [____]    
+2024-02-19 15:48:38,740; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-19 15:48:38,740; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-19 15:48:38,744; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-19 15:48:38,752; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-19 15:48:38,753; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-19 15:48:38,754; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-19 15:48:38,755; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-19 15:48:38,755; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-19 15:48:38,756; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-19 15:48:38,757; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-19 15:48:38,759; INFO; functions.bot_text_art.28:              
+2024-02-19 15:48:38,760; INFO; functions.headerExcel.792: Criando EXCEL
+2024-02-19 15:48:38,762; INFO; functions.headerExcel.810: EXCEL iniciado
+2024-02-19 15:48:40,920; INFO; main.process.15: PROCESSOS EXTRAIDOS COM ERRO: 11
+2024-02-19 15:48:40,921; INFO; main.process.16: PROCESSOS COM ERRO: [{'pi': {'3820789'}, 'inv': {None}, 'moeda': {'EUR'}, 'montante': {'-9150.00'}, 'saldo': {'15632.82'}, 'nome': {'Tschudi Ship Management AS/'}, 'cod': None}, {'pi': {'3820409'}, 'inv': {None}, 'moeda': {'EUR'}, 'montante': {'-17213.00'}, 'saldo': {'24782.82'}, 'nome': {'Leonardo Duran'}, 'cod': None}, {'pi': {'3758105'}, 'inv': {None}, 'moeda': {'EUR'}, 'montante': {'-8783.00'}, 'saldo': {'41995.82'}, 'nome': {'Tax Authority'}, 'cod': None}, {'pi': {'3802255'}, 'inv': {None}, 'moeda': {'LLC'}, 'montante': {'-40000.00'}, 'saldo': {'1497580.32'}, 'nome': {'Harvey Gulf International Marine, LLC.'}, 'cod': None}, {'pi': {'3802244'}, 'inv': {None}, 'moeda': {'USD'}, 'montante': {'-6538.64'}, 'saldo': {'1537580.32'}, 'nome': {'Kongsberg Maritime Netherlands BV'}, 'cod': None}, {'pi': {'3802236'}, 'inv': {None}, 'moeda': {'USD'}, 'montante': {'-17069.97'}, 'saldo': {'1544118.96'}, 'nome': {'KONGSBBERG MARITIME AS'}, 'cod': None}, {'pi': {'3774197'}, 'inv': {None}, 'moeda': {'USD'}, 'montante': {'-1030000.00'}, 'saldo': {'1528851.52'}, 'nome': {'Wikborg Rein Advokatfirma AS'}, 'cod': None}, {'pi': {'3774196'}, 'inv': {None}, 'moeda': {'USD'}, 'montante': {'-1650000.00'}, 'saldo': {'2558851.52'}, 'nome': {'Wikborg Rein Advokatfirma AS'}, 'cod': None}, {'pi': {'3820789'}, 'inv': {None}, 'moeda': {'EUR'}, 'montante': {'-9150.00'}, 'saldo': {'15632.82'}, 'nome': {'Tschudi Ship Management AS/'}, 'cod': None}, {'pi': {'3820409'}, 'inv': {None}, 'moeda': {'EUR'}, 'montante': {'-17213.00'}, 'saldo': {'24782.82'}, 'nome': {'Leonardo Duran'}, 'cod': None}, {'pi': {'3758105'}, 'inv': {None}, 'moeda': {'EUR'}, 'montante': {'-8783.00'}, 'saldo': {'41995.82'}, 'nome': {'Tax Authority'}, 'cod': None}]
+2024-02-19 15:48:40,922; INFO; main.process.18: PROCESSOS EXTRAIDOS CORRETAMENTE: 185
+2024-02-19 15:48:40,924; INFO; main.process.19: PROCESSOS A SEREM TRATADOS: [{'pi': {'3836881'}, 'inv': {'31122023'}, 'moeda': {'EUR'}, 'montante': {'-440140.00'}, 'saldo': {'29580.64'}, 'nome': {'Tschudi Ship Management AS'}, 'cod': None}, {'pi': {'3836878'}, 'inv': {'31122023'}, 'moeda': {'EUR'}, 'montante': {'-111680.00'}, 'saldo': {'469720.64'}, 'nome': {'Tschudi Ship Management AS'}, 'cod': None}, {'pi': {'3827624'}, 'inv': {'3541'}, 'moeda': {'NOK'}, 'montante': {'-106200.00'}, 'saldo': {'1058.46'}, 'nome': {'Motus Technology AS'}, 'cod': None}, {'pi': {'3827623'}, 'inv': {'1190301'}, 'moeda': {'GBP'}, 'montante': {'-15160.00'}, 'saldo': {'2355.15'}, 'nome': {'European Management Marine Corp'}, 'cod': None}, {'pi': {'3827620'}, 'inv': {'2400287'}, 'moeda': {'EUR'}, 'montante': {'-10256.63'}, 'saldo': {'31400.64'}, 'nome': {'Kongsberg Maritime Netherlands BV'}, 'cod': None}, {'pi': {'3827619'}, 'inv': {'2400287'}, 'moeda': {'EUR'}, 'montante': {'-16316.82'}, 'saldo': {'41657.27'}, 'nome': {'Simplex - Turbulo Co Ltd'}, 'cod': None}, {'pi': {'3827615'}, 'inv': {'3539'}, 'moeda': {'NOK'}, 'montante': {'-1992120.00'}, 'saldo': {'52258.46'}, 'nome': {'Motus Technology AS'}, 'cod': None}, {'pi': {'3827617'}, 'inv': {'20058'}, 'moeda': {'GBP'}, 'montante': {'-15246.26'}, 'saldo': {'2515.15'}, 'nome': {'Lebus International'}, 'cod': None}, {'pi': {'3827625'}, 'inv': {'22306109'}, 'moeda': {'USD'}, 'montante': {'-7200.00'}, 'saldo': {'1055855.41'}, 'nome': {'Alatas Americas, Inc.'}, 'cod': None}, {'pi': {'3827621'}, 'inv': {'22306109'}, 'moeda': {'USD'}, 'montante': {'-81450.00'}, 'saldo': {'1063055.41'}, 'nome': {'Fugro Norway AS'}, 'cod': None}, {'pi': {'3827618'}, 'inv': {'2400299'}, 'moeda': {'EUR'}, 'montante': {'-14658.73'}, 'saldo': {'974.09'}, 'nome': {'Simplex - Turbulo Co Ltd'}, 'cod': None}, {'pi': {'3814741'}, 'inv': {'2210894'}, 'moeda': {'USD'}, 'montante': {'-1629.71'}, 'saldo': {'1465880.61'}, 'nome': {'Kongsberg Maritime Netherlands BV'}, 'cod': None}, {'pi': {'3814736'}, 'inv': {'2210894'}, 'moeda': {'USD'}, 'montante': {'-34420.00'}, 'saldo': {'1467510.32'}, 'nome': {'Fugro Norway AS'}, 'cod': None}, {'pi': {'3814733'}, 'inv': {'22306209'}, 'moeda': {'USD'}, 'montante': {'-150.00'}, 'saldo': {'1501930.32'}, 'nome': {'Fugro Norway AS'}, 'cod': None}, {'pi': {'3814731'}, 'inv': {'004'}, 'moeda': {'EUR'}, 'montante': {'-3369.69'}, 'saldo': {'10778.82'}, 'nome': {'Leonardo Duran'}, 'cod': None}, {'pi': {'3803229'}, 'inv': {'10166948'}, 'moeda': {'USD'}, 'montante': {'-17069.97'}, 'saldo': {'1497580.32'}, 'nome': {'KONGSBERG MARITIME AS'}, 'cod': None}, {'pi': {'3803227'}, 'inv': {'10166948'}, 'moeda': {'USD'}, 'montante': {'-17069.97'}, 'saldo': {'1497580.32'}, 'nome': {'KONGSBBERG MARITIME AS'}, 'cod': None}, {'pi': {'3802255'}, 'inv': {'23800125'}, 'moeda': {'LLC'}, 'montante': {'-40000.00'}, 'saldo': {'1497580.32'}, 'nome': {'Harvey Gulf International Marine, LLC.'}, 'cod': None}, {'pi': {'3802244'}, 'inv': {'23800125'}, 'moeda': {'USD'}, 'montante': {'-6538.64'}, 'saldo': {'1537580.32'}, 'nome': {'Kongsberg Maritime Netherlands BV'}, 'cod': None}, {'pi': {'3802236'}, 'inv': {'23800125'}, 'moeda': {'USD'}, 'montante': {'-17069.97'}, 'saldo': {'1544118.96'}, 'nome': {'KONGSBBERG MARITIME AS'}, 'cod': None}, {'pi': {'3794171'}, 'inv': {'23800125'}, 'moeda': {'NOK'}, 'montante': {'-1202284.80'}, 'saldo': {'49378.46'}, 'nome': {'Brunvoll AS'}, 'cod': None}, {'pi': {'3788647'}, 'inv': {'433546'}, 'moeda': {'MAN'}, 'montante': {'-495.00'}, 'saldo': {'2561.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788646'}, 'inv': {'439484'}, 'moeda': {'MAN'}, 'montante': {'-4605.00'}, 'saldo': {'3056.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788645'}, 'inv': {'445085'}, 'moeda': {'MAN'}, 'montante': {'-43.00'}, 'saldo': {'7661.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788644'}, 'inv': {'430719'}, 'moeda': {'MAN'}, 'montante': {'-495.00'}, 'saldo': {'7704.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788643'}, 'inv': {'449315'}, 'moeda': {'MAN'}, 'montante': {'-256.00'}, 'saldo': {'8199.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788641'}, 'inv': {'449314'}, 'moeda': {'MAN'}, 'montante': {'-256.00'}, 'saldo': {'8455.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788640'}, 'inv': {'449527'}, 'moeda': {'MAN'}, 'montante': {'-2669.57'}, 'saldo': {'8711.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788639'}, 'inv': {'449526'}, 'moeda': {'MAN'}, 'montante': {'-3203.71'}, 'saldo': {'11380.98'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788638'}, 'inv': {'449528'}, 'moeda': {'MAN'}, 'montante': {'-512.00'}, 'saldo': {'14584.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788636'}, 'inv': {'449987'}, 'moeda': {'MAN'}, 'montante': {'-506.00'}, 'saldo': {'15096.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788624'}, 'inv': {'451837'}, 'moeda': {'MAN'}, 'montante': {'-506.00'}, 'saldo': {'15602.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788623'}, 'inv': {'433547'}, 'moeda': {'MAN'}, 'montante': {'-495.00'}, 'saldo': {'16108.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788622'}, 'inv': {'459386'}, 'moeda': {'MAN'}, 'montante': {'-4840.00'}, 'saldo': {'16603.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788621'}, 'inv': {'459384'}, 'moeda': {'MAN'}, 'montante': {'-4840.00'}, 'saldo': {'21443.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788620'}, 'inv': {'459385'}, 'moeda': {'MAN'}, 'montante': {'-4840.00'}, 'saldo': {'26283.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788619'}, 'inv': {'459468'}, 'moeda': {'MAN'}, 'montante': {'-4678.00'}, 'saldo': {'31123.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788617'}, 'inv': {'459466'}, 'moeda': {'MAN'}, 'montante': {'-4230.00'}, 'saldo': {'35801.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788616'}, 'inv': {'459467'}, 'moeda': {'MAN'}, 'montante': {'-4230.00'}, 'saldo': {'40031.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788615'}, 'inv': {'459653'}, 'moeda': {'MAN'}, 'montante': {'-4840.00'}, 'saldo': {'44261.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788614'}, 'inv': {'459651'}, 'moeda': {'MAN'}, 'montante': {'-4240.00'}, 'saldo': {'49101.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788613'}, 'inv': {'459652'}, 'moeda': {'MAN'}, 'montante': {'-4240.00'}, 'saldo': {'53341.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788611'}, 'inv': {'469181'}, 'moeda': {'MAN'}, 'montante': {'-101.00'}, 'saldo': {'57581.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788610'}, 'inv': {'439485'}, 'moeda': {'MAN'}, 'montante': {'-4605.00'}, 'saldo': {'57682.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788608'}, 'inv': {'468314'}, 'moeda': {'MAN'}, 'montante': {'-1222.14'}, 'saldo': {'62287.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788607'}, 'inv': {'470668'}, 'moeda': {'MAN'}, 'montante': {'-533.00'}, 'saldo': {'63509.83'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788567'}, 'inv': {'2120023432'}, 'moeda': {'EUR'}, 'montante': {'-185159.40'}, 'saldo': {'14148.51'}, 'nome': {'KONGSBERG MARITIME AS'}, 'cod': None}, {'pi': {'3788562'}, 'inv': {'2120023432'}, 'moeda': {'EUR'}, 'montante': {'-90.75'}, 'saldo': {'14307.91'}, 'nome': {'Intertrust B.V.'}, 'cod': None}, {'pi': {'3788560'}, 'inv': {'2120019900'}, 'moeda': {'EUR'}, 'montante': {'-166.38'}, 'saldo': {'14398.66'}, 'nome': {'Intertrust B.V.'}, 'cod': None}, {'pi': {'3788609'}, 'inv': {'466960'}, 'moeda': {'MAN'}, 'montante': {'-101.00'}, 'saldo': {'42.83'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788603'}, 'inv': {'470834'}, 'moeda': {'MAN'}, 'montante': {'-270.00'}, 'saldo': {'143.83'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788602'}, 'inv': {'470835'}, 'moeda': {'MAN'}, 'montante': {'-270.00'}, 'saldo': {'413.83'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788601'}, 'inv': {'474618'}, 'moeda': {'MAN'}, 'montante': {'-3819.72'}, 'saldo': {'683.83'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3785674'}, 'inv': {'023800126'}, 'moeda': {'NOK'}, 'montante': {'-918750.00'}, 'saldo': {'41663.26'}, 'nome': {'Brunvoll AS'}, 'cod': None}, {'pi': {'3785683'}, 'inv': {'13724'}, 'moeda': {'USD'}, 'montante': {'-3806.00'}, 'saldo': {'967831.37'}, 'nome': {'AXESS Networks Solutions Germany GmbH'}, 'cod': None}, {'pi': {'3784486'}, 'inv': {'14240038'}, 'moeda': {'EUR'}, 'montante': {'-1624.84'}, 'saldo': {'14565.04'}, 'nome': {'AG Barista IV B.V.'}, 'cod': None}, {'pi': {'3782176'}, 'inv': {'2120023151'}, 'moeda': {'EUR'}, 'montante': {'-13107.62'}, 'saldo': {'11189.88'}, 'nome': {'Intertrust B.V.'}, 'cod': None}, {'pi': {'3779076'}, 'inv': {'6207483'}, 'moeda': {'NOK'}, 'montante': {'-857316.23'}, 'saldo': {'30413.26'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3779073'}, 'inv': {'6207488'}, 'moeda': {'NOK'}, 'montante': {'-1351540.30'}, 'saldo': {'887729.49'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3779068'}, 'inv': {'6207480'}, 'moeda': {'NOK'}, 'montante': {'-1836000.00'}, 'saldo': {'2239269.79'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3779063'}, 'inv': {'6207486'}, 'moeda': {'NOK'}, 'montante': {'-1836000.00'}, 'saldo': {'4075269.79'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3779061'}, 'inv': {'6207475'}, 'moeda': {'NOK'}, 'montante': {'-1836000.00'}, 'saldo': {'5911269.79'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3778834'}, 'inv': {'6207560'}, 'moeda': {'NOK'}, 'montante': {'-364784.48'}, 'saldo': {'22269.79'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3778831'}, 'inv': {'6207563'}, 'moeda': {'NOK'}, 'montante': {'-456380.96'}, 'saldo': {'387054.27'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3778829'}, 'inv': {'6207565'}, 'moeda': {'NOK'}, 'montante': {'-621458.50'}, 'saldo': {'843435.23'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3778827'}, 'inv': {'6207573'}, 'moeda': {'NOK'}, 'montante': {'-140007.07'}, 'saldo': {'1464893.73'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3779070'}, 'inv': {'6207453'}, 'moeda': {'NOK'}, 'montante': {'-8944.32'}, 'saldo': {'24900.80'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3776948'}, 'inv': {'004'}, 'moeda': {'EUR'}, 'montante': {'-361830.00'}, 'saldo': {'24297.50'}, 'nome': {'Tschudi Ship Management AS'}, 'cod': None}, {'pi': {'3776769'}, 'inv': {'004'}, 'moeda': {'LLC'}, 'montante': {'-4500.00'}, 'saldo': {'1396987.50'}, 'nome': {'Blue Gimbals Consultancy FZ-LLC'}, 'cod': None}, {'pi': {'3776751'}, 'inv': {'8001759'}, 'moeda': {'USD'}, 'montante': {'-36252.00'}, 'saldo': {'1401487.50'}, 'nome': {'Kongsberg Discovery AS'}, 'cod': None}, {'pi': {'3774216'}, 'inv': {'361844'}, 'moeda': {'NOK'}, 'montante': {'-2305504.00'}, 'saldo': {'33845.12'}, 'nome': {'Green Yard Kleven AS'}, 'cod': None}, {'pi': {'3774214'}, 'inv': {'361845'}, 'moeda': {'NOK'}, 'montante': {'-7143684.98'}, 'saldo': {'2339349.12'}, 'nome': {'Green Yard Kleven AS'}, 'cod': None}, {'pi': {'3774208'}, 'inv': {'6207211'}, 'moeda': {'NOK'}, 'montante': {'-604810.00'}, 'saldo': {'183034.10'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3774204'}, 'inv': {'1027781'}, 'moeda': {'NOK'}, 'montante': {'-125960.90'}, 'saldo': {'787844.10'}, 'nome': {'DIMO'}, 'cod': None}, {'pi': {'3774202'}, 'inv': {'6207389'}, 'moeda': {'NOK'}, 'montante': {'-150210.00'}, 'saldo': {'913805.00'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3774158'}, 'inv': {'10787'}, 'moeda': {'NOK'}, 'montante': {'-20738.00'}, 'saldo': {'1064015.00'}, 'nome': {'Marin Teknikk AS'}, 'cod': None}, {'pi': {'3774156'}, 'inv': {'10785'}, 'moeda': {'NOK'}, 'montante': {'-81000.00'}, 'saldo': {'1084753.00'}, 'nome': {'Marin Teknikk AS'}, 'cod': None}, {'pi': {'3774210'}, 'inv': {'10721'}, 'moeda': {'USD'}, 'montante': {'-600.00'}, 'saldo': {'1437739.50'}, 'nome': {'Mackay Communication Inc'}, 'cod': None}, {'pi': {'3774207'}, 'inv': {'10721'}, 'moeda': {'USD'}, 'montante': {'-90512.02'}, 'saldo': {'1438339.50'}, 'nome': {'UNISEA'}, 'cod': None}, {'pi': {'3774197'}, 'inv': {'10790'}, 'moeda': {'USD'}, 'montante': {'-1030000.00'}, 'saldo': {'1528851.52'}, 'nome': {'Wikborg Rein Advokatfirma AS'}, 'cod': None}, {'pi': {'3774196'}, 'inv': {'10790'}, 'moeda': {'USD'}, 'montante': {'-1650000.00'}, 'saldo': {'2558851.52'}, 'nome': {'Wikborg Rein Advokatfirma AS'}, 'cod': None}, {'pi': {'3774195'}, 'inv': {'10790'}, 'moeda': {'USD'}, 'montante': {'-1650000.00'}, 'saldo': {'4208851.52'}, 'nome': {'Wikborg Rein Advokatfirma AS'}, 'cod': None}, {'pi': {'3774175'}, 'inv': {'10790'}, 'moeda': {'USD'}, 'montante': {'-12850.00'}, 'saldo': {'5858851.52'}, 'nome': {'MARIN TEKNIKK'}, 'cod': None}, {'pi': {'3774199'}, 'inv': {'410010690223'}, 'moeda': {'DNV'}, 'montante': {'-7510.67'}, 'saldo': {'16127.50'}, 'nome': {'DNV AS'}, 'cod': None}, {'pi': {'3771660'}, 'inv': {'1189863'}, 'moeda': {'GBP'}, 'montante': {'-155169.00'}, 'saldo': {'4503.55'}, 'nome': {'European Management Marine Corp'}, 'cod': None}, {'pi': {'3771632'}, 'inv': {'6207287'}, 'moeda': {'NOK'}, 'montante': {'-1110419.00'}, 'saldo': {'1165753.00'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771627'}, 'inv': {'6207285'}, 'moeda': {'NOK'}, 'montante': {'-1110419.00'}, 'saldo': {'2276172.00'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771620'}, 'inv': {'6207397'}, 'moeda': {'NOK'}, 'montante': {'-707339.15'}, 'saldo': {'3386591.00'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771613'}, 'inv': {'6207395'}, 'moeda': {'NOK'}, 'montante': {'-465748.00'}, 'saldo': {'4093930.15'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771611'}, 'inv': {'6207393'}, 'moeda': {'NOK'}, 'montante': {'-428786.00'}, 'saldo': {'4559678.15'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771608'}, 'inv': {'6207390'}, 'moeda': {'NOK'}, 'montante': {'-538963.75'}, 'saldo': {'4988464.15'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771624'}, 'inv': {'6207283'}, 'moeda': {'NOK'}, 'montante': {'-67619.00'}, 'saldo': {'27427.90'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771652'}, 'inv': {'410010680855'}, 'moeda': {'DNV'}, 'montante': {'-11494.80'}, 'saldo': {'11638.17'}, 'nome': {'DNV AS'}, 'cod': None}, {'pi': {'3771658'}, 'inv': {'6300085845'}, 'moeda': {'USD'}, 'montante': {'-3325.88'}, 'saldo': {'7538868.48'}, 'nome': {'Marlink SA'}, 'cod': None}, {'pi': {'3771656'}, 'inv': {'6300088124'}, 'moeda': {'USD'}, 'montante': {'-3323.00'}, 'saldo': {'7542194.36'}, 'nome': {'Marlink SA'}, 'cod': None}, {'pi': {'3827624'}, 'inv': {'3541'}, 'moeda': {'NOK'}, 'montante': {'-106200.00'}, 'saldo': {'1058.46'}, 'nome': {'Motus Technology AS'}, 'cod': None}, {'pi': {'3827615'}, 'inv': {'3539'}, 'moeda': {'NOK'}, 'montante': {'-1992120.00'}, 'saldo': {'52258.46'}, 'nome': {'Motus Technology AS'}, 'cod': None}, {'pi': {'3794171'}, 'inv': {'23800125'}, 'moeda': {'NOK'}, 'montante': {'-1202284.80'}, 'saldo': {'49378.46'}, 'nome': {'Brunvoll AS'}, 'cod': None}, {'pi': {'3785674'}, 'inv': {'023800126'}, 'moeda': {'NOK'}, 'montante': {'-918750.00'}, 'saldo': {'41663.26'}, 'nome': {'Brunvoll AS'}, 'cod': None}, {'pi': {'3779076'}, 'inv': {'6207483'}, 'moeda': {'NOK'}, 'montante': {'-857316.23'}, 'saldo': {'30413.26'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3779073'}, 'inv': {'6207488'}, 'moeda': {'NOK'}, 'montante': {'-1351540.30'}, 'saldo': {'887729.49'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3779068'}, 'inv': {'6207480'}, 'moeda': {'NOK'}, 'montante': {'-1836000.00'}, 'saldo': {'2239269.79'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3779063'}, 'inv': {'6207486'}, 'moeda': {'NOK'}, 'montante': {'-1836000.00'}, 'saldo': {'4075269.79'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3779061'}, 'inv': {'6207475'}, 'moeda': {'NOK'}, 'montante': {'-1836000.00'}, 'saldo': {'5911269.79'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3778834'}, 'inv': {'6207560'}, 'moeda': {'NOK'}, 'montante': {'-364784.48'}, 'saldo': {'22269.79'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3778831'}, 'inv': {'6207563'}, 'moeda': {'NOK'}, 'montante': {'-456380.96'}, 'saldo': {'387054.27'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3778829'}, 'inv': {'6207565'}, 'moeda': {'NOK'}, 'montante': {'-621458.50'}, 'saldo': {'843435.23'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3778827'}, 'inv': {'6207573'}, 'moeda': {'NOK'}, 'montante': {'-140007.07'}, 'saldo': {'1464893.73'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3779070'}, 'inv': {'6207453'}, 'moeda': {'NOK'}, 'montante': {'-8944.32'}, 'saldo': {'24900.80'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3774216'}, 'inv': {'361844'}, 'moeda': {'NOK'}, 'montante': {'-2305504.00'}, 'saldo': {'33845.12'}, 'nome': {'Green Yard Kleven AS'}, 'cod': None}, {'pi': {'3774214'}, 'inv': {'361845'}, 'moeda': {'NOK'}, 'montante': {'-7143684.98'}, 'saldo': {'2339349.12'}, 'nome': {'Green Yard Kleven AS'}, 'cod': None}, {'pi': {'3774208'}, 'inv': {'6207211'}, 'moeda': {'NOK'}, 'montante': {'-604810.00'}, 'saldo': {'183034.10'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3774204'}, 'inv': {'1027781'}, 'moeda': {'NOK'}, 'montante': {'-125960.90'}, 'saldo': {'787844.10'}, 'nome': {'DIMO'}, 'cod': None}, {'pi': {'3774202'}, 'inv': {'6207389'}, 'moeda': {'NOK'}, 'montante': {'-150210.00'}, 'saldo': {'913805.00'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3774158'}, 'inv': {'10787'}, 'moeda': {'NOK'}, 'montante': {'-20738.00'}, 'saldo': {'1064015.00'}, 'nome': {'Marin Teknikk AS'}, 'cod': None}, {'pi': {'3774156'}, 'inv': {'10785'}, 'moeda': {'NOK'}, 'montante': {'-81000.00'}, 'saldo': {'1084753.00'}, 'nome': {'Marin Teknikk AS'}, 'cod': None}, {'pi': {'3771632'}, 'inv': {'6207287'}, 'moeda': {'NOK'}, 'montante': {'-1110419.00'}, 'saldo': {'1165753.00'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771627'}, 'inv': {'6207285'}, 'moeda': {'NOK'}, 'montante': {'-1110419.00'}, 'saldo': {'2276172.00'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771620'}, 'inv': {'6207397'}, 'moeda': {'NOK'}, 'montante': {'-707339.15'}, 'saldo': {'3386591.00'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771613'}, 'inv': {'6207395'}, 'moeda': {'NOK'}, 'montante': {'-465748.00'}, 'saldo': {'4093930.15'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771611'}, 'inv': {'6207393'}, 'moeda': {'NOK'}, 'montante': {'-428786.00'}, 'saldo': {'4559678.15'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771608'}, 'inv': {'6207390'}, 'moeda': {'NOK'}, 'montante': {'-538963.75'}, 'saldo': {'4988464.15'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3771624'}, 'inv': {'6207283'}, 'moeda': {'NOK'}, 'montante': {'-67619.00'}, 'saldo': {'27427.90'}, 'nome': {'Ulmatec Skipservice AS'}, 'cod': None}, {'pi': {'3827625'}, 'inv': {'22306109'}, 'moeda': {'USD'}, 'montante': {'-7200.00'}, 'saldo': {'1055855.41'}, 'nome': {'Alatas Americas, Inc.'}, 'cod': None}, {'pi': {'3827621'}, 'inv': {'22306109'}, 'moeda': {'USD'}, 'montante': {'-81450.00'}, 'saldo': {'1063055.41'}, 'nome': {'Fugro Norway AS'}, 'cod': None}, {'pi': {'3814741'}, 'inv': {'2210894'}, 'moeda': {'USD'}, 'montante': {'-1629.71'}, 'saldo': {'1465880.61'}, 'nome': {'Kongsberg Maritime Netherlands BV'}, 'cod': None}, {'pi': {'3814736'}, 'inv': {'2210894'}, 'moeda': {'USD'}, 'montante': {'-34420.00'}, 'saldo': {'1467510.32'}, 'nome': {'Fugro Norway AS'}, 'cod': None}, {'pi': {'3814733'}, 'inv': {'22306209'}, 'moeda': {'USD'}, 'montante': {'-150.00'}, 'saldo': {'1501930.32'}, 'nome': {'Fugro Norway AS'}, 'cod': None}, {'pi': {'3803229'}, 'inv': {'10166948'}, 'moeda': {'USD'}, 'montante': {'-17069.97'}, 'saldo': {'1497580.32'}, 'nome': {'KONGSBERG MARITIME AS'}, 'cod': None}, {'pi': {'3803227'}, 'inv': {'10166948'}, 'moeda': {'USD'}, 'montante': {'-17069.97'}, 'saldo': {'1497580.32'}, 'nome': {'KONGSBBERG MARITIME AS'}, 'cod': None}, {'pi': {'3785683'}, 'inv': {'13724'}, 'moeda': {'USD'}, 'montante': {'-3806.00'}, 'saldo': {'967831.37'}, 'nome': {'AXESS Networks Solutions Germany GmbH'}, 'cod': None}, {'pi': {'3776769'}, 'inv': {'004'}, 'moeda': {'LLC'}, 'montante': {'-4500.00'}, 'saldo': {'1396987.50'}, 'nome': {'Blue Gimbals Consultancy FZ-LLC'}, 'cod': None}, {'pi': {'3776751'}, 'inv': {'8001759'}, 'moeda': {'USD'}, 'montante': {'-36252.00'}, 'saldo': {'1401487.50'}, 'nome': {'Kongsberg Discovery AS'}, 'cod': None}, {'pi': {'3774210'}, 'inv': {'10721'}, 'moeda': {'USD'}, 'montante': {'-600.00'}, 'saldo': {'1437739.50'}, 'nome': {'Mackay Communication Inc'}, 'cod': None}, {'pi': {'3774207'}, 'inv': {'10721'}, 'moeda': {'USD'}, 'montante': {'-90512.02'}, 'saldo': {'1438339.50'}, 'nome': {'UNISEA'}, 'cod': None}, {'pi': {'3774195'}, 'inv': {'10790'}, 'moeda': {'USD'}, 'montante': {'-1650000.00'}, 'saldo': {'4208851.52'}, 'nome': {'Wikborg Rein Advokatfirma AS'}, 'cod': None}, {'pi': {'3774175'}, 'inv': {'10790'}, 'moeda': {'USD'}, 'montante': {'-12850.00'}, 'saldo': {'5858851.52'}, 'nome': {'MARIN TEKNIKK'}, 'cod': None}, {'pi': {'3771658'}, 'inv': {'6300085845'}, 'moeda': {'USD'}, 'montante': {'-3325.88'}, 'saldo': {'7538868.48'}, 'nome': {'Marlink SA'}, 'cod': None}, {'pi': {'3771656'}, 'inv': {'6300088124'}, 'moeda': {'USD'}, 'montante': {'-3323.00'}, 'saldo': {'7542194.36'}, 'nome': {'Marlink SA'}, 'cod': None}, {'pi': {'3827623'}, 'inv': {'1190301'}, 'moeda': {'GBP'}, 'montante': {'-15160.00'}, 'saldo': {'2355.15'}, 'nome': {'European Management Marine Corp'}, 'cod': None}, {'pi': {'3827617'}, 'inv': {'20058'}, 'moeda': {'GBP'}, 'montante': {'-15246.26'}, 'saldo': {'2515.15'}, 'nome': {'Lebus International'}, 'cod': None}, {'pi': {'3788647'}, 'inv': {'433546'}, 'moeda': {'MAN'}, 'montante': {'-495.00'}, 'saldo': {'2561.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788646'}, 'inv': {'439484'}, 'moeda': {'MAN'}, 'montante': {'-4605.00'}, 'saldo': {'3056.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788645'}, 'inv': {'445085'}, 'moeda': {'MAN'}, 'montante': {'-43.00'}, 'saldo': {'7661.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788644'}, 'inv': {'430719'}, 'moeda': {'MAN'}, 'montante': {'-495.00'}, 'saldo': {'7704.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788643'}, 'inv': {'449315'}, 'moeda': {'MAN'}, 'montante': {'-256.00'}, 'saldo': {'8199.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788641'}, 'inv': {'449314'}, 'moeda': {'MAN'}, 'montante': {'-256.00'}, 'saldo': {'8455.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788640'}, 'inv': {'449527'}, 'moeda': {'MAN'}, 'montante': {'-2669.57'}, 'saldo': {'8711.41'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788639'}, 'inv': {'449526'}, 'moeda': {'MAN'}, 'montante': {'-3203.71'}, 'saldo': {'11380.98'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788638'}, 'inv': {'449528'}, 'moeda': {'MAN'}, 'montante': {'-512.00'}, 'saldo': {'14584.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788636'}, 'inv': {'449987'}, 'moeda': {'MAN'}, 'montante': {'-506.00'}, 'saldo': {'15096.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788624'}, 'inv': {'451837'}, 'moeda': {'MAN'}, 'montante': {'-506.00'}, 'saldo': {'15602.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788623'}, 'inv': {'433547'}, 'moeda': {'MAN'}, 'montante': {'-495.00'}, 'saldo': {'16108.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788622'}, 'inv': {'459386'}, 'moeda': {'MAN'}, 'montante': {'-4840.00'}, 'saldo': {'16603.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788621'}, 'inv': {'459384'}, 'moeda': {'MAN'}, 'montante': {'-4840.00'}, 'saldo': {'21443.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788620'}, 'inv': {'459385'}, 'moeda': {'MAN'}, 'montante': {'-4840.00'}, 'saldo': {'26283.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788619'}, 'inv': {'459468'}, 'moeda': {'MAN'}, 'montante': {'-4678.00'}, 'saldo': {'31123.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788617'}, 'inv': {'459466'}, 'moeda': {'MAN'}, 'montante': {'-4230.00'}, 'saldo': {'35801.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788616'}, 'inv': {'459467'}, 'moeda': {'MAN'}, 'montante': {'-4230.00'}, 'saldo': {'40031.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788615'}, 'inv': {'459653'}, 'moeda': {'MAN'}, 'montante': {'-4840.00'}, 'saldo': {'44261.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788614'}, 'inv': {'459651'}, 'moeda': {'MAN'}, 'montante': {'-4240.00'}, 'saldo': {'49101.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788613'}, 'inv': {'459652'}, 'moeda': {'MAN'}, 'montante': {'-4240.00'}, 'saldo': {'53341.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788611'}, 'inv': {'469181'}, 'moeda': {'MAN'}, 'montante': {'-101.00'}, 'saldo': {'57581.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788610'}, 'inv': {'439485'}, 'moeda': {'MAN'}, 'montante': {'-4605.00'}, 'saldo': {'57682.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788608'}, 'inv': {'468314'}, 'moeda': {'MAN'}, 'montante': {'-1222.14'}, 'saldo': {'62287.69'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788607'}, 'inv': {'470668'}, 'moeda': {'MAN'}, 'montante': {'-533.00'}, 'saldo': {'63509.83'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788609'}, 'inv': {'466960'}, 'moeda': {'MAN'}, 'montante': {'-101.00'}, 'saldo': {'42.83'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788603'}, 'inv': {'470834'}, 'moeda': {'MAN'}, 'montante': {'-270.00'}, 'saldo': {'143.83'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788602'}, 'inv': {'470835'}, 'moeda': {'MAN'}, 'montante': {'-270.00'}, 'saldo': {'413.83'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3788601'}, 'inv': {'474618'}, 'moeda': {'MAN'}, 'montante': {'-3819.72'}, 'saldo': {'683.83'}, 'nome': {'ISLE OF MAN - GOVERNMENT'}, 'cod': None}, {'pi': {'3771660'}, 'inv': {'1189863'}, 'moeda': {'GBP'}, 'montante': {'-155169.00'}, 'saldo': {'4503.55'}, 'nome': {'European Management Marine Corp'}, 'cod': None}, {'pi': {'3836881'}, 'inv': {'31122023'}, 'moeda': {'EUR'}, 'montante': {'-440140.00'}, 'saldo': {'29580.64'}, 'nome': {'Tschudi Ship Management AS'}, 'cod': None}, {'pi': {'3836878'}, 'inv': {'31122023'}, 'moeda': {'EUR'}, 'montante': {'-111680.00'}, 'saldo': {'469720.64'}, 'nome': {'Tschudi Ship Management AS'}, 'cod': None}, {'pi': {'3827620'}, 'inv': {'2400287'}, 'moeda': {'EUR'}, 'montante': {'-10256.63'}, 'saldo': {'31400.64'}, 'nome': {'Kongsberg Maritime Netherlands BV'}, 'cod': None}, {'pi': {'3827619'}, 'inv': {'2400287'}, 'moeda': {'EUR'}, 'montante': {'-16316.82'}, 'saldo': {'41657.27'}, 'nome': {'Simplex - Turbulo Co Ltd'}, 'cod': None}, {'pi': {'3827618'}, 'inv': {'2400299'}, 'moeda': {'EUR'}, 'montante': {'-14658.73'}, 'saldo': {'974.09'}, 'nome': {'Simplex - Turbulo Co Ltd'}, 'cod': None}, {'pi': {'3814731'}, 'inv': {'2120023432'}, 'moeda': {'EUR'}, 'montante': {'-3369.69'}, 'saldo': {'10778.82'}, 'nome': {'Leonardo Duran'}, 'cod': None}, {'pi': {'3788567'}, 'inv': {'2120023432'}, 'moeda': {'EUR'}, 'montante': {'-185159.40'}, 'saldo': {'14148.51'}, 'nome': {'KONGSBERG MARITIME AS'}, 'cod': None}, {'pi': {'3788562'}, 'inv': {'2120023432'}, 'moeda': {'EUR'}, 'montante': {'-90.75'}, 'saldo': {'14307.91'}, 'nome': {'Intertrust B.V.'}, 'cod': None}, {'pi': {'3788560'}, 'inv': {'2120019900'}, 'moeda': {'EUR'}, 'montante': {'-166.38'}, 'saldo': {'14398.66'}, 'nome': {'Intertrust B.V.'}, 'cod': None}, {'pi': {'3784486'}, 'inv': {'14240038'}, 'moeda': {'EUR'}, 'montante': {'-1624.84'}, 'saldo': {'14565.04'}, 'nome': {'AG Barista IV B.V.'}, 'cod': None}, {'pi': {'3782176'}, 'inv': {'2120023151'}, 'moeda': {'EUR'}, 'montante': {'-13107.62'}, 'saldo': {'11189.88'}, 'nome': {'Intertrust B.V.'}, 'cod': None}, {'pi': {'3776948'}, 'inv': {'410010690223'}, 'moeda': {'EUR'}, 'montante': {'-361830.00'}, 'saldo': {'24297.50'}, 'nome': {'Tschudi Ship Management AS'}, 'cod': None}, {'pi': {'3774199'}, 'inv': {'410010690223'}, 'moeda': {'DNV'}, 'montante': {'-7510.67'}, 'saldo': {'16127.50'}, 'nome': {'DNV AS'}, 'cod': None}, {'pi': {'3771652'}, 'inv': {'410010680855'}, 'moeda': {'DNV'}, 'montante': {'-11494.80'}, 'saldo': {'11638.17'}, 'nome': {'DNV AS'}, 'cod': None}]
+2024-02-19 15:48:40,949; INFO; functions.open_RM.48: OPEN PROGRAM RM
+2024-02-19 15:48:47,848; INFO; functions.loggin_RM.58: ENTER USER_NAME
+2024-02-19 15:48:48,781; INFO; functions.loggin_RM.63: ENTER PASSWORD
+2024-02-19 15:48:49,520; INFO; functions.loggin_RM.67: ENTER RM
+2024-02-19 15:49:15,082; INFO; functions.enter_coligada.73: CLICK CONTEXTO
+2024-02-19 15:49:19,082; INFO; functions.enter_coligada.76: CLICK COLIGADA 2
+2024-02-19 15:49:21,739; INFO; functions.enter_coligada.80: INSERE O COLIGADA CODE = 2
+2024-02-19 15:49:21,839; INFO; functions.enter_coligada.82: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-02-19 15:49:22,989; INFO; functions.enter_coligada.85: CLICK AVANÇAR NOVAMENTE
+2024-02-19 15:49:25,958; INFO; functions.enter_coligada.89: CLICK CONCLUIR
+2024-02-19 15:49:35,957; INFO; functions.enter_coligada.92: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-02-19 15:49:36,583; INFO; functions.enter_contas_a_pagar.103: CLICK - TOTVS - LINHA RM
+2024-02-19 15:49:39,270; INFO; functions.enter_contas_a_pagar.108: CLICK - BACK OFFICE
+2024-02-19 15:49:41,895; INFO; functions.enter_contas_a_pagar.113: CLICK - GESTAO FINANCEIRA
+2024-02-19 15:49:47,739; INFO; functions.enter_contas_a_pagar.118: CLICK - CONTAS A PAGAR
+2024-02-19 15:49:47,832; INFO; functions.waitForImage.731: LANÇAMENTOS image found.
+2024-02-19 15:49:47,934; INFO; functions.enter_contas_a_pagar.124: CLICA EM LANÇAMENTOS
+2024-02-19 15:49:49,935; INFO; main.process.28: PROCESSO 1 A SER TRATADO: {'pi': {'3836881'}, 'inv': {'31122023'}, 'moeda': {'EUR'}, 'montante': {'-440140.00'}, 'saldo': {'29580.64'}, 'nome': {'Tschudi Ship Management AS'}, 'cod': None}
+2024-02-19 15:49:49,935; INFO; main.process.38: pi: {'3836881'} <class 'str'>
+
+                    inv: {'31122023'} <class 'str'>
+
+                    moeda: {'EUR'} <class 'str'>
+
+                    montante: {'-440140.00'} <class 'str'>
+
+                    saldo: {'29580.64'} <class 'str'>
+
+                    nome: {'Tschudi Ship Management AS'} <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 15:49:54,801; INFO; functions.filter_lancamento.152: ESCREVE Histórico NO FILTRO
+2024-02-19 15:49:55,926; INFO; functions.filter_lancamento.158: CLICK - BOTÃO DE SELECAO DE FILTRO
+2024-02-19 15:49:57,936; INFO; functions.filter_lancamento.180: VALOR DE {'31122023'} FILTRO
+2024-02-19 15:49:58,614; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 15:51:00,801; INFO; functions.desmark_filter.245: CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2024-02-19 15:51:01,731; INFO; functions.desmark_filter.249: CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2024-02-19 15:51:02,676; INFO; functions.desmark_filter.253: CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2024-02-19 15:51:03,703; INFO; functions.desmark_filter.257: CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2024-02-19 15:51:04,739; INFO; functions.desmark_filter.261: ATUALIZA O FILTRO
+2024-02-19 15:51:04,833; INFO; functions.waitForImage.731: FILTER CLEAN image found.
+2024-02-19 15:51:04,937; INFO; functions.filter_clean.194: CLICA NO BOTÃO X DO LIMPA FILTRO - TENTATIVA 1
+2024-02-19 15:51:17,004; INFO; functions.waitForImage.762: FILTER CLEAN image not found.
+2024-02-19 15:51:17,004; INFO; functions.filter_clean.197: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 2
+2024-02-19 15:51:27,067; INFO; functions.waitForImage.762: FILTER CLEAN image not found.
+2024-02-19 15:51:27,067; INFO; functions.filter_clean.197: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 3
+2024-02-19 15:51:28,004; INFO; functions.select_tipo_documento.204: NOME DA COLUNA: Tipo de Documento
+2024-02-19 15:51:29,301; INFO; functions.select_tipo_documento.208: HOVER NOME DA COLUNA: Tipo de Documento
+2024-02-19 15:51:29,910; INFO; functions.select_tipo_documento.223: CLICA NO FILTRO PERSONALIZAR
+2024-02-19 15:51:30,864; INFO; functions.select_tipo_documento.227: CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2024-02-19 15:51:37,926; INFO; functions.select_tipo_documento.239: CLICK BUTTON CONFIRMAR FILTRO
+2024-02-19 15:51:37,926; INFO; functions.check_table_record.266: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-02-19 15:51:43,541; INFO; functions.check_table_record.276: ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 63 registros?
+2024-02-19 15:51:45,549; INFO; functions.check_table_record.290: NUMERO DE REGISTROS ENCONTRADOS: 63
+2024-02-19 15:51:47,276; INFO; functions.check_table_record.296: CLICK NÃO
+2024-02-19 15:52:07,626; INFO; functions.check_inv.392: 35 PASSOS PARA ESQUERDA
+2024-02-19 15:52:09,538; INFO; functions.check_inv.397: 18 PASSOS PARA DIREITA
+2024-02-19 15:52:11,539; INFO; functions.check_inv.403: BUSCA NA LINHA: 1
+2024-02-19 15:52:11,539; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:12,141; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:12,141; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:12,543; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:12,543; INFO; functions.check_inv.403: BUSCA NA LINHA: 2
+2024-02-19 15:52:12,543; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:13,146; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:13,146; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:13,548; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:13,548; INFO; functions.check_inv.403: BUSCA NA LINHA: 3
+2024-02-19 15:52:13,548; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:14,149; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:14,149; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:14,551; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:14,551; INFO; functions.check_inv.403: BUSCA NA LINHA: 4
+2024-02-19 15:52:14,551; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:15,153; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:15,153; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:15,555; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:15,555; INFO; functions.check_inv.403: BUSCA NA LINHA: 5
+2024-02-19 15:52:15,555; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:16,157; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:16,157; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:16,559; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:16,559; INFO; functions.check_inv.403: BUSCA NA LINHA: 6
+2024-02-19 15:52:16,559; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:17,160; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:17,160; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:17,563; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:17,563; INFO; functions.check_inv.403: BUSCA NA LINHA: 7
+2024-02-19 15:52:17,563; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:18,164; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:18,164; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:18,567; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:18,567; INFO; functions.check_inv.403: BUSCA NA LINHA: 8
+2024-02-19 15:52:18,567; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:19,169; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:19,169; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:19,572; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:19,572; INFO; functions.check_inv.403: BUSCA NA LINHA: 9
+2024-02-19 15:52:19,572; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:20,173; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:20,173; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:20,576; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:20,576; INFO; functions.check_inv.403: BUSCA NA LINHA: 10
+2024-02-19 15:52:20,576; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:21,178; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:21,178; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:21,580; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:21,580; INFO; functions.check_inv.403: BUSCA NA LINHA: 11
+2024-02-19 15:52:21,580; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:22,182; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:22,182; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:22,584; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:22,584; INFO; functions.check_inv.403: BUSCA NA LINHA: 12
+2024-02-19 15:52:22,584; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:23,186; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:23,186; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:23,588; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:23,588; INFO; functions.check_inv.403: BUSCA NA LINHA: 13
+2024-02-19 15:52:23,588; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:24,190; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:24,190; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:24,592; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:24,592; INFO; functions.check_inv.403: BUSCA NA LINHA: 14
+2024-02-19 15:52:24,592; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:25,195; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:25,195; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:25,597; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:25,597; INFO; functions.check_inv.403: BUSCA NA LINHA: 15
+2024-02-19 15:52:25,597; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:26,199; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:26,199; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:26,601; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:26,601; INFO; functions.check_inv.403: BUSCA NA LINHA: 16
+2024-02-19 15:52:26,601; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:27,203; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:27,203; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:27,605; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:27,605; INFO; functions.check_inv.403: BUSCA NA LINHA: 17
+2024-02-19 15:52:27,605; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:28,224; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:28,224; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:28,627; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:28,627; INFO; functions.check_inv.403: BUSCA NA LINHA: 18
+2024-02-19 15:52:28,627; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:29,229; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:29,229; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:29,631; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:29,631; INFO; functions.check_inv.403: BUSCA NA LINHA: 19
+2024-02-19 15:52:29,631; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:30,233; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:30,233; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:30,635; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:30,635; INFO; functions.check_inv.403: BUSCA NA LINHA: 20
+2024-02-19 15:52:30,635; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:31,237; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:31,237; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:31,639; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:31,639; INFO; functions.check_inv.403: BUSCA NA LINHA: 21
+2024-02-19 15:52:31,639; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:32,242; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:32,242; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:32,644; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:32,644; INFO; functions.check_inv.403: BUSCA NA LINHA: 22
+2024-02-19 15:52:32,644; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:33,246; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:33,246; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:33,648; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:33,648; INFO; functions.check_inv.403: BUSCA NA LINHA: 23
+2024-02-19 15:52:33,648; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:34,250; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:34,250; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:34,652; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:34,652; INFO; functions.check_inv.403: BUSCA NA LINHA: 24
+2024-02-19 15:52:34,652; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:35,255; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:35,255; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:35,657; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:35,657; INFO; functions.check_inv.403: BUSCA NA LINHA: 25
+2024-02-19 15:52:35,657; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:36,259; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:36,259; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:36,661; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:36,661; INFO; functions.check_inv.403: BUSCA NA LINHA: 26
+2024-02-19 15:52:36,661; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:37,263; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:37,263; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:37,665; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:37,665; INFO; functions.check_inv.403: BUSCA NA LINHA: 27
+2024-02-19 15:52:37,665; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:38,266; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:38,266; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:38,668; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:38,668; INFO; functions.check_inv.403: BUSCA NA LINHA: 28
+2024-02-19 15:52:38,668; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:39,271; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:39,271; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:39,673; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:39,673; INFO; functions.check_inv.403: BUSCA NA LINHA: 29
+2024-02-19 15:52:39,673; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:40,275; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:40,275; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:40,677; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:40,677; INFO; functions.check_inv.403: BUSCA NA LINHA: 30
+2024-02-19 15:52:40,677; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:41,279; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:41,279; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:41,682; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:41,682; INFO; functions.check_inv.403: BUSCA NA LINHA: 31
+2024-02-19 15:52:41,682; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:42,284; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:42,284; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:42,686; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:42,686; INFO; functions.check_inv.403: BUSCA NA LINHA: 32
+2024-02-19 15:52:42,686; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:43,287; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:43,287; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:43,690; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:43,690; INFO; functions.check_inv.403: BUSCA NA LINHA: 33
+2024-02-19 15:52:43,690; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:44,291; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:44,291; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:44,694; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:44,694; INFO; functions.check_inv.403: BUSCA NA LINHA: 34
+2024-02-19 15:52:44,694; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:45,295; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:45,295; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:45,698; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:45,698; INFO; functions.check_inv.403: BUSCA NA LINHA: 35
+2024-02-19 15:52:45,698; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:46,300; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:46,300; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:46,702; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:46,702; INFO; functions.check_inv.403: BUSCA NA LINHA: 36
+2024-02-19 15:52:46,702; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:47,305; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:47,305; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:47,707; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:47,707; INFO; functions.check_inv.403: BUSCA NA LINHA: 37
+2024-02-19 15:52:47,707; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:48,309; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:48,309; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:48,711; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:48,711; INFO; functions.check_inv.403: BUSCA NA LINHA: 38
+2024-02-19 15:52:48,711; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:49,313; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:49,313; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:49,715; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:49,715; INFO; functions.check_inv.403: BUSCA NA LINHA: 39
+2024-02-19 15:52:49,715; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:50,317; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:50,317; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:50,723; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:50,723; INFO; functions.check_inv.403: BUSCA NA LINHA: 40
+2024-02-19 15:52:50,723; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:51,327; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:51,327; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:51,729; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:51,729; INFO; functions.check_inv.403: BUSCA NA LINHA: 41
+2024-02-19 15:52:51,729; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:52,332; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:52,332; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:52,734; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:52,734; INFO; functions.check_inv.403: BUSCA NA LINHA: 42
+2024-02-19 15:52:52,734; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:53,336; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:53,336; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:53,738; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:53,739; INFO; functions.check_inv.403: BUSCA NA LINHA: 43
+2024-02-19 15:52:53,739; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:54,341; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:54,341; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:54,743; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:54,743; INFO; functions.check_inv.403: BUSCA NA LINHA: 44
+2024-02-19 15:52:54,743; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:55,345; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:55,345; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:55,747; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:55,747; INFO; functions.check_inv.403: BUSCA NA LINHA: 45
+2024-02-19 15:52:55,747; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:56,349; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:56,349; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:56,751; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:56,751; INFO; functions.check_inv.403: BUSCA NA LINHA: 46
+2024-02-19 15:52:56,751; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:57,353; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:57,353; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:57,756; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:57,756; INFO; functions.check_inv.403: BUSCA NA LINHA: 47
+2024-02-19 15:52:57,756; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:58,357; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:58,357; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:58,760; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:58,760; INFO; functions.check_inv.403: BUSCA NA LINHA: 48
+2024-02-19 15:52:58,760; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:52:59,362; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:52:59,362; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:52:59,764; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:52:59,764; INFO; functions.check_inv.403: BUSCA NA LINHA: 49
+2024-02-19 15:52:59,764; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:00,366; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:00,366; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:00,768; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:00,768; INFO; functions.check_inv.403: BUSCA NA LINHA: 50
+2024-02-19 15:53:00,768; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:01,370; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:01,370; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:01,773; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:01,773; INFO; functions.check_inv.403: BUSCA NA LINHA: 51
+2024-02-19 15:53:01,773; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:02,375; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:02,375; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:02,783; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:02,783; INFO; functions.check_inv.403: BUSCA NA LINHA: 52
+2024-02-19 15:53:02,783; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:03,385; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:03,385; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:03,787; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:03,787; INFO; functions.check_inv.403: BUSCA NA LINHA: 53
+2024-02-19 15:53:03,787; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:04,390; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:04,390; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:04,792; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:04,792; INFO; functions.check_inv.403: BUSCA NA LINHA: 54
+2024-02-19 15:53:04,792; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:05,394; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:05,394; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:05,796; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:05,796; INFO; functions.check_inv.403: BUSCA NA LINHA: 55
+2024-02-19 15:53:05,796; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:06,398; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:06,398; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:06,800; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:06,800; INFO; functions.check_inv.403: BUSCA NA LINHA: 56
+2024-02-19 15:53:06,800; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:07,402; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:07,402; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:07,805; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:07,805; INFO; functions.check_inv.403: BUSCA NA LINHA: 57
+2024-02-19 15:53:07,805; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:08,406; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:08,406; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:08,808; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:08,808; INFO; functions.check_inv.403: BUSCA NA LINHA: 58
+2024-02-19 15:53:08,808; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:09,410; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:09,410; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:09,812; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:09,812; INFO; functions.check_inv.403: BUSCA NA LINHA: 59
+2024-02-19 15:53:09,812; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:10,414; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:10,414; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:10,816; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:10,816; INFO; functions.check_inv.403: BUSCA NA LINHA: 60
+2024-02-19 15:53:10,816; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:11,418; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:11,418; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:11,821; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:11,821; INFO; functions.check_inv.403: BUSCA NA LINHA: 61
+2024-02-19 15:53:11,821; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:12,422; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:12,422; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:12,824; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:12,824; INFO; functions.check_inv.403: BUSCA NA LINHA: 62
+2024-02-19 15:53:12,824; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:13,427; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:13,427; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:13,829; INFO; functions.check_inv.439: APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+2024-02-19 15:53:13,829; INFO; functions.check_inv.403: BUSCA NA LINHA: 63
+2024-02-19 15:53:13,829; INFO; functions.check_inv.409: ctrl c
+2024-02-19 15:53:14,432; INFO; functions.check_inv.413: Historico completo: 
+2024-02-19 15:53:14,432; INFO; functions.check_inv.432: INV E COLIGADA INCORRETAS ENCONTRADAS: erro: INV NÃO ENCONTRADA - erro: COLIGADA NÃO ENCONTRADA
+2024-02-19 15:53:14,432; INFO; functions.check_inv.435: ULTIMA INV E COLIGADA CHECADAS E NÃO ENCONTRADAS- erro: INV NÃO ENCONTRADA
+2024-02-19 15:53:14,432; INFO; main.process.64: ULTIMA INV E COLIGADA CHECADAS E NÃO ENCONTRADAS- erro: INV NÃO ENCONTRADA
+2024-02-19 15:53:14,432; INFO; functions.createRowExcel.814: Criando linha do EXCEL {'3836881'} - {'31122023'} - {'EUR'} - {'29580.64'} - {'Tschudi Ship Management AS'} - None - ULTIMA INV E COLIGADA CHECADAS E NÃO ENCONTRADAS- erro: INV NÃO ENCONTRADA - NÃO FINALIZADO
+2024-02-19 15:53:14,432; INFO; main.process.28: PROCESSO 2 A SER TRATADO: {'pi': {'3836878'}, 'inv': {'31122023'}, 'moeda': {'EUR'}, 'montante': {'-111680.00'}, 'saldo': {'469720.64'}, 'nome': {'Tschudi Ship Management AS'}, 'cod': None}
+2024-02-19 15:53:14,432; INFO; main.process.38: pi: {'3836878'} <class 'str'>
+
+                    inv: {'31122023'} <class 'str'>
+
+                    moeda: {'EUR'} <class 'str'>
+
+                    montante: {'-111680.00'} <class 'str'>
+
+                    saldo: {'469720.64'} <class 'str'>
+
+                    nome: {'Tschudi Ship Management AS'} <class 'str'>
+
+                    cod: None <class 'NoneType'>
+2024-02-19 15:53:45,004; INFO; functions.waitForImage.731: NOVO FILTRO image found.
+2024-02-19 15:53:45,121; INFO; functions.filter_lancamento.165: CLICK - BOTÃO DE NOVA SELECAO DE FILTRO
+2024-02-19 15:53:46,874; INFO; functions.filter_lancamento.180: VALOR DE {'31122023'} FILTRO
+2024-02-19 15:53:47,520; INFO; functions.filter_lancamento.185: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-02-19 15:53:52,523; INFO; functions.check_table_record.266: VERIFICANDO SE A TABELA ESTÁ VAZIA

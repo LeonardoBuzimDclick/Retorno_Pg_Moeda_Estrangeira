@@ -1,0 +1,52 @@
+2024-02-19 18:07:44,645; INFO; functions.getPid.848: Dentro função GetPid
+
+2024-02-19 18:07:44,921; INFO; functions.bot_text_art.16:     ____   
+2024-02-19 18:07:44,922; INFO; functions.bot_text_art.17:    [____]    
+2024-02-19 18:07:44,923; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-19 18:07:44,923; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-19 18:07:44,923; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-19 18:07:44,924; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-19 18:07:44,924; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-19 18:07:44,925; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-19 18:07:44,925; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-19 18:07:44,926; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-19 18:07:44,926; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-19 18:07:44,927; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-19 18:07:44,928; INFO; functions.bot_text_art.28:              
+2024-02-19 18:07:44,929; INFO; functions.headerExcel.806: Criando EXCEL
+2024-02-19 18:07:44,931; INFO; functions.headerExcel.824: EXCEL iniciado
+2024-02-19 18:07:44,931; INFO; main.process.15: PROCESSOS EXTRAIDOS COM ERRO: 0
+2024-02-19 18:07:44,932; INFO; main.process.16: PROCESSOS COM ERRO: 
+2024-02-19 18:07:44,932; INFO; main.process.18: PROCESSOS EXTRAIDOS CORRETAMENTE: 224
+2024-02-19 18:07:44,932; INFO; main.process.19: PROCESSOS A SEREM TRATADOS: 
+[
+    {
+        "pi": "teste",
+        "inv": "020558915",
+        "moeda": "NOK",
+        "montante": "59.488,90",
+        "saldo": "59.488,90",
+        "nome": "KONGSBERG MARITIME AS",
+        "cod": "teste2"
+    }
+]
+    
+2024-02-19 18:07:44,938; INFO; functions.open_RM.48: OPEN PROGRAM RM
+2024-02-19 18:07:51,676; INFO; functions.loggin_RM.58: ENTER USER_NAME
+2024-02-19 18:07:52,560; INFO; functions.loggin_RM.63: ENTER PASSWORD
+2024-02-19 18:07:53,288; INFO; functions.loggin_RM.67: ENTER RM
+2024-02-19 18:08:19,176; INFO; functions.enter_coligada.73: CLICK CONTEXTO
+2024-02-19 18:08:23,207; INFO; functions.enter_coligada.76: CLICK COLIGADA 2
+2024-02-19 18:08:25,629; INFO; functions.enter_coligada.80: INSERE O COLIGADA CODE = 2
+2024-02-19 18:08:25,730; INFO; functions.enter_coligada.82: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-02-19 18:08:26,832; INFO; functions.enter_coligada.85: CLICK AVANÇAR NOVAMENTE
+2024-02-19 18:08:29,802; INFO; functions.enter_coligada.89: CLICK CONCLUIR
+2024-02-19 18:08:39,660; INFO; functions.enter_coligada.92: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-02-19 18:08:40,301; INFO; functions.enter_contas_a_pagar.103: CLICK - TOTVS - LINHA RM
+2024-02-19 18:08:43,020; INFO; functions.enter_contas_a_pagar.108: CLICK - BACK OFFICE
+2024-02-19 18:08:45,645; INFO; functions.enter_contas_a_pagar.113: CLICK - GESTAO FINANCEIRA
+2024-02-19 18:08:51,520; INFO; functions.enter_contas_a_pagar.118: CLICK - CONTAS A PAGAR
+2024-02-19 18:08:51,613; INFO; functions.waitForImage.745: LANÇAMENTOS image found.
+2024-02-19 18:08:51,716; INFO; functions.enter_contas_a_pagar.124: CLICA EM LANÇAMENTOS
+2024-02-19 18:08:53,716; INFO; main.process.28: PROCESSO 1 A SER TRATADO: 
+

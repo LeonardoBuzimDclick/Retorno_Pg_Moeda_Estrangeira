@@ -1,0 +1,96 @@
+19-11-2023 15:30:17.049Z;functions.bot_text_art;      ____   
+19-11-2023 15:30:17.049Z;functions.bot_text_art;     [____]    
+19-11-2023 15:30:17.050Z;functions.bot_text_art;   |=]()()[=|  
+19-11-2023 15:30:17.050Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+19-11-2023 15:30:17.051Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+19-11-2023 15:30:17.052Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+19-11-2023 15:30:17.053Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+19-11-2023 15:30:17.053Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+19-11-2023 15:30:17.055Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+19-11-2023 15:30:17.056Z;functions.bot_text_art;     |_||_|                                                     
+19-11-2023 15:30:17.057Z;functions.bot_text_art;     | ||_|_   
+19-11-2023 15:30:17.057Z;functions.bot_text_art;   |___||___|  
+19-11-2023 15:30:17.058Z;functions.bot_text_art;               
+19-11-2023 15:30:17.066Z;functions.open_RM;  OPEN PROGRAM RM
+19-11-2023 15:30:29.574Z;functions.loggin_RM;  ENTER USER_NAME
+19-11-2023 15:30:31.020Z;functions.loggin_RM;  ENTER PASSWORD
+19-11-2023 15:30:32.205Z;functions.loggin_RM;  ENTER RM
+19-11-2023 15:31:09.124Z;functions.enter_coligada;  CLICK CONTEXTO
+19-11-2023 15:31:14.263Z;functions.enter_coligada;  CLICK COLIGADA 1
+19-11-2023 15:31:16.168Z;functions.enter_coligada;  CLICK AVANÇAR
+19-11-2023 15:31:18.649Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+19-11-2023 15:31:18.776Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+19-11-2023 15:31:20.079Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+19-11-2023 15:31:21.199Z;functions.enter_coligada;  CLICK CONCLUIR
+19-11-2023 15:31:43.977Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+19-11-2023 15:31:44.827Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+19-11-2023 15:31:46.659Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+19-11-2023 15:31:49.459Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+19-11-2023 15:31:56.378Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+19-11-2023 15:31:57.287Z;functions.waitForImage;  LANÇAMENTOS image found.
+19-11-2023 15:31:59.398Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+19-11-2023 15:32:01.400Z;functions.data_filter;  DATA INICIO 08-11-2023
+19-11-2023 15:32:01.401Z;functions.data_filter;  DATA FIM 14-11-2023
+19-11-2023 15:32:01.402Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+19-11-2023 15:32:01.403Z;functions.data_filter;  QUARTA-FEIRA: 08-11-2023
+19-11-2023 15:32:01.404Z;functions.data_filter;  TERCA-FEIRA: 14-11-2023
+19-11-2023 15:32:11.339Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+19-11-2023 15:32:12.178Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+19-11-2023 15:32:15.714Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 08-11-2023
+19-11-2023 15:32:18.018Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 14-11-2023
+19-11-2023 15:32:18.976Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+19-11-2023 15:32:27.225Z;functions.waitForImage;  FILTER CLEAN image found.
+19-11-2023 15:32:29.359Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+19-11-2023 15:32:33.106Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+19-11-2023 15:32:34.867Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+19-11-2023 15:32:35.006Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+19-11-2023 15:32:35.347Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+19-11-2023 15:32:37.384Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+19-11-2023 15:32:44.676Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+19-11-2023 15:32:44.679Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+19-11-2023 15:32:57.657Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+19-11-2023 15:32:59.762Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+19-11-2023 15:33:01.028Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+19-11-2023 15:33:07.417Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+19-11-2023 15:33:08.822Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+19-11-2023 15:33:10.187Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+19-11-2023 15:33:12.154Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+19-11-2023 15:33:13.201Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+19-11-2023 15:33:14.467Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+19-11-2023 15:33:15.629Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+19-11-2023 15:33:28.751Z;functions.waitForImage;  PRESS BUTTON OK image found.
+19-11-2023 15:33:30.754Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+19-11-2023 15:33:34.053Z;functions.process_lancamentos;  CLICK NO LOG.
+19-11-2023 15:33:34.160Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+19-11-2023 15:33:34.265Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+19-11-2023 15:33:34.308Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+19-11-2023 15:33:34.322Z;functions.process_lancamentos;  Lançamento Ref. 512115: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 513165: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 539926: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 547293: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 552753: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 562025: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 562026: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 576966: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+19-11-2023 15:33:35.202Z;functions.process_lancamentos;  CLICK EM FECHAR.
+19-11-2023 15:33:54.325Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+19-11-2023 15:33:56.382Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+19-11-2023 15:33:58.186Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+19-11-2023 15:34:00.291Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+19-11-2023 15:34:02.395Z;functions.proccess_bordero;  ESCREVE O ID 14
+19-11-2023 15:34:04.499Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 14 - PIX
+19-11-2023 15:34:06.602Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 14 - PIX
+19-11-2023 15:34:09.521Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+19-11-2023 15:34:19.255Z;functions.waitForImage;  PRESS BUTTON OK image found.
+19-11-2023 15:34:21.257Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+19-11-2023 15:34:24.121Z;functions.proccess_bordero;  CLICK EM FECHAR.
+19-11-2023 15:34:28.851Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+19-11-2023 15:34:30.220Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+19-11-2023 15:34:42.429Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+19-11-2023 15:34:42.657Z;functions.waitForImage;  FILTER CLEAN image found.
+19-11-2023 15:34:44.781Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO

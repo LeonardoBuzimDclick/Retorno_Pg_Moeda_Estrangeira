@@ -1,0 +1,23 @@
+09-11-2023 17:57:19.583Z;functions.waitForImage;  FILTER CLEAN image found.
+09-11-2023 17:57:21.701Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+09-11-2023 17:57:25.010Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+09-11-2023 17:57:26.224Z;functions.processo_pagamento;  12 PASSOS PARA DIREITA NA TABELA >>
+09-11-2023 17:57:27.520Z;functions.processo_pagamento;  HOVER FILTER
+09-11-2023 17:57:29.622Z;functions.processo_pagamento;  CLICK FILTER
+09-11-2023 17:57:33.935Z;functions.processo_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+09-11-2023 17:57:36.037Z;functions.processo_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+09-11-2023 17:57:38.144Z;functions.processo_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+09-11-2023 17:57:40.247Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+09-11-2023 17:57:42.964Z;functions.processo_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+09-11-2023 17:57:45.068Z;functions.processo_pagamento;  CLICA EM PROCESSOS
+09-11-2023 17:57:47.170Z;functions.processo_pagamento;  APERTA PARA BAIXO 1
+09-11-2023 17:57:49.272Z;functions.processo_pagamento;  APERTA PARA BAIXO 2
+09-11-2023 17:57:51.373Z;functions.processo_pagamento;  APERTA PARA BAIXO 3
+09-11-2023 17:57:53.475Z;functions.processo_pagamento;  APERTA ENTER
+09-11-2023 17:57:56.117Z;functions.processo_pagamento;  CLICA EM REMESSAS DE PAGAMENTO
+09-11-2023 17:58:10.477Z;functions.processo_pagamento;  CLICA EM AVANÇAR
+09-11-2023 17:58:11.448Z;functions.processo_pagamento;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+09-11-2023 17:58:12.126Z;functions.processo_pagamento;  CLICA EM AVANCAR PARA CONCLUIR
+09-11-2023 17:58:13.017Z;functions.processo_pagamento;  CLICA EM EXECUTAR
+09-11-2023 17:58:34.756Z;functions.waitForImage;  PRESS BUTTON OK image found.
+09-11-2023 17:58:36.757Z;functions.processo_pagamento;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.

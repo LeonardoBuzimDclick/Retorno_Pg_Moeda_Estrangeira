@@ -1,0 +1,30 @@
+2024-01-02 15:56:33.945Z;functions.bot_text_art;      ____   
+2024-01-02 15:56:33.946Z;functions.bot_text_art;     [____]    
+2024-01-02 15:56:33.946Z;functions.bot_text_art;   |=]()()[=|  
+2024-01-02 15:56:33.947Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2024-01-02 15:56:33.947Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-01-02 15:56:33.947Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-01-02 15:56:33.948Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-01-02 15:56:33.948Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-01-02 15:56:33.950Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-01-02 15:56:33.950Z;functions.bot_text_art;     |_||_|                                                     
+2024-01-02 15:56:33.950Z;functions.bot_text_art;     | ||_|_   
+2024-01-02 15:56:33.951Z;functions.bot_text_art;   |___||___|  
+2024-01-02 15:56:33.951Z;functions.bot_text_art;               
+2024-01-02 15:56:33.952Z;functions.headerExcel;  Criando EXCEL
+2024-01-02 15:56:33.954Z;functions.headerExcel;  EXCEL iniciado
+2024-01-02 15:56:33.959Z;functions.open_RM;  OPEN PROGRAM RM
+2024-01-02 15:56:42.324Z;functions.loggin_RM;  ENTER USER_NAME
+2024-01-02 15:56:43.249Z;functions.loggin_RM;  ENTER PASSWORD
+2024-01-02 15:56:43.985Z;functions.loggin_RM;  ENTER RM
+2024-01-02 15:57:16.331Z;functions.enter_coligada;  CLICK CONTEXTO
+2024-01-02 15:57:20.369Z;functions.enter_coligada;  CLICK COLIGADA 2
+2024-01-02 15:57:23.614Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+2024-01-02 15:57:23.715Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-01-02 15:57:25.390Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+2024-01-02 15:57:28.566Z;functions.enter_coligada;  CLICK CONCLUIR
+2024-01-02 15:57:41.797Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-01-02 15:57:45.475Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+2024-01-02 15:57:48.202Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+2024-01-02 15:57:50.830Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+2024-01-02 15:58:00.130Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR

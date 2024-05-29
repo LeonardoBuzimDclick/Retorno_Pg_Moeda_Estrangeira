@@ -1,0 +1,36 @@
+21-11-2023 11:25:53.790Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+21-11-2023 11:26:08.286Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+21-11-2023 11:26:10.391Z;functions.check_table_record;  CLICK ENTER
+21-11-2023 11:26:10.391Z;functions.check_table_record;  NUMERO DE TUPLAS: 1
+21-11-2023 11:26:10.392Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+21-11-2023 11:26:11.660Z;functions.check_table_record;  CLICK NÃO
+21-11-2023 11:26:12.821Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+21-11-2023 11:26:18.569Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+21-11-2023 11:26:19.927Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+21-11-2023 11:26:21.213Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+21-11-2023 11:26:23.365Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+21-11-2023 11:26:24.491Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+21-11-2023 11:26:25.704Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+21-11-2023 11:26:26.788Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+21-11-2023 11:26:35.724Z;functions.waitForImage;  PRESS BUTTON OK image found.
+21-11-2023 11:26:37.726Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+21-11-2023 11:26:40.995Z;functions.process_lancamentos;  CLICK NO LOG.
+21-11-2023 11:26:41.103Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+21-11-2023 11:26:41.209Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+21-11-2023 11:26:41.211Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+21-11-2023 11:26:41.214Z;functions.process_lancamentos;  Lançamento Ref. 864047: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+21-11-2023 11:26:42.028Z;functions.process_lancamentos;  CLICK EM FECHAR.
+21-11-2023 11:26:45.331Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+21-11-2023 11:27:02.259Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+21-11-2023 11:27:04.329Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+21-11-2023 11:27:06.030Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+21-11-2023 11:27:08.135Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+21-11-2023 11:27:10.240Z;functions.proccess_bordero;  ESCREVE O ID 14
+21-11-2023 11:27:12.343Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 14 - PIX
+21-11-2023 11:27:14.446Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 14 - PIX
+21-11-2023 11:27:17.436Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO

@@ -1,0 +1,4 @@
+2024-03-20 11:46:11,978; INFO; parameters.<module>.102: Pasta local: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março
+2024-03-20 11:46:11,989; INFO; functions.getPid.975: Dentro função GetPid
+
+2024-03-20 11:46:12,389; INFO; functions.getPid.985: Process RM.exe / PID: 3264 found.

@@ -1,0 +1,160 @@
+07-12-2023 10:20:46.112Z;functions.bot_text_art;      ____   
+07-12-2023 10:20:46.113Z;functions.bot_text_art;     [____]    
+07-12-2023 10:20:46.114Z;functions.bot_text_art;   |=]()()[=|  
+07-12-2023 10:20:46.114Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+07-12-2023 10:20:46.115Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+07-12-2023 10:20:46.116Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+07-12-2023 10:20:46.116Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+07-12-2023 10:20:46.118Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+07-12-2023 10:20:46.120Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+07-12-2023 10:20:46.122Z;functions.bot_text_art;     |_||_|                                                     
+07-12-2023 10:20:46.123Z;functions.bot_text_art;     | ||_|_   
+07-12-2023 10:20:46.123Z;functions.bot_text_art;   |___||___|  
+07-12-2023 10:20:46.124Z;functions.bot_text_art;               
+07-12-2023 10:20:46.136Z;functions.open_RM;  OPEN PROGRAM RM
+07-12-2023 10:21:00.348Z;functions.loggin_RM;  ENTER USER_NAME
+07-12-2023 10:21:01.711Z;functions.loggin_RM;  ENTER PASSWORD
+07-12-2023 10:21:02.846Z;functions.loggin_RM;  ENTER RM
+07-12-2023 10:21:42.331Z;functions.enter_coligada;  CLICK CONTEXTO
+07-12-2023 10:21:47.859Z;functions.enter_coligada;  CLICK COLIGADA 2
+07-12-2023 10:21:53.460Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+07-12-2023 10:21:53.600Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+07-12-2023 10:21:56.425Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+07-12-2023 10:21:58.551Z;functions.enter_coligada;  CLICK CONCLUIR
+07-12-2023 10:22:32.846Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+07-12-2023 10:22:33.707Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+07-12-2023 10:22:37.858Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+07-12-2023 10:22:40.659Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+07-12-2023 10:22:52.867Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+07-12-2023 10:22:53.806Z;functions.waitForImage;  LANÇAMENTOS image found.
+07-12-2023 10:22:55.938Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+07-12-2023 10:23:11.263Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+07-12-2023 10:23:12.405Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+07-12-2023 10:23:14.503Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+07-12-2023 10:23:15.429Z;functions.filter_lancamento;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+07-12-2023 10:23:46.258Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+07-12-2023 10:23:48.149Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+07-12-2023 10:23:50.213Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+07-12-2023 10:23:52.393Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+07-12-2023 10:23:54.607Z;functions.desmark_filter;  ATUALIZA O FILTRO
+07-12-2023 10:23:54.881Z;functions.waitForImage;  FILTER CLEAN image found.
+07-12-2023 10:23:57.987Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+07-12-2023 10:24:01.719Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+07-12-2023 10:24:03.474Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+07-12-2023 10:24:03.609Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+07-12-2023 10:24:03.934Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+07-12-2023 10:24:06.595Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+07-12-2023 10:24:13.893Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+07-12-2023 10:24:13.896Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+07-12-2023 10:24:26.839Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 52 registros?
+07-12-2023 10:24:28.843Z;functions.check_table_record;  NUMERO DE TUPLAS: 52
+07-12-2023 10:24:28.844Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+07-12-2023 10:24:37.765Z;functions.check_table_record;  CLICK NÃO
+07-12-2023 10:24:44.168Z;functions.check_inv;  SELECIONA A PRIMEIRA LINHA REF LANÇAMENTO
+07-12-2023 10:24:45.801Z;functions.check_inv;  16 PASSOS PARA DIREITA
+07-12-2023 10:24:47.803Z;functions.check_inv;  ctrl c
+07-12-2023 10:24:49.919Z;functions.check_inv;  INV: INV - 00525829 - DNV AS 
+07-12-2023 10:24:50.023Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:24:54.025Z;functions.check_inv;  ctrl c
+07-12-2023 10:24:56.130Z;functions.check_inv;  INV: INV - 10218917 - KONGSBERG MARITIME AS 
+07-12-2023 10:24:56.234Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:25:00.242Z;functions.check_inv;  ctrl c
+07-12-2023 10:25:02.346Z;functions.check_inv;  INV: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+07-12-2023 10:25:02.450Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:25:06.453Z;functions.check_inv;  ctrl c
+07-12-2023 10:25:08.560Z;functions.check_inv;  INV: INV - 020558915 - KONGSBERG MARITIME AS
+07-12-2023 10:25:08.665Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:25:12.668Z;functions.check_inv;  ctrl c
+07-12-2023 10:25:14.773Z;functions.check_inv;  INV: INV - 000747431 - KONGSBERG MARITIME AS
+07-12-2023 10:25:14.877Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:25:18.880Z;functions.check_inv;  ctrl c
+07-12-2023 10:25:21.018Z;functions.check_inv;  INV: INV - 000747439 - KONGSBERG MARITIME AS
+07-12-2023 10:25:21.122Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:25:25.124Z;functions.check_inv;  ctrl c
+07-12-2023 10:25:27.229Z;functions.check_inv;  INV: INV - 01401514 - STONE MARINE SERVICES  
+07-12-2023 10:25:27.333Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:25:31.336Z;functions.check_inv;  ctrl c
+07-12-2023 10:25:33.441Z;functions.check_inv;  INV: INV - 02022685 - TSCHUDI SHIP MANAGEMENT AS 
+07-12-2023 10:25:33.545Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:25:37.547Z;functions.check_inv;  ctrl c
+07-12-2023 10:25:39.653Z;functions.check_inv;  INV: INV - 19042023 - TSCHUDI SHIP MANAGEMENT AS 
+07-12-2023 10:25:39.758Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:25:43.794Z;functions.check_inv;  ctrl c
+07-12-2023 10:25:45.902Z;functions.check_inv;  INV: INV - 23032023 - TSCHUDI SHIP MANAGEMENT AS 
+07-12-2023 10:25:46.006Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:25:50.007Z;functions.check_inv;  ctrl c
+07-12-2023 10:25:52.115Z;functions.check_inv;  INV: INV - 10584435 - DNV AS 
+07-12-2023 10:25:52.219Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:25:56.220Z;functions.check_inv;  ctrl c
+07-12-2023 10:25:58.325Z;functions.check_inv;  INV: INV - 00017986 - INTERTRUST GROUP A CSC COMPANY 
+07-12-2023 10:25:58.429Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:26:02.432Z;functions.check_inv;  ctrl c
+07-12-2023 10:26:04.537Z;functions.check_inv;  INV: INV - 00016246 - INTERTRUST GROUP A CSC COMPANY 
+07-12-2023 10:26:04.641Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:26:08.643Z;functions.check_inv;  ctrl c
+07-12-2023 10:26:10.748Z;functions.check_inv;  INV: INV - 00016855 - INTERTRUST GROUP A CSC COMPANY 
+07-12-2023 10:26:10.852Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:26:14.855Z;functions.check_inv;  ctrl c
+07-12-2023 10:26:16.961Z;functions.check_inv;  INV: INV - 00015566 - INTERTRUST GROUP A CSC COMPANY 
+07-12-2023 10:26:17.064Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:26:21.067Z;functions.check_inv;  ctrl c
+07-12-2023 10:26:23.171Z;functions.check_inv;  INV: INV - 00014116 - INTERTRUST GROUP A CSC COMPANY 
+07-12-2023 10:26:23.275Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:26:27.277Z;functions.check_inv;  ctrl c
+07-12-2023 10:26:29.382Z;functions.check_inv;  INV: INV - 003231968 - Brunvoll AS
+07-12-2023 10:26:29.486Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:26:33.489Z;functions.check_inv;  ctrl c
+07-12-2023 10:26:35.594Z;functions.check_inv;  INV: INV - 04816723 - CORROSION MARITIME 
+07-12-2023 10:26:35.697Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:26:39.701Z;functions.check_inv;  ctrl c
+07-12-2023 10:26:41.805Z;functions.check_inv;  INV: INV - 00005596 - MOTIVE POWER MARINE E PORT SHIPYARD 
+07-12-2023 10:26:41.909Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:26:45.912Z;functions.check_inv;  ctrl c
+07-12-2023 10:26:48.017Z;functions.check_inv;  INV: INV - 00002621 - NORDIC P&I AS 
+07-12-2023 10:26:48.122Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:26:52.124Z;functions.check_inv;  ctrl c
+07-12-2023 10:26:54.230Z;functions.check_inv;  INV: INV - 90306846 - KONGSBERG MARITIME AS 
+07-12-2023 10:26:54.334Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:26:58.336Z;functions.check_inv;  ctrl c
+07-12-2023 10:27:00.441Z;functions.check_inv;  INV: INV - 90306844 - KONGSBERG MARITIME AS 
+07-12-2023 10:27:00.545Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:27:04.551Z;functions.check_inv;  ctrl c
+07-12-2023 10:27:06.657Z;functions.check_inv;  INV: INV - 01612796 - Loyens & Loeff N.V 
+07-12-2023 10:27:06.761Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:27:10.762Z;functions.check_inv;  ctrl c
+07-12-2023 10:27:12.868Z;functions.check_inv;  INV: INV - 01027042 - DIMO 
+07-12-2023 10:27:12.972Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:27:16.976Z;functions.check_inv;  ctrl c
+07-12-2023 10:27:19.082Z;functions.check_inv;  INV: INV - 01027039 - DIMO 
+07-12-2023 10:27:19.185Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:27:23.186Z;functions.check_inv;  ctrl c
+07-12-2023 10:27:25.291Z;functions.check_inv;  INV: INV - 10166948 - KONGSBERG MARITIME AS 
+07-12-2023 10:27:25.395Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:27:29.397Z;functions.check_inv;  ctrl c
+07-12-2023 10:27:31.503Z;functions.check_inv;  INV: INV - 00000123 - BLUE GIMBALS PROJECT MANAGEMENT SERVICES 
+07-12-2023 10:27:31.607Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:27:35.608Z;functions.check_inv;  ctrl c
+07-12-2023 10:27:37.713Z;functions.check_inv;  INV: INV - 020573606 - KONGSBERG MARITIME AS
+07-12-2023 10:27:37.818Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:27:41.820Z;functions.check_inv;  ctrl c
+07-12-2023 10:27:43.926Z;functions.check_inv;  INV: INV - 10646632 - DNV AS 
+07-12-2023 10:27:44.030Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:27:48.032Z;functions.check_inv;  ctrl c
+07-12-2023 10:27:50.138Z;functions.check_inv;  INV: INV - 04230499 - Ocean TG Norway AS 
+07-12-2023 10:27:50.242Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:27:54.244Z;functions.check_inv;  ctrl c
+07-12-2023 10:27:56.349Z;functions.check_inv;  INV: INV - 04230734 - Ocean TG Norway AS 
+07-12-2023 10:27:56.453Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:28:00.455Z;functions.check_inv;  ctrl c
+07-12-2023 10:28:02.562Z;functions.check_inv;  INV: INV - 20230113 - UniSea AS 
+07-12-2023 10:28:02.666Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:28:06.668Z;functions.check_inv;  ctrl c
+07-12-2023 10:28:08.774Z;functions.check_inv;  INV: INV - 00016477 - MARLINK SA 
+07-12-2023 10:28:08.879Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 10:28:12.883Z;functions.check_inv;  ctrl c
+07-12-2023 10:28:14.988Z;functions.check_inv;  INV: from clicknium import locator, ui
+
+07-12-2023 10:28:15.092Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO

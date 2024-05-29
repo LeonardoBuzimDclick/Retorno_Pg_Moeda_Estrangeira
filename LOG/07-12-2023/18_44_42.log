@@ -1,0 +1,28 @@
+07-12-2023 18:44:54.929Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+07-12-2023 18:44:56.867Z;functions.check_inv;  19 PASSOS PARA DIREITA
+07-12-2023 18:44:58.869Z;functions.check_inv;  ctrl c
+07-12-2023 18:44:59.475Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+07-12-2023 18:44:59.477Z;functions.check_inv;  INV: 00525829
+07-12-2023 18:45:00.081Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:45:00.082Z;functions.check_inv;  ctrl c
+07-12-2023 18:45:00.687Z;functions.check_inv;  Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+07-12-2023 18:45:00.688Z;functions.check_inv;  INV: 10218917
+07-12-2023 18:45:01.293Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:45:01.295Z;functions.check_inv;  ctrl c
+07-12-2023 18:45:01.900Z;functions.check_inv;  Historico completo: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+07-12-2023 18:45:01.902Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 18:45:02.505Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:45:02.506Z;functions.check_inv;  ctrl c
+07-12-2023 18:45:03.111Z;functions.check_inv;  Historico completo: INV - 020558915 - KONGSBERG MARITIME AS
+07-12-2023 18:45:03.112Z;functions.check_inv;  INV: 020558915
+07-12-2023 18:45:03.716Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:45:03.717Z;functions.check_inv;  ctrl c
+07-12-2023 18:45:04.322Z;functions.check_inv;  Historico completo: INV - 000747431 - KONGSBERG MARITIME AS
+07-12-2023 18:45:04.323Z;functions.check_inv;  INV: 000747431
+07-12-2023 18:45:17.671Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+07-12-2023 18:45:19.801Z;functions.define_moeda;  CLICK EM VALOR
+07-12-2023 18:45:20.286Z;functions.define_moeda;  4 TAB
+07-12-2023 18:45:27.893Z;functions.waitForImage;  PRESS BUTTON OK image found.
+07-12-2023 18:45:30.019Z;functions.define_moeda;  APERTA OK
+07-12-2023 18:45:34.124Z;functions.baixa_inv;  CHECK LINHA
+07-12-2023 18:45:37.797Z;functions.baixa_inv;  SELECIONA BOTÃO BAIXA

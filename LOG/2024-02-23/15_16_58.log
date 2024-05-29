@@ -1,0 +1,26 @@
+2024-02-23 15:16:58,420; INFO; functions.getPid.948: Dentro função GetPid
+
+2024-02-23 15:16:58,686; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 15:16:58,686; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 15:16:58,686; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 15:16:58,686; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 15:16:58,686; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 15:16:58,686; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 15:16:58,686; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 15:16:58,701; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 15:16:58,701; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 15:16:58,701; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 15:16:58,701; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 15:16:58,701; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 15:16:58,701; INFO; functions.bot_text_art.19:              
+2024-02-23 15:16:58,701; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 15:16:58,701; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 15:16:58,701; INFO; main.process.15: SERÃO TRATADOS 2 ARQUIVOS.
+2024-02-23 15:16:58,701; ERROR; functions.show_exception_and_exit.24: cannot access local variable 'texto_msg' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 149, in <module>
+    process()
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 17, in process
+    texto_msg = f'{texto_msg} Foram tratados seguintes arquivos:'
+                   ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'texto_msg' where it is not associated with a value

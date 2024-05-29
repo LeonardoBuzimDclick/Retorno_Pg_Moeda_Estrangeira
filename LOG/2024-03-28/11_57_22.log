@@ -1,0 +1,47 @@
+2024-03-28 11:57:22,376; INFO; parameters.<module>.102: Pasta local: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março
+2024-03-28 11:57:22,376; INFO; functions.getPid.1002: Dentro função GetPid
+
+2024-03-28 11:57:22,938; INFO; functions.getPid.1012: Process RM.exe / PID: 8868 found.
+2024-03-28 11:57:23,016; INFO; functions.pidKillFinish.1023: Process RM.exe / PID: 8868 killed.
+2024-03-28 11:57:23,016; INFO; functions.bot_text_art.7:     ____   
+2024-03-28 11:57:23,016; INFO; functions.bot_text_art.8:    [____]    
+2024-03-28 11:57:23,016; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-03-28 11:57:23,016; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-03-28 11:57:23,032; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-03-28 11:57:23,032; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-03-28 11:57:23,032; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-03-28 11:57:23,032; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-03-28 11:57:23,032; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-03-28 11:57:23,032; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-03-28 11:57:23,032; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-03-28 11:57:23,032; INFO; functions.bot_text_art.18:  |___||___|  
+2024-03-28 11:57:23,032; INFO; functions.bot_text_art.19:              
+2024-03-28 11:57:23,032; INFO; functions.headerExcel.935: Criando EXCEL
+2024-03-28 11:57:23,032; INFO; functions.headerExcel.955: EXCEL iniciado
+2024-03-28 11:57:23,032; INFO; main.process.15: TODOS ARQUIVOS NA PASTA ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\202403-Extrato mensal-EBPCLI541626 (16).pdf'].
+2024-03-28 11:57:23,032; INFO; main.process.23: SERÃO TRATADOS 0 ARQUIVOS.
+2024-03-28 11:57:23,032; INFO; main.process.24: ARQUIVOS: []
+2024-03-28 11:57:23,032; INFO; main.process.28: NENHUM PDF "PARCIAL" DISPONÍVEL
+2024-03-28 11:57:23,065; INFO; functions.encerra_prog.361: Fechando Excel...
+2024-03-28 11:57:23,128; INFO; functions.getPid.1002: Dentro função GetPid
+
+2024-03-28 11:57:23,799; INFO; functions.encerra_prog.367: RM ENCERRADO
+2024-03-28 11:57:27,518; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+2024-03-28 11:57:27,549; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+2024-03-28 11:57:27,565; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+2024-03-28 11:57:27,565; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+2024-03-28 11:57:27,565; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:612: mso-table-lspace]
+2024-03-28 11:57:27,565; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:642: mso-table-rspace]
+2024-03-28 11:57:27,799; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:4734: mso-hide]
+2024-03-28 11:57:27,893; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+2024-03-28 11:57:27,909; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+2024-03-28 11:57:27,909; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+2024-03-28 11:57:27,909; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+2024-03-28 11:57:27,909; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:26: mso-table-lspace]
+2024-03-28 11:57:27,909; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:45: mso-table-rspace]
+2024-03-28 11:57:27,956; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:92: mso-hide]
+2024-03-28 11:57:27,956; ERROR; errorhandler.__handle.104: Property: No ":" after name found: align-center [1:1: align-center]
+2024-03-28 11:57:27,956; ERROR; errorhandler.__handle.104: Property: No property value found: align-center [1:1: align-center]
+2024-03-28 11:57:27,956; ERROR; errorhandler.__handle.104: CSSStyleDeclaration: Syntax Error in Property: align-center
+2024-03-28 11:57:27,971; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+2024-03-28 11:57:30,057; INFO; functions.emailErro.925: Warning e-mail sent.

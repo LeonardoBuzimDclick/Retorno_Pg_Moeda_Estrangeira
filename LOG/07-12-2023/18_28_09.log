@@ -1,0 +1,36 @@
+07-12-2023 18:28:22.412Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+07-12-2023 18:28:24.350Z;functions.check_inv;  19 PASSOS PARA DIREITA
+07-12-2023 18:28:26.351Z;functions.check_inv;  ctrl c
+07-12-2023 18:28:26.958Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+07-12-2023 18:28:26.960Z;functions.check_inv;  INV: 00525829
+07-12-2023 18:28:27.564Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:28:27.565Z;functions.check_inv;  ctrl c
+07-12-2023 18:28:28.171Z;functions.check_inv;  Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+07-12-2023 18:28:28.173Z;functions.check_inv;  INV: 10218917
+07-12-2023 18:28:28.777Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:28:28.779Z;functions.check_inv;  ctrl c
+07-12-2023 18:28:29.384Z;functions.check_inv;  Historico completo: INV - xxxxx - VDR SPECIALIZED CRANE EQUIPMENT MANUFACTURING LLC
+07-12-2023 18:28:29.386Z;functions.check_inv;  INV: NÃO ENCONTRADA
+07-12-2023 18:28:29.991Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:28:29.992Z;functions.check_inv;  ctrl c
+07-12-2023 18:28:30.598Z;functions.check_inv;  Historico completo: INV - 020558915 - KONGSBERG MARITIME AS
+07-12-2023 18:28:30.599Z;functions.check_inv;  INV: 020558915
+07-12-2023 18:28:31.203Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 18:28:31.204Z;functions.check_inv;  ctrl c
+07-12-2023 18:28:31.809Z;functions.check_inv;  Historico completo: INV - 000747431 - KONGSBERG MARITIME AS
+07-12-2023 18:28:31.810Z;functions.check_inv;  INV: 000747431
+07-12-2023 18:28:40.791Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+07-12-2023 18:28:42.899Z;functions.define_moeda;  CLICK EM VALOR
+07-12-2023 18:28:43.312Z;functions.define_moeda;  4 TAB
+07-12-2023 18:28:50.829Z;functions.waitForImage;  PRESS BUTTON OK image found.
+07-12-2023 18:28:52.948Z;functions.define_moeda;  APERTA OK
+07-12-2023 18:28:57.205Z;functions.baixa_inv;  CHECK LINHA
+07-12-2023 18:28:58.342Z;functions.baixa_inv;  SELECIONA BOTÃO BAIXA
+07-12-2023 18:30:14.923Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 34, in <module>
+    baixa_inv()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 471, in baixa_inv
+    button_ok.click()
+    ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

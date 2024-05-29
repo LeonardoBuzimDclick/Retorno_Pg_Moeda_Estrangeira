@@ -1,0 +1,47 @@
+2024-02-20 09:21:07,386; INFO; functions.getPid.859: Dentro função GetPid
+
+2024-02-20 09:21:07,670; INFO; functions.bot_text_art.16:     ____   
+2024-02-20 09:21:07,670; INFO; functions.bot_text_art.17:    [____]    
+2024-02-20 09:21:07,671; INFO; functions.bot_text_art.18:  |=]()()[=|  
+2024-02-20 09:21:07,672; INFO; functions.bot_text_art.19:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-20 09:21:07,672; INFO; functions.bot_text_art.20:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-20 09:21:07,672; INFO; functions.bot_text_art.21:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-20 09:21:07,673; INFO; functions.bot_text_art.22:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-20 09:21:07,674; INFO; functions.bot_text_art.23:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-20 09:21:07,674; INFO; functions.bot_text_art.24:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-20 09:21:07,674; INFO; functions.bot_text_art.25:    |_||_|                                                     
+2024-02-20 09:21:07,675; INFO; functions.bot_text_art.26:    | ||_|_   
+2024-02-20 09:21:07,675; INFO; functions.bot_text_art.27:  |___||___|  
+2024-02-20 09:21:07,676; INFO; functions.bot_text_art.28:              
+2024-02-20 09:21:07,676; INFO; functions.headerExcel.817: Criando EXCEL
+2024-02-20 09:21:07,678; INFO; functions.headerExcel.835: EXCEL iniciado
+2024-02-20 09:21:07,678; ERROR; functions.show_exception_and_exit.32: too many values to unpack (expected 2)
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 97, in <module>
+    process()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 13, in process
+    extrato_list_nao_tratado, erro_invoice = informacoes_extraidas()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+2024-02-20 09:21:09,161; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+2024-02-20 09:21:09,178; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+2024-02-20 09:21:09,182; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+2024-02-20 09:21:09,183; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+2024-02-20 09:21:09,185; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:612: mso-table-lspace]
+2024-02-20 09:21:09,186; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:642: mso-table-rspace]
+2024-02-20 09:21:09,234; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:4734: mso-hide]
+2024-02-20 09:21:09,264; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+2024-02-20 09:21:09,266; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+2024-02-20 09:21:09,267; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+2024-02-20 09:21:09,268; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+2024-02-20 09:21:09,269; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:26: mso-table-lspace]
+2024-02-20 09:21:09,270; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:45: mso-table-rspace]
+2024-02-20 09:21:09,284; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:92: mso-hide]
+2024-02-20 09:21:09,288; ERROR; errorhandler.__handle.104: Property: No ":" after name found: align-center [1:1: align-center]
+2024-02-20 09:21:09,289; ERROR; errorhandler.__handle.104: Property: No property value found: align-center [1:1: align-center]
+2024-02-20 09:21:09,290; ERROR; errorhandler.__handle.104: CSSStyleDeclaration: Syntax Error in Property: align-center
+2024-02-20 09:21:09,291; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+2024-02-20 09:21:11,161; INFO; functions.encerra_prog.312: Fechando Excel...
+2024-02-20 09:21:11,176; INFO; functions.getPid.859: Dentro função GetPid
+
+2024-02-20 09:21:11,457; INFO; functions.encerra_prog.317: RM ENCERRADO

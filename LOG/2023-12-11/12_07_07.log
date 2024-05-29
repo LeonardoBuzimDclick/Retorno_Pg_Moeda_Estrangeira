@@ -1,0 +1,50 @@
+2023-12-11 12:07:09.853Z;functions.bot_text_art;      ____   
+2023-12-11 12:07:09.854Z;functions.bot_text_art;     [____]    
+2023-12-11 12:07:09.856Z;functions.bot_text_art;   |=]()()[=|  
+2023-12-11 12:07:09.856Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2023-12-11 12:07:09.857Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2023-12-11 12:07:09.858Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2023-12-11 12:07:09.858Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2023-12-11 12:07:09.859Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2023-12-11 12:07:09.861Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2023-12-11 12:07:09.861Z;functions.bot_text_art;     |_||_|                                                     
+2023-12-11 12:07:09.862Z;functions.bot_text_art;     | ||_|_   
+2023-12-11 12:07:09.863Z;functions.bot_text_art;   |___||___|  
+2023-12-11 12:07:09.863Z;functions.bot_text_art;               
+2023-12-11 12:07:09.864Z;functions.headerExcel;  Criando EXCEL
+2023-12-11 12:07:09.870Z;functions.headerExcel;  EXCEL iniciado
+2023-12-11 12:07:09.890Z;functions.open_RM;  OPEN PROGRAM RM
+2023-12-11 12:07:28.029Z;functions.loggin_RM;  ENTER USER_NAME
+2023-12-11 12:07:29.563Z;functions.loggin_RM;  ENTER PASSWORD
+2023-12-11 12:07:30.838Z;functions.loggin_RM;  ENTER RM
+2023-12-11 12:08:13.147Z;functions.enter_coligada;  CLICK CONTEXTO
+2023-12-11 12:08:18.871Z;functions.enter_coligada;  CLICK COLIGADA 2
+2023-12-11 12:08:23.246Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+2023-12-11 12:08:23.378Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2023-12-11 12:08:24.980Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+2023-12-11 12:08:28.301Z;functions.enter_coligada;  CLICK CONCLUIR
+2023-12-11 12:08:55.399Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+2023-12-11 12:08:59.299Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+2023-12-11 12:09:02.190Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+2023-12-11 12:09:05.065Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+2023-12-11 12:09:20.864Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+2023-12-11 12:09:21.268Z;functions.waitForImage;  LANÇAMENTOS image found.
+2023-12-11 12:09:23.396Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+2023-12-11 12:10:23.489Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+2023-12-11 12:10:27.551Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 16, in <module>
+    filter_lancamento()
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 155, in filter_lancamento
+    execute = cc.wait_appear(locator.rm.button_exec_filtro, wait_timeout=15)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\clicknium\_clicknium.py", line 189, in wait_appear
+    ele = _InvokerService.wait_appear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 308, in wait_appear
+    return UiElementRunner.WaitElementAppear(locator_item.Locator, locator_item.Locator_Variables, locator_item.Locator_Image, timeout * 1000)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

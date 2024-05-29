@@ -1,0 +1,86 @@
+2023-12-08 17:43:54.587Z;functions.bot_text_art;      ____   
+2023-12-08 17:43:54.588Z;functions.bot_text_art;     [____]    
+2023-12-08 17:43:54.590Z;functions.bot_text_art;   |=]()()[=|  
+2023-12-08 17:43:54.591Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2023-12-08 17:43:54.592Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2023-12-08 17:43:54.594Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2023-12-08 17:43:54.597Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2023-12-08 17:43:54.599Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2023-12-08 17:43:54.602Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2023-12-08 17:43:54.603Z;functions.bot_text_art;     |_||_|                                                     
+2023-12-08 17:43:54.604Z;functions.bot_text_art;     | ||_|_   
+2023-12-08 17:43:54.605Z;functions.bot_text_art;   |___||___|  
+2023-12-08 17:43:54.606Z;functions.bot_text_art;               
+2023-12-08 17:43:54.607Z;functions.headerExcel;  Criando EXCEL
+2023-12-08 17:43:54.613Z;functions.headerExcel;  EXCEL iniciado
+2023-12-08 17:43:54.624Z;functions.open_RM;  OPEN PROGRAM RM
+2023-12-08 17:44:10.395Z;functions.loggin_RM;  ENTER USER_NAME
+2023-12-08 17:44:11.905Z;functions.loggin_RM;  ENTER PASSWORD
+2023-12-08 17:44:13.136Z;functions.loggin_RM;  ENTER RM
+2023-12-08 17:44:54.327Z;functions.enter_coligada;  CLICK CONTEXTO
+2023-12-08 17:45:02.278Z;functions.enter_coligada;  CLICK COLIGADA 2
+2023-12-08 17:45:07.601Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+2023-12-08 17:45:07.727Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2023-12-08 17:45:11.457Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+2023-12-08 17:45:16.395Z;functions.enter_coligada;  CLICK CONCLUIR
+2023-12-08 17:45:55.293Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+2023-12-08 17:45:59.169Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+2023-12-08 17:46:02.150Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+2023-12-08 17:46:05.005Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+2023-12-08 17:46:19.560Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+2023-12-08 17:46:19.966Z;functions.waitForImage;  LANÇAMENTOS image found.
+2023-12-08 17:46:22.089Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+2023-12-08 17:46:33.339Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+2023-12-08 17:46:34.216Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+2023-12-08 17:46:36.451Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+2023-12-08 17:46:37.399Z;functions.filter_lancamento;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+2023-12-08 17:47:04.871Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+2023-12-08 17:47:06.802Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+2023-12-08 17:47:08.998Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+2023-12-08 17:47:11.486Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+2023-12-08 17:47:14.080Z;functions.desmark_filter;  ATUALIZA O FILTRO
+2023-12-08 17:47:14.282Z;functions.waitForImage;  FILTER CLEAN image found.
+2023-12-08 17:47:14.387Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+2023-12-08 17:47:18.258Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+2023-12-08 17:47:20.109Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+2023-12-08 17:47:20.917Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+2023-12-08 17:47:23.614Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+2023-12-08 17:47:30.925Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+2023-12-08 17:47:30.927Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+2023-12-08 17:47:37.396Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 47 registros?
+2023-12-08 17:47:39.399Z;functions.check_table_record;  NUMERO DE TUPLAS: 47
+2023-12-08 17:47:39.400Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+2023-12-08 17:47:41.337Z;functions.check_table_record;  CLICK NÃO
+2023-12-08 17:47:59.247Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+2023-12-08 17:48:01.188Z;functions.check_inv;  19 PASSOS PARA DIREITA
+2023-12-08 17:48:03.190Z;functions.check_inv;  BUSCA NA LINHA: 0
+2023-12-08 17:48:03.191Z;functions.check_inv;  ctrl c
+2023-12-08 17:48:03.797Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+2023-12-08 17:48:04.301Z;functions.check_inv;  INV CORRETA ENCONTRADA: 00525829
+2023-12-08 17:48:04.406Z;main.<module>;  None
+2023-12-08 17:48:16.865Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+2023-12-08 17:48:18.975Z;functions.define_moeda;  CLICK EM VALOR
+2023-12-08 17:48:19.386Z;functions.define_moeda;  4 TAB
+2023-12-08 17:48:22.598Z;functions.define_moeda;  MOEDA PREENCHIDA COM nok
+2023-12-08 17:48:27.008Z;functions.waitForImage;  PRESS BUTTON OK image found.
+2023-12-08 17:48:29.122Z;functions.define_moeda;  APERTA OK
+2023-12-08 17:48:33.230Z;functions.baixa_inv;  CHECK LINHA
+2023-12-08 17:48:34.368Z;functions.baixa_inv;  SELECIONA BOTÃO BAIXA
+2023-12-08 17:48:37.434Z;functions.baixa_inv;  CLICA OK
+2023-12-08 17:48:42.909Z;functions.baixa_inv;  CLICA AVANÇAR
+2023-12-08 17:48:49.508Z;functions.baixa_inv;  SELECIONA SIMPLIFICADA
+2023-12-08 17:48:51.795Z;functions.baixa_inv;  DATA AUTOMÁTICA: __/__/____
+2023-12-08 17:48:55.482Z;functions.baixa_inv;  CONTA CAIXA: NOK - BANCO EBURY C/C 284586086
+2023-12-08 17:48:55.483Z;functions.baixa_inv;  CONTA CAIXA PREENCHIDA CORRETAMENTE
+2023-12-08 17:48:56.390Z;functions.baixa_inv;  AVANÇAR
+2023-12-08 17:50:41.233Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 50, in <module>
+    baixa_inv(valor, moeda)
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 553, in baixa_inv
+    valor_inv = valor.get_text()
+                ^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'

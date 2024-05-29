@@ -1,0 +1,98 @@
+2024-02-23 14:24:11,997; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:24:12,300; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:24:12,300; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:24:12,301; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:24:12,301; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:24:12,302; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:24:12,303; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:24:12,303; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:24:12,304; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:24:12,304; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:24:12,305; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:24:12,305; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:24:12,305; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:24:12,306; INFO; functions.bot_text_art.19:              
+2024-02-23 14:24:12,306; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 14:24:12,308; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 14:24:12,310; INFO; teste2.process.433: SERÃO TRATADOS 1 ARQUIVOS.
+2024-02-23 14:24:12,311; INFO; teste2.process.438: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\TESTES\1\Ebury - Completo.pdf
+2024-02-23 14:24:14,535; INFO; functions.excelProcessoCompleto.1103: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 14:24:14,551; INFO; functions.excelProcessoCompleto.1119: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:24:14,551; INFO; teste2.process.448: PROCESSOS EXTRAIDOS COM ERRO: 11
+2024-02-23 14:24:14,551; INFO; teste2.process.449: PROCESSOS COM ERRO: [{'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}, {'data': '16-01-2024', 'pi': '3802255', 'inv': None, 'moeda': 'LLC', 'montante': '-40000.00', 'saldo': '1497580.32', 'nome': 'Harvey Gulf International Marine, LLC.', 'cod': None}, {'data': '16-01-2024', 'pi': '3802244', 'inv': None, 'moeda': 'USD', 'montante': '-6538.64', 'saldo': '1537580.32', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'data': '16-01-2024', 'pi': '3802236', 'inv': None, 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1544118.96', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}]
+2024-02-23 14:24:14,564; INFO; functions.excelErro.1008: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 14:24:14,565; INFO; functions.excelErro.1024: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:24:14,566; INFO; teste2.process.452: PROCESSOS EXTRAIDOS CORRETAMENTE: 185
+2024-02-23 14:24:14,567; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:24:14,609; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:24:14,895; INFO; functions.encerra_prog.325: RM ENCERRADO
+2024-02-23 14:24:14,895; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:24:15,238; INFO; functions.bot_text_art.19:              
+2024-02-23 14:24:15,238; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 14:24:15,238; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 14:24:15,249; INFO; teste2.process.433: SERÃO TRATADOS 1 ARQUIVOS.
+2024-02-23 14:24:15,249; INFO; teste2.process.438: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\TESTES\2\Parcial até 11-01.pdf
+2024-02-23 14:24:16,817; INFO; functions.excelProcessoCompleto.1103: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 14:24:16,817; INFO; functions.excelProcessoCompleto.1119: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:24:16,817; INFO; teste2.process.448: PROCESSOS EXTRAIDOS COM ERRO: 3
+2024-02-23 14:24:16,817; INFO; teste2.process.449: PROCESSOS COM ERRO: [{'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774210', 'inv': None, 'moeda': 'USD', 'montante': '-600.00', 'saldo': '1437739.50', 'nome': 'Mackay Communication Inc', 'cod': None}]
+2024-02-23 14:24:16,833; INFO; functions.excelErro.1008: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 14:24:16,834; INFO; functions.excelErro.1024: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:24:16,834; INFO; teste2.process.452: PROCESSOS EXTRAIDOS CORRETAMENTE: 145
+2024-02-23 14:24:16,835; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:24:17,005; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:24:17,285; INFO; functions.encerra_prog.325: RM ENCERRADO
+2024-02-23 14:24:17,285; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:24:17,551; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 14:24:17,551; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 14:24:17,551; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 14:24:17,551; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 14:24:17,567; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 14:24:17,567; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 14:24:17,567; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 14:24:17,567; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 14:24:17,567; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 14:24:17,567; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 14:24:17,567; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 14:24:17,567; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 14:24:17,567; INFO; functions.bot_text_art.19:              
+2024-02-23 14:24:17,567; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 14:24:17,567; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 14:24:17,580; INFO; teste2.process.433: SERÃO TRATADOS 2 ARQUIVOS.
+2024-02-23 14:24:17,580; INFO; teste2.process.438: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\Ebury - Completo.pdf
+2024-02-23 14:24:19,924; INFO; functions.excelProcessoCompleto.1103: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 14:24:19,925; INFO; functions.excelProcessoCompleto.1119: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:24:19,927; INFO; teste2.process.448: PROCESSOS EXTRAIDOS COM ERRO: 11
+2024-02-23 14:24:19,927; INFO; teste2.process.449: PROCESSOS COM ERRO: [{'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}, {'data': '16-01-2024', 'pi': '3802255', 'inv': None, 'moeda': 'LLC', 'montante': '-40000.00', 'saldo': '1497580.32', 'nome': 'Harvey Gulf International Marine, LLC.', 'cod': None}, {'data': '16-01-2024', 'pi': '3802244', 'inv': None, 'moeda': 'USD', 'montante': '-6538.64', 'saldo': '1537580.32', 'nome': 'Kongsberg Maritime Netherlands BV', 'cod': None}, {'data': '16-01-2024', 'pi': '3802236', 'inv': None, 'moeda': 'USD', 'montante': '-17069.97', 'saldo': '1544118.96', 'nome': 'KONGSBBERG MARITIME AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '25-01-2024', 'pi': '3820789', 'inv': None, 'moeda': 'EUR', 'montante': '-9150.00', 'saldo': '15632.82', 'nome': 'Tschudi Ship Management AS/', 'cod': None}, {'data': '25-01-2024', 'pi': '3820409', 'inv': None, 'moeda': 'EUR', 'montante': '-17213.00', 'saldo': '24782.82', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '25-01-2024', 'pi': '3758105', 'inv': None, 'moeda': 'EUR', 'montante': '-8783.00', 'saldo': '41995.82', 'nome': 'Tax Authority', 'cod': None}]
+2024-02-23 14:24:19,937; INFO; functions.excelErro.1008: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 14:24:19,938; INFO; functions.excelErro.1024: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:24:19,939; INFO; teste2.process.452: PROCESSOS EXTRAIDOS CORRETAMENTE: 185
+2024-02-23 14:24:19,939; INFO; teste2.process.438: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\Parcial até 11-01.pdf
+2024-02-23 14:24:21,551; INFO; functions.excelProcessoCompleto.1103: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 14:24:21,551; INFO; functions.excelProcessoCompleto.1119: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:24:21,568; INFO; teste2.process.448: PROCESSOS EXTRAIDOS COM ERRO: 3
+2024-02-23 14:24:21,568; INFO; teste2.process.449: PROCESSOS COM ERRO: [{'data': '03-01-2024', 'pi': '3774197', 'inv': None, 'moeda': 'USD', 'montante': '-1030000.00', 'saldo': '1528851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774196', 'inv': None, 'moeda': 'USD', 'montante': '-1650000.00', 'saldo': '2558851.52', 'nome': 'Wikborg Rein Advokatfirma AS', 'cod': None}, {'data': '03-01-2024', 'pi': '3774210', 'inv': None, 'moeda': 'USD', 'montante': '-600.00', 'saldo': '1437739.50', 'nome': 'Mackay Communication Inc', 'cod': None}]
+2024-02-23 14:24:21,569; INFO; functions.excelErro.1008: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 14:24:21,570; INFO; functions.excelErro.1024: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 14:24:21,571; INFO; teste2.process.452: PROCESSOS EXTRAIDOS CORRETAMENTE: 145
+2024-02-23 14:24:21,571; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 14:24:21,685; INFO; functions.getPid.927: Dentro função GetPid
+
+2024-02-23 14:24:21,958; INFO; functions.encerra_prog.325: RM ENCERRADO

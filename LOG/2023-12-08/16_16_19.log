@@ -1,0 +1,63 @@
+2023-12-08 16:16:22.852Z;functions.bot_text_art;      ____   
+2023-12-08 16:16:22.853Z;functions.bot_text_art;     [____]    
+2023-12-08 16:16:22.854Z;functions.bot_text_art;   |=]()()[=|  
+2023-12-08 16:16:22.855Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2023-12-08 16:16:22.857Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2023-12-08 16:16:22.858Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2023-12-08 16:16:22.860Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2023-12-08 16:16:22.862Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2023-12-08 16:16:22.864Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2023-12-08 16:16:22.867Z;functions.bot_text_art;     |_||_|                                                     
+2023-12-08 16:16:22.868Z;functions.bot_text_art;     | ||_|_   
+2023-12-08 16:16:22.869Z;functions.bot_text_art;   |___||___|  
+2023-12-08 16:16:22.870Z;functions.bot_text_art;               
+2023-12-08 16:16:22.871Z;functions.headerExcel;  Criando EXCEL
+2023-12-08 16:16:22.878Z;functions.headerExcel;  EXCEL iniciado
+2023-12-08 16:16:22.890Z;functions.open_RM;  OPEN PROGRAM RM
+2023-12-08 16:16:38.092Z;functions.loggin_RM;  ENTER USER_NAME
+2023-12-08 16:16:39.525Z;functions.loggin_RM;  ENTER PASSWORD
+2023-12-08 16:16:40.678Z;functions.loggin_RM;  ENTER RM
+2023-12-08 16:17:18.027Z;functions.enter_coligada;  CLICK CONTEXTO
+2023-12-08 16:17:23.415Z;functions.enter_coligada;  CLICK COLIGADA 2
+2023-12-08 16:17:27.507Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+2023-12-08 16:17:27.709Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2023-12-08 16:17:29.295Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+2023-12-08 16:17:32.567Z;functions.enter_coligada;  CLICK CONCLUIR
+2023-12-08 16:17:55.380Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+2023-12-08 16:17:59.243Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+2023-12-08 16:18:02.229Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+2023-12-08 16:18:05.119Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+2023-12-08 16:18:18.020Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+2023-12-08 16:18:18.242Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyautogui\__init__.py", line 210, in locateOnScreen
+    return pyscreeze.locateOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.405)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 15, in <module>
+    enter_contas_a_pagar()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 123, in enter_contas_a_pagar
+    select_lancamentos = waitForImage(image = lancamentos, timeout=20, name = 'LANÇAMENTOS')
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 594, in waitForImage
+    location = pyautogui.locateOnScreen(image, confidence=0.9)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\venv\Lib\site-packages\pyautogui\__init__.py", line 174, in wrapper
+    raise ImageNotFoundException  # Raise PyAutoGUI's ImageNotFoundException.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyautogui.ImageNotFoundException

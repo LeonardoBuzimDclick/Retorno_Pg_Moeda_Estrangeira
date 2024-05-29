@@ -1,0 +1,8 @@
+2024-02-15 15:51:22,929; DEBUG; functions.enter_contas_a_pagar.103: CLICK - TOTVS - LINHA RM
+2024-02-15 15:51:25,676; DEBUG; functions.enter_contas_a_pagar.108: CLICK - BACK OFFICE
+2024-02-15 15:51:28,301; DEBUG; functions.enter_contas_a_pagar.113: CLICK - GESTAO FINANCEIRA
+2024-02-15 15:51:37,239; DEBUG; functions.enter_contas_a_pagar.118: CLICK - CONTAS A PAGAR
+2024-02-15 15:51:37,342; INFO; functions.waitForImage.646: LANÇAMENTOS image found.
+2024-02-15 15:51:37,465; DEBUG; functions.enter_contas_a_pagar.124: CLICA EM LANÇAMENTOS
+2024-02-15 15:51:41,629; DEBUG; functions.filter_lancamento.152: ESCREVE Histórico NO FILTRO
+2024-02-15 15:51:42,771; DEBUG; functions.filter_lancamento.158: CLICK - BOTÃO DE SELECAO DE FILTRO

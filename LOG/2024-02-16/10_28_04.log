@@ -1,0 +1,6 @@
+2024-02-16 10:28:07,957; INFO; functions.waitForImage.651: FILTER CLEAN image found.
+2024-02-16 10:28:08,133; DEBUG; functions.filter_clean.179: CLICA NO BOTÃO X DO LIMPA FILTRO - TENTATIVA 0
+2024-02-16 10:28:20,192; INFO; functions.waitForImage.682: FILTER CLEAN image not found.
+2024-02-16 10:28:20,192; DEBUG; functions.filter_clean.182: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 1
+2024-02-16 10:28:30,285; INFO; functions.waitForImage.682: FILTER CLEAN image not found.
+2024-02-16 10:28:30,285; DEBUG; functions.filter_clean.182: BOTÃO X DO LIMPA FILTRO NÃO ENCONTRADO - TENTATIVA 2

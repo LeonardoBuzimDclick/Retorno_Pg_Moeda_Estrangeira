@@ -1,0 +1,192 @@
+19-11-2023 16:05:19.285Z;functions.bot_text_art;      ____   
+19-11-2023 16:05:19.286Z;functions.bot_text_art;     [____]    
+19-11-2023 16:05:19.286Z;functions.bot_text_art;   |=]()()[=|  
+19-11-2023 16:05:19.287Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+19-11-2023 16:05:19.287Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+19-11-2023 16:05:19.288Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+19-11-2023 16:05:19.289Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+19-11-2023 16:05:19.289Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+19-11-2023 16:05:19.293Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+19-11-2023 16:05:19.293Z;functions.bot_text_art;     |_||_|                                                     
+19-11-2023 16:05:19.294Z;functions.bot_text_art;     | ||_|_   
+19-11-2023 16:05:19.295Z;functions.bot_text_art;   |___||___|  
+19-11-2023 16:05:19.295Z;functions.bot_text_art;               
+19-11-2023 16:05:19.307Z;functions.open_RM;  OPEN PROGRAM RM
+19-11-2023 16:05:31.236Z;functions.loggin_RM;  ENTER USER_NAME
+19-11-2023 16:05:32.704Z;functions.loggin_RM;  ENTER PASSWORD
+19-11-2023 16:05:33.887Z;functions.loggin_RM;  ENTER RM
+19-11-2023 16:06:10.331Z;functions.enter_coligada;  CLICK CONTEXTO
+19-11-2023 16:06:15.596Z;functions.enter_coligada;  CLICK COLIGADA 1
+19-11-2023 16:06:17.890Z;functions.enter_coligada;  CLICK AVANÇAR
+19-11-2023 16:06:20.461Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+19-11-2023 16:06:20.643Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+19-11-2023 16:06:21.995Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+19-11-2023 16:06:23.206Z;functions.enter_coligada;  CLICK CONCLUIR
+19-11-2023 16:06:46.507Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+19-11-2023 16:06:47.354Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+19-11-2023 16:06:49.202Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+19-11-2023 16:06:52.036Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+19-11-2023 16:06:59.197Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+19-11-2023 16:07:00.177Z;functions.waitForImage;  LANÇAMENTOS image found.
+19-11-2023 16:07:02.298Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+19-11-2023 16:07:04.302Z;functions.data_filter;  DATA INICIO 08-11-2023
+19-11-2023 16:07:04.303Z;functions.data_filter;  DATA FIM 14-11-2023
+19-11-2023 16:07:04.304Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+19-11-2023 16:07:04.306Z;functions.data_filter;  QUARTA-FEIRA: 08-11-2023
+19-11-2023 16:07:04.307Z;functions.data_filter;  TERCA-FEIRA: 14-11-2023
+19-11-2023 16:07:14.502Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+19-11-2023 16:07:15.359Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+19-11-2023 16:07:18.502Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 08-11-2023
+19-11-2023 16:07:20.846Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 14-11-2023
+19-11-2023 16:07:21.760Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+19-11-2023 16:07:30.115Z;functions.waitForImage;  FILTER CLEAN image found.
+19-11-2023 16:07:32.229Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+19-11-2023 16:07:35.981Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+19-11-2023 16:07:37.760Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+19-11-2023 16:07:37.894Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+19-11-2023 16:07:38.234Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+19-11-2023 16:07:40.460Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+19-11-2023 16:07:47.758Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+19-11-2023 16:07:47.760Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+19-11-2023 16:08:00.738Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+19-11-2023 16:08:02.845Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+19-11-2023 16:08:04.084Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+19-11-2023 16:08:10.461Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+19-11-2023 16:08:11.881Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+19-11-2023 16:08:13.258Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+19-11-2023 16:08:15.727Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+19-11-2023 16:08:16.870Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+19-11-2023 16:08:18.131Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+19-11-2023 16:08:19.290Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+19-11-2023 16:09:19.536Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+19-11-2023 16:09:19.743Z;functions.waitForImage;  PRESS BUTTON OK image found.
+19-11-2023 16:09:21.745Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM ERRO.
+19-11-2023 16:09:26.426Z;functions.process_lancamentos;  CLICK NO LOG.
+19-11-2023 16:09:26.531Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+19-11-2023 16:09:26.636Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+19-11-2023 16:09:26.637Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+19-11-2023 16:09:26.640Z;functions.process_lancamentos;  Lançamento Ref. 512115: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 513165: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 539926: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 547293: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 552753: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 562025: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 562026: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 576966: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-539926:
+Campo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-552753:
+Campo 'IdConvenio' do lançamento '1-552753' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-576966:
+Campo 'IdConvenio' do lançamento '1-576966' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+19-11-2023 16:09:28.081Z;functions.process_lancamentos;  CLICK EM FECHAR.
+19-11-2023 16:09:33.502Z;functions.process_lancamentos;  A VARIÁVEL Lançamento Ref. 512115: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 513165: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 539926: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 547293: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 552753: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 562025: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 562026: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 576966: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-539926:
+Campo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-552753:
+Campo 'IdConvenio' do lançamento '1-552753' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-576966:
+Campo 'IdConvenio' do lançamento '1-576966' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+ NÃO ESTÁ PRESENTE NO VETOR.
+19-11-2023 16:09:35.754Z;functions.process_lancamentos;  A VARIÁVEL 513165 NÃO ESTÁ PRESENTE NO VETOR.
+19-11-2023 16:09:37.962Z;functions.process_lancamentos;  A VARIÁVEL 539926 NÃO ESTÁ PRESENTE NO VETOR.
+19-11-2023 16:09:40.169Z;functions.process_lancamentos;  A VARIÁVEL 547293 NÃO ESTÁ PRESENTE NO VETOR.
+19-11-2023 16:09:42.376Z;functions.process_lancamentos;  A VARIÁVEL 552753 NÃO ESTÁ PRESENTE NO VETOR.
+19-11-2023 16:09:44.583Z;functions.process_lancamentos;  A VARIÁVEL 562025 NÃO ESTÁ PRESENTE NO VETOR.
+19-11-2023 16:11:10.288Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 24, in <module>
+    proccess_bordero()
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 433, in proccess_bordero
+    menuitem_inclusao_bordero.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

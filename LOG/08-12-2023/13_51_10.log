@@ -1,0 +1,22 @@
+08-12-2023 13:51:11.792Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+08-12-2023 13:51:19.570Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 49 registros?
+08-12-2023 13:51:21.574Z;functions.check_table_record;  NUMERO DE TUPLAS: 49
+08-12-2023 13:51:21.576Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+08-12-2023 13:51:23.553Z;functions.check_table_record;  CLICK NÃO
+08-12-2023 13:51:41.913Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+08-12-2023 13:51:43.853Z;functions.check_inv;  19 PASSOS PARA DIREITA
+08-12-2023 13:51:45.854Z;functions.check_inv;  BUSCA NA LINHA: 0
+08-12-2023 13:51:45.857Z;functions.check_inv;  ctrl c
+08-12-2023 13:51:46.463Z;functions.check_inv;  Historico completo: INV - 00525829 - DNV AS 
+08-12-2023 13:51:46.464Z;functions.check_inv;  INV INCORRETA ENCONTRADA: 00525829
+08-12-2023 13:51:46.466Z;functions.check_inv;  TESTE: 48
+08-12-2023 13:51:47.070Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+08-12-2023 13:51:47.071Z;functions.check_inv;  BUSCA NA LINHA: 1
+08-12-2023 13:51:47.072Z;functions.check_inv;  ctrl c
+08-12-2023 13:51:47.677Z;functions.check_inv;  Historico completo: INV - 10218917 - KONGSBERG MARITIME AS 
+08-12-2023 13:51:48.179Z;functions.check_inv;  INV CORRETA ENCONTRADA: 10218917
+08-12-2023 13:51:48.286Z;main.<module>;  None
+08-12-2023 13:51:48.287Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA

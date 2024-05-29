@@ -1,0 +1,15 @@
+07-12-2023 11:17:04.010Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+07-12-2023 11:17:05.832Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+07-12-2023 11:17:06.578Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+07-12-2023 11:17:08.037Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+07-12-2023 11:17:15.346Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+07-12-2023 11:17:15.350Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+07-12-2023 11:17:48.664Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 19, in <module>
+    result = check_table_record()
+             ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 242, in check_table_record
+    txt_table = numero_registros.get_text()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'

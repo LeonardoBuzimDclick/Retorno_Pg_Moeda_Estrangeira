@@ -1,0 +1,133 @@
+19-11-2023 15:49:24.729Z;functions.bot_text_art;      ____   
+19-11-2023 15:49:24.730Z;functions.bot_text_art;     [____]    
+19-11-2023 15:49:24.731Z;functions.bot_text_art;   |=]()()[=|  
+19-11-2023 15:49:24.731Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+19-11-2023 15:49:24.732Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+19-11-2023 15:49:24.732Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+19-11-2023 15:49:24.733Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+19-11-2023 15:49:24.733Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+19-11-2023 15:49:24.736Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+19-11-2023 15:49:24.737Z;functions.bot_text_art;     |_||_|                                                     
+19-11-2023 15:49:24.738Z;functions.bot_text_art;     | ||_|_   
+19-11-2023 15:49:24.739Z;functions.bot_text_art;   |___||___|  
+19-11-2023 15:49:24.740Z;functions.bot_text_art;               
+19-11-2023 15:49:24.750Z;functions.open_RM;  OPEN PROGRAM RM
+19-11-2023 15:49:37.532Z;functions.loggin_RM;  ENTER USER_NAME
+19-11-2023 15:49:38.924Z;functions.loggin_RM;  ENTER PASSWORD
+19-11-2023 15:49:40.186Z;functions.loggin_RM;  ENTER RM
+19-11-2023 15:50:16.722Z;functions.enter_coligada;  CLICK CONTEXTO
+19-11-2023 15:50:22.119Z;functions.enter_coligada;  CLICK COLIGADA 1
+19-11-2023 15:50:24.370Z;functions.enter_coligada;  CLICK AVANÇAR
+19-11-2023 15:50:26.900Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+19-11-2023 15:50:27.070Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+19-11-2023 15:50:28.441Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+19-11-2023 15:50:29.723Z;functions.enter_coligada;  CLICK CONCLUIR
+19-11-2023 15:50:53.415Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+19-11-2023 15:50:54.259Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+19-11-2023 15:50:56.099Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+19-11-2023 15:50:58.908Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+19-11-2023 15:51:05.837Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+19-11-2023 15:51:06.732Z;functions.waitForImage;  LANÇAMENTOS image found.
+19-11-2023 15:51:08.841Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+19-11-2023 15:51:10.843Z;functions.data_filter;  DATA INICIO 08-11-2023
+19-11-2023 15:51:10.844Z;functions.data_filter;  DATA FIM 14-11-2023
+19-11-2023 15:51:10.845Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+19-11-2023 15:51:10.847Z;functions.data_filter;  QUARTA-FEIRA: 08-11-2023
+19-11-2023 15:51:10.848Z;functions.data_filter;  TERCA-FEIRA: 14-11-2023
+19-11-2023 15:51:20.594Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+19-11-2023 15:51:21.444Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+19-11-2023 15:51:24.643Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 08-11-2023
+19-11-2023 15:51:26.945Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 14-11-2023
+19-11-2023 15:51:27.853Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+19-11-2023 15:51:36.334Z;functions.waitForImage;  FILTER CLEAN image found.
+19-11-2023 15:51:38.456Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+19-11-2023 15:51:42.200Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+19-11-2023 15:51:43.925Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+19-11-2023 15:51:44.062Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+19-11-2023 15:51:44.394Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+19-11-2023 15:51:46.644Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+19-11-2023 15:51:53.956Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+19-11-2023 15:51:53.960Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+19-11-2023 15:52:06.934Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+19-11-2023 15:52:09.043Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+19-11-2023 15:52:10.248Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+19-11-2023 15:52:16.564Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+19-11-2023 15:52:17.960Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+19-11-2023 15:52:19.279Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+19-11-2023 15:52:21.797Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+19-11-2023 15:52:22.964Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+19-11-2023 15:52:24.215Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+19-11-2023 15:52:25.365Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+19-11-2023 15:53:25.955Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+19-11-2023 15:53:26.264Z;functions.waitForImage;  PRESS BUTTON OK image found.
+19-11-2023 15:53:28.286Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM ERRO.
+19-11-2023 15:53:32.948Z;functions.process_lancamentos;  CLICK NO LOG.
+19-11-2023 15:53:33.055Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+19-11-2023 15:53:33.160Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+19-11-2023 15:53:33.162Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+19-11-2023 15:53:33.164Z;functions.process_lancamentos;  Lançamento Ref. 512115: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 513165: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 539926: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 547293: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 552753: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 562025: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 562026: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 576966: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-539926:
+Campo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-552753:
+Campo 'IdConvenio' do lançamento '1-552753' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-576966:
+Campo 'IdConvenio' do lançamento '1-576966' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+19-11-2023 15:53:34.075Z;functions.process_lancamentos;  CLICK EM FECHAR.
+19-11-2023 15:53:36.134Z;functions.show_exception_and_exit;  'list' object has no attribute 'group'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 23, in <module>
+    process_lancamentos()
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 391, in process_lancamentos
+    numero = correspondencias.group(1)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'group'

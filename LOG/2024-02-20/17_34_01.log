@@ -1,0 +1,30 @@
+2024-02-20 17:34:01,770; INFO; functions.getPid.882: Dentro função GetPid
+
+2024-02-20 17:34:01,927; INFO; functions.getPid.892: Process RM.exe / PID: 4168 found.
+2024-02-20 17:34:02,071; INFO; functions.pidKillFinish.903: Process RM.exe / PID: 4168 killed.
+2024-02-20 17:34:02,072; INFO; functions.bot_text_art.7:     ____   
+2024-02-20 17:34:02,072; INFO; functions.bot_text_art.8:    [____]    
+2024-02-20 17:34:02,073; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-20 17:34:02,073; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-20 17:34:02,074; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-20 17:34:02,076; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-20 17:34:02,077; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-20 17:34:02,078; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-20 17:34:02,078; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-20 17:34:02,088; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-20 17:34:02,093; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-20 17:34:02,096; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-20 17:34:02,101; INFO; functions.bot_text_art.19:              
+2024-02-20 17:34:02,107; INFO; functions.headerExcel.837: Criando EXCEL
+2024-02-20 17:34:02,110; INFO; functions.headerExcel.856: EXCEL iniciado
+2024-02-20 17:34:02,111; INFO; main.process.18: PROCESSOS EXTRAIDOS COM ERRO: 0
+2024-02-20 17:34:02,112; INFO; main.process.19: PROCESSOS COM ERRO: 
+2024-02-20 17:34:02,113; INFO; functions.excelErro.909: Criando EXCEL ERRO
+2024-02-20 17:34:02,122; INFO; functions.excelErro.927: EXCEL ERRO iniciado
+2024-02-20 17:34:02,129; INFO; functions.excelErro.959: Fechando Excel com Erro...
+2024-02-20 17:34:02,139; INFO; main.process.25: PROCESSOS EXTRAIDOS CORRETAMENTE: 2
+2024-02-20 17:34:02,140; INFO; main.process.26: PROCESSOS A SEREM TRATADOS: [{'data': '28-01-2024', 'pi': 'teste', 'inv': '8002183', 'moeda': 'USD', 'montante': '429.866,00', 'saldo': '429.866,00', 'nome': 'KONGSBERG MARITIME AS', 'cod': 'teste2'}, {'data': '28-01-2024', 'pi': 'teste', 'inv': '2022685', 'moeda': 'EUR', 'montante': '6.015,00', 'saldo': '6.015,00', 'nome': 'TSCHUDI SHIP MANAGEMENT AS', 'cod': 'teste2'}]
+2024-02-20 17:34:02,144; INFO; functions.open_RM.50: OPEN PROGRAM RM
+2024-02-20 17:34:09,332; INFO; functions.loggin_RM.60: ENTER USER_NAME
+2024-02-20 17:34:10,251; INFO; functions.loggin_RM.65: ENTER PASSWORD
+2024-02-20 17:34:10,989; INFO; functions.loggin_RM.69: ENTER RM

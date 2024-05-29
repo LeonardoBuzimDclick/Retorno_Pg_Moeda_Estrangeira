@@ -1,0 +1,16 @@
+07-12-2023 13:11:12.069Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+07-12-2023 13:11:35.666Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 52 registros?
+07-12-2023 13:11:37.669Z;functions.check_table_record;  NUMERO DE TUPLAS: 52
+07-12-2023 13:11:37.670Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+07-12-2023 13:11:39.745Z;functions.check_table_record;  CLICK NÃO
+07-12-2023 13:11:49.829Z;functions.check_inv;  35 PASSOS PARA ESQUERDA
+07-12-2023 13:11:51.766Z;functions.check_inv;  19 PASSOS PARA DIREITA
+07-12-2023 13:11:53.767Z;functions.check_inv;  ctrl c
+07-12-2023 13:11:55.873Z;functions.check_inv;  INV: INV - 00525829 - DNV AS 
+07-12-2023 13:11:55.977Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+07-12-2023 13:11:59.979Z;functions.check_inv;  ctrl c
+07-12-2023 13:12:02.087Z;functions.check_inv;  INV: INV - 10218917 - KONGSBERG MARITIME AS 
+07-12-2023 13:12:02.190Z;functions.check_inv;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO

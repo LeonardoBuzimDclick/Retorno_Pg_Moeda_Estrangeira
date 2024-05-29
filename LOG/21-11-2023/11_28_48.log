@@ -1,0 +1,28 @@
+21-11-2023 11:28:48.813Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+21-11-2023 11:29:03.394Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+21-11-2023 11:29:05.498Z;functions.check_table_record;  CLICK ENTER
+21-11-2023 11:29:05.499Z;functions.check_table_record;  NUMERO DE TUPLAS: 1
+21-11-2023 11:29:05.499Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+21-11-2023 11:29:06.752Z;functions.check_table_record;  CLICK NÃO
+21-11-2023 11:29:07.900Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+21-11-2023 11:29:12.984Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+21-11-2023 11:29:14.369Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+21-11-2023 11:29:15.664Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+21-11-2023 11:29:17.883Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+21-11-2023 11:29:19.037Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+21-11-2023 11:29:20.256Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+21-11-2023 11:29:21.345Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+21-11-2023 11:29:29.679Z;functions.waitForImage;  PRESS BUTTON OK image found.
+21-11-2023 11:29:31.680Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+21-11-2023 11:29:34.969Z;functions.process_lancamentos;  CLICK NO LOG.
+21-11-2023 11:29:35.077Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+21-11-2023 11:29:35.212Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+21-11-2023 11:29:35.218Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+21-11-2023 11:29:35.220Z;functions.process_lancamentos;  Lançamento Ref. 864047: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+21-11-2023 11:29:36.085Z;functions.process_lancamentos;  CLICK EM FECHAR.
+21-11-2023 11:29:39.409Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX

@@ -1,0 +1,17 @@
+20-11-2023 22:29:21.263Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+20-11-2023 22:29:23.511Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+20-11-2023 22:29:25.076Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+20-11-2023 22:29:27.182Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+20-11-2023 22:29:29.286Z;functions.proccess_bordero;  ESCREVE O ID 14
+20-11-2023 22:29:31.389Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 14 - PIX
+20-11-2023 22:29:33.492Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 14 - PIX
+20-11-2023 22:29:36.403Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+20-11-2023 22:30:38.654Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-11-2023 22:30:40.260Z;functions.proccess_bordero;  Não há lançamentos a serem adicionados ao borderô.
+Verifique se o lançamento possui o Valor Líquido maior que zero na data de vencimento.
+
+
+
+20-11-2023 22:30:40.263Z;functions.proccess_bordero;  CAPTURA A MSG DE ERRO E REITRA OS NUMEROS DAS REFERENCIAS DE LANCAMENTOS
+20-11-2023 22:30:41.086Z;functions.proccess_bordero;  CLICK EM FECHAR.
+20-11-2023 22:30:46.106Z;functions.proccess_bordero;  HOVER FILTER REF PAG

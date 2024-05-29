@@ -1,0 +1,66 @@
+21-11-2023 17:13:37.855Z;functions.bot_text_art;      ____   
+21-11-2023 17:13:37.856Z;functions.bot_text_art;     [____]    
+21-11-2023 17:13:37.857Z;functions.bot_text_art;   |=]()()[=|  
+21-11-2023 17:13:37.858Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+21-11-2023 17:13:37.859Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+21-11-2023 17:13:37.860Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+21-11-2023 17:13:37.862Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+21-11-2023 17:13:37.863Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+21-11-2023 17:13:37.865Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+21-11-2023 17:13:37.866Z;functions.bot_text_art;     |_||_|                                                     
+21-11-2023 17:13:37.867Z;functions.bot_text_art;     | ||_|_   
+21-11-2023 17:13:37.868Z;functions.bot_text_art;   |___||___|  
+21-11-2023 17:13:37.868Z;functions.bot_text_art;               
+21-11-2023 17:13:37.869Z;functions.data_filter;  DATA INICIO 15-11-2023
+21-11-2023 17:13:37.870Z;functions.data_filter;  DATA FIM 21-11-2023
+21-11-2023 17:13:37.870Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+21-11-2023 17:13:37.871Z;functions.data_filter;  QUARTA-FEIRA: 15-11-2023
+21-11-2023 17:13:37.872Z;functions.data_filter;  TERCA-FEIRA: 21-11-2023
+21-11-2023 17:13:42.726Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+21-11-2023 17:13:43.560Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+21-11-2023 17:13:46.649Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 15-11-2023
+21-11-2023 17:13:48.919Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 21-11-2023
+21-11-2023 17:13:49.827Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+21-11-2023 17:14:01.704Z;functions.waitForImage;  FILTER CLEAN image found.
+21-11-2023 17:14:03.830Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+21-11-2023 17:14:07.618Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+21-11-2023 17:14:09.373Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+21-11-2023 17:14:09.507Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+21-11-2023 17:14:09.849Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+21-11-2023 17:14:12.102Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+21-11-2023 17:14:19.463Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+21-11-2023 17:14:19.465Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+21-11-2023 17:14:32.415Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+21-11-2023 17:14:34.418Z;functions.check_table_record;  NUMERO DE TUPLAS: 8
+21-11-2023 17:14:34.420Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+21-11-2023 17:14:43.359Z;functions.check_table_record;  CLICK NÃO
+21-11-2023 17:14:49.505Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+21-11-2023 17:14:55.780Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+21-11-2023 17:14:57.156Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+21-11-2023 17:14:58.463Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+21-11-2023 17:15:00.935Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+21-11-2023 17:15:02.065Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+21-11-2023 17:15:03.311Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+21-11-2023 17:15:04.433Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+21-11-2023 17:15:14.721Z;functions.waitForImage;  PRESS BUTTON OK image found.
+21-11-2023 17:15:16.724Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+21-11-2023 17:15:20.018Z;functions.process_lancamentos;  CLICK NO LOG.
+21-11-2023 17:15:20.124Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+21-11-2023 17:15:20.229Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+21-11-2023 17:15:20.231Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+21-11-2023 17:15:20.233Z;functions.process_lancamentos;  Lançamento Ref. 804191: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 804192: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 804196: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 804197: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 804202: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 804203: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 820710: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857531: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+21-11-2023 17:15:21.105Z;functions.process_lancamentos;  CLICK EM FECHAR.
+21-11-2023 17:15:33.165Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+21-11-2023 17:15:33.203Z;functions.check_pix;  VARIAVEL "num_de_ref" vazia. Checagem foi ignorada

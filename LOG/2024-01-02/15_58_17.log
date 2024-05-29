@@ -1,0 +1,42 @@
+2024-01-02 15:58:18.044Z;functions.bot_text_art;      ____   
+2024-01-02 15:58:18.045Z;functions.bot_text_art;     [____]    
+2024-01-02 15:58:18.045Z;functions.bot_text_art;   |=]()()[=|  
+2024-01-02 15:58:18.045Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+2024-01-02 15:58:18.045Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-01-02 15:58:18.046Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-01-02 15:58:18.046Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-01-02 15:58:18.047Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-01-02 15:58:18.050Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-01-02 15:58:18.051Z;functions.bot_text_art;     |_||_|                                                     
+2024-01-02 15:58:18.052Z;functions.bot_text_art;     | ||_|_   
+2024-01-02 15:58:18.052Z;functions.bot_text_art;   |___||___|  
+2024-01-02 15:58:18.053Z;functions.bot_text_art;               
+2024-01-02 15:58:18.053Z;functions.headerExcel;  Criando EXCEL
+2024-01-02 15:58:18.056Z;functions.headerExcel;  EXCEL iniciado
+2024-01-02 15:58:18.061Z;functions.open_RM;  OPEN PROGRAM RM
+2024-01-02 15:58:26.213Z;functions.loggin_RM;  ENTER USER_NAME
+2024-01-02 15:58:27.134Z;functions.loggin_RM;  ENTER PASSWORD
+2024-01-02 15:58:27.873Z;functions.loggin_RM;  ENTER RM
+2024-01-02 15:59:00.075Z;functions.enter_coligada;  CLICK CONTEXTO
+2024-01-02 15:59:04.190Z;functions.enter_coligada;  CLICK COLIGADA 2
+2024-01-02 15:59:07.124Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 2
+2024-01-02 15:59:07.226Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-01-02 15:59:08.727Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+2024-01-02 15:59:11.956Z;functions.enter_coligada;  CLICK CONCLUIR
+2024-01-02 15:59:25.645Z;functions.enter_coligada;  POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-01-02 15:59:29.313Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+2024-01-02 15:59:32.040Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+2024-01-02 15:59:34.726Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+2024-01-02 15:59:43.373Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+2024-01-02 15:59:43.721Z;functions.waitForImage;  LANÇAMENTOS image found.
+2024-01-02 15:59:43.875Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+2024-01-02 15:59:52.478Z;functions.filter_lancamento;  ESCREVE Histórico NO FILTRO
+2024-01-02 15:59:53.615Z;functions.filter_lancamento;  CLICK - BUTÃO DE SELECAO DE FILTRO
+2024-01-02 16:00:09.836Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 16, in <module>
+    filter_lancamento()
+  File "c:\Projetos\Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 163, in filter_lancamento
+    enter_inv.click()
+    ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

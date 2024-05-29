@@ -1,0 +1,39 @@
+21-11-2023 10:37:43.945Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+21-11-2023 10:37:58.405Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 11 registros?
+21-11-2023 10:38:00.509Z;functions.check_table_record;  CLICK ENTER
+21-11-2023 10:38:00.510Z;functions.check_table_record;  NUMERO DE TUPLAS: 11
+21-11-2023 10:38:00.510Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+21-11-2023 10:38:01.806Z;functions.check_table_record;  CLICK NÃO
+21-11-2023 10:38:02.988Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+21-11-2023 10:38:07.964Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+21-11-2023 10:38:09.360Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+21-11-2023 10:38:10.662Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+21-11-2023 10:38:12.984Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+21-11-2023 10:38:14.104Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+21-11-2023 10:38:15.334Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+21-11-2023 10:38:16.440Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+21-11-2023 10:38:24.096Z;functions.waitForImage;  PRESS BUTTON OK image found.
+21-11-2023 10:38:26.098Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+21-11-2023 10:38:29.352Z;functions.process_lancamentos;  CLICK NO LOG.
+21-11-2023 10:38:29.461Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+21-11-2023 10:38:29.584Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+21-11-2023 10:38:29.602Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+21-11-2023 10:38:29.623Z;functions.process_lancamentos;  Lançamento Ref. 588416: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 588419: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 589524: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 602587: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 604916: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 609871: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 621330: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 638865: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 642348: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 643996: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 647422: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+21-11-2023 10:38:30.455Z;functions.process_lancamentos;  CLICK EM FECHAR.
+21-11-2023 10:38:36.389Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+21-11-2023 10:38:36.495Z;functions.check_pix;  REF. LANÇAMENTO: 588416

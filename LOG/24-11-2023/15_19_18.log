@@ -1,0 +1,174 @@
+24-11-2023 15:19:18.933Z;functions.bot_text_art;      ____   
+24-11-2023 15:19:18.933Z;functions.bot_text_art;     [____]    
+24-11-2023 15:19:18.936Z;functions.bot_text_art;   |=]()()[=|  
+24-11-2023 15:19:18.936Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+24-11-2023 15:19:18.937Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+24-11-2023 15:19:18.937Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+24-11-2023 15:19:18.938Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+24-11-2023 15:19:18.938Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+24-11-2023 15:19:18.939Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+24-11-2023 15:19:18.940Z;functions.bot_text_art;     |_||_|                                                     
+24-11-2023 15:19:18.940Z;functions.bot_text_art;     | ||_|_   
+24-11-2023 15:19:18.940Z;functions.bot_text_art;   |___||___|  
+24-11-2023 15:19:18.941Z;functions.bot_text_art;               
+24-11-2023 15:19:18.952Z;functions.open_RM;  OPEN PROGRAM RM
+24-11-2023 15:19:32.223Z;functions.loggin_RM;  ENTER USER_NAME
+24-11-2023 15:19:33.623Z;functions.loggin_RM;  ENTER PASSWORD
+24-11-2023 15:19:34.704Z;functions.loggin_RM;  ENTER RM
+24-11-2023 15:20:08.166Z;functions.enter_coligada;  CLICK CONTEXTO
+24-11-2023 15:20:13.306Z;functions.enter_coligada;  CLICK COLIGADA 1
+24-11-2023 15:20:15.687Z;functions.enter_coligada;  CLICK AVANÇAR
+24-11-2023 15:20:18.473Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+24-11-2023 15:20:18.590Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+24-11-2023 15:20:20.013Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+24-11-2023 15:20:21.296Z;functions.enter_coligada;  CLICK CONCLUIR
+24-11-2023 15:20:44.564Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+24-11-2023 15:20:45.403Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+24-11-2023 15:20:47.226Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+24-11-2023 15:20:50.034Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+24-11-2023 15:20:56.895Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+24-11-2023 15:20:57.785Z;functions.waitForImage;  LANÇAMENTOS image found.
+24-11-2023 15:20:59.915Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+24-11-2023 15:21:01.916Z;functions.data_filter;  DATA INICIO 22-11-2023
+24-11-2023 15:21:01.917Z;functions.data_filter;  DATA FIM 28-11-2023
+24-11-2023 15:21:01.923Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+24-11-2023 15:21:01.926Z;functions.data_filter;  QUARTA-FEIRA: 22-11-2023
+24-11-2023 15:21:01.928Z;functions.data_filter;  TERCA-FEIRA: 28-11-2023
+24-11-2023 15:21:12.266Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+24-11-2023 15:21:13.100Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+24-11-2023 15:21:16.360Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 22-11-2023
+24-11-2023 15:21:18.758Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 28-11-2023
+24-11-2023 15:21:19.676Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+24-11-2023 15:21:43.125Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+24-11-2023 15:21:45.082Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+24-11-2023 15:21:47.250Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+24-11-2023 15:21:49.629Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+24-11-2023 15:21:51.943Z;functions.desmark_filter;  ATUALIZA O FILTRO
+24-11-2023 15:21:52.101Z;functions.waitForImage;  FILTER CLEAN image found.
+24-11-2023 15:21:55.235Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+24-11-2023 15:21:59.037Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+24-11-2023 15:22:00.782Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+24-11-2023 15:22:00.916Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+24-11-2023 15:22:01.246Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+24-11-2023 15:22:04.229Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+24-11-2023 15:22:11.576Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+24-11-2023 15:22:11.579Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+24-11-2023 15:22:24.541Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 69 registros?
+24-11-2023 15:22:26.544Z;functions.check_table_record;  NUMERO DE TUPLAS: 69
+24-11-2023 15:22:26.545Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+24-11-2023 15:22:35.477Z;functions.check_table_record;  CLICK NÃO
+24-11-2023 15:22:41.637Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+24-11-2023 15:22:47.798Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+24-11-2023 15:22:49.189Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+24-11-2023 15:22:50.762Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+24-11-2023 15:22:53.181Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+24-11-2023 15:22:54.309Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+24-11-2023 15:22:55.555Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+24-11-2023 15:22:56.665Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+24-11-2023 15:23:16.389Z;functions.waitForImage;  PRESS BUTTON OK image found.
+24-11-2023 15:23:18.390Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+24-11-2023 15:23:21.677Z;functions.process_lancamentos;  CLICK NO LOG.
+24-11-2023 15:23:21.788Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+24-11-2023 15:23:21.895Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+24-11-2023 15:23:21.895Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+24-11-2023 15:23:21.901Z;functions.process_lancamentos;  Lançamento Ref. 854912: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855285: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855433: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855648: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855712: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855724: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855746: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855776: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855818: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855935: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856104: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856165: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856167: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856168: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856181: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856198: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856211: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856269: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856451: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856673: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856804: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856810: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856823: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856829: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856982: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856984: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856989: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856993: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857137: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857251: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857382: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857493: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857496: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857565: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857567: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857573: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857579: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857605: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857619: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857620: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857625: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857686: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 857808: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858359: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858378: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858380: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858383: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858384: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858523: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858536: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858647: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858725: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 859365: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 859389: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 859400: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 859413: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 859465: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 860140: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 860263: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 860949: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 861274: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 861278: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 861925: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 862077: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 862082: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 863770: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 863877: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 864713: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 864732: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+24-11-2023 15:23:22.837Z;functions.process_lancamentos;  CLICK EM FECHAR.
+24-11-2023 15:23:42.001Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos\Remessa_Pix\main.py", line 25, in <module>
+    check_pix()
+  File "C:\Projetos\Remessa_Pix\SUBPROGRAMS\functions.py", line 431, in check_pix
+    first_ref_lanc.click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+24-11-2023 15:23:44.196Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+24-11-2023 15:23:44.246Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+24-11-2023 15:23:44.264Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+24-11-2023 15:23:44.268Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+24-11-2023 15:23:44.278Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+24-11-2023 15:23:44.283Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+24-11-2023 15:23:44.529Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+24-11-2023 15:23:44.646Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+24-11-2023 15:23:44.655Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+24-11-2023 15:23:44.662Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+24-11-2023 15:23:44.665Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+24-11-2023 15:23:44.677Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+24-11-2023 15:23:44.681Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+24-11-2023 15:23:44.731Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+24-11-2023 15:23:44.750Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+24-11-2023 15:23:44.753Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+24-11-2023 15:23:44.758Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+24-11-2023 15:23:44.770Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

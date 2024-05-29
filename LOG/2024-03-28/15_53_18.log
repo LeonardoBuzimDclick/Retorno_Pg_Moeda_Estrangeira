@@ -1,0 +1,1544 @@
+2024-03-28 15:53:18,193; INFO; parameters.<module>.102: Pasta local: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março
+2024-03-28 15:53:18,198; INFO; functions.getPid.1003: Dentro função GetPid
+
+2024-03-28 15:53:18,902; INFO; functions.bot_text_art.7:     ____   
+2024-03-28 15:53:18,904; INFO; functions.bot_text_art.8:    [____]    
+2024-03-28 15:53:18,905; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-03-28 15:53:18,906; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-03-28 15:53:18,907; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-03-28 15:53:18,908; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-03-28 15:53:18,910; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-03-28 15:53:18,911; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-03-28 15:53:18,913; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-03-28 15:53:18,914; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-03-28 15:53:18,915; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-03-28 15:53:18,916; INFO; functions.bot_text_art.18:  |___||___|  
+2024-03-28 15:53:18,917; INFO; functions.bot_text_art.19:              
+2024-03-28 15:53:18,919; INFO; functions.headerExcel.936: Criando EXCEL
+2024-03-28 15:53:18,924; INFO; functions.headerExcel.956: EXCEL iniciado
+2024-03-28 15:53:18,930; INFO; main.process.15: TODOS ARQUIVOS NA PASTA ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\202403-Extrato mensal-EBPCLI541626 (16).pdf', '\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\Ebury - Parcial.pdf'].
+2024-03-28 15:53:18,933; INFO; main.process.23: SERÃO TRATADOS 1 ARQUIVOS.
+2024-03-28 15:53:18,934; INFO; main.process.24: ARQUIVOS: ['\\\\Riofs\\dados\\Documentos Financeiro\\Extratos bancarios\\Ebury\\2024\\03 - Março\\Ebury - Parcial.pdf']
+2024-03-28 15:53:18,936; INFO; main.process.33: INICIO DO PROCESSAMENTO DO ARQUIVO 1: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\03 - Março\Ebury - Parcial.pdf
+2024-03-28 15:53:19,330; INFO; functions.informacoes_extraidas.576: texto: Oceanica Netherlands B.V.
+Mr. Andre Ponce de Leon Arruda
+Apollolaan 151
+Extracto de Conta
+Período do extrato: 01-03-2024 00:00 - 31-03-2024 23:59
+Registo de instrução: 27-03-2024 20:02
+Moeda: Todos
+Resumo
+Conta de Moeda
+Saldo Inicial Fundos recebidos A sair Saldo final
+Estrangeira
+USD 9186.41 3608536.51 -3168132.13 449590.79
+NOK 1151.46 7854000.00 -7843133.79 12017.67
+MXN 0.00 196746.68 -196746.68 0.00
+GBP 485.15 30000.00 -28045.03 2440.12
+SGD 0.00 3750.00 -3750.00 0.00
+EUR 6757.82 1600448.25 -1594838.48 12367.59
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 1 de 26
+2024-03-28 15:53:19,748; INFO; functions.informacoes_extraidas.576: texto: Movimentos: Todas as moedas
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI3965610 LOS Marine AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -618500.00 NOK 12017.67
+21:23
+PI3965610 300957
+26-03-2024 Comprado NOK EBPOTR3357995
+NOK 619000.00 NOK 630517.67
+21:23 USDNOK10.591871Compra/Venda de moeda
+Pagamento PI3965469 Tschudi Ship Management AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -36630.00 EUR 12367.59
+21:22
+PI3965469 2024156
+Pagamento PI3965468 Tschudi Ship Management AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -66500.00 EUR 48997.59
+21:22
+PI3965468 2024155
+Pagamento PI3965466 Tschudi Ship Management AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -57760.00 EUR 115497.59
+21:22
+PI3965466 1403242
+Pagamento PI3965465 Tschudi Ship Management AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -60240.00 EUR 173257.59
+21:22
+PI3965465 1403241
+Pagamento PI3965463 Exail S.A.S.
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -152208.00 EUR 233497.59
+21:22
+PI3965463 1231757
+Pagamento PI3965471-EBPOTR3357916 PT. LABROY
+26-03-2024
+SHIPBUILDING ENGINEERING SGD -3750.00 SGD 0.00
+21:22
+Oceanica Netherlands B.V. EBPOTR3357916 3006
+Pagamento PI3965458 Leonardo Duran
+26-03-2024
+Salário / folha de pagamentos - Oceanica Netherlands B.V. EUR -17736.00 EUR 385705.59
+21:22
+PI3965458 Salario - ref. mar-24
+26-03-2024 Comprado SGD EBPOTR3357916
+SGD 3750.00 SGD 3750.00
+21:22 USDSGD1.325087Pagamento por serviços identificáveis
+26-03-2024 Comprado EUR EBPOTR3357915
+EUR 36000.00 EUR 403441.59
+21:22 EURUSD1.099909Compra/Venda de moeda
+26-03-2024 Comprado EUR EBPOTR3357913
+EUR 366468.25 EUR 367441.59
+21:22 EURUSD1.099686Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 2 de 26
+2024-03-28 15:53:20,268; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3965456 LOS Marine AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -315000.00 NOK 11517.67
+21:22
+PI3965456 301004
+Pagamento PI3965454 Tyrholm and Farstad AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -173278.95 NOK 326517.67
+21:22
+PI3965454 MATL24000008/PK22 24000008
+26-03-2024 Comprado NOK EBPOTR3357910
+NOK 490000.00 NOK 499796.62
+21:22 USDNOK10.590958Compra/Venda de moeda
+Pagamento PI3965475 PT. SNEPAC SHIPPING
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -2726.13 USD 449590.79
+21:04
+PI3965475 1000127
+Pagamento PI3965474 PT. SNEPAC SHIPPING
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -670.00 USD 452316.92
+21:04
+PI3965474 1000133
+Pagamento PI3965473 PT. SNEPAC SHIPPING
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -3960.00 USD 452986.92
+21:04
+PI3965473 1000137
+26-03-2024 Vendido USD EBPOTR3357916
+USD -2830.00 USD 456946.92
+21:04 USDSGD1.325087Pagamento por serviços identificáveis
+26-03-2024 Vendido USD EBPOTR3357915
+USD -39596.72 USD 459776.92
+21:04 EURUSD1.099909Compra/Venda de moeda
+26-03-2024 Vendido USD EBPOTR3357913
+USD -403000.00 USD 499373.64
+21:04 EURUSD1.099686Compra/Venda de moeda
+26-03-2024 Vendido USD EBPOTR3357910
+USD -46265.88 USD 902373.64
+21:04 USDNOK10.590958Compra/Venda de moeda
+Pagamento PI3965461 Meijers Vitaal B.V
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -38.96 EUR 973.34
+21:03
+PI3965461 5241660
+Pagamento PI3924549 AG Barista IV B.V.
+26-03-2024
+Aluguer / manutenção de propriedade - Oceanica Netherlands B.V. EUR -1624.84 EUR 1012.30
+21:03
+PI3924549 14240309
+Pagamento PI3888808 Tax Authority
+26-03-2024
+Imposto ref. Fevereiro-24 - Oceanica Netherlands B.V. PI3888808 EUR -10947.00 EUR 2637.14
+21:03
+5862.9944.5640.1020
+26-03-2024 Vendido USD EBPOTR3357995
+USD -58441.04 USD 948639.52
+19:57 USDNOK10.591871Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 3 de 26
+2024-03-28 15:53:20,722; INFO; functions.informacoes_extraidas.576: texto: Fundos OCEANICA ENGENHARIA E CONSULTO
+26-03-2024
+BR6960701190032120000026755C1 - - NL66EBUR2845860862 - USD 1000000.00 USD 1007080.56
+15:33
+2024032600439319
+Pagamento PI3953726 ASP Crew Management
+21-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -16040.03 USD 7080.56
+13:16
+PI3953726 1754
+21-03-2024 Comprado EUR EBPOTR3349928
+EUR 10000.00 EUR 13584.14
+09:23 EURUSD1.107612Compra/Venda de moeda
+21-03-2024 Vendido USD EBPOTR3349928
+USD -11076.12 USD 23120.59
+09:23 EURUSD1.107612Compra/Venda de moeda
+20-03-2024 Comprado EUR EBPOTR3348178
+EUR 3000.00 EUR 3584.14
+21:23 EURUSD1.104369Compra/Venda de moeda
+Pagamento PI3950535 Kongsberg Mesotech
+20-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -52892.00 USD 34196.71
+21:04
+PI3950535 68472
+20-03-2024 Vendido USD EBPOTR3348178
+USD -3313.11 USD 87088.71
+21:04 EURUSD1.104369Compra/Venda de moeda
+Pagamento PI3950552 Tufton Corporate Services Limited
+20-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1165.00 EUR 584.14
+21:03
+PI3950552 933
+Pagamento PI3950550 Tufton Corporate Services Limited
+20-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1165.00 EUR 1749.14
+21:03
+PI3950550 932
+Pagamento PI3950548 THE TRUST COMPANY OF THE MARSHALL
+20-03-2024 ISLANDS, INC.
+USD -300.00 USD 90401.82
+15:26 Payment for identifiable services - Oceanica Netherlands B.V.
+PI3950548 1221523
+Pagamento PI3950544 PT. SNEPAC SHIPPING
+20-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -840.00 USD 90701.82
+15:21
+PI3950544 1000112
+Pagamento PI3950543 PT. SNEPAC SHIPPING
+20-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -349.80 USD 91541.82
+15:19
+PI3950543 1000110
+Pagamento PI3946296 FUERZA CARIBE
+19-03-2024
+Payment for identifiable goods - Oceanica Netherlands B.V. MXN -98373.34 MXN 0.00
+21:02
+PI3946296 5180
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 4 de 26
+2024-03-28 15:53:21,002; INFO; functions.informacoes_extraidas.576: texto: Reembolso de Pagamento PI3942892-EBPOTR3342376 FUERZA
+19-03-2024
+CARIBE MXN 98373.34 MXN 98373.34
+09:19
+Oceanica Netherlands B.V. EBPOTR3342376 5180
+18-03-2024 Pagamento PI3942892-EBPOTR3342376 FUERZA CARIBE
+MXN -98373.34 MXN 0.00
+21:22 Oceanica Netherlands B.V. EBPOTR3342376 5180
+18-03-2024 Comprado MXN EBPOTR3342376
+MXN 98373.34 MXN 98373.34
+21:22 USDMXN16.441069Pagamento por serviços identificáveis
+18-03-2024 Vendido USD EBPOTR3342376
+USD -5983.39 USD 91891.62
+21:03 USDMXN16.441069Pagamento por serviços identificáveis
+Pagamento PI3943751 ENAV Asia Pte. Ltd.
+18-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -253062.35 USD 97875.01
+11:21
+PI3943751 PGTO. REF. ENAVE
+Pagamento PI3941404 Ayolt M. Zoer
+17-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -12100.00 EUR 2914.14
+21:23
+PI3941404 2024013
+Pagamento PI3941402 Leonardo Duran
+17-03-2024
+Custos de viagem - Oceanica Netherlands B.V. PI3941402 EUR -6663.26 EUR 15014.14
+21:23
+Reembolso de despesas em viagens Fevereiro 2024
+17-03-2024 Comprado EUR EBPOTR3341264
+EUR 18000.00 EUR 21677.40
+21:23 EURUSD1.105485Compra/Venda de moeda
+Pagamento PI3937532 Motus Technology AS
+17-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -270473.47 NOK 9796.62
+21:22
+PI3937532 3635
+17-03-2024 Comprado NOK EBPOTR3340393
+NOK 250000.00 NOK 280270.09
+21:22 USDNOK10.417092Compra/Venda de moeda
+Pagamento PI3941406 KONGSBERG MARITIME AS
+17-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -101366.50 USD 350937.36
+21:03
+PI3941406 90324394
+17-03-2024 Vendido USD EBPOTR3341264
+USD -19898.73 USD 452303.86
+21:03 EURUSD1.105485Compra/Venda de moeda
+17-03-2024 Vendido USD EBPOTR3340393
+USD -23999.02 USD 472202.59
+21:03 USDNOK10.417092Compra/Venda de moeda
+Pagamento PI3937507 Infrastructure Networks Inc.
+14-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -2975.00 USD 496201.61
+11:08
+PI3937507 27574
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 5 de 26
+2024-03-28 15:53:21,287; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3937496 CSS Kingston Logistics FZC
+14-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -9308.00 USD 499176.61
+11:05
+PI3937496 3252024
+Pagamento PI3937258 European Management Marine Corp
+14-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -27560.00 GBP 2440.12
+10:20
+PI3937258 500714
+14-03-2024 Comprado GBP EBPOTR3338270
+GBP 30000.00 GBP 30000.12
+10:20 GBPUSD1.298021Compra/Venda de moeda
+14-03-2024 Vendido USD EBPOTR3338270
+USD -38940.63 USD 508484.61
+10:20 GBPUSD1.298021Compra/Venda de moeda
+Pagamento PI3934484 Navatech AS
+13-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -225321.84 NOK 30270.09
+21:23
+PI3934484 10023
+Pagamento PI3934462 Green Yard Kleven AS
+13-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -5500000.00 NOK 255591.93
+21:23
+PI3934462 361904 / 6 414 086,00 - CREDIT NOTE 914.086,00
+13-03-2024 Comprado NOK EBPOTR3336552
+NOK 5750000.00 NOK 5755591.93
+21:23 USDNOK10.318890Compra/Venda de moeda
+13-03-2024 Vendido USD EBPOTR3336552
+USD -557230.48 USD 547425.24
+21:04 USDNOK10.318890Compra/Venda de moeda
+Pagamento PI3934791 ARGO COMMUNICATIONS
+13-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5000.00 USD 1104655.72
+17:37
+PI3934791 3704
+Pagamento PI3934790 ARGO COMMUNICATIONS
+13-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -2500.00 USD 1109655.72
+17:35
+PI3934790 3705
+Pagamento PI3934743 INCHCAPE SHIPPING SERVICES
+13-03-2024 Payment for identifiable services - Oceanica Netherlands B.V.
+USD -20000.00 USD 1112155.72
+15:42 PI3934743 CREW, DOCUMENTACAO DA EMBARCACAO E
+TRIPULACAO TRANSFER E HOTEL DA TRIPULACAO
+Pagamento PI3934476 Infrastructure Networks Inc.
+13-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -8661.21 USD 1132155.72
+13:44
+PI3934476 27574
+Fundos OCEANICA ENGENHARIA E CONSULTORIA
+13-03-2024
+BR0630306294000010001464585C1 - INVS: 62,63, 66,67 - USD 261000.00 USD 1140816.93
+07:48
+NL66EBUR2845860862 - FED013225073
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 6 de 26
+2024-03-28 15:53:21,674; INFO; functions.informacoes_extraidas.576: texto: Fundos OCEANICA ENGENHARIA E CONSULTORIA
+13-03-2024
+BR0630306294000010001464585C1 - INVS: 62,63, 66,67 - USD 58000.00 USD 879816.93
+07:48
+NL66EBUR2845860862 - FED013675073
+Fundos OCEANICA ENGENHARIA E CONSULTORIA
+13-03-2024
+BR0630306294000010001464585C1 - INVS: 62,63, 66,67 - USD 174000.00 USD 821816.93
+07:48
+NL66EBUR2845860862 - FED014164073
+Fundos OCEANICA ENGENHARIA E CONSULTORIA
+13-03-2024
+BR0630306294000010001464585C1 - INVS: 62,63, 66,67 - USD 610000.00 USD 647816.93
+07:48
+NL66EBUR2845860862 - FED013217073
+Pagamento PI3931576 Green Yard Kleven AS
+12-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -101893.00 NOK 5591.93
+21:23
+PI3931576 361911
+12-03-2024 Comprado NOK EBPOTR3334490
+NOK 102000.00 NOK 107484.93
+21:23 USDNOK10.353701Compra/Venda de moeda
+Pagamento PI3931573 PT. SNEPAC SHIPPING
+12-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -55.00 USD 37816.93
+21:04
+PI3931573 1000118
+Pagamento PI3931572 PT. SNEPAC SHIPPING
+12-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -4762.18 USD 37871.93
+21:04
+PI3931572 1000119
+Pagamento PI3931566 Winner LLC
+12-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -404.25 USD 42634.11
+21:04
+PI3931566 22024
+12-03-2024 Vendido USD EBPOTR3334490
+USD -9851.55 USD 43038.36
+21:04 USDNOK10.353701Compra/Venda de moeda
+Pagamento PI3928507 SISTAC B.V
+11-03-2024
+Compra de propriedade - Oceanica Netherlands B.V. PI3928507 EUR -882735.55 EUR 3677.40
+21:23
+Compra de Embarcacao
+11-03-2024 Comprado EUR EBPOTR3332282
+EUR 883000.00 EUR 886412.95
+21:23 EURUSD1.108917Compra/Venda de moeda
+11-03-2024 Vendido USD EBPOTR3332282
+USD -979173.71 USD 52889.91
+21:03 EURUSD1.108917Compra/Venda de moeda
+Pagamento PI3927938 Tschudi Ship Management AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -16955.00 EUR 3412.95
+11:33
+PI3927938 2023825
+Pagamento PI3927933 Tschudi Ship Management AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -5057.50 EUR 20367.95
+11:32
+PI3927933 2023875
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 7 de 26
+2024-03-28 15:53:22,093; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3927929 Tschudi Ship Management AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -21898.55 EUR 25425.45
+11:31
+PI3927929 2024012
+Pagamento PI3927874 Tschudi Ship Management AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -18840.00 EUR 47324.00
+11:23
+PI3927874 2024087
+Pagamento PI3927855 Tschudi Ship Management AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -17590.00 EUR 66164.00
+11:21
+PI3927855 2023746
+Pagamento PI3927845 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1650.00 EUR 83754.00
+11:20
+PI3927845 10713472
+Pagamento PI3927824 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -7920.46 EUR 85404.00
+11:18
+PI3927824 10702689
+Pagamento PI3927817 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -3073.15 EUR 93324.46
+11:17
+PI3927817 10706379
+Pagamento PI3927810 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -2100.00 EUR 96397.61
+11:15
+PI3927810 10691423
+Pagamento PI3927800 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1142.60 EUR 98497.61
+11:14
+PI3927800 10706682
+Pagamento PI3927783 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -3523.08 EUR 99640.21
+11:13
+PI3927783 10706380
+11-03-2024 Comprado EUR EBPOTR3331701
+EUR 100000.00 EUR 103163.29
+11:12 EURUSD1.108117Compra/Venda de moeda
+11-03-2024 Vendido USD EBPOTR3331701
+USD -110811.70 USD 1032063.62
+11:12 EURUSD1.108117Compra/Venda de moeda
+Pagamento PI3927731 ASP Crew Management
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5050.00 USD 1142875.32
+11:07
+PI3927731 1705
+Pagamento PI3925171 Fugro Norway AS
+08-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -1370.00 USD 1147925.32
+17:16
+PI3925171 22305981
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 8 de 26
+2024-03-28 15:53:22,533; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3925159 Fugro Norway AS
+08-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -200.00 USD 1149295.32
+16:11
+PI3925159 22306236
+Pagamento PI3925112 Infrastructure Networks Inc.
+08-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -2632.26 USD 1149495.32
+14:46
+PI3925112 26766
+Pagamento PI3924566 INCHCAPE SHIPPING SERVICES
+08-03-2024 Payment for identifiable services - Oceanica Netherlands B.V.
+USD -46437.69 USD 1152127.58
+11:22 PI3924566 CREW, DOCUMENTACAO DA EMBARCACAO E
+TRIPULACAO, TRANSFER E HOTEL DA TRIPULACAO
+Pagamento PI3924503 Loyens and Loeff N.V
+08-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -49025.14 EUR 3163.29
+11:07
+PI3924503 1625977
+08-03-2024 Comprado EUR EBPOTR3329290
+EUR 51000.00 EUR 52188.43
+11:02 EURUSD1.113033Compra/Venda de moeda
+08-03-2024 Vendido USD EBPOTR3329290
+USD -56764.68 USD 1198565.27
+11:02 EURUSD1.113033Compra/Venda de moeda
+Fundos WIKBORG REIN ADV.FIRMA KLIENTKONTO
+07-03-2024
+NO5812500467760 - IMO 9284324 - NL66EBUR2845860862 - USD 16390.09 USD 1255329.95
+12:36
+7906NOO32152877
+Fundos WIKBORG REIN ADV.FIRMA KLIENTKONTO
+07-03-2024
+NO5812500467760 - IMO 9284324 - NL66EBUR2845860862 - USD 12074.22 USD 1238939.86
+12:24
+7906NOO32152878
+Pagamento PI3920082 Tyrholm and Farstad AS
+07-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -102850.10 NOK 5484.93
+08:14
+PI3920082 2342
+07-03-2024 Comprado NOK EBPOTR3326046
+NOK 103000.00 NOK 108335.03
+08:14 USDNOK10.299784Compra/Venda de moeda
+07-03-2024 Vendido USD EBPOTR3326046
+USD -10000.21 USD 1226865.64
+08:14 USDNOK10.299784Compra/Venda de moeda
+Pagamento PI3920051 Motus Technology AS
+07-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -498030.00 NOK 5335.03
+08:10
+PI3920051 3555
+07-03-2024 Comprado NOK EBPOTR3326023
+NOK 500000.00 NOK 503365.03
+08:10 USDNOK10.299105Compra/Venda de moeda
+07-03-2024 Vendido USD EBPOTR3326023
+USD -48547.91 USD 1236865.85
+08:10 USDNOK10.299105Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 9 de 26
+2024-03-28 15:53:23,080; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3917990 Tufton Corporate Services Limited
+06-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1165.00 EUR 1188.43
+21:01
+PI3917990 SIN0000934
+Pagamento PI3913737 Loyens and Loeff N.V
+05-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -13205.65 EUR 2353.43
+21:24
+PI3913737 1625975
+05-03-2024 Comprado EUR EBPOTR3322027
+EUR 15000.00 EUR 15559.08
+21:24 EURUSD1.101063Compra/Venda de moeda
+05-03-2024 Vendido USD EBPOTR3322027
+USD -16515.95 USD 1285413.76
+21:04 EURUSD1.101063Compra/Venda de moeda
+Pagamento PI3913755 Meijers Vitaal B.V
+05-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1042.89 EUR 559.08
+21:03
+PI3913755 5233081
+Pagamento devolvido PI3869241 SISTAC B.V
+05-03-2024
+Compra de propriedade - Oceanica Netherlands B.V. PI3869241 USD 950000.00 USD 1301929.71
+09:06
+Compra de embarcacao
+Pagamento PI3910113 Vanolde
+04-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -3501.74 EUR 1601.97
+21:23
+PI3910113 20230507
+Pagamento PI3910125 DIMO
+04-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -36636.00 NOK 3365.03
+21:23
+PI3910125 1028061
+Pagamento PI3910112 Vanolde
+04-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -11077.55 EUR 5103.71
+21:23
+PI3910112 20230330
+Pagamento PI3910103 DNV AS
+04-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -7950.00 EUR 16181.26
+21:23
+PI3910103 10694228
+04-03-2024 Comprado NOK EBPOTR3320003
+NOK 40000.00 NOK 40001.03
+21:23 USDNOK10.397054Compra/Venda de moeda
+Pagamento PI3910101 DNV AS
+04-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -75869.06 EUR 24131.26
+21:23
+PI3910101 10703572
+04-03-2024 Comprado EUR EBPOTR3319989
+EUR 100000.00 EUR 100000.32
+21:23 EURUSD1.102523Compra/Venda de moeda
+04-03-2024 Vendido USD EBPOTR3320003
+USD -3847.24 USD 351929.71
+21:04 USDNOK10.397054Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 10 de 26
+2024-03-28 15:53:23,533; INFO; functions.informacoes_extraidas.576: texto: 04-03-2024 Vendido USD EBPOTR3319989
+USD -110252.30 USD 355776.95
+21:04 EURUSD1.102523Compra/Venda de moeda
+Pagamento PI3905741 INCHCAPE SHIPPING SERVICES
+03-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -33929.36 USD 466029.25
+21:03
+PI3905741 ENAVE AGAVE - CREW, FEE, TRANSPORT, HOTEL
+Pagamento PI3904397 ASP Crew Management
+01-03-2024 Payment for identifiable services - Oceanica Netherlands B.V.
+USD -36300.00 USD 499958.61
+12:49 PI3904397 PREFUNDING FOR VESSELS FAR SCIMITAR AND FAR
+SOUND
+Fundos OCEANICA ENGENHARIA E CONSULTO
+01-03-2024
+BR6960701190032120000026755C1 - - NL66EBUR2845860862 - USD 500000.00 USD 536258.61
+12:49
+2024030100383944
+01-03-2024 Comprado USD EBPOTR3316852
+USD 26361.00 USD 36258.61
+09:14 EURUSD1.065629Compra/Venda de moeda
+01-03-2024 Vendido EUR EBPOTR3316852
+EUR -24737.50 EUR 0.32
+09:14 EURUSD1.065629Compra/Venda de moeda
+01-03-2024 Comprado USD EBPOTR3316744
+USD 2.20 USD 9897.61
+08:42 USDNOK10.730742Compra/Venda de moeda
+01-03-2024 Vendido NOK EBPOTR3316744
+NOK -23.61 NOK 1.03
+08:42 USDNOK10.730742Compra/Venda de moeda
+01-03-2024 Comprado USD EBPOTR3316734
+USD 34.00 USD 9895.41
+08:40 GBPUSD1.245415Compra/Venda de moeda
+01-03-2024 Vendido GBP EBPOTR3316734
+GBP -27.30 GBP 0.12
+08:40 GBPUSD1.245415Compra/Venda de moeda
+01-03-2024 Comprado USD EBPOTR3316725
+USD 105.00 USD 9861.41
+08:39 USDNOK10.731626Compra/Venda de moeda
+01-03-2024 Vendido NOK EBPOTR3316725
+NOK -1126.82 NOK 24.64
+08:39 USDNOK10.731626Compra/Venda de moeda
+01-03-2024 Comprado USD EBPOTR3316721
+USD 570.00 USD 9756.41
+08:37 GBPUSD1.245262Compra/Venda de moeda
+01-03-2024 Vendido GBP EBPOTR3316721
+GBP -457.73 GBP 27.42
+08:37 GBPUSD1.245262Compra/Venda de moeda
+Fundos BELASTINGDIENST
+01-03-2024 NL36INGB0003445588 - TERUGGAAF NR. 862994457O013300
+EUR 3460.00 EUR 24737.82
+06:30 OB.4EKWART23 (OCEANICA ) - NL66EBUR2845860862 -
+COAXX615626210202402271801094949578
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 11 de 26
+2024-03-28 15:53:23,706; INFO; functions.informacoes_extraidas.576: texto: Fundos BELASTINGDIENST
+01-03-2024 NL36INGB0003445588 - TERUGGAAF NR. 862994457B013500 OB.
+EUR 14520.00 EUR 21277.82
+06:30 (OCEANICA ) - NL66EBUR2845860862 -
+COAXX959383279202402271801094949572
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 12 de 26
+2024-03-28 15:53:24,002; INFO; functions.informacoes_extraidas.576: texto: Movimentos: USD Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI3965475 PT. SNEPAC SHIPPING
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -2726.13 USD 449590.79
+21:04
+PI3965475 1000127
+Pagamento PI3965474 PT. SNEPAC SHIPPING
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -670.00 USD 452316.92
+21:04
+PI3965474 1000133
+Pagamento PI3965473 PT. SNEPAC SHIPPING
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -3960.00 USD 452986.92
+21:04
+PI3965473 1000137
+26-03-2024 Vendido USD EBPOTR3357916
+USD -2830.00 USD 456946.92
+21:04 USDSGD1.325087Pagamento por serviços identificáveis
+26-03-2024 Vendido USD EBPOTR3357915
+USD -39596.72 USD 459776.92
+21:04 EURUSD1.099909Compra/Venda de moeda
+26-03-2024 Vendido USD EBPOTR3357913
+USD -403000.00 USD 499373.64
+21:04 EURUSD1.099686Compra/Venda de moeda
+26-03-2024 Vendido USD EBPOTR3357910
+USD -46265.88 USD 902373.64
+21:04 USDNOK10.590958Compra/Venda de moeda
+26-03-2024 Vendido USD EBPOTR3357995
+USD -58441.04 USD 948639.52
+19:57 USDNOK10.591871Compra/Venda de moeda
+Fundos OCEANICA ENGENHARIA E CONSULTO
+26-03-2024
+BR6960701190032120000026755C1 - - NL66EBUR2845860862 - USD 1000000.00 USD 1007080.56
+15:33
+2024032600439319
+Pagamento PI3953726 ASP Crew Management
+21-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -16040.03 USD 7080.56
+13:16
+PI3953726 1754
+21-03-2024 Vendido USD EBPOTR3349928
+USD -11076.12 USD 23120.59
+09:23 EURUSD1.107612Compra/Venda de moeda
+Pagamento PI3950535 Kongsberg Mesotech
+20-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -52892.00 USD 34196.71
+21:04
+PI3950535 68472
+20-03-2024 Vendido USD EBPOTR3348178
+USD -3313.11 USD 87088.71
+21:04 EURUSD1.104369Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 13 de 26
+2024-03-28 15:53:24,502; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3950548 THE TRUST COMPANY OF THE MARSHALL
+20-03-2024 ISLANDS, INC.
+USD -300.00 USD 90401.82
+15:26 Payment for identifiable services - Oceanica Netherlands B.V.
+PI3950548 1221523
+Pagamento PI3950544 PT. SNEPAC SHIPPING
+20-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -840.00 USD 90701.82
+15:21
+PI3950544 1000112
+Pagamento PI3950543 PT. SNEPAC SHIPPING
+20-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -349.80 USD 91541.82
+15:19
+PI3950543 1000110
+18-03-2024 Vendido USD EBPOTR3342376
+USD -5983.39 USD 91891.62
+21:03 USDMXN16.441069Pagamento por serviços identificáveis
+Pagamento PI3943751 ENAV Asia Pte. Ltd.
+18-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -253062.35 USD 97875.01
+11:21
+PI3943751 PGTO. REF. ENAVE
+Pagamento PI3941406 KONGSBERG MARITIME AS
+17-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -101366.50 USD 350937.36
+21:03
+PI3941406 90324394
+17-03-2024 Vendido USD EBPOTR3341264
+USD -19898.73 USD 452303.86
+21:03 EURUSD1.105485Compra/Venda de moeda
+17-03-2024 Vendido USD EBPOTR3340393
+USD -23999.02 USD 472202.59
+21:03 USDNOK10.417092Compra/Venda de moeda
+Pagamento PI3937507 Infrastructure Networks Inc.
+14-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -2975.00 USD 496201.61
+11:08
+PI3937507 27574
+Pagamento PI3937496 CSS Kingston Logistics FZC
+14-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -9308.00 USD 499176.61
+11:05
+PI3937496 3252024
+14-03-2024 Vendido USD EBPOTR3338270
+USD -38940.63 USD 508484.61
+10:20 GBPUSD1.298021Compra/Venda de moeda
+13-03-2024 Vendido USD EBPOTR3336552
+USD -557230.48 USD 547425.24
+21:04 USDNOK10.318890Compra/Venda de moeda
+Pagamento PI3934791 ARGO COMMUNICATIONS
+13-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5000.00 USD 1104655.72
+17:37
+PI3934791 3704
+Pagamento PI3934790 ARGO COMMUNICATIONS
+13-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -2500.00 USD 1109655.72
+17:35
+PI3934790 3705
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 14 de 26
+2024-03-28 15:53:24,939; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3934743 INCHCAPE SHIPPING SERVICES
+13-03-2024 Payment for identifiable services - Oceanica Netherlands B.V.
+USD -20000.00 USD 1112155.72
+15:42 PI3934743 CREW, DOCUMENTACAO DA EMBARCACAO E
+TRIPULACAO TRANSFER E HOTEL DA TRIPULACAO
+Pagamento PI3934476 Infrastructure Networks Inc.
+13-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -8661.21 USD 1132155.72
+13:44
+PI3934476 27574
+Fundos OCEANICA ENGENHARIA E CONSULTORIA
+13-03-2024
+BR0630306294000010001464585C1 - INVS: 62,63, 66,67 - USD 261000.00 USD 1140816.93
+07:48
+NL66EBUR2845860862 - FED013225073
+Fundos OCEANICA ENGENHARIA E CONSULTORIA
+13-03-2024
+BR0630306294000010001464585C1 - INVS: 62,63, 66,67 - USD 58000.00 USD 879816.93
+07:48
+NL66EBUR2845860862 - FED013675073
+Fundos OCEANICA ENGENHARIA E CONSULTORIA
+13-03-2024
+BR0630306294000010001464585C1 - INVS: 62,63, 66,67 - USD 174000.00 USD 821816.93
+07:48
+NL66EBUR2845860862 - FED014164073
+Fundos OCEANICA ENGENHARIA E CONSULTORIA
+13-03-2024
+BR0630306294000010001464585C1 - INVS: 62,63, 66,67 - USD 610000.00 USD 647816.93
+07:48
+NL66EBUR2845860862 - FED013217073
+Pagamento PI3931573 PT. SNEPAC SHIPPING
+12-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -55.00 USD 37816.93
+21:04
+PI3931573 1000118
+Pagamento PI3931572 PT. SNEPAC SHIPPING
+12-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -4762.18 USD 37871.93
+21:04
+PI3931572 1000119
+Pagamento PI3931566 Winner LLC
+12-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -404.25 USD 42634.11
+21:04
+PI3931566 22024
+12-03-2024 Vendido USD EBPOTR3334490
+USD -9851.55 USD 43038.36
+21:04 USDNOK10.353701Compra/Venda de moeda
+11-03-2024 Vendido USD EBPOTR3332282
+USD -979173.71 USD 52889.91
+21:03 EURUSD1.108917Compra/Venda de moeda
+11-03-2024 Vendido USD EBPOTR3331701
+USD -110811.70 USD 1032063.62
+11:12 EURUSD1.108117Compra/Venda de moeda
+Pagamento PI3927731 ASP Crew Management
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -5050.00 USD 1142875.32
+11:07
+PI3927731 1705
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 15 de 26
+2024-03-28 15:53:25,424; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3925171 Fugro Norway AS
+08-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -1370.00 USD 1147925.32
+17:16
+PI3925171 22305981
+Pagamento PI3925159 Fugro Norway AS
+08-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -200.00 USD 1149295.32
+16:11
+PI3925159 22306236
+Pagamento PI3925112 Infrastructure Networks Inc.
+08-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -2632.26 USD 1149495.32
+14:46
+PI3925112 26766
+Pagamento PI3924566 INCHCAPE SHIPPING SERVICES
+08-03-2024 Payment for identifiable services - Oceanica Netherlands B.V.
+USD -46437.69 USD 1152127.58
+11:22 PI3924566 CREW, DOCUMENTACAO DA EMBARCACAO E
+TRIPULACAO, TRANSFER E HOTEL DA TRIPULACAO
+08-03-2024 Vendido USD EBPOTR3329290
+USD -56764.68 USD 1198565.27
+11:02 EURUSD1.113033Compra/Venda de moeda
+Fundos WIKBORG REIN ADV.FIRMA KLIENTKONTO
+07-03-2024
+NO5812500467760 - IMO 9284324 - NL66EBUR2845860862 - USD 16390.09 USD 1255329.95
+12:36
+7906NOO32152877
+Fundos WIKBORG REIN ADV.FIRMA KLIENTKONTO
+07-03-2024
+NO5812500467760 - IMO 9284324 - NL66EBUR2845860862 - USD 12074.22 USD 1238939.86
+12:24
+7906NOO32152878
+07-03-2024 Vendido USD EBPOTR3326046
+USD -10000.21 USD 1226865.64
+08:14 USDNOK10.299784Compra/Venda de moeda
+07-03-2024 Vendido USD EBPOTR3326023
+USD -48547.91 USD 1236865.85
+08:10 USDNOK10.299105Compra/Venda de moeda
+05-03-2024 Vendido USD EBPOTR3322027
+USD -16515.95 USD 1285413.76
+21:04 EURUSD1.101063Compra/Venda de moeda
+Pagamento devolvido PI3869241 SISTAC B.V
+05-03-2024
+Compra de propriedade - Oceanica Netherlands B.V. PI3869241 USD 950000.00 USD 1301929.71
+09:06
+Compra de embarcacao
+04-03-2024 Vendido USD EBPOTR3320003
+USD -3847.24 USD 351929.71
+21:04 USDNOK10.397054Compra/Venda de moeda
+04-03-2024 Vendido USD EBPOTR3319989
+USD -110252.30 USD 355776.95
+21:04 EURUSD1.102523Compra/Venda de moeda
+Pagamento PI3905741 INCHCAPE SHIPPING SERVICES
+03-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. USD -33929.36 USD 466029.25
+21:03
+PI3905741 ENAVE AGAVE - CREW, FEE, TRANSPORT, HOTEL
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 16 de 26
+2024-03-28 15:53:25,697; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3904397 ASP Crew Management
+01-03-2024 Payment for identifiable services - Oceanica Netherlands B.V.
+USD -36300.00 USD 499958.61
+12:49 PI3904397 PREFUNDING FOR VESSELS FAR SCIMITAR AND FAR
+SOUND
+Fundos OCEANICA ENGENHARIA E CONSULTO
+01-03-2024
+BR6960701190032120000026755C1 - - NL66EBUR2845860862 - USD 500000.00 USD 536258.61
+12:49
+2024030100383944
+01-03-2024 Comprado USD EBPOTR3316852
+USD 26361.00 USD 36258.61
+09:14 EURUSD1.065629Compra/Venda de moeda
+01-03-2024 Comprado USD EBPOTR3316744
+USD 2.20 USD 9897.61
+08:42 USDNOK10.730742Compra/Venda de moeda
+01-03-2024 Comprado USD EBPOTR3316734
+USD 34.00 USD 9895.41
+08:40 GBPUSD1.245415Compra/Venda de moeda
+01-03-2024 Comprado USD EBPOTR3316725
+USD 105.00 USD 9861.41
+08:39 USDNOK10.731626Compra/Venda de moeda
+01-03-2024 Comprado USD EBPOTR3316721
+USD 570.00 USD 9756.41
+08:37 GBPUSD1.245262Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 17 de 26
+2024-03-28 15:53:26,127; INFO; functions.informacoes_extraidas.576: texto: Movimentos: NOK Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI3965610 LOS Marine AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -618500.00 NOK 12017.67
+21:23
+PI3965610 300957
+26-03-2024 Comprado NOK EBPOTR3357995
+NOK 619000.00 NOK 630517.67
+21:23 USDNOK10.591871Compra/Venda de moeda
+Pagamento PI3965456 LOS Marine AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -315000.00 NOK 11517.67
+21:22
+PI3965456 301004
+Pagamento PI3965454 Tyrholm and Farstad AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -173278.95 NOK 326517.67
+21:22
+PI3965454 MATL24000008/PK22 24000008
+26-03-2024 Comprado NOK EBPOTR3357910
+NOK 490000.00 NOK 499796.62
+21:22 USDNOK10.590958Compra/Venda de moeda
+Pagamento PI3937532 Motus Technology AS
+17-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -270473.47 NOK 9796.62
+21:22
+PI3937532 3635
+17-03-2024 Comprado NOK EBPOTR3340393
+NOK 250000.00 NOK 280270.09
+21:22 USDNOK10.417092Compra/Venda de moeda
+Pagamento PI3934484 Navatech AS
+13-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -225321.84 NOK 30270.09
+21:23
+PI3934484 10023
+Pagamento PI3934462 Green Yard Kleven AS
+13-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -5500000.00 NOK 255591.93
+21:23
+PI3934462 361904 / 6 414 086,00 - CREDIT NOTE 914.086,00
+13-03-2024 Comprado NOK EBPOTR3336552
+NOK 5750000.00 NOK 5755591.93
+21:23 USDNOK10.318890Compra/Venda de moeda
+Pagamento PI3931576 Green Yard Kleven AS
+12-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -101893.00 NOK 5591.93
+21:23
+PI3931576 361911
+12-03-2024 Comprado NOK EBPOTR3334490
+NOK 102000.00 NOK 107484.93
+21:23 USDNOK10.353701Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 18 de 26
+2024-03-28 15:53:26,377; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3920082 Tyrholm and Farstad AS
+07-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -102850.10 NOK 5484.93
+08:14
+PI3920082 2342
+07-03-2024 Comprado NOK EBPOTR3326046
+NOK 103000.00 NOK 108335.03
+08:14 USDNOK10.299784Compra/Venda de moeda
+Pagamento PI3920051 Motus Technology AS
+07-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -498030.00 NOK 5335.03
+08:10
+PI3920051 3555
+07-03-2024 Comprado NOK EBPOTR3326023
+NOK 500000.00 NOK 503365.03
+08:10 USDNOK10.299105Compra/Venda de moeda
+Pagamento PI3910125 DIMO
+04-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. NOK -36636.00 NOK 3365.03
+21:23
+PI3910125 1028061
+04-03-2024 Comprado NOK EBPOTR3320003
+NOK 40000.00 NOK 40001.03
+21:23 USDNOK10.397054Compra/Venda de moeda
+01-03-2024 Vendido NOK EBPOTR3316744
+NOK -23.61 NOK 1.03
+08:42 USDNOK10.730742Compra/Venda de moeda
+01-03-2024 Vendido NOK EBPOTR3316725
+NOK -1126.82 NOK 24.64
+08:39 USDNOK10.731626Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 19 de 26
+2024-03-28 15:53:26,542; INFO; functions.informacoes_extraidas.576: texto: Movimentos: MXN Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI3946296 FUERZA CARIBE
+19-03-2024
+Payment for identifiable goods - Oceanica Netherlands B.V. MXN -98373.34 MXN 0.00
+21:02
+PI3946296 5180
+Reembolso de Pagamento PI3942892-EBPOTR3342376 FUERZA
+19-03-2024
+CARIBE MXN 98373.34 MXN 98373.34
+09:19
+Oceanica Netherlands B.V. EBPOTR3342376 5180
+18-03-2024 Pagamento PI3942892-EBPOTR3342376 FUERZA CARIBE
+MXN -98373.34 MXN 0.00
+21:22 Oceanica Netherlands B.V. EBPOTR3342376 5180
+18-03-2024 Comprado MXN EBPOTR3342376
+MXN 98373.34 MXN 98373.34
+21:22 USDMXN16.441069Pagamento por serviços identificáveis
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 20 de 26
+2024-03-28 15:53:26,692; INFO; functions.informacoes_extraidas.576: texto: Movimentos: GBP Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI3937258 European Management Marine Corp
+14-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. GBP -27560.00 GBP 2440.12
+10:20
+PI3937258 500714
+14-03-2024 Comprado GBP EBPOTR3338270
+GBP 30000.00 GBP 30000.12
+10:20 GBPUSD1.298021Compra/Venda de moeda
+01-03-2024 Vendido GBP EBPOTR3316734
+GBP -27.30 GBP 0.12
+08:40 GBPUSD1.245415Compra/Venda de moeda
+01-03-2024 Vendido GBP EBPOTR3316721
+GBP -457.73 GBP 27.42
+08:37 GBPUSD1.245262Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 21 de 26
+2024-03-28 15:53:26,891; INFO; functions.informacoes_extraidas.576: texto: Movimentos: SGD Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI3965471-EBPOTR3357916 PT. LABROY
+26-03-2024
+SHIPBUILDING ENGINEERING SGD -3750.00 SGD 0.00
+21:22
+Oceanica Netherlands B.V. EBPOTR3357916 3006
+26-03-2024 Comprado SGD EBPOTR3357916
+SGD 3750.00 SGD 3750.00
+21:22 USDSGD1.325087Pagamento por serviços identificáveis
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 22 de 26
+2024-03-28 15:53:27,222; INFO; functions.informacoes_extraidas.576: texto: Movimentos: EUR Conta
+Registo de
+Descrição Montante Saldo
+operação
+Pagamento PI3965469 Tschudi Ship Management AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -36630.00 EUR 12367.59
+21:22
+PI3965469 2024156
+Pagamento PI3965468 Tschudi Ship Management AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -66500.00 EUR 48997.59
+21:22
+PI3965468 2024155
+Pagamento PI3965466 Tschudi Ship Management AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -57760.00 EUR 115497.59
+21:22
+PI3965466 1403242
+Pagamento PI3965465 Tschudi Ship Management AS
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -60240.00 EUR 173257.59
+21:22
+PI3965465 1403241
+Pagamento PI3965463 Exail S.A.S.
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -152208.00 EUR 233497.59
+21:22
+PI3965463 1231757
+Pagamento PI3965458 Leonardo Duran
+26-03-2024
+Salário / folha de pagamentos - Oceanica Netherlands B.V. EUR -17736.00 EUR 385705.59
+21:22
+PI3965458 Salario - ref. mar-24
+26-03-2024 Comprado EUR EBPOTR3357915
+EUR 36000.00 EUR 403441.59
+21:22 EURUSD1.099909Compra/Venda de moeda
+26-03-2024 Comprado EUR EBPOTR3357913
+EUR 366468.25 EUR 367441.59
+21:22 EURUSD1.099686Compra/Venda de moeda
+Pagamento PI3965461 Meijers Vitaal B.V
+26-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -38.96 EUR 973.34
+21:03
+PI3965461 5241660
+Pagamento PI3924549 AG Barista IV B.V.
+26-03-2024
+Aluguer / manutenção de propriedade - Oceanica Netherlands B.V. EUR -1624.84 EUR 1012.30
+21:03
+PI3924549 14240309
+Pagamento PI3888808 Tax Authority
+26-03-2024
+Imposto ref. Fevereiro-24 - Oceanica Netherlands B.V. PI3888808 EUR -10947.00 EUR 2637.14
+21:03
+5862.9944.5640.1020
+21-03-2024 Comprado EUR EBPOTR3349928
+EUR 10000.00 EUR 13584.14
+09:23 EURUSD1.107612Compra/Venda de moeda
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 23 de 26
+2024-03-28 15:53:27,611; INFO; functions.informacoes_extraidas.576: texto: 20-03-2024 Comprado EUR EBPOTR3348178
+EUR 3000.00 EUR 3584.14
+21:23 EURUSD1.104369Compra/Venda de moeda
+Pagamento PI3950552 Tufton Corporate Services Limited
+20-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1165.00 EUR 584.14
+21:03
+PI3950552 933
+Pagamento PI3950550 Tufton Corporate Services Limited
+20-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1165.00 EUR 1749.14
+21:03
+PI3950550 932
+Pagamento PI3941404 Ayolt M. Zoer
+17-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -12100.00 EUR 2914.14
+21:23
+PI3941404 2024013
+Pagamento PI3941402 Leonardo Duran
+17-03-2024
+Custos de viagem - Oceanica Netherlands B.V. PI3941402 EUR -6663.26 EUR 15014.14
+21:23
+Reembolso de despesas em viagens Fevereiro 2024
+17-03-2024 Comprado EUR EBPOTR3341264
+EUR 18000.00 EUR 21677.40
+21:23 EURUSD1.105485Compra/Venda de moeda
+Pagamento PI3928507 SISTAC B.V
+11-03-2024
+Compra de propriedade - Oceanica Netherlands B.V. PI3928507 EUR -882735.55 EUR 3677.40
+21:23
+Compra de Embarcacao
+11-03-2024 Comprado EUR EBPOTR3332282
+EUR 883000.00 EUR 886412.95
+21:23 EURUSD1.108917Compra/Venda de moeda
+Pagamento PI3927938 Tschudi Ship Management AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -16955.00 EUR 3412.95
+11:33
+PI3927938 2023825
+Pagamento PI3927933 Tschudi Ship Management AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -5057.50 EUR 20367.95
+11:32
+PI3927933 2023875
+Pagamento PI3927929 Tschudi Ship Management AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -21898.55 EUR 25425.45
+11:31
+PI3927929 2024012
+Pagamento PI3927874 Tschudi Ship Management AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -18840.00 EUR 47324.00
+11:23
+PI3927874 2024087
+Pagamento PI3927855 Tschudi Ship Management AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -17590.00 EUR 66164.00
+11:21
+PI3927855 2023746
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 24 de 26
+2024-03-28 15:53:28,174; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3927845 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1650.00 EUR 83754.00
+11:20
+PI3927845 10713472
+Pagamento PI3927824 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -7920.46 EUR 85404.00
+11:18
+PI3927824 10702689
+Pagamento PI3927817 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -3073.15 EUR 93324.46
+11:17
+PI3927817 10706379
+Pagamento PI3927810 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -2100.00 EUR 96397.61
+11:15
+PI3927810 10691423
+Pagamento PI3927800 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1142.60 EUR 98497.61
+11:14
+PI3927800 10706682
+Pagamento PI3927783 DNV AS
+11-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -3523.08 EUR 99640.21
+11:13
+PI3927783 10706380
+11-03-2024 Comprado EUR EBPOTR3331701
+EUR 100000.00 EUR 103163.29
+11:12 EURUSD1.108117Compra/Venda de moeda
+Pagamento PI3924503 Loyens and Loeff N.V
+08-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -49025.14 EUR 3163.29
+11:07
+PI3924503 1625977
+08-03-2024 Comprado EUR EBPOTR3329290
+EUR 51000.00 EUR 52188.43
+11:02 EURUSD1.113033Compra/Venda de moeda
+Pagamento PI3917990 Tufton Corporate Services Limited
+06-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1165.00 EUR 1188.43
+21:01
+PI3917990 SIN0000934
+Pagamento PI3913737 Loyens and Loeff N.V
+05-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -13205.65 EUR 2353.43
+21:24
+PI3913737 1625975
+05-03-2024 Comprado EUR EBPOTR3322027
+EUR 15000.00 EUR 15559.08
+21:24 EURUSD1.101063Compra/Venda de moeda
+Pagamento PI3913755 Meijers Vitaal B.V
+05-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -1042.89 EUR 559.08
+21:03
+PI3913755 5233081
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 25 de 26
+2024-03-28 15:53:28,418; INFO; functions.informacoes_extraidas.576: texto: Pagamento PI3910113 Vanolde
+04-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -3501.74 EUR 1601.97
+21:23
+PI3910113 20230507
+Pagamento PI3910112 Vanolde
+04-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -11077.55 EUR 5103.71
+21:23
+PI3910112 20230330
+Pagamento PI3910103 DNV AS
+04-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -7950.00 EUR 16181.26
+21:23
+PI3910103 10694228
+Pagamento PI3910101 DNV AS
+04-03-2024
+Payment for identifiable services - Oceanica Netherlands B.V. EUR -75869.06 EUR 24131.26
+21:23
+PI3910101 10703572
+04-03-2024 Comprado EUR EBPOTR3319989
+EUR 100000.00 EUR 100000.32
+21:23 EURUSD1.102523Compra/Venda de moeda
+01-03-2024 Vendido EUR EBPOTR3316852
+EUR -24737.50 EUR 0.32
+09:14 EURUSD1.065629Compra/Venda de moeda
+Fundos BELASTINGDIENST
+01-03-2024 NL36INGB0003445588 - TERUGGAAF NR. 862994457O013300
+EUR 3460.00 EUR 24737.82
+06:30 OB.4EKWART23 (OCEANICA ) - NL66EBUR2845860862 -
+COAXX615626210202402271801094949578
+Fundos BELASTINGDIENST
+01-03-2024 NL36INGB0003445588 - TERUGGAAF NR. 862994457B013500 OB.
+EUR 14520.00 EUR 21277.82
+06:30 (OCEANICA ) - NL66EBUR2845860862 -
+COAXX959383279202402271801094949572
+Obrigado por escolher Ebury.
+Se tiver alguma dúvida entre em contato com o seu gestor de conta através do +31 (0) 20 795 6690.
+Página 26 de 26
+2024-03-28 15:53:28,437; INFO; functions.excelProcessoCompleto.1081: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-03-28 15:53:28,439; INFO; functions.excelProcessoCompleto.1095: Aba de TODOS EXTRAÍDOS ao EXCEL existente
+2024-03-28 15:53:28,489; INFO; main.process.42: PROCESSOS EXTRAIDOS COM ERRO: 12
+2024-03-28 15:53:28,504; INFO; main.process.43: PROCESSOS COM ERRO: [{'data': '26-03-2024', 'pi': '3965471', 'inv': None, 'moeda': 'SGD', 'montante': '-3750.00', 'saldo': '0.00', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '26-03-2024', 'pi': '3965458', 'inv': None, 'moeda': 'EUR', 'montante': '-17736.00', 'saldo': '385705.59', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '26-03-2024', 'pi': '3888808', 'inv': None, 'moeda': 'EUR', 'montante': '-10947.00', 'saldo': '2637.14', 'nome': 'Tax Authority', 'cod': None}, {'data': '03-03-2024', 'pi': '3905741', 'inv': None, 'moeda': 'USD', 'montante': '-33929.36', 'saldo': '466029.25', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '01-03-2024', 'pi': '3904397', 'inv': None, 'moeda': 'USD', 'montante': '-36300.00', 'saldo': '499958.61', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '08-03-2024', 'pi': '3924566', 'inv': None, 'moeda': 'USD', 'montante': '-46437.69', 'saldo': '1152127.58', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '03-03-2024', 'pi': '3905741', 'inv': None, 'moeda': 'USD', 'montante': '-33929.36', 'saldo': '466029.25', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '01-03-2024', 'pi': '3904397', 'inv': None, 'moeda': 'USD', 'montante': '-36300.00', 'saldo': '499958.61', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '19-03-2024', 'pi': '3942892', 'inv': None, 'moeda': 'MXN', 'montante': '98373.34', 'saldo': '98373.34', 'nome': None, 'cod': None}, {'data': '18-03-2024', 'pi': '3942892', 'inv': None, 'moeda': 'MXN', 'montante': '-98373.34', 'saldo': '0.00', 'nome': None, 'cod': None}, {'data': '26-03-2024', 'pi': '3965471', 'inv': None, 'moeda': 'SGD', 'montante': '-3750.00', 'saldo': '0.00', 'nome': None, 'cod': None}, {'data': '26-03-2024', 'pi': '3888808', 'inv': None, 'moeda': 'EUR', 'montante': '-10947.00', 'saldo': '2637.14', 'nome': 'Tax Authority', 'cod': None}]
+2024-03-28 15:53:28,515; INFO; functions.excelErro.1031: Adicionando aba de ERRO ao EXCEL existente
+2024-03-28 15:53:28,520; INFO; functions.excelErro.1047: Aba de ERRO adicionada ao EXCEL existente
+2024-03-28 15:53:28,524; INFO; main.process.46: PROCESSOS EXTRAIDOS CORRETAMENTE: 136
+2024-03-28 15:53:28,526; INFO; main.process.47: PROCESSOS A SEREM TRATADOS: [{'data': '26-03-2024', 'pi': '3965610', 'inv': '300957', 'moeda': 'NOK', 'montante': '-618500.00', 'saldo': '12017.67', 'nome': 'LOS Marine AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965469', 'inv': '2024156', 'moeda': 'EUR', 'montante': '-36630.00', 'saldo': '12367.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965468', 'inv': '2024155', 'moeda': 'EUR', 'montante': '-66500.00', 'saldo': '48997.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965466', 'inv': '1403242', 'moeda': 'EUR', 'montante': '-57760.00', 'saldo': '115497.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965465', 'inv': '1403241', 'moeda': 'EUR', 'montante': '-60240.00', 'saldo': '173257.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965463', 'inv': '1231757', 'moeda': 'EUR', 'montante': '-152208.00', 'saldo': '233497.59', 'nome': 'Exail S.A.S.', 'cod': None}, {'data': '26-03-2024', 'pi': '3965456', 'inv': '301004', 'moeda': 'NOK', 'montante': '-315000.00', 'saldo': '11517.67', 'nome': 'LOS Marine AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965454', 'inv': '1000127', 'moeda': 'NOK', 'montante': '-173278.95', 'saldo': '326517.67', 'nome': 'Tyrholm and Farstad AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965475', 'inv': '1000127', 'moeda': 'USD', 'montante': '-2726.13', 'saldo': '449590.79', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '26-03-2024', 'pi': '3965474', 'inv': '1000133', 'moeda': 'USD', 'montante': '-670.00', 'saldo': '452316.92', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '26-03-2024', 'pi': '3965473', 'inv': '1000137', 'moeda': 'USD', 'montante': '-3960.00', 'saldo': '452986.92', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '26-03-2024', 'pi': '3965461', 'inv': '5241660', 'moeda': 'EUR', 'montante': '-38.96', 'saldo': '973.34', 'nome': 'Meijers Vitaal B.V', 'cod': None}, {'data': '26-03-2024', 'pi': '3924549', 'inv': '14240309', 'moeda': 'EUR', 'montante': '-1624.84', 'saldo': '1012.30', 'nome': 'AG Barista IV B.V.', 'cod': None}, {'data': '21-03-2024', 'pi': '3953726', 'inv': '1754', 'moeda': 'USD', 'montante': '-16040.03', 'saldo': '7080.56', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '20-03-2024', 'pi': '3950535', 'inv': '68472', 'moeda': 'USD', 'montante': '-52892.00', 'saldo': '34196.71', 'nome': 'Kongsberg Mesotech', 'cod': None}, {'data': '20-03-2024', 'pi': '3950552', 'inv': '933', 'moeda': 'EUR', 'montante': '-1165.00', 'saldo': '584.14', 'nome': 'Tufton Corporate Services Limited', 'cod': None}, {'data': '20-03-2024', 'pi': '3950550', 'inv': '932', 'moeda': 'EUR', 'montante': '-1165.00', 'saldo': '1749.14', 'nome': 'Tufton Corporate Services Limited', 'cod': None}, {'data': '20-03-2024', 'pi': '3950548', 'inv': '1221523', 'moeda': 'USD', 'montante': '-300.00', 'saldo': '90401.82', 'nome': 'THE TRUST COMPANY OF THE MARSHALL', 'cod': None}, {'data': '20-03-2024', 'pi': '3950544', 'inv': '1000112', 'moeda': 'USD', 'montante': '-840.00', 'saldo': '90701.82', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '20-03-2024', 'pi': '3950543', 'inv': '1000110', 'moeda': 'USD', 'montante': '-349.80', 'saldo': '91541.82', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '19-03-2024', 'pi': '3946296', 'inv': '5180', 'moeda': 'MXN', 'montante': '-98373.34', 'saldo': '0.00', 'nome': 'FUERZA CARIBE', 'cod': None}, {'data': '19-03-2024', 'pi': '3942892', 'inv': '2024013', 'moeda': 'MXN', 'montante': '98373.34', 'saldo': '98373.34', 'nome': 'ENAV Asia Pte. Ltd.', 'cod': None}, {'data': '18-03-2024', 'pi': '3942892', 'inv': '2024013', 'moeda': 'MXN', 'montante': '-98373.34', 'saldo': '0.00', 'nome': 'ENAV Asia Pte. Ltd.', 'cod': None}, {'data': '18-03-2024', 'pi': '3943751', 'inv': '2024013', 'moeda': 'USD', 'montante': '-253062.35', 'saldo': '97875.01', 'nome': 'ENAV Asia Pte. Ltd.', 'cod': None}, {'data': '17-03-2024', 'pi': '3941404', 'inv': '2024013', 'moeda': 'EUR', 'montante': '-12100.00', 'saldo': '2914.14', 'nome': 'Ayolt M. Zoer', 'cod': None}, {'data': '17-03-2024', 'pi': '3941402', 'inv': '3635', 'moeda': 'EUR', 'montante': '-6663.26', 'saldo': '15014.14', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '17-03-2024', 'pi': '3937532', 'inv': '3635', 'moeda': 'NOK', 'montante': '-270473.47', 'saldo': '9796.62', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '17-03-2024', 'pi': '3941406', 'inv': '90324394', 'moeda': 'USD', 'montante': '-101366.50', 'saldo': '350937.36', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}, {'data': '14-03-2024', 'pi': '3937507', 'inv': '27574', 'moeda': 'USD', 'montante': '-2975.00', 'saldo': '496201.61', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '14-03-2024', 'pi': '3937496', 'inv': '3252024', 'moeda': 'USD', 'montante': '-9308.00', 'saldo': '499176.61', 'nome': 'CSS Kingston Logistics FZC', 'cod': None}, {'data': '14-03-2024', 'pi': '3937258', 'inv': '500714', 'moeda': 'GBP', 'montante': '-27560.00', 'saldo': '2440.12', 'nome': 'European Management Marine Corp', 'cod': None}, {'data': '13-03-2024', 'pi': '3934484', 'inv': '10023', 'moeda': 'NOK', 'montante': '-225321.84', 'saldo': '30270.09', 'nome': 'Navatech AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934462', 'inv': '361904', 'moeda': 'NOK', 'montante': '-5500000.00', 'saldo': '255591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934791', 'inv': '3704', 'moeda': 'USD', 'montante': '-5000.00', 'saldo': '1104655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934790', 'inv': '3705', 'moeda': 'USD', 'montante': '-2500.00', 'saldo': '1109655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934743', 'inv': '27574', 'moeda': 'USD', 'montante': '-20000.00', 'saldo': '1112155.72', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '13-03-2024', 'pi': '3934476', 'inv': '27574', 'moeda': 'USD', 'montante': '-8661.21', 'saldo': '1132155.72', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '12-03-2024', 'pi': '3931576', 'inv': '361911', 'moeda': 'NOK', 'montante': '-101893.00', 'saldo': '5591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '12-03-2024', 'pi': '3931573', 'inv': '1000118', 'moeda': 'USD', 'montante': '-55.00', 'saldo': '37816.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931572', 'inv': '1000119', 'moeda': 'USD', 'montante': '-4762.18', 'saldo': '37871.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931566', 'inv': '22024', 'moeda': 'USD', 'montante': '-404.25', 'saldo': '42634.11', 'nome': 'Winner LLC', 'cod': None}, {'data': '11-03-2024', 'pi': '3928507', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-882735.55', 'saldo': '3677.40', 'nome': 'SISTAC B.V', 'cod': None}, {'data': '11-03-2024', 'pi': '3927938', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-16955.00', 'saldo': '3412.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927933', 'inv': '2023875', 'moeda': 'EUR', 'montante': '-5057.50', 'saldo': '20367.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927929', 'inv': '2024012', 'moeda': 'EUR', 'montante': '-21898.55', 'saldo': '25425.45', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927874', 'inv': '2024087', 'moeda': 'EUR', 'montante': '-18840.00', 'saldo': '47324.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927855', 'inv': '2023746', 'moeda': 'EUR', 'montante': '-17590.00', 'saldo': '66164.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927845', 'inv': '10713472', 'moeda': 'EUR', 'montante': '-1650.00', 'saldo': '83754.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927824', 'inv': '10702689', 'moeda': 'EUR', 'montante': '-7920.46', 'saldo': '85404.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927817', 'inv': '10706379', 'moeda': 'EUR', 'montante': '-3073.15', 'saldo': '93324.46', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927810', 'inv': '10691423', 'moeda': 'EUR', 'montante': '-2100.00', 'saldo': '96397.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927800', 'inv': '10706682', 'moeda': 'EUR', 'montante': '-1142.60', 'saldo': '98497.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927783', 'inv': '10706380', 'moeda': 'EUR', 'montante': '-3523.08', 'saldo': '99640.21', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927731', 'inv': '1705', 'moeda': 'USD', 'montante': '-5050.00', 'saldo': '1142875.32', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '08-03-2024', 'pi': '3925171', 'inv': '22305981', 'moeda': 'USD', 'montante': '-1370.00', 'saldo': '1147925.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925159', 'inv': '22306236', 'moeda': 'USD', 'montante': '-200.00', 'saldo': '1149295.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925112', 'inv': '26766', 'moeda': 'USD', 'montante': '-2632.26', 'saldo': '1149495.32', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '08-03-2024', 'pi': '3924566', 'inv': '1625977', 'moeda': 'USD', 'montante': '-46437.69', 'saldo': '1152127.58', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '08-03-2024', 'pi': '3924503', 'inv': '1625977', 'moeda': 'EUR', 'montante': '-49025.14', 'saldo': '3163.29', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '07-03-2024', 'pi': '3920082', 'inv': '2342', 'moeda': 'NOK', 'montante': '-102850.10', 'saldo': '5484.93', 'nome': 'Tyrholm and Farstad AS', 'cod': None}, {'data': '07-03-2024', 'pi': '3920051', 'inv': '3555', 'moeda': 'NOK', 'montante': '-498030.00', 'saldo': '5335.03', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '06-03-2024', 'pi': '3917990', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-1165.00', 'saldo': '1188.43', 'nome': 'Tufton Corporate Services Limited', 'cod': None}, {'data': '05-03-2024', 'pi': '3913737', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-13205.65', 'saldo': '2353.43', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '05-03-2024', 'pi': '3913755', 'inv': '5233081', 'moeda': 'EUR', 'montante': '-1042.89', 'saldo': '559.08', 'nome': 'Meijers Vitaal B.V', 'cod': None}, {'data': '04-03-2024', 'pi': '3910113', 'inv': '20230507', 'moeda': 'EUR', 'montante': '-3501.74', 'saldo': '1601.97', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910125', 'inv': '1028061', 'moeda': 'NOK', 'montante': '-36636.00', 'saldo': '3365.03', 'nome': 'DIMO', 'cod': None}, {'data': '04-03-2024', 'pi': '3910112', 'inv': '20230330', 'moeda': 'EUR', 'montante': '-11077.55', 'saldo': '5103.71', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910103', 'inv': '10694228', 'moeda': 'EUR', 'montante': '-7950.00', 'saldo': '16181.26', 'nome': 'DNV AS', 'cod': None}, {'data': '04-03-2024', 'pi': '3910101', 'inv': '10703572', 'moeda': 'EUR', 'montante': '-75869.06', 'saldo': '24131.26', 'nome': 'DNV AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965475', 'inv': '1000127', 'moeda': 'USD', 'montante': '-2726.13', 'saldo': '449590.79', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '26-03-2024', 'pi': '3965474', 'inv': '1000133', 'moeda': 'USD', 'montante': '-670.00', 'saldo': '452316.92', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '26-03-2024', 'pi': '3965473', 'inv': '1000137', 'moeda': 'USD', 'montante': '-3960.00', 'saldo': '452986.92', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '21-03-2024', 'pi': '3953726', 'inv': '1754', 'moeda': 'USD', 'montante': '-16040.03', 'saldo': '7080.56', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '20-03-2024', 'pi': '3950535', 'inv': '68472', 'moeda': 'USD', 'montante': '-52892.00', 'saldo': '34196.71', 'nome': 'Kongsberg Mesotech', 'cod': None}, {'data': '20-03-2024', 'pi': '3950548', 'inv': '1221523', 'moeda': 'USD', 'montante': '-300.00', 'saldo': '90401.82', 'nome': 'THE TRUST COMPANY OF THE MARSHALL', 'cod': None}, {'data': '20-03-2024', 'pi': '3950544', 'inv': '1000112', 'moeda': 'USD', 'montante': '-840.00', 'saldo': '90701.82', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '20-03-2024', 'pi': '3950543', 'inv': '1000110', 'moeda': 'USD', 'montante': '-349.80', 'saldo': '91541.82', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '18-03-2024', 'pi': '3943751', 'inv': '90324394', 'moeda': 'USD', 'montante': '-253062.35', 'saldo': '97875.01', 'nome': 'ENAV Asia Pte. Ltd.', 'cod': None}, {'data': '17-03-2024', 'pi': '3941406', 'inv': '90324394', 'moeda': 'USD', 'montante': '-101366.50', 'saldo': '350937.36', 'nome': 'KONGSBERG MARITIME AS', 'cod': None}, {'data': '14-03-2024', 'pi': '3937507', 'inv': '27574', 'moeda': 'USD', 'montante': '-2975.00', 'saldo': '496201.61', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '14-03-2024', 'pi': '3937496', 'inv': '3252024', 'moeda': 'USD', 'montante': '-9308.00', 'saldo': '499176.61', 'nome': 'CSS Kingston Logistics FZC', 'cod': None}, {'data': '13-03-2024', 'pi': '3934791', 'inv': '3704', 'moeda': 'USD', 'montante': '-5000.00', 'saldo': '1104655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934790', 'inv': '3705', 'moeda': 'USD', 'montante': '-2500.00', 'saldo': '1109655.72', 'nome': 'ARGO COMMUNICATIONS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934743', 'inv': '27574', 'moeda': 'USD', 'montante': '-20000.00', 'saldo': '1112155.72', 'nome': 'INCHCAPE SHIPPING SERVICES', 'cod': None}, {'data': '13-03-2024', 'pi': '3934476', 'inv': '27574', 'moeda': 'USD', 'montante': '-8661.21', 'saldo': '1132155.72', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '12-03-2024', 'pi': '3931573', 'inv': '1000118', 'moeda': 'USD', 'montante': '-55.00', 'saldo': '37816.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931572', 'inv': '1000119', 'moeda': 'USD', 'montante': '-4762.18', 'saldo': '37871.93', 'nome': 'PT. SNEPAC SHIPPING', 'cod': None}, {'data': '12-03-2024', 'pi': '3931566', 'inv': '22024', 'moeda': 'USD', 'montante': '-404.25', 'saldo': '42634.11', 'nome': 'Winner LLC', 'cod': None}, {'data': '11-03-2024', 'pi': '3927731', 'inv': '1705', 'moeda': 'USD', 'montante': '-5050.00', 'saldo': '1142875.32', 'nome': 'ASP Crew Management', 'cod': None}, {'data': '08-03-2024', 'pi': '3925171', 'inv': '22305981', 'moeda': 'USD', 'montante': '-1370.00', 'saldo': '1147925.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925159', 'inv': '22306236', 'moeda': 'USD', 'montante': '-200.00', 'saldo': '1149295.32', 'nome': 'Fugro Norway AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3925112', 'inv': '26766', 'moeda': 'USD', 'montante': '-2632.26', 'saldo': '1149495.32', 'nome': 'Infrastructure Networks Inc.', 'cod': None}, {'data': '26-03-2024', 'pi': '3965610', 'inv': '300957', 'moeda': 'NOK', 'montante': '-618500.00', 'saldo': '12017.67', 'nome': 'LOS Marine AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965456', 'inv': '301004', 'moeda': 'NOK', 'montante': '-315000.00', 'saldo': '11517.67', 'nome': 'LOS Marine AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965454', 'inv': '3635', 'moeda': 'NOK', 'montante': '-173278.95', 'saldo': '326517.67', 'nome': 'Tyrholm and Farstad AS', 'cod': None}, {'data': '17-03-2024', 'pi': '3937532', 'inv': '3635', 'moeda': 'NOK', 'montante': '-270473.47', 'saldo': '9796.62', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934484', 'inv': '10023', 'moeda': 'NOK', 'montante': '-225321.84', 'saldo': '30270.09', 'nome': 'Navatech AS', 'cod': None}, {'data': '13-03-2024', 'pi': '3934462', 'inv': '361904', 'moeda': 'NOK', 'montante': '-5500000.00', 'saldo': '255591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '12-03-2024', 'pi': '3931576', 'inv': '361911', 'moeda': 'NOK', 'montante': '-101893.00', 'saldo': '5591.93', 'nome': 'Green Yard Kleven AS', 'cod': None}, {'data': '07-03-2024', 'pi': '3920082', 'inv': '2342', 'moeda': 'NOK', 'montante': '-102850.10', 'saldo': '5484.93', 'nome': 'Tyrholm and Farstad AS', 'cod': None}, {'data': '07-03-2024', 'pi': '3920051', 'inv': '3555', 'moeda': 'NOK', 'montante': '-498030.00', 'saldo': '5335.03', 'nome': 'Motus Technology AS', 'cod': None}, {'data': '04-03-2024', 'pi': '3910125', 'inv': '1028061', 'moeda': 'NOK', 'montante': '-36636.00', 'saldo': '3365.03', 'nome': 'DIMO', 'cod': None}, {'data': '19-03-2024', 'pi': '3946296', 'inv': '5180', 'moeda': 'MXN', 'montante': '-98373.34', 'saldo': '0.00', 'nome': 'FUERZA CARIBE', 'cod': None}, {'data': '14-03-2024', 'pi': '3937258', 'inv': '500714', 'moeda': 'GBP', 'montante': '-27560.00', 'saldo': '2440.12', 'nome': 'European Management Marine Corp', 'cod': None}, {'data': '26-03-2024', 'pi': '3965469', 'inv': '2024156', 'moeda': 'EUR', 'montante': '-36630.00', 'saldo': '12367.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965468', 'inv': '2024155', 'moeda': 'EUR', 'montante': '-66500.00', 'saldo': '48997.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965466', 'inv': '1403242', 'moeda': 'EUR', 'montante': '-57760.00', 'saldo': '115497.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965465', 'inv': '1403241', 'moeda': 'EUR', 'montante': '-60240.00', 'saldo': '173257.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '26-03-2024', 'pi': '3965463', 'inv': '1231757', 'moeda': 'EUR', 'montante': '-152208.00', 'saldo': '233497.59', 'nome': 'Exail S.A.S.', 'cod': None}, {'data': '26-03-2024', 'pi': '3965458', 'inv': '5241660', 'moeda': 'EUR', 'montante': '-17736.00', 'saldo': '385705.59', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '26-03-2024', 'pi': '3965461', 'inv': '5241660', 'moeda': 'EUR', 'montante': '-38.96', 'saldo': '973.34', 'nome': 'Meijers Vitaal B.V', 'cod': None}, {'data': '26-03-2024', 'pi': '3924549', 'inv': '14240309', 'moeda': 'EUR', 'montante': '-1624.84', 'saldo': '1012.30', 'nome': 'AG Barista IV B.V.', 'cod': None}, {'data': '20-03-2024', 'pi': '3950552', 'inv': '933', 'moeda': 'EUR', 'montante': '-1165.00', 'saldo': '584.14', 'nome': 'Tufton Corporate Services Limited', 'cod': None}, {'data': '20-03-2024', 'pi': '3950550', 'inv': '932', 'moeda': 'EUR', 'montante': '-1165.00', 'saldo': '1749.14', 'nome': 'Tufton Corporate Services Limited', 'cod': None}, {'data': '17-03-2024', 'pi': '3941404', 'inv': '2024013', 'moeda': 'EUR', 'montante': '-12100.00', 'saldo': '2914.14', 'nome': 'Ayolt M. Zoer', 'cod': None}, {'data': '17-03-2024', 'pi': '3941402', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-6663.26', 'saldo': '15014.14', 'nome': 'Leonardo Duran', 'cod': None}, {'data': '11-03-2024', 'pi': '3928507', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-882735.55', 'saldo': '3677.40', 'nome': 'SISTAC B.V', 'cod': None}, {'data': '11-03-2024', 'pi': '3927938', 'inv': '2023825', 'moeda': 'EUR', 'montante': '-16955.00', 'saldo': '3412.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927933', 'inv': '2023875', 'moeda': 'EUR', 'montante': '-5057.50', 'saldo': '20367.95', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927929', 'inv': '2024012', 'moeda': 'EUR', 'montante': '-21898.55', 'saldo': '25425.45', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927874', 'inv': '2024087', 'moeda': 'EUR', 'montante': '-18840.00', 'saldo': '47324.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927855', 'inv': '2023746', 'moeda': 'EUR', 'montante': '-17590.00', 'saldo': '66164.00', 'nome': 'Tschudi Ship Management AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927845', 'inv': '10713472', 'moeda': 'EUR', 'montante': '-1650.00', 'saldo': '83754.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927824', 'inv': '10702689', 'moeda': 'EUR', 'montante': '-7920.46', 'saldo': '85404.00', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927817', 'inv': '10706379', 'moeda': 'EUR', 'montante': '-3073.15', 'saldo': '93324.46', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927810', 'inv': '10691423', 'moeda': 'EUR', 'montante': '-2100.00', 'saldo': '96397.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927800', 'inv': '10706682', 'moeda': 'EUR', 'montante': '-1142.60', 'saldo': '98497.61', 'nome': 'DNV AS', 'cod': None}, {'data': '11-03-2024', 'pi': '3927783', 'inv': '10706380', 'moeda': 'EUR', 'montante': '-3523.08', 'saldo': '99640.21', 'nome': 'DNV AS', 'cod': None}, {'data': '08-03-2024', 'pi': '3924503', 'inv': '1625977', 'moeda': 'EUR', 'montante': '-49025.14', 'saldo': '3163.29', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '06-03-2024', 'pi': '3917990', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-1165.00', 'saldo': '1188.43', 'nome': 'Tufton Corporate Services Limited', 'cod': None}, {'data': '05-03-2024', 'pi': '3913737', 'inv': '1625975', 'moeda': 'EUR', 'montante': '-13205.65', 'saldo': '2353.43', 'nome': 'Loyens and Loeff N.V', 'cod': None}, {'data': '05-03-2024', 'pi': '3913755', 'inv': '5233081', 'moeda': 'EUR', 'montante': '-1042.89', 'saldo': '559.08', 'nome': 'Meijers Vitaal B.V', 'cod': None}, {'data': '04-03-2024', 'pi': '3910113', 'inv': '20230507', 'moeda': 'EUR', 'montante': '-3501.74', 'saldo': '1601.97', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910112', 'inv': '20230330', 'moeda': 'EUR', 'montante': '-11077.55', 'saldo': '5103.71', 'nome': 'Vanolde', 'cod': None}, {'data': '04-03-2024', 'pi': '3910103', 'inv': '10694228', 'moeda': 'EUR', 'montante': '-7950.00', 'saldo': '16181.26', 'nome': 'DNV AS', 'cod': None}, {'data': '04-03-2024', 'pi': '3910101', 'inv': '10703572', 'moeda': 'EUR', 'montante': '-75869.06', 'saldo': '24131.26', 'nome': 'DNV AS', 'cod': None}]
+2024-03-28 15:53:28,657; INFO; functions.mover_para_lidos.1147: MOVENDO ARQUIVO Ebury - Parcial.pdf.
+2024-03-28 15:53:28,661; INFO; functions.mover_para_lidos.1155: Pasta "Lidos" já existe
+2024-03-28 15:53:28,680; INFO; functions.mover_para_lidos.1172: ARQUIVO Ebury - Parcial.pdf MOVIDO PARA LIDOS.
+2024-03-28 15:53:28,689; INFO; functions.open_RM.50: OPEN PROGRAM RM
+2024-03-28 15:53:39,635; INFO; functions.loggin_RM.60: ENTER USER_NAME
+2024-03-28 15:53:41,165; INFO; functions.loggin_RM.65: ENTER PASSWORD
+2024-03-28 15:53:42,299; INFO; functions.loggin_RM.69: ENTER RM
+2024-03-28 15:54:15,548; INFO; functions.enter_coligada.75: CLICK CONTEXTO
+2024-03-28 15:54:20,705; INFO; functions.enter_coligada.78: CLICK COLIGADA 2
+2024-03-28 15:54:24,216; INFO; functions.enter_coligada.82: INSERE O COLIGADA CODE = 2
+2024-03-28 15:54:24,358; INFO; functions.enter_coligada.84: APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+2024-03-28 15:54:25,611; INFO; functions.enter_coligada.87: CLICK AVANÇAR NOVAMENTE
+2024-03-28 15:54:28,738; INFO; functions.enter_coligada.91: CLICK CONCLUIR
+2024-03-28 15:54:50,783; INFO; functions.enter_coligada.94: POP UP COLIGADA CLICADO PARA DESAPARECER
+2024-03-28 15:54:51,611; INFO; functions.enter_contas_a_pagar.105: CLICK - TOTVS - LINHA RM
+2024-03-28 15:54:54,580; INFO; functions.enter_contas_a_pagar.110: CLICK - BACK OFFICE
+2024-03-28 15:54:57,392; INFO; functions.enter_contas_a_pagar.115: CLICK - GESTAO FINANCEIRA
+2024-03-28 15:55:03,549; INFO; functions.enter_contas_a_pagar.120: CLICK - CONTAS A PAGAR
+2024-03-28 15:55:04,002; INFO; functions.waitForImage.890: LANÇAMENTOS image found.
+2024-03-28 15:55:04,120; INFO; functions.enter_contas_a_pagar.135: CLICA EM LANÇAMENTOS
+2024-03-28 15:55:29,314; INFO; functions.waitForImage.899: LICENCAS EXCEDIDAS image not found.
+2024-03-28 15:55:29,314; INFO; main.process.63: extrato_list_nao_tratado processo 0
+2024-03-28 15:55:29,314; INFO; main.process.70: PROCESSO 1 de 136 A SER TRATADO: {'data': '26-03-2024', 'pi': '3965610', 'inv': '300957', 'moeda': 'NOK', 'montante': '-618500.00', 'saldo': '12017.67', 'nome': 'LOS Marine AS', 'cod': None}
+2024-03-28 15:55:29,314; INFO; main.process.81: inv original 300957. tamanho 6
+2024-03-28 15:55:29,328; INFO; main.process.86: inv TRATADA 00030095701. tamanho 11
+2024-03-28 15:55:29,329; INFO; main.process.98: data: 26032024 <class 'str'>
+
+                        pi: 3965610 <class 'str'>
+
+                        inv: 00030095701 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 618500,00 <class 'str'>
+
+                        saldo: 12017.67 <class 'str'>
+
+                        nome: LOS Marine AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-28 15:55:29,336; INFO; main.process.110: Tratado em execução anterior do BOT
+2024-03-28 15:55:29,338; INFO; main.process.63: extrato_list_nao_tratado processo 1
+2024-03-28 15:55:29,339; INFO; main.process.67: PASSANDO PARA PROXIMO PROCESSO
+2024-03-28 15:55:29,340; INFO; main.process.70: PROCESSO 2 de 136 A SER TRATADO: {'data': '26-03-2024', 'pi': '3965469', 'inv': '2024156', 'moeda': 'EUR', 'montante': '-36630.00', 'saldo': '12367.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-03-28 15:55:29,342; INFO; main.process.81: inv original 2024156. tamanho 7
+2024-03-28 15:55:29,343; INFO; main.process.86: inv TRATADA 00202415601. tamanho 11
+2024-03-28 15:55:29,344; INFO; main.process.98: data: 26032024 <class 'str'>
+
+                        pi: 3965469 <class 'str'>
+
+                        inv: 00202415601 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 36630,00 <class 'str'>
+
+                        saldo: 12367.59 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-28 15:55:29,351; INFO; main.process.110: Tratado em execução anterior do BOT
+2024-03-28 15:55:29,353; INFO; main.process.63: extrato_list_nao_tratado processo 2
+2024-03-28 15:55:29,354; INFO; main.process.67: PASSANDO PARA PROXIMO PROCESSO
+2024-03-28 15:55:29,355; INFO; main.process.70: PROCESSO 3 de 136 A SER TRATADO: {'data': '26-03-2024', 'pi': '3965468', 'inv': '2024155', 'moeda': 'EUR', 'montante': '-66500.00', 'saldo': '48997.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-03-28 15:55:29,356; INFO; main.process.81: inv original 2024155. tamanho 7
+2024-03-28 15:55:29,358; INFO; main.process.86: inv TRATADA 00202415501. tamanho 11
+2024-03-28 15:55:29,359; INFO; main.process.98: data: 26032024 <class 'str'>
+
+                        pi: 3965468 <class 'str'>
+
+                        inv: 00202415501 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 66500,00 <class 'str'>
+
+                        saldo: 48997.59 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-28 15:55:29,365; INFO; main.process.110: Tratado em execução anterior do BOT
+2024-03-28 15:55:29,367; INFO; main.process.63: extrato_list_nao_tratado processo 3
+2024-03-28 15:55:29,378; INFO; main.process.67: PASSANDO PARA PROXIMO PROCESSO
+2024-03-28 15:55:29,379; INFO; main.process.70: PROCESSO 4 de 136 A SER TRATADO: {'data': '26-03-2024', 'pi': '3965466', 'inv': '1403242', 'moeda': 'EUR', 'montante': '-57760.00', 'saldo': '115497.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-03-28 15:55:29,381; INFO; main.process.81: inv original 1403242. tamanho 7
+2024-03-28 15:55:29,384; INFO; main.process.86: inv TRATADA 00140324201. tamanho 11
+2024-03-28 15:55:29,385; INFO; main.process.98: data: 26032024 <class 'str'>
+
+                        pi: 3965466 <class 'str'>
+
+                        inv: 00140324201 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 57760,00 <class 'str'>
+
+                        saldo: 115497.59 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-28 15:55:29,395; INFO; main.process.110: Tratado em execução anterior do BOT
+2024-03-28 15:55:29,396; INFO; main.process.63: extrato_list_nao_tratado processo 4
+2024-03-28 15:55:29,397; INFO; main.process.67: PASSANDO PARA PROXIMO PROCESSO
+2024-03-28 15:55:29,399; INFO; main.process.70: PROCESSO 5 de 136 A SER TRATADO: {'data': '26-03-2024', 'pi': '3965465', 'inv': '1403241', 'moeda': 'EUR', 'montante': '-60240.00', 'saldo': '173257.59', 'nome': 'Tschudi Ship Management AS', 'cod': None}
+2024-03-28 15:55:29,401; INFO; main.process.81: inv original 1403241. tamanho 7
+2024-03-28 15:55:29,402; INFO; main.process.86: inv TRATADA 00140324101. tamanho 11
+2024-03-28 15:55:29,403; INFO; main.process.98: data: 26032024 <class 'str'>
+
+                        pi: 3965465 <class 'str'>
+
+                        inv: 00140324101 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 60240,00 <class 'str'>
+
+                        saldo: 173257.59 <class 'str'>
+
+                        nome: Tschudi Ship Management AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-28 15:55:29,410; INFO; main.process.110: Tratado em execução anterior do BOT
+2024-03-28 15:55:29,412; INFO; main.process.63: extrato_list_nao_tratado processo 5
+2024-03-28 15:55:29,413; INFO; main.process.67: PASSANDO PARA PROXIMO PROCESSO
+2024-03-28 15:55:29,415; INFO; main.process.70: PROCESSO 6 de 136 A SER TRATADO: {'data': '26-03-2024', 'pi': '3965463', 'inv': '1231757', 'moeda': 'EUR', 'montante': '-152208.00', 'saldo': '233497.59', 'nome': 'Exail S.A.S.', 'cod': None}
+2024-03-28 15:55:29,418; INFO; main.process.81: inv original 1231757. tamanho 7
+2024-03-28 15:55:29,421; INFO; main.process.86: inv TRATADA 00123175701. tamanho 11
+2024-03-28 15:55:29,422; INFO; main.process.98: data: 26032024 <class 'str'>
+
+                        pi: 3965463 <class 'str'>
+
+                        inv: 00123175701 <class 'str'>
+
+                        moeda: EUR <class 'str'>
+
+                        montante: 152208,00 <class 'str'>
+
+                        saldo: 233497.59 <class 'str'>
+
+                        nome: Exail S.A.S. <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-28 15:55:29,432; INFO; functions.filter_lancamento.176: filter_lancamento : 1
+2024-03-28 15:55:40,345; INFO; functions.filter_lancamento.203: ESCREVE Número do documento NO FILTRO
+2024-03-28 15:55:42,173; INFO; functions.filter_lancamento.208: CLICK - BOTÃO DE SELECAO DE FILTRO
+2024-03-28 15:55:44,565; INFO; functions.filter_lancamento.233: VALOR DE 00123175701 FILTRO
+2024-03-28 15:55:45,455; INFO; functions.filter_lancamento.238: CLICK - BOTÃO DE EXECUTAR O FILTRO
+2024-03-28 15:55:45,455; INFO; functions.check_table_record.315: VERIFICANDO SE A TABELA ESTÁ VAZIA
+2024-03-28 15:55:52,423; INFO; functions.check_table_record.319: VERIFICAdo
+2024-03-28 15:55:58,463; INFO; functions.check_table_record.325: CTRL+G
+2024-03-28 15:55:59,410; INFO; functions.check_table_record.329: Para este processo é necessário que existam registros na visão.
+2024-03-28 15:56:02,413; INFO; functions.check_table_record.336: SEM REGISTROS ENCONTRADOS
+2024-03-28 15:56:02,533; INFO; main.process.131: Nenhuma INV encontrada
+2024-03-28 15:56:02,553; INFO; main.process.63: extrato_list_nao_tratado processo 6
+2024-03-28 15:56:02,562; INFO; main.process.67: PASSANDO PARA PROXIMO PROCESSO
+2024-03-28 15:56:02,568; INFO; main.process.70: PROCESSO 7 de 136 A SER TRATADO: {'data': '26-03-2024', 'pi': '3965456', 'inv': '301004', 'moeda': 'NOK', 'montante': '-315000.00', 'saldo': '11517.67', 'nome': 'LOS Marine AS', 'cod': None}
+2024-03-28 15:56:02,570; INFO; main.process.81: inv original 301004. tamanho 6
+2024-03-28 15:56:02,572; INFO; main.process.86: inv TRATADA 00030100401. tamanho 11
+2024-03-28 15:56:02,573; INFO; main.process.98: data: 26032024 <class 'str'>
+
+                        pi: 3965456 <class 'str'>
+
+                        inv: 00030100401 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 315000,00 <class 'str'>
+
+                        saldo: 11517.67 <class 'str'>
+
+                        nome: LOS Marine AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-28 15:56:02,587; INFO; main.process.110: Tratado em execução anterior do BOT
+2024-03-28 15:56:02,621; INFO; main.process.63: extrato_list_nao_tratado processo 7
+2024-03-28 15:56:02,623; INFO; main.process.67: PASSANDO PARA PROXIMO PROCESSO
+2024-03-28 15:56:02,629; INFO; main.process.70: PROCESSO 8 de 136 A SER TRATADO: {'data': '26-03-2024', 'pi': '3965454', 'inv': '1000127', 'moeda': 'NOK', 'montante': '-173278.95', 'saldo': '326517.67', 'nome': 'Tyrholm and Farstad AS', 'cod': None}
+2024-03-28 15:56:02,632; INFO; main.process.81: inv original 1000127. tamanho 7
+2024-03-28 15:56:02,646; INFO; main.process.86: inv TRATADA 00100012701. tamanho 11
+2024-03-28 15:56:02,654; INFO; main.process.98: data: 26032024 <class 'str'>
+
+                        pi: 3965454 <class 'str'>
+
+                        inv: 00100012701 <class 'str'>
+
+                        moeda: NOK <class 'str'>
+
+                        montante: 173278,95 <class 'str'>
+
+                        saldo: 326517.67 <class 'str'>
+
+                        nome: Tyrholm and Farstad AS <class 'str'>
+
+                        cod: None <class 'NoneType'>
+2024-03-28 15:56:02,675; INFO; functions.filter_lancamento.176: filter_lancamento : 1
+2024-03-28 15:57:04,080; ERROR; functions.show_exception_and_exit.24: 'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 172, in <module>
+    process()
+  File "c:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\main.py", line 120, in process
+    filter_lancamento(inv, i, cont, flag)
+  File "c:\Projetos_Retornos\Retorno_Pg_Moeda_Estrangeira\SUBPROGRAMS\functions.py", line 191, in filter_lancamento
+    select_filter.click()
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+2024-03-28 15:57:04,376; INFO; functions.show_exception_and_exit.31: PRINT SALVO
+2024-03-28 15:57:05,389; INFO; functions.encerra_prog.362: Fechando Excel...
+2024-03-28 15:57:05,533; INFO; functions.getPid.1003: Dentro função GetPid
+
+2024-03-28 15:57:06,307; INFO; functions.getPid.1013: Process RM.exe / PID: 5872 found.
+2024-03-28 15:57:06,464; INFO; functions.pidKillFinish.1024: Process RM.exe / PID: 5872 killed.
+2024-03-28 15:57:06,465; INFO; functions.encerra_prog.368: RM ENCERRADO
+2024-03-28 15:57:08,476; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+2024-03-28 15:57:08,534; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+2024-03-28 15:57:08,552; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+2024-03-28 15:57:08,554; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+2024-03-28 15:57:08,559; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:612: mso-table-lspace]
+2024-03-28 15:57:08,563; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:642: mso-table-rspace]
+2024-03-28 15:57:09,068; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:4734: mso-hide]
+2024-03-28 15:57:09,316; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+2024-03-28 15:57:09,418; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+2024-03-28 15:57:09,432; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+2024-03-28 15:57:09,481; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+2024-03-28 15:57:09,488; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:26: mso-table-lspace]
+2024-03-28 15:57:09,492; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:45: mso-table-rspace]
+2024-03-28 15:57:09,545; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:92: mso-hide]
+2024-03-28 15:57:09,567; ERROR; errorhandler.__handle.104: Property: No ":" after name found: align-center [1:1: align-center]
+2024-03-28 15:57:09,570; ERROR; errorhandler.__handle.104: Property: No property value found: align-center [1:1: align-center]
+2024-03-28 15:57:09,572; ERROR; errorhandler.__handle.104: CSSStyleDeclaration: Syntax Error in Property: align-center
+2024-03-28 15:57:09,578; WARNING; errorhandler.__handle.104: Property: Unknown Property name. [1:14: -ms-interpolation-mode]

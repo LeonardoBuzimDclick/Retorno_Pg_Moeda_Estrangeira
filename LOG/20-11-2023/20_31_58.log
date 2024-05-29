@@ -1,0 +1,190 @@
+20-11-2023 20:32:02.038Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+20-11-2023 20:32:02.145Z;functions.check_pix;  REF. LANÇAMENTO: 547293
+20-11-2023 20:32:02.250Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 20:32:09.403Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 20:32:11.518Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 20:32:13.708Z;functions.waitForImage;  PIX image found.
+20-11-2023 20:32:15.841Z;functions.check_pix;  CLICK EM PIX
+20-11-2023 20:32:15.843Z;functions.check_pix;  VERIFICANDO INFORMAÇÕES
+20-11-2023 20:32:18.066Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+20-11-2023 20:32:20.068Z;functions.check_pix;  FORMA DE PAGAMENTO TRANSFERÊNCIA PIX
+20-11-2023 20:32:20.071Z;functions.check_data_pix;  CHECANDO DADOS CHAVE PIX
+20-11-2023 20:32:20.432Z;functions.waitForImage;  TIPO DE CHAVE PIX image found.
+20-11-2023 20:32:22.437Z;functions.check_data_pix;  TIPO DE CHAVE PIX NÃO PREENCHIDA
+20-11-2023 20:32:22.438Z;functions.check_data_pix;  CHECANDO A CHAVE PIX
+20-11-2023 20:32:22.633Z;functions.waitForImage;  CHAVE PIX image found.
+20-11-2023 20:32:24.636Z;functions.check_data_pix;  CHAVE NÃO PIX PREENCHIDA
+20-11-2023 20:32:24.637Z;functions.check_data;  CHECANDO DADOS BANCÁRIOS
+20-11-2023 20:32:24.639Z;functions.check_data_bank;  CHECANDO DADOS BANCÁRIOS
+20-11-2023 20:32:29.700Z;functions.waitForImage;  BANCO image not found.
+20-11-2023 20:32:29.701Z;functions.check_data_bank;  CAMPO BANCO PREENCHIDO
+20-11-2023 20:32:29.703Z;functions.check_data_bank;  CHECANDO AGENCIA
+20-11-2023 20:32:34.728Z;functions.waitForImage;  AGENCIA image not found.
+20-11-2023 20:32:34.729Z;functions.check_data_bank;  CAMPO AGENCIA PREENCHIDO
+20-11-2023 20:32:34.732Z;functions.check_data_bank;  CHECANDO DIGITO
+20-11-2023 20:32:34.930Z;functions.waitForImage;  DIGITO AGENCIA image found.
+20-11-2023 20:32:36.932Z;functions.check_data_bank;  CAMPO DIGITO NÃO PREENCHIDO
+20-11-2023 20:32:36.933Z;functions.check_data_bank;  CHECANDO CONTA CORRENTE
+20-11-2023 20:32:41.998Z;functions.waitForImage;  CONTA CORRENTE image not found.
+20-11-2023 20:32:41.999Z;functions.check_data_bank;  CAMPO CONTA CORRENTE PREENCHIDO
+20-11-2023 20:32:42.001Z;functions.check_data_bank;  RETORNA FALSE
+20-11-2023 20:32:42.002Z;functions.check_data;  check_data RETORNA FALSE
+20-11-2023 20:32:42.196Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-11-2023 20:32:44.329Z;functions.check_pix;  PRESS BUTTON OK
+20-11-2023 20:32:46.535Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+20-11-2023 20:32:48.650Z;functions.check_pix;  PRESS BUTTON OK 2
+20-11-2023 20:32:53.759Z;functions.check_pix;  DESMARCA REGISTRO
+20-11-2023 20:33:06.349Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-11-2023 20:33:16.922Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+20-11-2023 20:33:17.027Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+20-11-2023 20:33:19.030Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+20-11-2023 20:33:19.134Z;functions.check_pix;  REF. LANÇAMENTO: 512115
+20-11-2023 20:33:19.241Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 20:33:26.290Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 20:33:28.423Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 20:33:30.610Z;functions.waitForImage;  PIX image found.
+20-11-2023 20:33:32.736Z;functions.check_pix;  CLICK EM PIX
+20-11-2023 20:33:32.737Z;functions.check_pix;  VERIFICANDO INFORMAÇÕES
+20-11-2023 20:33:34.258Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+20-11-2023 20:33:36.260Z;functions.check_pix;  FORMA DE PAGAMENTO TRANSFERÊNCIA PIX
+20-11-2023 20:33:36.261Z;functions.check_data_pix;  CHECANDO DADOS CHAVE PIX
+20-11-2023 20:33:36.457Z;functions.waitForImage;  TIPO DE CHAVE PIX image found.
+20-11-2023 20:33:38.459Z;functions.check_data_pix;  TIPO DE CHAVE PIX NÃO PREENCHIDA
+20-11-2023 20:33:38.460Z;functions.check_data_pix;  CHECANDO A CHAVE PIX
+20-11-2023 20:33:38.664Z;functions.waitForImage;  CHAVE PIX image found.
+20-11-2023 20:33:40.665Z;functions.check_data_pix;  CHAVE NÃO PIX PREENCHIDA
+20-11-2023 20:33:40.666Z;functions.check_data;  CHECANDO DADOS BANCÁRIOS
+20-11-2023 20:33:40.668Z;functions.check_data_bank;  CHECANDO DADOS BANCÁRIOS
+20-11-2023 20:33:45.713Z;functions.waitForImage;  BANCO image not found.
+20-11-2023 20:33:45.715Z;functions.check_data_bank;  CAMPO BANCO PREENCHIDO
+20-11-2023 20:33:45.716Z;functions.check_data_bank;  CHECANDO AGENCIA
+20-11-2023 20:33:51.390Z;functions.waitForImage;  AGENCIA image not found.
+20-11-2023 20:33:51.392Z;functions.check_data_bank;  CAMPO AGENCIA PREENCHIDO
+20-11-2023 20:33:51.393Z;functions.check_data_bank;  CHECANDO DIGITO
+20-11-2023 20:33:51.584Z;functions.waitForImage;  DIGITO AGENCIA image found.
+20-11-2023 20:33:53.585Z;functions.check_data_bank;  CAMPO DIGITO NÃO PREENCHIDO
+20-11-2023 20:33:53.586Z;functions.check_data_bank;  CHECANDO CONTA CORRENTE
+20-11-2023 20:33:58.645Z;functions.waitForImage;  CONTA CORRENTE image not found.
+20-11-2023 20:33:58.646Z;functions.check_data_bank;  CAMPO CONTA CORRENTE PREENCHIDO
+20-11-2023 20:33:58.647Z;functions.check_data_bank;  RETORNA FALSE
+20-11-2023 20:33:58.648Z;functions.check_data;  check_data RETORNA FALSE
+20-11-2023 20:33:58.844Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-11-2023 20:34:00.972Z;functions.check_pix;  PRESS BUTTON OK
+20-11-2023 20:34:03.170Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+20-11-2023 20:34:05.274Z;functions.check_pix;  PRESS BUTTON OK 2
+20-11-2023 20:34:10.381Z;functions.check_pix;  DESMARCA REGISTRO
+20-11-2023 20:34:22.990Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-11-2023 20:34:33.638Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+20-11-2023 20:34:33.742Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+20-11-2023 20:34:35.743Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+20-11-2023 20:34:35.848Z;functions.check_pix;  REF. LANÇAMENTO: 513165
+20-11-2023 20:34:35.954Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 20:34:43.541Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 20:34:45.671Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 20:34:47.855Z;functions.waitForImage;  PIX image found.
+20-11-2023 20:34:49.989Z;functions.check_pix;  CLICK EM PIX
+20-11-2023 20:34:49.991Z;functions.check_pix;  VERIFICANDO INFORMAÇÕES
+20-11-2023 20:34:52.158Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+20-11-2023 20:34:54.160Z;functions.check_pix;  FORMA DE PAGAMENTO TRANSFERÊNCIA PIX
+20-11-2023 20:34:54.161Z;functions.check_data_pix;  CHECANDO DADOS CHAVE PIX
+20-11-2023 20:34:59.214Z;functions.waitForImage;  TIPO DE CHAVE PIX image not found.
+20-11-2023 20:34:59.216Z;functions.check_data_pix;  TIPO DE CHAVE PIX PREENCHIDA
+20-11-2023 20:34:59.217Z;functions.check_data_pix;  CHECANDO A CHAVE PIX
+20-11-2023 20:35:04.894Z;functions.waitForImage;  CHAVE PIX image not found.
+20-11-2023 20:35:04.896Z;functions.check_data_pix;  CHAVE PIX PREENCHIDA
+20-11-2023 20:35:05.097Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-11-2023 20:35:07.231Z;functions.check_pix;  APERTA OK
+20-11-2023 20:35:09.456Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+20-11-2023 20:35:11.569Z;functions.check_pix;  APERTA OK 2
+20-11-2023 20:35:16.674Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+20-11-2023 20:35:18.676Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+20-11-2023 20:35:18.785Z;functions.check_pix;  REF. LANÇAMENTO: 562025
+20-11-2023 20:35:18.946Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 20:35:25.147Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 20:35:27.256Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 20:35:39.807Z;functions.waitForImage;  PIX image not found.
+20-11-2023 20:35:39.808Z;functions.check_pix;  DADOS BANCÁRIOS NÃO É PIX PARA O REGISTRO: 562025
+20-11-2023 20:35:40.029Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-11-2023 20:35:42.152Z;functions.check_pix;  APERTA OK
+20-11-2023 20:35:44.259Z;functions.check_pix;  DESMARCA REGISTRO
+20-11-2023 20:35:56.908Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-11-2023 20:36:07.482Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+20-11-2023 20:36:07.586Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+20-11-2023 20:36:09.588Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+20-11-2023 20:36:09.692Z;functions.check_pix;  REF. LANÇAMENTO: 562026
+20-11-2023 20:36:09.948Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 20:36:16.256Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 20:36:18.366Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 20:36:30.875Z;functions.waitForImage;  PIX image not found.
+20-11-2023 20:36:30.877Z;functions.check_pix;  DADOS BANCÁRIOS NÃO É PIX PARA O REGISTRO: 562026
+20-11-2023 20:36:31.081Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-11-2023 20:36:33.202Z;functions.check_pix;  APERTA OK
+20-11-2023 20:36:35.309Z;functions.check_pix;  DESMARCA REGISTRO
+20-11-2023 20:36:47.961Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-11-2023 20:36:58.552Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+20-11-2023 20:36:58.656Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+20-11-2023 20:37:00.658Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+20-11-2023 20:37:00.764Z;functions.check_pix;  REF. LANÇAMENTO: 576966
+20-11-2023 20:37:00.869Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 20:37:07.055Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 20:37:09.164Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 20:37:21.634Z;functions.waitForImage;  PIX image not found.
+20-11-2023 20:37:21.635Z;functions.check_pix;  DADOS BANCÁRIOS NÃO É PIX PARA O REGISTRO: 576966
+20-11-2023 20:37:21.840Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-11-2023 20:37:23.992Z;functions.check_pix;  APERTA OK
+20-11-2023 20:37:26.114Z;functions.check_pix;  DESMARCA REGISTRO
+20-11-2023 20:37:38.769Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-11-2023 20:37:49.371Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+20-11-2023 20:37:49.475Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+20-11-2023 20:37:51.477Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+20-11-2023 20:37:51.582Z;functions.check_pix;  REF. LANÇAMENTO: 552753
+20-11-2023 20:37:51.689Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 20:37:59.298Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 20:38:01.420Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 20:38:13.912Z;functions.waitForImage;  PIX image not found.
+20-11-2023 20:38:13.914Z;functions.check_pix;  DADOS BANCÁRIOS NÃO É PIX PARA O REGISTRO: 552753
+20-11-2023 20:38:14.109Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-11-2023 20:38:16.244Z;functions.check_pix;  APERTA OK
+20-11-2023 20:38:18.351Z;functions.check_pix;  DESMARCA REGISTRO
+20-11-2023 20:38:30.975Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-11-2023 20:38:41.583Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+20-11-2023 20:38:41.686Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO
+20-11-2023 20:38:43.688Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+20-11-2023 20:38:43.793Z;functions.check_pix;  REF. LANÇAMENTO: 539926
+20-11-2023 20:38:43.900Z;functions.check_pix;  APERTA CRONTROL ENTER PARA ENTRAR NO LANÇAMENTO
+20-11-2023 20:38:50.610Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+20-11-2023 20:38:52.745Z;functions.check_pix;  CLICK EM INTEGRAÇÃO BANCÁRIA
+20-11-2023 20:38:54.922Z;functions.waitForImage;  PIX image found.
+20-11-2023 20:38:57.050Z;functions.check_pix;  CLICK EM PIX
+20-11-2023 20:38:57.051Z;functions.check_pix;  VERIFICANDO INFORMAÇÕES
+20-11-2023 20:38:59.348Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+20-11-2023 20:39:01.350Z;functions.check_pix;  FORMA DE PAGAMENTO TRANSFERÊNCIA PIX
+20-11-2023 20:39:01.351Z;functions.check_data_pix;  CHECANDO DADOS CHAVE PIX
+20-11-2023 20:39:01.687Z;functions.waitForImage;  TIPO DE CHAVE PIX image found.
+20-11-2023 20:39:03.699Z;functions.check_data_pix;  TIPO DE CHAVE PIX NÃO PREENCHIDA
+20-11-2023 20:39:03.700Z;functions.check_data_pix;  CHECANDO A CHAVE PIX
+20-11-2023 20:39:03.883Z;functions.waitForImage;  CHAVE PIX image found.
+20-11-2023 20:39:05.884Z;functions.check_data_pix;  CHAVE NÃO PIX PREENCHIDA
+20-11-2023 20:39:05.885Z;functions.check_data;  CHECANDO DADOS BANCÁRIOS
+20-11-2023 20:39:05.886Z;functions.check_data_bank;  CHECANDO DADOS BANCÁRIOS
+20-11-2023 20:39:11.567Z;functions.waitForImage;  BANCO image not found.
+20-11-2023 20:39:11.568Z;functions.check_data_bank;  CAMPO BANCO PREENCHIDO
+20-11-2023 20:39:11.569Z;functions.check_data_bank;  CHECANDO AGENCIA
+20-11-2023 20:39:16.582Z;functions.waitForImage;  AGENCIA image not found.
+20-11-2023 20:39:16.582Z;functions.check_data_bank;  CAMPO AGENCIA PREENCHIDO
+20-11-2023 20:39:16.584Z;functions.check_data_bank;  CHECANDO DIGITO
+20-11-2023 20:39:16.764Z;functions.waitForImage;  DIGITO AGENCIA image found.
+20-11-2023 20:39:18.767Z;functions.check_data_bank;  CAMPO DIGITO NÃO PREENCHIDO
+20-11-2023 20:39:18.768Z;functions.check_data_bank;  CHECANDO CONTA CORRENTE
+20-11-2023 20:39:23.854Z;functions.waitForImage;  CONTA CORRENTE image not found.
+20-11-2023 20:39:23.856Z;functions.check_data_bank;  CAMPO CONTA CORRENTE PREENCHIDO
+20-11-2023 20:39:23.857Z;functions.check_data_bank;  RETORNA FALSE
+20-11-2023 20:39:23.858Z;functions.check_data;  check_data RETORNA FALSE
+20-11-2023 20:39:24.048Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-11-2023 20:39:26.180Z;functions.check_pix;  PRESS BUTTON OK
+20-11-2023 20:39:28.374Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+20-11-2023 20:39:30.506Z;functions.check_pix;  PRESS BUTTON OK 2
+20-11-2023 20:39:35.612Z;functions.check_pix;  DESMARCA REGISTRO
+20-11-2023 20:39:48.157Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-11-2023 20:39:58.271Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+20-11-2023 20:39:58.377Z;functions.check_pix;  APERTA PARA BAIXO PARA VERIFICAR O PRÓXIMO REGISTRO

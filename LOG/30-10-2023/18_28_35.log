@@ -1,0 +1,79 @@
+30-10-2023 18:28:35.273Z;functions.bot_text_art;      ____   
+30-10-2023 18:28:35.274Z;functions.bot_text_art;     [____]    
+30-10-2023 18:28:35.274Z;functions.bot_text_art;   |=]()()[=|  
+30-10-2023 18:28:35.274Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+30-10-2023 18:28:35.274Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+30-10-2023 18:28:35.275Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+30-10-2023 18:28:35.275Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+30-10-2023 18:28:35.276Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+30-10-2023 18:28:35.277Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+30-10-2023 18:28:35.277Z;functions.bot_text_art;     |_||_|                                                     
+30-10-2023 18:28:35.277Z;functions.bot_text_art;     | ||_|_   
+30-10-2023 18:28:35.277Z;functions.bot_text_art;   |___||___|  
+30-10-2023 18:28:35.278Z;functions.bot_text_art;               
+30-10-2023 18:28:35.281Z;functions.open_RM;  OPEN PROGRAM RM
+30-10-2023 18:28:42.431Z;functions.loggin_RM;  ENTER USER_NAME
+30-10-2023 18:28:43.253Z;functions.loggin_RM;  ENTER PASSWORD
+30-10-2023 18:28:43.929Z;functions.loggin_RM;  ENTER RM
+30-10-2023 18:29:04.817Z;functions.enter_coligada;  CLICK CONTEXTO
+30-10-2023 18:29:08.728Z;functions.enter_coligada;  CLICK COLIGADA 1
+30-10-2023 18:29:09.898Z;functions.enter_coligada;  CLICK AVANÇAR
+30-10-2023 18:29:11.696Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+30-10-2023 18:29:11.797Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+30-10-2023 18:29:12.791Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+30-10-2023 18:29:13.674Z;functions.enter_coligada;  CLICK CONCLUIR
+30-10-2023 18:29:23.996Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+30-10-2023 18:29:24.615Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+30-10-2023 18:29:25.688Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+30-10-2023 18:29:26.394Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+30-10-2023 18:29:29.368Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+30-10-2023 18:29:29.431Z;functions.waitForImage;  LANÇAMENTOS image found.
+30-10-2023 18:29:31.533Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+30-10-2023 18:29:33.535Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+30-10-2023 18:29:33.535Z;functions.data_filter;  QUARTA-FEIRA: 01-11-2023
+30-10-2023 18:29:33.535Z;functions.data_filter;  TERCA-FEIRA: 07-11-2023
+30-10-2023 18:29:39.646Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+30-10-2023 18:29:40.248Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+30-10-2023 18:29:42.417Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 01-11-2023
+30-10-2023 18:29:43.987Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 07-11-2023
+30-10-2023 18:29:44.620Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+30-10-2023 18:31:02.551Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+30-10-2023 18:31:03.769Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+30-10-2023 18:31:03.901Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+30-10-2023 18:31:04.211Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+30-10-2023 18:31:05.075Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+30-10-2023 18:31:12.098Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+30-10-2023 18:31:13.255Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+30-10-2023 18:31:14.157Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+30-10-2023 18:31:15.019Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+30-10-2023 18:31:15.920Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+30-10-2023 18:31:16.831Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+30-10-2023 18:31:17.618Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+30-10-2023 18:31:22.341Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+30-10-2023 18:31:23.240Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+30-10-2023 18:31:24.014Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+30-10-2023 18:31:25.368Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+30-10-2023 18:31:26.040Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+30-10-2023 18:31:26.815Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+30-10-2023 18:31:27.786Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+30-10-2023 18:31:41.388Z;functions.process_lancamentos;  PROCESSO FOI FINALIZADO
+30-10-2023 18:31:41.497Z;functions.waitForImage;  PRESS BUTTON OK image found.
+30-10-2023 18:31:43.497Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM ERRO.
+30-10-2023 18:31:46.227Z;functions.process_lancamentos;  Não foi possível alterar o lançamento 1-861294:
+Campo 'IdConvenio' do lançamento '1-861294' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+30-10-2023 18:31:46.229Z;functions.process_lancamentos;  ERRO NO PROCESSAMENTO DA REMESSA: 861294
+30-10-2023 18:31:46.864Z;functions.process_lancamentos;  CLICK EM FECHAR.
+30-10-2023 18:41:47.094Z;functions.waitForImage;  PRESS BUTTON OK image not found.

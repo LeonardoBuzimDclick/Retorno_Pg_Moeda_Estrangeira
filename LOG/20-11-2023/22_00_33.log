@@ -1,0 +1,168 @@
+20-11-2023 22:00:34.207Z;functions.bot_text_art;      ____   
+20-11-2023 22:00:34.208Z;functions.bot_text_art;     [____]    
+20-11-2023 22:00:34.208Z;functions.bot_text_art;   |=]()()[=|  
+20-11-2023 22:00:34.209Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+20-11-2023 22:00:34.209Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+20-11-2023 22:00:34.209Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+20-11-2023 22:00:34.210Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+20-11-2023 22:00:34.211Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+20-11-2023 22:00:34.213Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+20-11-2023 22:00:34.214Z;functions.bot_text_art;     |_||_|                                                     
+20-11-2023 22:00:34.215Z;functions.bot_text_art;     | ||_|_   
+20-11-2023 22:00:34.215Z;functions.bot_text_art;   |___||___|  
+20-11-2023 22:00:34.216Z;functions.bot_text_art;               
+20-11-2023 22:00:34.224Z;functions.open_RM;  OPEN PROGRAM RM
+20-11-2023 22:00:47.281Z;functions.loggin_RM;  ENTER USER_NAME
+20-11-2023 22:00:48.685Z;functions.loggin_RM;  ENTER PASSWORD
+20-11-2023 22:00:49.872Z;functions.loggin_RM;  ENTER RM
+20-11-2023 22:01:25.761Z;functions.enter_coligada;  CLICK CONTEXTO
+20-11-2023 22:01:31.076Z;functions.enter_coligada;  CLICK COLIGADA 1
+20-11-2023 22:01:33.402Z;functions.enter_coligada;  CLICK AVANÇAR
+20-11-2023 22:01:35.836Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+20-11-2023 22:01:36.043Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+20-11-2023 22:01:37.440Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+20-11-2023 22:01:38.673Z;functions.enter_coligada;  CLICK CONCLUIR
+20-11-2023 22:02:02.733Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+20-11-2023 22:02:03.582Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+20-11-2023 22:02:05.457Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+20-11-2023 22:02:08.323Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+20-11-2023 22:02:15.393Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+20-11-2023 22:02:16.294Z;functions.waitForImage;  LANÇAMENTOS image found.
+20-11-2023 22:02:18.420Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+20-11-2023 22:02:20.421Z;functions.data_filter;  DATA INICIO 15-11-2023
+20-11-2023 22:02:20.423Z;functions.data_filter;  DATA FIM 21-11-2023
+20-11-2023 22:02:20.424Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+20-11-2023 22:02:20.426Z;functions.data_filter;  QUARTA-FEIRA: 15-11-2023
+20-11-2023 22:02:20.427Z;functions.data_filter;  TERCA-FEIRA: 21-11-2023
+20-11-2023 22:02:30.262Z;functions.data_filter;  ESCREVE REMESSA PAGAMENTO PIX NO FILTRO
+20-11-2023 22:02:31.109Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+20-11-2023 22:02:34.364Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 15-11-2023
+20-11-2023 22:02:36.684Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 21-11-2023
+20-11-2023 22:02:37.512Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+20-11-2023 22:02:45.932Z;functions.waitForImage;  FILTER CLEAN image found.
+20-11-2023 22:02:48.067Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+20-11-2023 22:02:51.860Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+20-11-2023 22:02:53.649Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+20-11-2023 22:02:53.785Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+20-11-2023 22:02:54.118Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+20-11-2023 22:02:56.854Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+20-11-2023 22:03:04.163Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+20-11-2023 22:03:04.165Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+20-11-2023 22:03:17.147Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+20-11-2023 22:03:19.252Z;functions.check_table_record;  CLICK ENTER
+20-11-2023 22:03:19.254Z;functions.check_table_record;  NUMERO DE TUPLAS: 8
+20-11-2023 22:03:19.255Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+20-11-2023 22:03:20.526Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+20-11-2023 22:03:26.754Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+20-11-2023 22:03:28.139Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+20-11-2023 22:03:29.479Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+20-11-2023 22:03:31.903Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+20-11-2023 22:03:33.090Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+20-11-2023 22:03:34.349Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+20-11-2023 22:03:35.497Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+20-11-2023 22:04:35.639Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-11-2023 22:04:37.641Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM ERRO.
+20-11-2023 22:04:40.791Z;functions.process_lancamentos;  CLICK NO LOG.
+20-11-2023 22:04:40.899Z;functions.process_lancamentos;  SELECIONA TODA A MSG DE LOG.
+20-11-2023 22:04:41.007Z;functions.process_lancamentos;  COPIA A MSG DE LOG.
+20-11-2023 22:04:41.008Z;functions.process_lancamentos;  LOG DE LANÇAMENTO REFERENCIA:
+20-11-2023 22:04:41.010Z;functions.process_lancamentos;  Não foi possível alterar o lançamento 1-539926:
+Campo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-552753:
+Campo 'IdConvenio' do lançamento '1-552753' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-576966:
+Campo 'IdConvenio' do lançamento '1-576966' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+20-11-2023 22:04:41.959Z;functions.process_lancamentos;  CLICK EM FECHAR.
+20-11-2023 22:04:41.962Z;functions.process_lancamentos;  CORRESPONDENCIA ['539926', '552753', '576966']
+20-11-2023 22:04:47.494Z;functions.check_pix;  CHECK TODOS OS LANÇAMENTOS PIX
+20-11-2023 22:04:47.601Z;functions.check_pix;  REF. LANÇAMENTO: Não foi possível alterar o lançamento 1-539926:
+Campo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-552753:
+Campo 'IdConvenio' do lançamento '1-552753' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-576966:
+Campo 'IdConvenio' do lançamento '1-576966' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+20-11-2023 22:04:47.641Z;functions.show_exception_and_exit;  invalid literal for int() with base 10: "Não foi possível alterar o lançamento 1-539926:\r\nCampo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:\r\n- Lançamentos de Borderô de Pagamento\r\n\r\n\r\n\r\n   at RM.Fin.Lan.Alter
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Pix\main.py", line 24, in <module>
+    check_pix()
+  File "c:\Projetos\Remessas_Pix\SUBPROGRAMS\functions.py", line 409, in check_pix
+    ref_atual_int = int(ref_atual_string)
+                    ^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: "Não foi possível alterar o lançamento 1-539926:\r\nCampo 'IdConvenio' do lançamento '1-539926' não pode ser alterado em:\r\n- Lançamentos de Borderô de Pagamento\r\n\r\n\r\n\r\n   at RM.Fin.Lan.Alter

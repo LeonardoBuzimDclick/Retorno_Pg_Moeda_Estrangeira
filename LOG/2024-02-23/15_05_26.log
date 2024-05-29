@@ -1,0 +1,36 @@
+2024-02-23 15:05:26,955; INFO; functions.getPid.948: Dentro função GetPid
+
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.7:     ____   
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.8:    [____]    
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.9:  |=]()()[=|  
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.10:    _\==/__    _____    ____     _        _____    ___   _  __
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.11:  |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.12:  |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.13:  | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.14:  |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.15:  \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.16:    |_||_|                                                     
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.17:    | ||_|_   
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.18:  |___||___|  
+2024-02-23 15:05:27,271; INFO; functions.bot_text_art.19:              
+2024-02-23 15:05:27,271; INFO; functions.headerExcel.881: Criando EXCEL
+2024-02-23 15:05:27,271; INFO; functions.headerExcel.901: EXCEL iniciado
+2024-02-23 15:05:27,271; INFO; teste2.process.433: SERÃO TRATADOS 2 ARQUIVOS.
+2024-02-23 15:05:27,287; INFO; teste2.process.438: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\Ebury - Completo.pdf
+2024-02-23 15:05:29,660; INFO; functions.excelProcessoCompleto.1124: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 15:05:29,660; INFO; functions.excelProcessoCompleto.1139: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 15:05:29,681; INFO; teste2.process.448: PROCESSOS EXTRAIDOS COM ERRO: 11
+2024-02-23 15:05:29,681; INFO; functions.excelErro.1029: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 15:05:29,682; INFO; functions.excelErro.1045: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 15:05:29,683; INFO; teste2.process.452: PROCESSOS EXTRAIDOS CORRETAMENTE: 185
+2024-02-23 15:05:29,739; INFO; teste2.process.438: ARQUIVO A SER TRATADO: \\Riofs\dados\Documentos Financeiro\Extratos bancarios\Ebury\2024\01 - Janeiro\Parcial até 11-01.pdf
+2024-02-23 15:05:31,238; INFO; functions.excelProcessoCompleto.1124: Adicionando aba de PROCESSOS EXTRAÍDOS ao EXCEL existente
+2024-02-23 15:05:31,238; INFO; functions.excelProcessoCompleto.1139: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 15:05:31,238; INFO; teste2.process.448: PROCESSOS EXTRAIDOS COM ERRO: 3
+2024-02-23 15:05:31,254; INFO; functions.excelErro.1029: Adicionando aba de ERRO ao EXCEL existente
+2024-02-23 15:05:31,255; INFO; functions.excelErro.1045: Aba de ERRO adicionada ao EXCEL existente
+2024-02-23 15:05:31,256; INFO; teste2.process.452: PROCESSOS EXTRAIDOS CORRETAMENTE: 145
+2024-02-23 15:05:31,370; INFO; functions.encerra_prog.319: Fechando Excel...
+2024-02-23 15:05:31,583; INFO; functions.getPid.948: Dentro função GetPid
+
+2024-02-23 15:05:31,942; INFO; functions.encerra_prog.325: RM ENCERRADO
